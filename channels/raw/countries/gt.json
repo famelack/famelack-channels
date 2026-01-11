@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tkEITU2bEZ7qMi",
-    "name": "Canal 13 Esquipulas",
-    "iptv_urls": [
-      "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HQW2P8evqWenGp",
     "name": "Canal 30 TV Bethel",
     "iptv_urls": [
@@ -92,17 +81,6 @@
     "name": "Maxivisión TV",
     "iptv_urls": [
       "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OJjfqTLSob6ySt",
-    "name": "Multivisión Canal 3",
-    "iptv_urls": [
-      "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

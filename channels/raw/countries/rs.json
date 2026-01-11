@@ -11,28 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tGRgOGa9BjpssA",
-    "name": "Narodna TV",
-    "iptv_urls": [
-      "https://edge8.pink.rs/narodnatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fhxP6wIauoX6aK",
-    "name": "Pink",
-    "iptv_urls": [
-      "https://edge8.pink.rs/pinktv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "80i8NgFWX25XdT",
     "name": "Radio Hit FM TV",
     "iptv_urls": [

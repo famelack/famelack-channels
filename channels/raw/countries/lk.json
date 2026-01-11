@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GqCp27T0s0lfCz",
-    "name": "Methmaga TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UcECGFjJyiU"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lb91CXq3a9VbL6",
     "name": "NDTV LANKA",
     "iptv_urls": [
@@ -81,7 +70,7 @@
     "name": "Newsfirst Sri Lanka",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DhBx6fYQtpg"
+      "https://www.youtube-nocookie.com/embed/aFc6ekLZhxs"
     ],
     "language": "sin",
     "country": "lk",
@@ -103,7 +92,7 @@
     "name": "Sathi TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rd_ID0Iq5uM"
+      "https://www.youtube-nocookie.com/embed/ZhxIratglTg"
     ],
     "language": "sin",
     "country": "lk",

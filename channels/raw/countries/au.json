@@ -423,7 +423,9 @@
     "iptv_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AunOPJqCql8"
+    ],
     "language": "eng",
     "country": "au",
     "isGeoBlocked": false

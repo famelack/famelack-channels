@@ -176,10 +176,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "052OEa16dMrwDi",
-    "name": "Metro TV",
+    "nanoid": "26RtUqr5ZSMhUL",
+    "name": "Litoral Atlántico HD",
     "iptv_urls": [
-      "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+      "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -187,10 +187,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I1eaiqSEwU4HoX",
-    "name": "Omega TV",
+    "nanoid": "052OEa16dMrwDi",
+    "name": "Metro TV",
     "iptv_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+      "https://s.emisoras.tv:8081/metrotv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -264,17 +264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KzHYTMjW9jsTsR",
-    "name": "Telemás",
-    "iptv_urls": [
-      "https://viewhn.com/telemas/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bogtDcaAWtOFRz",
     "name": "Telerayo",
     "iptv_urls": [
@@ -290,17 +279,6 @@
     "name": "Televisión Metrópolis 19.2",
     "iptv_urls": [
       "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yH1S0lEj15Dojl",
-    "name": "Television Olanchana",
-    "iptv_urls": [
-      "https://viewhn.com/canal30/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

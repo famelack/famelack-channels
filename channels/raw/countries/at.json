@@ -266,17 +266,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dHIKj0PT3rIpW8",
-    "name": "Stimmungsgarten TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0mEe54Ekw1mj61",
     "name": "Swamiji TV American",
     "iptv_urls": [
@@ -325,17 +314,6 @@
     "name": "TV 1 Oberösterreich",
     "iptv_urls": [
       "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "poBLTECPZ1p4X6",
-    "name": "W24",
-    "iptv_urls": [
-      "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

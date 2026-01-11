@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4ekttMMc8433us",
+    "name": "Bajo Techo TV",
+    "iptv_urls": [
+      "https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
@@ -488,17 +499,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "iptv_urls": [
@@ -895,7 +895,9 @@
     "iptv_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AunOPJqCql8"
+    ],
     "language": "eng",
     "country": "au",
     "isGeoBlocked": false

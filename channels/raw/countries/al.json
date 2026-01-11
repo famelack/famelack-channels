@@ -46,6 +46,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f5oJIKRS4ieTB5",
+    "name": "Report TV",
+    "iptv_urls": [
+      "https://deb10stream.duckdns.org/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nKRKgWmp0ZuIb0",
     "name": "Syri",
     "iptv_urls": [

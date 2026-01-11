@@ -73,7 +73,7 @@
     "name": "A Spor",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TKg-gAmZO_4"
+      "https://www.youtube-nocookie.com/embed/mDTnFqGLLs4"
     ],
     "language": "tur",
     "country": "tr",
@@ -168,6 +168,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nMakM6G0sKUXTn",
     "name": "ATV Avrupa",
     "iptv_urls": [
@@ -205,7 +218,7 @@
     "name": "BENGÜTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iG8jTHvYEEY"
+      "https://www.youtube-nocookie.com/embed/w-Zzkz9kAz8"
     ],
     "language": "tur",
     "country": "tr",
@@ -339,6 +352,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/mblraBWJaJs"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SNI1pQ3Yqo2qGF",
+    "name": "Deniz Postası TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -664,7 +688,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CqN2e8NIMc8"
+      "https://www.youtube-nocookie.com/embed/Xs04fgD-ahI"
     ],
     "language": "tur",
     "country": "tr",
@@ -1117,6 +1141,17 @@
     "name": "On 6",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GhgRziNqEHb8Jk",
+    "name": "On4 TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

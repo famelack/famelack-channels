@@ -330,28 +330,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wAAXdhWFrvqJmH",
-    "name": "Mooz Dance",
-    "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
-    "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2U91fowazsObgI",
     "name": "Mooz Ro!",
     "iptv_urls": [

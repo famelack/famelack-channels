@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
+    "iptv_urls": [
+      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kkVzrzXzjFuUCN",
     "name": "Al Arabiya",
     "iptv_urls": [
@@ -300,6 +311,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "43meg58mA5npya",
+    "name": "Dubai TV",
+    "iptv_urls": [
+      "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NpgtvD38qnisOV",
     "name": "Dubai Zaman",
     "iptv_urls": [
@@ -410,6 +432,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "we2YsCorQko3p5",
+    "name": "Sama Dubai",
+    "iptv_urls": [
+      "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OijQbjwV7a9kgP",
     "name": "Sharjah 2",
     "iptv_urls": [
@@ -508,17 +541,6 @@
     "name": "Sky News Arabia Vertical",
     "iptv_urls": [
       "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9O197zg8eEKLG6",
-    "name": "Spacetoon Arabic",
-    "iptv_urls": [
-      "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",

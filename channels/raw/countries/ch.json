@@ -426,17 +426,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WbRuzq9zl8hxl0",
-    "name": "TV Rheintal",
-    "iptv_urls": [
-      "https://rtmp-vm.fidion.de/live/tvrt.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xZQHlEpImFJ1As",
     "name": "TVO (CH)",
     "iptv_urls": [

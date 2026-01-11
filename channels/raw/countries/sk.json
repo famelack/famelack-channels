@@ -5,9 +5,7 @@
     "iptv_urls": [
       "https://fs3.kabelko.sk/9011/index.m3u8?token=btv"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
-    ],
+    "youtube_urls": [],
     "language": "slk",
     "country": "sk",
     "isGeoBlocked": false

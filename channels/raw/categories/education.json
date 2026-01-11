@@ -1081,6 +1081,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VxXPHwWoMl0QhJ",
+    "name": "TV Universidad",
+    "iptv_urls": [
+      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p4obNYU8nK7E4h",
     "name": "TVE RS",
     "iptv_urls": [

@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "OVN59PA5eqzvoQ",
+    "name": "3ABN Kids Network",
+    "iptv_urls": [
+      "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yjR0KcAL5erp0S",
     "name": "ADN TV+",
     "iptv_urls": [
@@ -504,17 +515,6 @@
     ],
     "language": "rus",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9O197zg8eEKLG6",
-    "name": "Spacetoon Arabic",
-    "iptv_urls": [
-      "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {

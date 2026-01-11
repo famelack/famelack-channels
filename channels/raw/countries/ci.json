@@ -34,6 +34,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cUUd6iJP5ivAhb",
     "name": "Business 24 Africa",
     "iptv_urls": [
@@ -49,6 +60,17 @@
     "name": "Divin Amour TV",
     "iptv_urls": [
       "https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KVdQQClc0x4avR",
+    "name": "DNTV",
+    "iptv_urls": [
+      "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ZOwQAPUGPgS297",
-    "name": "4DmásNoticias TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JAreuKNijuO7ug",
     "name": "Bruno Masi TV",
     "iptv_urls": [
@@ -125,6 +114,17 @@
     "name": "Suceso TV",
     "iptv_urls": [
       "https://live.enhdtv.com:8081/8060/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ASrUvdpVK7ci3L",
+    "name": "UnionTV",
+    "iptv_urls": [
+      "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

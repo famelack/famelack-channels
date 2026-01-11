@@ -451,6 +451,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kTsDjvuR5SnaAA",
+    "name": "Gold TV Sat",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1xnRIVzGMzHUgY",
     "name": "GRP VERATV",
     "iptv_urls": [
@@ -729,17 +740,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ffGmMhn32f5osC",
-    "name": "Medjugorje Italia TV",
-    "iptv_urls": [
-      "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fR0ICU1okqQxU4",
     "name": "Minformo TV",
     "iptv_urls": [
@@ -916,6 +916,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QPHo9cwvhZBbgz",
+    "name": "Promovideo TV",
+    "iptv_urls": [
+      "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
@@ -1023,6 +1034,17 @@
     "name": "Radio Piter Pan TV",
     "iptv_urls": [
       "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J3ixZRUPWWs9Op",
+    "name": "Radio Roma News",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1817,17 +1839,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s5u1P4o8oZzOs2",
-    "name": "TLT Molise",
-    "iptv_urls": [
-      "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PoFjoPeTQSvrgP",
     "name": "TR Sport",
     "iptv_urls": [
@@ -1843,17 +1854,6 @@
     "name": "Trentino TV",
     "iptv_urls": [
       "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4lRmmKh0IB2m5u",
-    "name": "TV Campane 1",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8032/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

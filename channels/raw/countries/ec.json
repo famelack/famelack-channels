@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ac84yC8dTLNOrh",
+    "name": "América Estéreo Ibarra",
+    "iptv_urls": [
+      "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7G6TKaBuir2YYY",
     "name": "América Estéreo Quito",
     "iptv_urls": [
@@ -220,6 +231,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7JtXS4icmdPuca",
+    "name": "Imperio TV Canal 6",
+    "iptv_urls": [
+      "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2m0gEtXYdWeCIN",
     "name": "Infinita TV",
     "iptv_urls": [
@@ -246,17 +268,6 @@
     "name": "La Nueva Radio TV 97.7",
     "iptv_urls": [
       "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L7QnCoaelggBZN",
-    "name": "La Perla Radio TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8068/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -323,28 +334,6 @@
     "name": "Manavisión",
     "iptv_urls": [
       "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6NiB9jvMcOgHX5",
-    "name": "Mel Radio TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8334/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nZf5oRgjRdisx5",
-    "name": "Metropoli Medios TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8214/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -429,6 +418,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQP21gjr5nH5Wg",
+    "name": "Puruwa TV",
+    "iptv_urls": [
+      "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6ljoSjl6uAhfcj",
     "name": "Radio Alegria 98.5 FM",
     "iptv_urls": [
@@ -444,17 +444,6 @@
     "name": "Radio Bonita 106.7",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8154/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LlQAZHVUJoGSEm",
-    "name": "Radio Cuenca Estéreo",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8074/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -521,17 +510,6 @@
     "name": "RTV Riobamba",
     "iptv_urls": [
       "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WCNgs5Fvq7rKOn",
-    "name": "Señal Positiva TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8108/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

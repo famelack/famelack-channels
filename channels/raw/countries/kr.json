@@ -408,10 +408,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KfP1wxKWGNerV7",
+    "name": "MBC Daegu (대구 MBC)",
+    "iptv_urls": [
+      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CVYe8DrHATgn7K",
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
       "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
+    "iptv_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -445,17 +467,6 @@
     "name": "NBS Korea Agricultural Broadcasting",
     "iptv_urls": [
       "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -522,7 +533,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k2RuZUoNLZE"
+      "https://www.youtube-nocookie.com/embed/Mnlzc3mduHY"
     ],
     "language": "kor",
     "country": "kr",
@@ -577,17 +588,6 @@
     "name": "Shopping NT",
     "iptv_urls": [
       "https://live.shoppingntmall.com/live/10011.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2HZMrsMvWjfCCr",
-    "name": "TBS Seoul",
-    "iptv_urls": [
-      "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",

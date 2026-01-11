@@ -297,7 +297,7 @@
     "country": "Cuba",
     "capital": "Havana",
     "timeZone": "America/Havana",
-    "hasChannels": true
+    "hasChannels": false
   },
   "CV": {
     "country": "Cape Verde",
@@ -333,7 +333,7 @@
     "country": "Djibouti",
     "capital": "Djibouti",
     "timeZone": "Africa/Djibouti",
-    "hasChannels": false
+    "hasChannels": true
   },
   "DK": {
     "country": "Denmark",
@@ -927,7 +927,7 @@
     "country": "Niger",
     "capital": "Niamey",
     "timeZone": "Africa/Niamey",
-    "hasChannels": true
+    "hasChannels": false
   },
   "NF": {
     "country": "Norfolk Island",

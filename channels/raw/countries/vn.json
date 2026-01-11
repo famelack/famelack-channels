@@ -11,22 +11,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QA1BHMxRwKgdpS",
-    "name": "ANTV",
-    "iptv_urls": [
-      "https://ott1.nethubtv.vn/live/antv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VCFZo6dbs3n20W",
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EqPH_qhL3Jg"
+      "https://www.youtube-nocookie.com/embed/BpSzUrPqiDA"
     ],
     "language": "vie",
     "country": "vn",
@@ -66,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MO8deGVLY2zQ9f",
-    "name": "HanoiTV2",
-    "iptv_urls": [
-      "https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nfUMYUgBEhhJaP",
     "name": "Lao SV TV",
     "iptv_urls": [
@@ -99,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i54LPg6aWMZDO0",
-    "name": "QPVN",
-    "iptv_urls": [
-      "https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8vEUzLSiPnJXOB",
     "name": "Quang Lập Official - Song Ca Nhạc Vàng Hay Nhất",
     "iptv_urls": [],
@@ -125,6 +92,17 @@
     "name": "SCTV1",
     "iptv_urls": [
       "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8kdpWxJQ1i1LcH",
+    "name": "SCTV6",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -165,21 +143,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yxjpGEq8KuY94q",
-    "name": "VTV1",
+    "nanoid": "HBy4lC3zLumpGr",
+    "name": "VTV5 Tây Nam Bộ HD",
     "iptv_urls": [
-      "https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LnNxUYwOX2EV41",
-    "name": "VTV5 Tây Nguyên HD",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8"
+      "https://liveh12.vtvprime.vn/hls/VTV5_TNB/04.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0hY4agIBHBOYUI",
+    "name": "Azteca 7",
+    "iptv_urls": [
+      "https://d162h6qqsk8wvl.cloudfront.net/91890373-57e0-4162-92a9-f3244f50a35d/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "49nmeVhY8qIuOA",
     "name": "Azteca Internacional",
     "iptv_urls": [
@@ -110,10 +121,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GYpj19hD6m2qFh",
-    "name": "California Medios TV",
+    "nanoid": "xzuVRX23DvlAX2",
+    "name": "Canal 5",
     "iptv_urls": [
-      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+      "https://d162h6qqsk8wvl.cloudfront.net/a3df683f-7ba6-4012-8c2c-3cfd188c8c0c/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -618,6 +629,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qhvttFpZ2QRjRO",
+    "name": "MyTime Movie Network Mexico",
+    "iptv_urls": [
+      "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4i2dbm12cF2ARa",
     "name": "Nayarit Comunica",
     "iptv_urls": [
@@ -964,18 +986,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2YyEUrLrLMg"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jiv0dDh9RrbAvZ",
-    "name": "Televisa Piedras Negras",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BRCarbubMxU"
+      "https://www.youtube-nocookie.com/embed/DpUzFvK3Nog"
     ],
     "language": "spa",
     "country": "mx",

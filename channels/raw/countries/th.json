@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "fgt71QAXBWF0xr",
-    "name": "13 Siam Thai",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/13livetv-th.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BWaFZgSUSFWAMm",
     "name": "Boonniyom TV",
     "iptv_urls": [
@@ -253,32 +242,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "chmBg2GBFNqXoJ",
-    "name": "Police TV",
-    "iptv_urls": [
-      "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3GZ46w4Jr2xtDE",
     "name": "Rama Channel",
     "iptv_urls": [
       "https://ramach.ddns.net/live/ramalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IC0ZQA3k7HadtW",
-    "name": "SBB TV",
-    "iptv_urls": [
-      "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -356,28 +323,6 @@
     "name": "Top News",
     "iptv_urls": [
       "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xP0smrBM1w21kH",
-    "name": "TV Muslim Thailand",
-    "iptv_urls": [
-      "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3j6DuTgbZOrvSb",
-    "name": "Zabb Channel",
-    "iptv_urls": [
-      "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",

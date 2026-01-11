@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "OVN59PA5eqzvoQ",
+    "name": "3ABN Kids Network",
+    "iptv_urls": [
+      "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eUdFR37xIskeb6",
     "name": "4 Fun Kids (576i) []",
     "iptv_urls": [
@@ -358,6 +369,17 @@
     "name": "CBeebies Asia",
     "iptv_urls": [
       "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OY6jo3uJ6LjEUs",
+    "name": "CBeebies HD",
+    "iptv_urls": [
+      "https://x.canlitvapp.com/u-cbeebies/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1077,7 +1099,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tD6cThL3niM"
+      "https://www.youtube-nocookie.com/embed/0LhrR4fm8E8"
     ],
     "language": "por",
     "country": "br",
@@ -1239,17 +1261,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9O197zg8eEKLG6",
-    "name": "Spacetoon Arabic",
-    "iptv_urls": [
-      "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W12MJtCI2qv2s8",
     "name": "SpongeBob SquarePants Official",
     "iptv_urls": [],
@@ -1261,11 +1272,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/7CNQBh3oIKs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FoXleVE2Z88"
+      "https://www.youtube-nocookie.com/embed/_ZXHaUu33YI"
     ],
     "language": "eng",
     "country": "ca",
@@ -1276,18 +1298,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IEQAH4WXCAs"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5X99oRpChEcKAS",
-    "name": "Super Simple: Simple Songs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Hy-bBJrmpD4"
+      "https://www.youtube-nocookie.com/embed/EGTpz4kgVyc"
     ],
     "language": "eng",
     "country": "ca",
@@ -1688,7 +1699,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eWLShSZRxKc"
+      "https://www.youtube-nocookie.com/embed/qz363zKMvnE"
     ],
     "language": "zho",
     "country": "cn",

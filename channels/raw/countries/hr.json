@@ -108,5 +108,16 @@
     "language": "hrv",
     "country": "hr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YYX03S5xOVCpAS",
+    "name": "TV Nova",
+    "iptv_urls": [
+      "https://stream.agatin.hr:3727/live/tvnovalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hrv",
+    "country": "hr",
+    "isGeoBlocked": false
   }
 ]

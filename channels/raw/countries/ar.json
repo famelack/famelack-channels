@@ -165,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HiSqdLo7Vz02nV",
-    "name": "Canal 3 Las Heras",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6iBS7M1tfSU4qM",
     "name": "Canal 4 Jujuy",
     "iptv_urls": [
@@ -220,6 +209,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZwcB80q6hf9Umn",
+    "name": "Canal 5 Pico Truncado",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RjGzeK99LgjrbF",
     "name": "Canal 6 Posadas",
     "iptv_urls": [
@@ -235,6 +235,17 @@
     "name": "Canal 7 Jujuy",
     "iptv_urls": [
       "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UFI1aabxRmg31y",
+    "name": "Canal 7 Neuquén",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -355,11 +366,10 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-vuwOoJEa7I"
+      "https://www.youtube-nocookie.com/embed/m30Lkn815zw"
     ],
     "language": "spa",
     "country": "ar",
@@ -438,6 +448,17 @@
     "name": "Canal Orbe 21",
     "iptv_urls": [
       "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rexjgi9hzCbRd0",
+    "name": "Canal Provincial",
+    "iptv_urls": [
+      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -721,17 +742,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "iptv_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jhtVZGk1rHoaP8",
     "name": "Misiones Cuatro",
     "iptv_urls": [
@@ -770,6 +780,17 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "082mRJOAbuwMDY",
+    "name": "Panc TV",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/20004/20004.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -986,6 +1007,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/PZD3aYeOJy0"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRJ5PYrL3SOh4P",
     "name": "TN Todo Noticias",
     "iptv_urls": [],
@@ -1012,6 +1044,17 @@
     "name": "TV Solidaria",
     "iptv_urls": [
       "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VxXPHwWoMl0QhJ",
+    "name": "TV Universidad",
+    "iptv_urls": [
+      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

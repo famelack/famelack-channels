@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "nanoid": "M5vr3dvFgQcpNs",
+    "name": "RTD",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jgevdunK1yM"
+    ],
+    "language": "fra",
+    "country": "dj",
+    "isGeoBlocked": false
+  }
+]

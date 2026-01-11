@@ -68,10 +68,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s64BgUfTafeYF2",
-    "name": "Canal 14 Codazzi",
+    "nanoid": "dIQhSN2tH9x7qG",
+    "name": "Canal 55 Telemorisco TV",
     "iptv_urls": [
-      "https://eu1.servers10.com:8081/8056/index.m3u8"
+      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -79,10 +79,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dIQhSN2tH9x7qG",
-    "name": "Canal 55 Telemorisco TV",
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
     "iptv_urls": [
-      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
+      "https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -337,28 +337,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "iptv_urls": [
-      "https://live.arnoproducciones.com/hls/norte.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
@@ -448,10 +426,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JcWgUdRfwM6UkT",
-    "name": "Reyali",
+    "nanoid": "r0BHkewVVJfdhL",
+    "name": "Río Televisión",
     "iptv_urls": [
-      "https://eu1.servers10.com:8081/8090/index.m3u8"
+      "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -508,6 +486,17 @@
     "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -585,17 +574,6 @@
     "name": "TV3 La Plata",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "s1gW58b5trEZhx",
-    "name": "Ultra Casanare TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8072/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

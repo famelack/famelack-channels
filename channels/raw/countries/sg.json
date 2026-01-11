@@ -77,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G00HUpBKHxckzh",
-    "name": "CNBC Asia",
-    "iptv_urls": [
-      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Kp9Lp5SBULDiat",
     "name": "KCM",
     "iptv_urls": [

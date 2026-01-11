@@ -190,17 +190,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hAcFI08ZNbAHCM",
-    "name": "Tastemade",
-    "iptv_urls": [
-      "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9OVSMqBuq14sWp",
     "name": "Tastemade Australia",
     "iptv_urls": [

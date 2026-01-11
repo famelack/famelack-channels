@@ -182,6 +182,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JhHpiYec647IOL",
+    "name": "BBC News Pashto",
+    "iptv_urls": [
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8",
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:world_service_stream_07/t=3840/v=pv14/b=5070016/main.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pus",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fRfNlvSvM96qsB",
     "name": "BBC News عربي",
     "iptv_urls": [],
@@ -211,6 +223,17 @@
     "nanoid": "0Nsqcxag0o981J",
     "name": "BBC Three HD",
     "iptv_urls": [
+      "https://x.canlitvapp.com/u-bbc3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Nsqcxag0o981J",
+    "name": "BBC Three HD",
+    "iptv_urls": [
       "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
     ],
     "youtube_urls": [],
@@ -223,6 +246,17 @@
     "name": "BBC Three/CBBC",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IbxDj9HZd9srb3",
+    "name": "BBC Two",
+    "iptv_urls": [
+      "https://x.canlitvapp.com/u-bbc2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -330,10 +364,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OY6jo3uJ6LjEUs",
+    "name": "CBeebies HD",
+    "iptv_urls": [
+      "https://x.canlitvapp.com/u-cbeebies/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xxKmXN3iTO8aLs",
+    "name": "CGTN Europe",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BoatqKhgOKJ5e1",
     "name": "Channel 4 UK HD",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tszORKqR9xnZXC",
+    "name": "Channel 5",
+    "iptv_urls": [
+      "https://x.canlitvapp.com/u-channel-5/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -491,6 +560,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bHHLvpa9Q6rWNj",
+    "name": "Frecuencia Musical TV",
+    "iptv_urls": [
+      "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },

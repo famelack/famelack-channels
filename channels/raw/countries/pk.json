@@ -342,6 +342,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tKpvEKO8bFc86P",
+    "name": "Hum TV",
+    "iptv_urls": [
+      "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "keDnMBwKoBk3De",
     "name": "JooMusic",
     "iptv_urls": [
@@ -371,17 +382,6 @@
       "https://www.youtube-nocookie.com/embed/DKgUz588JjQ"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0DyoG3XduwwwLj",
-    "name": "King TV",
-    "iptv_urls": [
-      "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -506,6 +506,17 @@
       "https://www.youtube-nocookie.com/embed/twh-p-cKj7Y"
     ],
     "language": "sd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oy323hi3qdqwPY",
+    "name": "Such TV",
+    "iptv_urls": [
+      "https://video.primexsports.com/suchnews/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
   },

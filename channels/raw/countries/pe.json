@@ -187,17 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dXHXpcJZT8sCe9",
-    "name": "La Fabulosa Radio y TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8004/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QB6XHUNErOPzQ5",
     "name": "Latina",
     "iptv_urls": [
@@ -546,17 +535,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/TZE6tnK9WME"
     ],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ghJvcjvVzHFJJM",
-    "name": "TVUNO",
-    "iptv_urls": [
-      "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "pe",
     "isGeoBlocked": false

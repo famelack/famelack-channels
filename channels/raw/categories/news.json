@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZOwQAPUGPgS297",
-    "name": "4DmásNoticias TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wyDPdeLY6Tg0Hc",
     "name": "4TV News",
     "iptv_urls": [
@@ -129,17 +118,6 @@
     ],
     "language": "tel",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fgt71QAXBWF0xr",
-    "name": "13 Siam Thai",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/13livetv-th.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
     "isGeoBlocked": false
   },
   {
@@ -1083,7 +1061,7 @@
       "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3yb-lhEBOSM"
+      "https://www.youtube-nocookie.com/embed/aY0p_12ZQcU"
     ],
     "language": "ara",
     "country": "sa",
@@ -1225,6 +1203,17 @@
     "name": "Al Masirah",
     "iptv_urls": [
       "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ye",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j1LVoh3tQmO0Bh",
+    "name": "Al Masirah Mubacher",
+    "iptv_urls": [
+      "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -1446,7 +1435,7 @@
     "name": "ANI News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rOm4ncIPS2k"
+      "https://www.youtube-nocookie.com/embed/y0rgU0430h4"
     ],
     "language": "eng",
     "country": "in",
@@ -1665,7 +1654,7 @@
     "name": "Baku TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LjSKb15QOgA"
+      "https://www.youtube-nocookie.com/embed/8-JkPw1gzKk"
     ],
     "language": "aze",
     "country": "az",
@@ -1772,7 +1761,7 @@
     "name": "BENGÜTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iG8jTHvYEEY"
+      "https://www.youtube-nocookie.com/embed/w-Zzkz9kAz8"
     ],
     "language": "tur",
     "country": "tr",
@@ -2194,11 +2183,10 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-vuwOoJEa7I"
+      "https://www.youtube-nocookie.com/embed/m30Lkn815zw"
     ],
     "language": "spa",
     "country": "ar",
@@ -2487,17 +2475,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zO4DDyplOGEqbh",
     "name": "Česko-Slovenská regionálna televízia",
     "iptv_urls": [],
@@ -2534,14 +2511,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HWaY4PvApDJTzN",
+    "nanoid": "xxKmXN3iTO8aLs",
     "name": "CGTN Europe",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
     ],
     "language": "eng",
-    "country": "cn",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -2605,7 +2584,7 @@
     "name": "Channel One",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_H9elkQ1PzM"
+      "https://www.youtube-nocookie.com/embed/8-DQfzxKyv8"
     ],
     "language": "fas",
     "country": "us",
@@ -2645,6 +2624,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PH6tIpFUWHe706",
+    "name": "Cherniveckiy promin",
+    "iptv_urls": [
+      "https://langate.tv/promin/live_720/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AkJT8qUHrHTblc",
     "name": "Chifeng Comprehensive News Chanel",
     "iptv_urls": [
@@ -2660,7 +2650,7 @@
     "name": "CHV Noticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IZSwegwpX38"
+      "https://www.youtube-nocookie.com/embed/qelK9GtyKT4"
     ],
     "language": "spa",
     "country": "cl",
@@ -2878,6 +2868,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DqexB6yaP4LscU",
+    "name": "CNN Brasil",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GLoqoDDM46U"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JWF3Hmgh7M8jJ3",
     "name": "Conecta2TV",
     "iptv_urls": [
@@ -3070,7 +3071,7 @@
     "name": "DBC NEWS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FGVfTDKT1kA"
+      "https://www.youtube-nocookie.com/embed/BYi1NEucAFk"
     ],
     "language": "ben",
     "country": "bd",
@@ -3140,7 +3141,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EqPH_qhL3Jg"
+      "https://www.youtube-nocookie.com/embed/BpSzUrPqiDA"
     ],
     "language": "vie",
     "country": "vn",
@@ -3305,6 +3306,17 @@
     ],
     "language": "tgl",
     "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sFPfedqXXPJW5f",
+    "name": "EAC News TV",
+    "iptv_urls": [
+      "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "kh",
     "isGeoBlocked": false
   },
   {
@@ -4215,6 +4227,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j8DVaCm6ri0nNo",
+    "name": "Halab Today TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ofs13Ccb08I"
+    ],
+    "language": "ara",
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1kN0lIgg90V9Ot",
     "name": "Halk TV",
     "iptv_urls": [
@@ -4247,18 +4270,6 @@
     "youtube_urls": [],
     "language": "zho",
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v2uArRkbQC1s28",
-    "name": "Hermanas Mirabal TV",
-    "iptv_urls": [
-      "https://cnn.essastream.com:3091/live/hmtvlive.m3u8",
-      "https://fox.hostlagarto.com:8081/hmtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -5342,6 +5353,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VXP5lL9k6DpCj1",
+    "name": "Lokshahi News",
+    "iptv_urls": [
+      "https://see.lokshahi.live/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mar",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KOfOkbRRfb8Nzi",
     "name": "LRT Radijas",
     "iptv_urls": [
@@ -5545,7 +5567,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ioBPVWkQAGM"
+      "https://www.youtube-nocookie.com/embed/uuZRUv8NtRg"
     ],
     "language": "spa",
     "country": "cl",
@@ -5719,17 +5741,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JiGCtBsK9fRW9p",
-    "name": "Nablus TV",
-    "iptv_urls": [
-      "https://htvint.mada.ps/nabluslive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ps",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YpG1ImfWO1Q3HO",
     "name": "Naftemporiki TV",
     "iptv_urls": [
@@ -5848,7 +5859,7 @@
     "name": "NDTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OV_lVwpi9rc"
+      "https://www.youtube-nocookie.com/embed/ltA1rA5Iwpo"
     ],
     "language": "eng",
     "country": "in",
@@ -5995,6 +6006,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HUxeirBEJ9XVlF",
+    "name": "News Central",
+    "iptv_urls": [
+      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "iptv_urls": [],
@@ -6129,6 +6151,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yJ6qb835TTUKh1",
+    "name": "News12 Bronx",
+    "iptv_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EmHOTWEORpvSsZ",
+    "name": "News12 Brooklyn",
+    "iptv_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "EtiKHivASIxm20",
     "name": "News12 Conneticut",
     "iptv_urls": [
@@ -6144,6 +6188,28 @@
     "name": "News12 Long Island",
     "iptv_urls": [
       "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "xlQeqeSKKTup3H",
+    "name": "News12 New Jersey",
+    "iptv_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "q8agflF5shjdE5",
+    "name": "News12 Westchester",
+    "iptv_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -6342,7 +6408,7 @@
     "name": "Newsfirst Sri Lanka",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DhBx6fYQtpg"
+      "https://www.youtube-nocookie.com/embed/aFc6ekLZhxs"
     ],
     "language": "sin",
     "country": "lk",
@@ -6425,7 +6491,7 @@
     "name": "NewsX Live",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qaJUccQzkuQ"
+      "https://www.youtube-nocookie.com/embed/9YtOdvEJxZk"
     ],
     "language": "eng",
     "country": "in",
@@ -6556,11 +6622,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "al3vNQR44rdZt7",
+    "name": "NotiUno TV",
+    "iptv_urls": [
+      "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9JfMUyW3Js7KeX",
     "name": "Now 14",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bdyH_hBdEJY"
+      "https://www.youtube-nocookie.com/embed/kUWH9lRNM7Y"
     ],
     "language": "heb",
     "country": "il",
@@ -6874,17 +6951,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wS0tNGRy6cDuOe",
-    "name": "Prensa Latina TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/8192/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z0k0qEYEWnFz7F",
     "name": "Press TV",
     "iptv_urls": [
@@ -6896,9 +6962,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MpJ1Us3FVkdjh8",
+    "nanoid": "8BOHx9OWNUjXnX",
     "name": "Prime9 News",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/4PpS_RGUzfQ"
     ],
@@ -7043,7 +7111,7 @@
     "name": "Pudhari News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZlBG5GV5wtY"
+      "https://www.youtube-nocookie.com/embed/kdMPjn9wHrs"
     ],
     "language": "mar",
     "country": "in",
@@ -7151,6 +7219,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J3ixZRUPWWs9Op",
+    "name": "Radio Roma News",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uTEmKp38xfCbTX",
     "name": "Rai News 24 HD",
     "iptv_urls": [
@@ -7225,7 +7304,7 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/keepF_9HgEo"
+      "https://www.youtube-nocookie.com/embed/hUQGORvAHQw"
     ],
     "language": "por",
     "country": "br",
@@ -7287,6 +7366,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f5oJIKRS4ieTB5",
+    "name": "Report TV",
+    "iptv_urls": [
+      "https://deb10stream.duckdns.org/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kCHsgaegsxuNiG",
     "name": "Reporter TV",
     "iptv_urls": [],
@@ -7304,7 +7394,7 @@
       "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GIQRomY9200"
+      "https://www.youtube-nocookie.com/embed/1HWhAhCcSic"
     ],
     "language": "ben",
     "country": "in",
@@ -7519,6 +7609,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M5vr3dvFgQcpNs",
+    "name": "RTD",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jgevdunK1yM"
+    ],
+    "language": "fra",
+    "country": "dj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0Vw6NdTRGURL25",
     "name": "RTU",
     "iptv_urls": [
@@ -7659,7 +7760,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k2RuZUoNLZE"
+      "https://www.youtube-nocookie.com/embed/Mnlzc3mduHY"
     ],
     "language": "kor",
     "country": "kr",
@@ -7751,17 +7852,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6mFPLg2T9EA"
-    ],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -7941,6 +8031,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oy323hi3qdqwPY",
+    "name": "Such TV",
+    "iptv_urls": [
+      "https://video.primexsports.com/suchnews/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -8165,6 +8266,17 @@
     ],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
+    "iptv_urls": [
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -8423,7 +8535,7 @@
     "name": "Times Now Marathi",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ttCF_apvtLI"
+      "https://www.youtube-nocookie.com/embed/6SHoLfxaSvY"
     ],
     "language": "mar",
     "country": "in",
@@ -8493,18 +8605,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IoBPBg5ALFnRHd",
-    "name": "Tonghua TV",
-    "iptv_urls": [
-      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
-      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -8655,6 +8755,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uFUnpsEwjM0TgY",
+    "name": "TV A Folha",
+    "iptv_urls": [
+      "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "es1xD8awbwELHS",
     "name": "TV Arta",
     "iptv_urls": [
@@ -8732,21 +8843,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "26wbYyZD2WNH5P",
+    "name": "TV Punjab",
+    "iptv_urls": [
+      "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AOrzbD7QEj8vaf",
     "name": "TV Sim Cachoeiro",
     "iptv_urls": [
       "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hwtT6piHOJApw7",
-    "name": "TV Sim Colatina",
-    "iptv_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -8760,6 +8871,17 @@
       "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0clXzJLP8rGUkm",
+    "name": "TV Thathi SBT",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/wheI4CZ8MnY"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -8883,6 +9005,17 @@
       "https://www.youtube-nocookie.com/embed/TO578cVRmpM"
     ],
     "language": "mar",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XyjzVdpn8syIXb",
+    "name": "TV9 Telugu",
+    "iptv_urls": [
+      "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tel",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -9120,17 +9253,6 @@
     ],
     "language": "tgl",
     "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FEJoCyr2CSD2YY",
-    "name": "USA Today",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CU3tkB4e9jA"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -9576,6 +9698,17 @@
     "youtube_urls": [],
     "language": "bel",
     "country": "by",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n388u8bCUj6J6k",
+    "name": "Первый Республиканский",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

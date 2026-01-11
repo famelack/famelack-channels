@@ -143,32 +143,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2BcOyELn5Fzp9Z",
-    "name": "Rádio Sines",
-    "iptv_urls": [
-      "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Fv8cd5HoZ9hOmr",
     "name": "Rakuten Documentários",
     "iptv_urls": [
       "https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f3d5bwXA32dvOT",
-    "name": "Rakuten Família",
-    "iptv_urls": [
-      "https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
