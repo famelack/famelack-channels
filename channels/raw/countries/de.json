@@ -233,28 +233,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fmZ9FjJgFMJnk6",
-    "name": "Cartoon Network Deutschland",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g3T8nfaRQIM"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9utiCDm4BrxWLI",
-    "name": "Cartoonito Deutschland",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ol2OLKrvyE8"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QHfB2HaDRgtHoK",
     "name": "Chemnitz Fernsehen",
     "iptv_urls": [

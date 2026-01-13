@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "p6qHyum8xkT7Yw",
+    "name": "FNNプライムオンライン",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9J040fijfFo"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OPJr34iVleC5zs",
     "name": "Hiroshima News 24",
     "iptv_urls": [],
@@ -260,7 +271,7 @@
     "name": "RKB News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K8NIogdlw8c"
+      "https://www.youtube-nocookie.com/embed/wF99q1ZQ5fo"
     ],
     "language": "jpn",
     "country": "jp",

@@ -100,28 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P2Z68epVFispXu",
-    "name": "Cartoon Network Polska",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iGVYSwS1Plc"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bQ8WrDlqEAV4mh",
-    "name": "Cartoonito Polska",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ok5iN44m1Ls"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YVXMNDK2rpUCOO",
     "name": "dlaCiebie.tv",
     "iptv_urls": [
@@ -326,6 +304,17 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NflCgJO5tXk"
+    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -583,6 +572,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/I5KQt940dZo"
+    ],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

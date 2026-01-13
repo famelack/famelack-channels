@@ -167,17 +167,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-I40PSG0Doc"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "iptv_urls": [
@@ -413,7 +402,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tMDAF2oT4FA"
+      "https://www.youtube-nocookie.com/embed/N2Y7yAHpzUo"
     ],
     "language": "por",
     "country": "br",
@@ -540,6 +529,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/iHh6aAxMekE"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nnv111bq9JE"
     ],
     "language": "por",
     "country": "br",

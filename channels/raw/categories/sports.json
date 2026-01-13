@@ -665,17 +665,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nKepPfPxroGdqa",
-    "name": "MotoGP",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ew4-cN1tEc0"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "057AuVcfpScIV5",
     "name": "MSG",
     "iptv_urls": [
@@ -1217,17 +1206,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jZEkpGlt5AGs91",
-    "name": "WCW",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UZYwoKfrgJQ"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {

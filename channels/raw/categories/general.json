@@ -3398,7 +3398,7 @@
     "name": "DanmarkC TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RZkc1VT2W1c"
+      "https://www.youtube-nocookie.com/embed/-YiLwbHgbno"
     ],
     "language": "dan",
     "country": "dk",
@@ -4202,17 +4202,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dAIym5DoVdY"
-    ],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -11257,17 +11246,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vnLUPBYAwVk"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -11294,7 +11272,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OIXOyya06VI"
+      "https://www.youtube-nocookie.com/embed/LWdTz5_GrB8"
     ],
     "language": "spa",
     "country": "mx",
@@ -11305,7 +11283,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8bfEMv6azg4"
+      "https://www.youtube-nocookie.com/embed/W_wDhMvjU7g"
     ],
     "language": "spa",
     "country": "mx",
@@ -11437,7 +11415,7 @@
     "name": "Televisión del Senado",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eGj1YENpXps"
+      "https://www.youtube-nocookie.com/embed/0q0LD9YAY8Q"
     ],
     "language": "spa",
     "country": "cl",
@@ -11481,7 +11459,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6kLgneyRdmU"
+      "https://www.youtube-nocookie.com/embed/1zygZSoExk4"
     ],
     "language": "spa",
     "country": "ar",
@@ -11529,6 +11507,17 @@
     "youtube_urls": [],
     "language": "bos",
     "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NflCgJO5tXk"
+    ],
+    "language": "pol",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {

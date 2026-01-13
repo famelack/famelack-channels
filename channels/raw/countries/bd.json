@@ -4,7 +4,7 @@
     "name": "Channel 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TjcG7lu9ov8"
+      "https://www.youtube-nocookie.com/embed/LYRxmnuca7s"
     ],
     "language": "ben",
     "country": "bd",
@@ -106,17 +106,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lxKB7P4hAHIaws",
-    "name": "Rtv News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/voZiPVG_Ufw"
     ],
     "language": "ben",
     "country": "bd",

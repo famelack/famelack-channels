@@ -503,6 +503,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vLJxCfSjAO72Wd",
+    "name": "Belmedia TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tcRobaEvrdo"
+    ],
+    "language": "fra",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EFmTACsbdn5aM0",
     "name": "Best of Dance TV",
     "iptv_urls": [

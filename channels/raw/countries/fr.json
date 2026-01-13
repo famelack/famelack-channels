@@ -1156,17 +1156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/imba33xZwts"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ah6i9XG9UQU47N",
     "name": "M6",
     "iptv_urls": [
@@ -1724,17 +1713,6 @@
       "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DQCVUHUw6r0"
-    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false

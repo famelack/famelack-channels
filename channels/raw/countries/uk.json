@@ -397,17 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0pbNhjsVz7A"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -840,17 +829,6 @@
       "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nKepPfPxroGdqa",
-    "name": "MotoGP",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ew4-cN1tEc0"
-    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

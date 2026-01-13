@@ -132,28 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QwrXrJ43PZBFLz",
-    "name": "Cartoon Network România",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tcDf4FRlfU0"
-    ],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VCGUnN5pXVoDhF",
-    "name": "Cartoonito România",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fkdgdAkTAjw"
-    ],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dab8WPqdbc06ks",
     "name": "CaTine",
     "iptv_urls": [

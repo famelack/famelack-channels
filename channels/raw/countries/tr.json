@@ -280,6 +280,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ujhH0nIPBP5W03",
+    "name": "Cartoon Network Türkiye",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/yjsBRPqgzyg"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6EhlkDLmeZJVkW",
     "name": "Cartoon Network Türkiye: Kral Şakir",
     "iptv_urls": [],

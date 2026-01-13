@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X4xe5RrfPw7ILD",
-    "name": "Cartoonito Magyarország",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rkEIxTOKm1c"
-    ],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UwrO948tolkZzf",
     "name": "Duna TV",
     "iptv_urls": [

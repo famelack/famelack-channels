@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nt77Fz3FKdlDJb",
+    "name": "3ABN Kids",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NJVAFt8RlU4"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OVN59PA5eqzvoQ",
     "name": "3ABN Kids Network",
     "iptv_urls": [
@@ -1863,17 +1874,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E04RKOUYWLxfud",
-    "name": "Bob Ross",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gETJ19cu8-8"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qjlcw1flQxD6UO",
     "name": "Bold and the Beautiful",
     "iptv_urls": [],
@@ -2301,7 +2301,7 @@
     "name": "CBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WFvOChuI2cg"
+      "https://www.youtube-nocookie.com/embed/_X6Hk9k-85I"
     ],
     "language": "eng",
     "country": "us",
@@ -2592,17 +2592,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vae2fsqhQIbuJv",
-    "name": "Channel One",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HQA5tgsjeKY"
-    ],
-    "language": "fas",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -2917,6 +2906,17 @@
       "https://live.field59.com/wrde/wrde1/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BMO0FRe0mBVXUu",
+    "name": "CoinVaultTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/E4NmGMyU2vM"
+    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -4603,7 +4603,7 @@
     "name": "Friends of Felines Rescue Center",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-BPedF3yWA"
+      "https://www.youtube-nocookie.com/embed/47ig20fZZu8"
     ],
     "language": "eng",
     "country": "us",
@@ -7319,6 +7319,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uPBnVmprz4lcyz",
+    "name": "NASA: ISS",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FV4Q9DryTG8"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Lv6gyQaWTeTvh",
+    "name": "NASA: ISS HD",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kPLUu3VHPkk"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zsYBZPEwGXciBr",
     "name": "Nascar",
     "iptv_urls": [
@@ -7589,7 +7611,7 @@
     "name": "NBC News Now",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CfQ3oMRDgOY"
+      "https://www.youtube-nocookie.com/embed/EhxzTXalchw"
     ],
     "language": "eng",
     "country": "us",
@@ -9636,7 +9658,7 @@
     "name": "Shout! Studios: Renegade",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mPtGYG7lL0c"
+      "https://www.youtube-nocookie.com/embed/9Xkoh1waJH4"
     ],
     "language": "eng",
     "country": "us",
@@ -10854,7 +10876,7 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XBT9XZLexc4"
+      "https://www.youtube-nocookie.com/embed/8nwASjOsrkE"
     ],
     "language": "jpn",
     "country": "us",
@@ -10887,20 +10909,9 @@
     "name": "TokuSHOUTsu: Retro Godzilla Marathon",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3GtjOuM_u_w"
+      "https://www.youtube-nocookie.com/embed/tRi_vopa1XI"
     ],
     "language": "jpn",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vxuvNL1pu9DfjK",
-    "name": "TokuSHOUTsu: Speed Racer",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2ovdyLffL2A"
-    ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -12278,17 +12289,6 @@
       "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jZEkpGlt5AGs91",
-    "name": "WCW",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UZYwoKfrgJQ"
-    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false

@@ -567,17 +567,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dAIym5DoVdY"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "iptv_urls": [],
@@ -629,17 +618,6 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rvSLmYJvnwZ691",
-    "name": "El Tres TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G-2zdJxc9eI"
-    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -991,7 +969,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6kLgneyRdmU"
+      "https://www.youtube-nocookie.com/embed/1zygZSoExk4"
     ],
     "language": "spa",
     "country": "ar",

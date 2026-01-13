@@ -45,6 +45,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vLJxCfSjAO72Wd",
+    "name": "Belmedia TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tcRobaEvrdo"
+    ],
+    "language": "fra",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XHxGpxMeodxqTd",
     "name": "C Malayalam TV",
     "iptv_urls": [
@@ -184,7 +195,7 @@
     "name": "Garfield & Friends",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jsQsOU4ma8g"
+      "https://www.youtube-nocookie.com/embed/hdMaLhTQJxE"
     ],
     "language": "eng",
     "country": "ca",
@@ -996,7 +1007,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_ZXHaUu33YI"
+      "https://www.youtube-nocookie.com/embed/BYl0ALVg2rQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -1007,7 +1018,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EGTpz4kgVyc"
+      "https://www.youtube-nocookie.com/embed/IoPqdMJh-Tw"
     ],
     "language": "eng",
     "country": "ca",

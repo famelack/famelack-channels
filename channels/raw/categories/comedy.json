@@ -267,6 +267,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nnv111bq9JE"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "iptv_urls": [

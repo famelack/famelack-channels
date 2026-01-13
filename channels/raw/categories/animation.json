@@ -121,50 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fmZ9FjJgFMJnk6",
-    "name": "Cartoon Network Deutschland",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g3T8nfaRQIM"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "77E2xhr3RrP82t",
-    "name": "Cartoon Network Nederland",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_SSj0wI72Ek"
-    ],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P2Z68epVFispXu",
-    "name": "Cartoon Network Polska",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iGVYSwS1Plc"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QwrXrJ43PZBFLz",
-    "name": "Cartoon Network România",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tcDf4FRlfU0"
-    ],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tIGqdwnTT3ZqJq",
     "name": "Cartoon Network: Adventure Time",
     "iptv_urls": [],
@@ -291,7 +247,7 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/W8a4yXFozs0",
-      "https://www.youtube-nocookie.com/embed/dildXV5iEYA"
+      "https://www.youtube-nocookie.com/embed/ackE5a43btg"
     ],
     "language": "ara",
     "country": "sa",
@@ -485,17 +441,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DQCVUHUw6r0"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pApkFb67wcPTJl",
     "name": "Soviet Toons: Ну, погоди!",
     "iptv_urls": [],
@@ -545,17 +490,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JnAy1_w564s"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vxuvNL1pu9DfjK",
-    "name": "TokuSHOUTsu: Speed Racer",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2ovdyLffL2A"
     ],
     "language": "eng",
     "country": "us",

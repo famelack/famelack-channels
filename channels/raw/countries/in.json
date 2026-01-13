@@ -263,17 +263,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQMqdrOpBhLEzY",
-    "name": "ABN Digital Exclusives",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/l_q0-6H3n6U"
-    ],
-    "language": "tel",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8AXm6Uithii9dP",
     "name": "ABN Telugu ",
     "iptv_urls": [],
@@ -623,7 +612,7 @@
     "name": "ANI News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ukGHh7HHN3w"
+      "https://www.youtube-nocookie.com/embed/MkJZL1cUPKc"
     ],
     "language": "eng",
     "country": "in",
@@ -647,7 +636,6 @@
       "https://cdn.ottlive.co.in/annnews/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-58Kn-CrE50",
       "https://www.youtube-nocookie.com/embed/3CJiUR_CqF0"
     ],
     "language": "urd",
@@ -2498,17 +2486,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xAcpouXvIgkw8",
-    "name": "Maharashtra Times",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jQeuiG3KU0M"
-    ],
-    "language": "mar",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mzk2GeP95zerE0",
     "name": "Makkal TV (576i)",
     "iptv_urls": [
@@ -3737,7 +3714,7 @@
       "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1HWhAhCcSic"
+      "https://www.youtube-nocookie.com/embed/ieaKXaZzNZ8"
     ],
     "language": "ben",
     "country": "in",

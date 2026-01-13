@@ -297,6 +297,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v6b78NmVD9WnBy",
+    "name": "Canal 23 Televisa Ensenada",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/x_5Ex1Nc5uU"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nsEU2vBOpVL9EW",
     "name": "Canal 26 Aguascalientes",
     "iptv_urls": [
@@ -512,18 +523,7 @@
     "name": "Imagen Multicast",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5nnIM2yffC4"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5lhODGYtGp6nxK",
-    "name": "ImagenTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F3V3V6Jvyk8"
+      "https://www.youtube-nocookie.com/embed/TTyXqwK2c2Q"
     ],
     "language": "spa",
     "country": "mx",
@@ -668,17 +668,6 @@
       "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pCFfnKm8W8E1LH",
-    "name": "NMás",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uBpOWT8s-gc"
-    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -993,17 +982,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vnLUPBYAwVk"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -1030,7 +1008,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OIXOyya06VI"
+      "https://www.youtube-nocookie.com/embed/LWdTz5_GrB8"
     ],
     "language": "spa",
     "country": "mx",
@@ -1041,7 +1019,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8bfEMv6azg4"
+      "https://www.youtube-nocookie.com/embed/W_wDhMvjU7g"
     ],
     "language": "spa",
     "country": "mx",
@@ -1086,6 +1064,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/w3gqnCX6cKA"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CYVWTZuNQ67W3k",
+    "name": "Televisa Tijuana",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GFT46vBUwj4"
     ],
     "language": "spa",
     "country": "mx",
