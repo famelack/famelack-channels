@@ -689,7 +689,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FotWCpzJI90"
+      "https://www.youtube-nocookie.com/embed/Tkc8ws9_1hk"
     ],
     "language": "eng",
     "country": "uk",
@@ -1560,17 +1560,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B0N3YLVGTZmUxD",
-    "name": "World War TV",
-    "iptv_urls": [
-      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },

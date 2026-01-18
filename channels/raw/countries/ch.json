@@ -138,17 +138,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9fcNWUvgSqvX9",
-    "name": "Immaculata TV",
-    "iptv_urls": [
-      "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZdNLvgl3QL9zlp",
     "name": "Kanal 9 auf Deutsch",
     "iptv_urls": [

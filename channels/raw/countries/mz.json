@@ -9,5 +9,16 @@
     "language": "por",
     "country": "mz",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TjkNKbnMhRjIfx",
+    "name": "TV Vitória",
+    "iptv_urls": [
+      "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "mz",
+    "isGeoBlocked": false
   }
 ]

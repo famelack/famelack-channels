@@ -26,19 +26,8 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-xLAYI4xHzs"
+      "https://www.youtube-nocookie.com/embed/3Y5-gPoMOf0"
     ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0y6A0PfJfOwnxT",
-    "name": "CGNTV Japan",
-    "iptv_urls": [
-      "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
@@ -192,7 +181,6 @@
     "nanoid": "8ij5TpDrKhgoPs",
     "name": "NHK World-Japan HD",
     "iptv_urls": [
-      "https://nhk.lls.pbs.org/index.m3u8",
       "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8"
     ],
     "youtube_urls": [],

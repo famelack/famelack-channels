@@ -235,17 +235,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hdMaLhTQJxE"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GIDOx8HxzwtiTZ",
     "name": "GH Canada TV",
     "iptv_urls": [
@@ -484,6 +473,72 @@
     "name": "Legislative Assembly of British Columbia Committee A",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6uCCfd71b4oev",
+    "name": "Legislative Assembly of Ontario",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RxJmNkclMKaXs2",
+    "name": "Legislative Assembly of Ontario (without interpretation)",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uUGOxH0a6eS5ZE",
+    "name": "Legislative Assembly of Ontario Committees (room 1)",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dxr4tHRhpiu8Xi",
+    "name": "Legislative Assembly of Ontario Committees (room 2)",
+    "iptv_urls": [
+      "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0KUROtebe5Hr0N",
+    "name": "Legislative Assembly of Ontario Committees (room 151)",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -996,7 +1051,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TnuyNh8lijw"
+      "https://www.youtube-nocookie.com/embed/-6CTP5MASh4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1007,7 +1062,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MIAPvFAJsiU"
+      "https://www.youtube-nocookie.com/embed/5M-jxvkVXak"
     ],
     "language": "eng",
     "country": "ca",
@@ -1018,7 +1073,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UkSCHT1FD1Y"
+      "https://www.youtube-nocookie.com/embed/aDaxxVJB_aA"
     ],
     "language": "eng",
     "country": "ca",

@@ -89,6 +89,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xwOsuFtBBGFvEi",
+    "name": "Life TV",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "q313wCCJIL7EX7",
     "name": "LMTV French",
     "iptv_urls": [

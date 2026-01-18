@@ -129,7 +129,7 @@
     "country": "Bahrain",
     "capital": "Manama",
     "timeZone": "Asia/Bahrain",
-    "hasChannels": false
+    "hasChannels": true
   },
   "BI": {
     "country": "Burundi",
@@ -303,7 +303,7 @@
     "country": "Cape Verde",
     "capital": "Praia",
     "timeZone": "Atlantic/Cape_Verde",
-    "hasChannels": true
+    "hasChannels": false
   },
   "CW": {
     "country": "Curaçao",
@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": false
+    "hasChannels": true
   },
   "MP": {
     "country": "Northern Mariana Islands",

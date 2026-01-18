@@ -288,17 +288,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "iptv_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
     "iptv_urls": [
@@ -465,6 +454,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MajPICf3UNUH9K",
+    "name": "Gainesville Community 12TV (Gainesville FL)",
+    "iptv_urls": [
+      "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aZACmqFHyDlfSs",
     "name": "Galveston County TV",
     "iptv_urls": [
@@ -491,6 +491,17 @@
     "name": "Glendale 11 AZ",
     "iptv_urls": [
       "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IsfmM8D31BvjwV",
+    "name": "Greensboro TV (Greensboro NC)",
+    "iptv_urls": [
+      "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -616,6 +627,28 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6uCCfd71b4oev",
+    "name": "Legislative Assembly of Ontario",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -822,6 +855,17 @@
     "name": "Orange Government Access TV (Orange CT)",
     "iptv_urls": [
       "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "iptv_urls": [
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1104,6 +1148,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HL8F2nHrTvY"
+    ],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {

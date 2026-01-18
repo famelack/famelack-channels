@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jOAIqaLMKe2dyy",
-    "name": "BTQ - Телеканал",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QNiiMtYNjIA"
-    ],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "H2CDIH8qBgxAa8",
     "name": "CJ OnStyle",
     "iptv_urls": [

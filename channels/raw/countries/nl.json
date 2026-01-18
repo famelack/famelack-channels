@@ -898,10 +898,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
+    "nanoid": "Arhd6FvJ684mYa",
+    "name": "Salto MaLive",
     "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
+      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

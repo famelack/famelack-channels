@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
+    "iptv_urls": [
+      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kkVzrzXzjFuUCN",
     "name": "Al Arabiya",
     "iptv_urls": [
@@ -62,6 +73,17 @@
     "name": "Al Arabiya Business",
     "iptv_urls": [
       "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tn94bXCcZQXp4I",
+    "name": "Al Arabiya Programs",
+    "iptv_urls": [
+      "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -395,6 +417,17 @@
     ],
     "youtube_urls": [],
     "language": "fas",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fmocYbtQ1fFZhn",
+    "name": "Pulse95 Radio",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },

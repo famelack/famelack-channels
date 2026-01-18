@@ -254,17 +254,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Eg0R1qmDu85lEs",
-    "name": "Efarina TV",
-    "iptv_urls": [
-      "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XgBmwiqwEZak5t",
     "name": "Elshinta TV",
     "iptv_urls": [
@@ -430,6 +419,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "76VjihbmJOrWcW",
+    "name": "Madani TV",
+    "iptv_urls": [
+      "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ImH0HN1MdNlCn0",
     "name": "Madu TV",
     "iptv_urls": [
@@ -452,6 +452,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zrn3dK1AY8AcF8",
+    "name": "Marhaban TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WYxcg4fmUKU"
+    ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "iptv_urls": [],
@@ -469,17 +480,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nL16LWrrRRTSM1",
-    "name": "MGS TV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -717,17 +717,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/teDDCwI_XrY"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0cfFq7pSzUjjN2",
     "name": "Sriwijaya TV",
     "iptv_urls": [
@@ -861,6 +850,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AIvndURhkfCKoa",
+    "name": "TVKU",
+    "iptv_urls": [
+      "https://tvku.tv/hlsstream/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LoQgh9Xj1nCTfY",
     "name": "tvOneNews",
     "iptv_urls": [],
@@ -923,17 +923,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4rgiWj82tXQkHf",
-    "name": "TVRI Gorontalo",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },

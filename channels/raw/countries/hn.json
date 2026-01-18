@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D3xI1Y5GazlQoS",
+    "name": "Azteca Honduras",
+    "iptv_urls": [
+      "https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -231,6 +242,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OWqCpLlUvE6U3g",
+    "name": "Telecadena 7 y 4",
+    "iptv_urls": [
+      "https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bogtDcaAWtOFRz",
     "name": "Telerayo",
     "iptv_urls": [
@@ -253,21 +275,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yH1S0lEj15Dojl",
-    "name": "Television Olanchana",
+    "nanoid": "absH7c9TQgVLPd",
+    "name": "Televisión Metrópolis 19.2",
     "iptv_urls": [
-      "https://viewhn.com/canal30/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qWRNlLMLdjrPV7",
-    "name": "TV Centro 27.2 HD",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+      "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

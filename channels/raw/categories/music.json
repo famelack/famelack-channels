@@ -149,6 +149,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UnocQxyrv9YNqn",
+    "name": "70-80 TV (1080P)",
+    "iptv_urls": [
+      "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aN8uGsIctN5GGv",
     "name": "98.1 Pearl FM",
     "iptv_urls": [
@@ -791,32 +802,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cnFlZpQ0FKCBXe",
-    "name": "DanceTV EDM Mainstage",
-    "iptv_urls": [
-      "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q5enIVFByh6WlU",
     "name": "DanceTV House Floor",
     "iptv_urls": [
       "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dGqTIRUXI72pxD",
-    "name": "DanceTV Minimal Tech",
-    "iptv_urls": [
-      "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1031,6 +1020,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "pa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "foEVFoZwWIxidj",
+    "name": "Falastini TV",
+    "iptv_urls": [
+      "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ps",
     "isGeoBlocked": false
   },
   {
@@ -1296,17 +1296,6 @@
     "youtube_urls": [],
     "language": "ron",
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "InDGnYJDQn6YQp",
-    "name": "Indie Playlists",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zbtk7_Rsos0"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1967,6 +1956,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tIBnek0TFb4DRl",
+    "name": "Más FM 95.9",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
@@ -2045,6 +2045,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n1NVXrRoMu2hbw",
+    "name": "Melody FM Jordan",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nZf5oRgjRdisx5",
     "name": "Metropoli Medios TV",
     "iptv_urls": [
@@ -2075,17 +2086,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UCjLTTayb4q6mw",
-    "name": "MNTV Music",
-    "iptv_urls": [
-      "https://mntv.livebox.co.in/musichls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2332,28 +2332,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IZQODhKSC8M8Bj",
-    "name": "NPC Radio e TV",
-    "iptv_urls": [
-      "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pjEgd6IVJGjdu8",
-    "name": "NRG TV",
-    "iptv_urls": [
-      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jz0ciRS06fe4gc",
     "name": "Nueva Vida TV",
     "iptv_urls": [
@@ -2531,17 +2509,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L3j1vKGF6lnpfD",
-    "name": "Panik TV",
-    "iptv_urls": [
-      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3tweZkdXXLPOu1",
     "name": "Panorama FM",
     "iptv_urls": [
@@ -2693,6 +2660,17 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UytszlnTgHpVar",
+    "name": "Power Hit Radio",
+    "iptv_urls": [
+      "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
+    ],
+    "youtube_urls": [],
+    "language": "lit",
+    "country": "lt",
     "isGeoBlocked": false
   },
   {
@@ -3138,17 +3116,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e9kOBIAu1B0cCj",
-    "name": "Radio TV Sal One",
-    "iptv_urls": [
-      "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "cv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FfKKaHEk2MpmA6",
     "name": "Radio Weser TV Bremen",
     "iptv_urls": [
@@ -3170,6 +3137,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9vPSRptx3djmI0",
+    "name": "Raj Musix Malayalam",
+    "iptv_urls": [
+      "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -3369,28 +3347,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -4057,17 +4013,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dFVfkSRxGNsYew",
-    "name": "The Voice TV",
-    "iptv_urls": [
-      "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "bul",
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JdeoPelvABDmj1",
     "name": "THE 트롯 보라고",
     "iptv_urls": [],
@@ -4336,17 +4281,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njbWsA8ODBjdM0",
-    "name": "Urbana Play 104.3 FM",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dA37yWrJ2rY"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sue3ShLLkmrNlc",
     "name": "Urbano TV",
     "iptv_urls": [
@@ -4402,17 +4336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ytgkmKRLzQAL3O",
-    "name": "VAM Vid's & More",
-    "iptv_urls": [
-      "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "cw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bXjRuRGczJcqIy",
     "name": "Vevo Latino",
     "iptv_urls": [
@@ -4432,17 +4355,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NMv110aM0XbHrD",
-    "name": "Visión Televisión",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

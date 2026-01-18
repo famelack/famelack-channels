@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6QswkA5Qyz19SH",
+    "name": "Mezőkövesdi Televízió",
+    "iptv_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GWUIEsGBHfkkOm",
     "name": "Móra-Net TV",
     "iptv_urls": [

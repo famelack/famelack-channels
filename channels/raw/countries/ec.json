@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mTBj2wwnkApUNi",
-    "name": "América Estéreo Tulcán",
-    "iptv_urls": [
-      "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8Bv8hcX2tNuzZb",
     "name": "Antena Uno RadioVideo",
     "iptv_urls": [
@@ -92,6 +81,17 @@
     "name": "Canal Sur",
     "iptv_urls": [
       "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XNa5AM5I0Mvv8Q",
+    "name": "Capricho TV",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -609,17 +609,6 @@
     "name": "Telerama",
     "iptv_urls": [
       "https://play.once.net.ec/telerama/live.tv/538.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CY38SV2i5DFUTV",
-    "name": "TV Cisne",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/tvcisne/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

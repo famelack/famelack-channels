@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c5sRTm8qGDYdgm",
-    "name": "ecclesiaTV.gr",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qCUKCS9PrUI"
-    ],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kQoJODyIVFBenm",
     "name": "Egnatia TV",
     "iptv_urls": [
@@ -243,32 +232,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pjEgd6IVJGjdu8",
-    "name": "NRG TV",
-    "iptv_urls": [
-      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NRZMBeU73QGtG9",
     "name": "One Channel",
     "iptv_urls": [
       "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L3j1vKGF6lnpfD",
-    "name": "Panik TV",
-    "iptv_urls": [
-      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -347,17 +314,6 @@
     "name": "Telekriti",
     "iptv_urls": [
       "https://neon.streams.gr:8081/telekriti/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nhov9FRmWvJ4cy",
-    "name": "Thraki Net TV",
-    "iptv_urls": [
-      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

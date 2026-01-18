@@ -375,6 +375,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wbr6x2NZ3c23qF",
+    "name": "Señal Perú TV",
+    "iptv_urls": [
+      "https://livestream.perucast.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NWQzBG1ASDZW7k",
     "name": "Sol Televisión",
     "iptv_urls": [
@@ -390,17 +401,6 @@
     "name": "Telecolor Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wmJ1QxQIvPF4LM",
-    "name": "Teleselva",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -533,6 +533,17 @@
     "name": "Uranio TV (Yurimaguas)",
     "iptv_urls": [
       "https://live.obslivestream.com/uraniotv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "raXRAftVOpO8Gu",
+    "name": "Vía Altomayo",
+    "iptv_urls": [
+      "https://live.obslivestream.com/viaaltomayomux/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

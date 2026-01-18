@@ -31,5 +31,16 @@
     "language": "ara",
     "country": "tn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QMsKW2NGa9ux0Z",
+    "name": "Watania2 Replay",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4tarTn1eb5s"
+    ],
+    "language": "ara",
+    "country": "tn",
+    "isGeoBlocked": false
   }
 ]

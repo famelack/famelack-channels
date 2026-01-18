@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QvOtXswd30JTHP",
+    "name": "Canal 25 Jundiaí",
+    "iptv_urls": [
+      "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rC9liFbpQiV2AH",
     "name": "Canal 38",
     "iptv_urls": [
@@ -167,6 +178,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DqexB6yaP4LscU",
+    "name": "CNN Brasil",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xJL2ry4BUOI"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "iptv_urls": [
@@ -204,17 +226,6 @@
     "name": "CWB TV",
     "iptv_urls": [
       "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2nMTmYzlgyLzZn",
-    "name": "Demais TV",
-    "iptv_urls": [
-      "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -402,7 +413,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rZQIUdUBBhE"
+      "https://www.youtube-nocookie.com/embed/SIQg-iWWKDc"
     ],
     "language": "por",
     "country": "br",
@@ -431,6 +442,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jKDEdNqLxjs3LB",
+    "name": "RBATV",
+    "iptv_urls": [
+      "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rt7SLz6glAqm6R",
     "name": "Record",
     "iptv_urls": [
@@ -450,7 +472,7 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2Sez74EbKjA"
+      "https://www.youtube-nocookie.com/embed/-g6rS434CQk"
     ],
     "language": "por",
     "country": "br",
@@ -494,7 +516,7 @@
     "name": "Rede Novo Tempo de Comunicação",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0H5ODUau_xw"
+      "https://www.youtube-nocookie.com/embed/XFpgzzMz22Q"
     ],
     "language": "por",
     "country": "br",
@@ -707,6 +729,17 @@
       "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HL8F2nHrTvY"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -932,17 +965,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g42CLcwYVqsKev",
-    "name": "TV Guará",
-    "iptv_urls": [
-      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "iptv_urls": [],
@@ -1075,32 +1097,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HZWd4go9om2ldn",
-    "name": "TV Paraense",
-    "iptv_urls": [
-      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IRp7pJ3B28WfW",
     "name": "TV Passo Fundo",
     "iptv_urls": [
       "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CNQ9a4CPIghUm1",
-    "name": "TV Rio Preto",
-    "iptv_urls": [
-      "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1119,10 +1119,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOrzbD7QEj8vaf",
-    "name": "TV Sim Cachoeiro",
+    "nanoid": "XqX1P3iuCUKE9s",
+    "name": "TV Series 1 As Panteras",
     "iptv_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+      "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1134,17 +1134,6 @@
     "name": "TV Sim Colatina",
     "iptv_urls": [
       "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ypesM2O8mm8qXW",
-    "name": "TV Sim São Mateus",
-    "iptv_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1178,7 +1167,7 @@
     "name": "TV Tambaú",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y0uZF-dMfe4"
+      "https://www.youtube-nocookie.com/embed/fC4lUQZrFro"
     ],
     "language": "por",
     "country": "br",

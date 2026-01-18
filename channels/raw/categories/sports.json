@@ -143,6 +143,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YFqOd9RFAP2HGq",
+    "name": "Bahrain Sports 1",
+    "iptv_urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "bh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SBDiIYv6gMiZbW",
+    "name": "Bahrain Sports 2",
+    "iptv_urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "bh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -296,18 +318,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -578,17 +588,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H7YKUTmTDg1xzR",
-    "name": "M-Net Sport",
-    "iptv_urls": [
-      "https://live.mnet.mk/hls/mnet-sport.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "iptv_urls": [
@@ -704,6 +703,7 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
       "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -831,17 +831,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1003,6 +992,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oiFEO2uBrrWk1f",
+    "name": "Tigo Sports TV El Salvador",
+    "iptv_urls": [
+      "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
     "isGeoBlocked": false
   },
   {

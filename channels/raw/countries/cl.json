@@ -176,12 +176,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/PZYGse2eBdQ"
     ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -193,17 +193,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qelK9GtyKT4"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "itmATVZa5Ggr1u",
-    "name": "Click TV (Coronel)",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -356,7 +345,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CebYyb5gZ0U"
+      "https://www.youtube-nocookie.com/embed/pxwPSwTv-10"
     ],
     "language": "spa",
     "country": "cl",
@@ -437,17 +426,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Nb2kYHIZ3RU"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G45spfYKl3BXh4",
-    "name": "Radio Ritmo",
-    "iptv_urls": [
-      "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -646,17 +624,6 @@
     "name": "TVR",
     "iptv_urls": [
       "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nuyqJYod1qzetj",
-    "name": "TVU Concepción",
-    "iptv_urls": [
-      "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

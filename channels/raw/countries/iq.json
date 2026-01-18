@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gqagHcGI6e4lYf",
+    "name": "Al-Jawadain TV",
+    "iptv_urls": [
+      "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O42irmQexc6nDD",
     "name": "Al-Sharqiya",
     "iptv_urls": [
@@ -304,17 +315,6 @@
     ],
     "youtube_urls": [],
     "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P3901swICLQKvd",
-    "name": "Zagros",
-    "iptv_urls": [
-      "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
     "country": "iq",
     "isGeoBlocked": false
   },

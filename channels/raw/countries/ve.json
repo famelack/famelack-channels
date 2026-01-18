@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L2ckl8qUgIXBH9",
     "name": "Anzoátegui TV",
     "iptv_urls": [
@@ -26,17 +15,6 @@
     "name": "AS3 Sport TV",
     "iptv_urls": [
       "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -70,6 +48,17 @@
     "name": "Catatumbo TV",
     "iptv_urls": [
       "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -342,6 +331,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1M4Le4GYVDf5Ni",
+    "name": "Televisora de Oriente",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sB2nccFi22vLUq",
     "name": "TNO Radio",
     "iptv_urls": [
@@ -357,17 +357,6 @@
     "name": "Torococo TV",
     "iptv_urls": [
       "https://us.streaminghd.cl/torococotelevision/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "iptv_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

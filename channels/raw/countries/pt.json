@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IZQODhKSC8M8Bj",
-    "name": "NPC Radio e TV",
-    "iptv_urls": [
-      "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oGBDTLuvXcCKsV",
     "name": "ON FM",
     "iptv_urls": [

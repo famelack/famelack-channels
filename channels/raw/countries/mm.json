@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X4O9nYA5W4iOGM",
+    "name": "MRTV",
+    "iptv_urls": [
+      "https://mrtvott.com/cache/MRTV-HD/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mya",
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9u1e1mR4BwFrA1",
     "name": "MRTV 4",
     "iptv_urls": [

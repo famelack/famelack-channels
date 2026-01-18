@@ -185,7 +185,7 @@
     "name": "Caracol Televisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hKnYmpJlCOU"
+      "https://www.youtube-nocookie.com/embed/r3ApAhHiJcE"
     ],
     "language": "spa",
     "country": "co",
@@ -219,17 +219,6 @@
     "name": "CNC HD Online",
     "iptv_urls": [
       "https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlNh6cGmLuP4h1",
-    "name": "CNC Pereira",
-    "iptv_urls": [
-      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -382,6 +371,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZBrkRLlKR8dvbe",
+    "name": "NSTV",
+    "iptv_urls": [
+      "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p54OBJMG5m0fdl",
     "name": "Oasis TV",
     "iptv_urls": [
@@ -415,6 +415,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iEaQZyuCD9tKa4",
+    "name": "Red+",
+    "iptv_urls": [
+      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JcWgUdRfwM6UkT",
     "name": "Reyali",
     "iptv_urls": [
@@ -441,17 +452,6 @@
     "name": "RTC Televisión Urabá",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

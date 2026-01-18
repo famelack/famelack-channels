@@ -77,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "laN58G2pOTHWk2",
-    "name": "DNJ TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9rhqdMh4MdKhL2",
     "name": "Familia Visión HD",
     "iptv_urls": [

@@ -462,6 +462,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "iptv_urls": [
+      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MMQB1dfNdiK82n",
     "name": "TD Ameritrade Network",
     "iptv_urls": [

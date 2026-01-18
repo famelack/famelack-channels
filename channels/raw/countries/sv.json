@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "It09WcJXuh2yq1",
-    "name": "Josué TV",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
@@ -169,6 +158,17 @@
     "name": "Taber TV",
     "iptv_urls": [
       "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oiFEO2uBrrWk1f",
+    "name": "Tigo Sports TV El Salvador",
+    "iptv_urls": [
+      "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -191,17 +191,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -259,15 +248,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3RFBxxtq5PlDQ7",
+    "nanoid": "ZtL7zxGFBmbkdi",
     "name": "DD Kashir",
-    "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/16/master.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "hin",
+    "language": "ksm",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -300,7 +287,7 @@
       "https://cdn-4.pishow.tv/live/8/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Zm570MZ9P34"
+      "https://www.youtube-nocookie.com/embed/99rHfkhkLBM"
     ],
     "language": "urd",
     "country": "in",
@@ -428,17 +415,6 @@
     "youtube_urls": [],
     "language": "mal",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o8GJhpgQxXREN1",
-    "name": "Geb Tv (KBPX LD5)",
-    "iptv_urls": [
-      "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -756,7 +732,6 @@
     "nanoid": "8ij5TpDrKhgoPs",
     "name": "NHK World-Japan HD",
     "iptv_urls": [
-      "https://nhk.lls.pbs.org/index.m3u8",
       "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8"
     ],
     "youtube_urls": [],
@@ -817,17 +792,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -1030,6 +994,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fcllzx7ENtLcnw",
+    "name": "UMSA TVU LP",
+    "iptv_urls": [
+      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "UNISUL TV",
     "iptv_urls": [
@@ -1049,17 +1024,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {

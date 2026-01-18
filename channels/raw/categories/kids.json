@@ -652,17 +652,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hdMaLhTQJxE"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OXrSvXG0IZZsyw",
     "name": "Gulli",
     "iptv_urls": [
@@ -678,7 +667,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FotWCpzJI90"
+      "https://www.youtube-nocookie.com/embed/Tkc8ws9_1hk"
     ],
     "language": "eng",
     "country": "uk",
@@ -1121,7 +1110,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rZQIUdUBBhE"
+      "https://www.youtube-nocookie.com/embed/SIQg-iWWKDc"
     ],
     "language": "por",
     "country": "br",
@@ -1309,7 +1298,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TnuyNh8lijw"
+      "https://www.youtube-nocookie.com/embed/-6CTP5MASh4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1320,7 +1309,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MIAPvFAJsiU"
+      "https://www.youtube-nocookie.com/embed/5M-jxvkVXak"
     ],
     "language": "eng",
     "country": "ca",
@@ -1331,7 +1320,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UkSCHT1FD1Y"
+      "https://www.youtube-nocookie.com/embed/aDaxxVJB_aA"
     ],
     "language": "eng",
     "country": "ca",
@@ -1754,7 +1743,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EvDmkk-2Ciw"
+      "https://www.youtube-nocookie.com/embed/TgMdd_R5GR8"
     ],
     "language": "zho",
     "country": "cn",

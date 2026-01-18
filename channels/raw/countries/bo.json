@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YIKke4PY7wnkdl",
-    "name": "Palenque TV",
-    "iptv_urls": [
-      "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yLB43ge13jrHoP",
     "name": "Red TV Shop",
     "iptv_urls": [
@@ -99,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fcllzx7ENtLcnw",
+    "name": "UMSA TVU LP",
+    "iptv_urls": [
+      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "igJmo5J6YhgXmV",
     "name": "Unifranz",
     "iptv_urls": [
@@ -117,6 +117,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3D6a3NyVvl2H9",
+    "name": "UniversidadMayordeSanAndres",
+    "iptv_urls": [
+      "https://live.enhdtv.com:8081/8190/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "bo",
     "isGeoBlocked": false
   },

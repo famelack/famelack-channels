@@ -540,6 +540,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M1xHzWMuYZ3C7M",
+    "name": "FGN Channel",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QJz_lwLSobs"
+    ],
+    "language": "urd",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQBS03fMa9Ffe4",
     "name": "Fresno CMAC 2 Education Channel",
     "iptv_urls": [
@@ -1129,6 +1140,17 @@
     "name": "UMSA TVU Internacional",
     "iptv_urls": [
       "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fcllzx7ENtLcnw",
+    "name": "UMSA TVU LP",
+    "iptv_urls": [
+      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -519,6 +519,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gTpe7IQt8t8tRu",
+    "name": "Каббала ТВ",
+    "iptv_urls": [
+      "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
@@ -824,7 +835,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -861,6 +873,17 @@
     ],
     "youtube_urls": [],
     "language": "sah",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fPNHa2Iphxep7n",
+    "name": "Нижний Новгород 24",
+    "iptv_urls": [
+      "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -946,17 +969,6 @@
     "name": "Осетия Ирыстон",
     "iptv_urls": [
       "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RwPXD8LwO5Q5WI",
-    "name": "ОСН",
-    "iptv_urls": [
-      "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

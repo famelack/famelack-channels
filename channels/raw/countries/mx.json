@@ -508,17 +508,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yk5LuaS8jCla7l",
-    "name": "Imagen Multicast",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rX3iIyjdBts"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hvpyyH4xiS4fE5",
     "name": "IMRyT Morelos TV",
     "iptv_urls": [
@@ -746,17 +735,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iQxS2QFaXpg5Nd",
-    "name": "RTG",
-    "iptv_urls": [
-      "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -1004,22 +982,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OqUk1Slt9fsdYN",
-    "name": "Televisa Monterrey",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9f2vz9Ukhe8"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Jiv0dDh9RrbAvZ",
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wKWFUfsvh5U"
+      "https://www.youtube-nocookie.com/embed/Vlv9f-hP8IY"
     ],
     "language": "spa",
     "country": "mx",
@@ -1053,17 +1020,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/azM8lEg-AOo"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rds4SfQCR5Bcp9",
-    "name": "Televisa Sonora",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w3gqnCX6cKA"
     ],
     "language": "spa",
     "country": "mx",
@@ -1131,17 +1087,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/aw8t8b1rN8c"
     ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2H96xaNz6Ph6GF",
-    "name": "Tlaxcala Televisión",
-    "iptv_urls": [
-      "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -1334,17 +1279,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ok9SBkw2hJdLsx",
-    "name": "TVP Obregón",
-    "iptv_urls": [
-      "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X18JmPGKdYBT55",
     "name": "UDG TV Canal 44",
     "iptv_urls": [
@@ -1382,17 +1316,6 @@
     "name": "VB Media TV",
     "iptv_urls": [
       "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NMv110aM0XbHrD",
-    "name": "Visión Televisión",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

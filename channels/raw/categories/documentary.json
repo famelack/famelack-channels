@@ -33,11 +33,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tn94bXCcZQXp4I",
+    "name": "Al Arabiya Programs",
+    "iptv_urls": [
+      "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7ww4XqjlIRbeax",
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-xLAYI4xHzs"
+      "https://www.youtube-nocookie.com/embed/3Y5-gPoMOf0"
     ],
     "language": "jpn",
     "country": "jp",
@@ -168,17 +179,6 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "itmATVZa5Ggr1u",
-    "name": "Click TV (Coronel)",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
     "isGeoBlocked": false
   },
   {

@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qGk8ZFvxeqRCjY",
-    "name": "PGTV",
-    "iptv_urls": [
-      "https://streamer2.nexgen.bz/16-PGTV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "bz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "teIK1PDTIalJ3z",
     "name": "PlusTV",
     "iptv_urls": [

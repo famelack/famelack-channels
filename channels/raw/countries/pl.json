@@ -243,6 +243,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "iptv_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bYyllb5PVIf1uE",
     "name": "Royalworld",
     "iptv_urls": [
@@ -324,7 +335,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0XCY6EpHHiY"
+      "https://www.youtube-nocookie.com/embed/fnVY98TvXRM"
     ],
     "language": "pol",
     "country": "pl",
@@ -605,6 +616,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aKgaHAaMJBo"
+    ],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

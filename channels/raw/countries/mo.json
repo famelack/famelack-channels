@@ -1,0 +1,13 @@
+[
+  {
+    "nanoid": "34ae3uHdQyClQW",
+    "name": "Canal Macau Ch. 92",
+    "iptv_urls": [
+      "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "mo",
+    "isGeoBlocked": false
+  }
+]

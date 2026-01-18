@@ -33,28 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jOAIqaLMKe2dyy",
-    "name": "BTQ - Телеканал",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QNiiMtYNjIA"
-    ],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PH6tIpFUWHe706",
-    "name": "Cherniveckiy promin",
-    "iptv_urls": [
-      "https://langate.tv/promin/live_720/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OTZ19e4QL89Emf",
     "name": "Espreso",
     "iptv_urls": [],

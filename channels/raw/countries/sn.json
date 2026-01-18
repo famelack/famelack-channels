@@ -44,28 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUnTXwYpoyd7Ny",
-    "name": "Louga TV",
-    "iptv_urls": [
-      "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tIKVEzb2A3i7Cz",
-    "name": "Seneweb TV",
-    "iptv_urls": [
-      "https://vdo2.pro-fhi.net:3297/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RfhIP8Ek1pr7to",
     "name": "SenJeunes TV",
     "iptv_urls": [

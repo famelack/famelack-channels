@@ -220,12 +220,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fNzNQyxrdQA2dG",
-    "name": "Multimedios Costa Rica",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RvMaKby5dUU"
+    "nanoid": "RdxKyXaV9qtXPb",
+    "name": "Luz Naciente TV",
+    "iptv_urls": [
+      "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
@@ -242,10 +242,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
+    "nanoid": "4hISVyUvSKd79p",
+    "name": "Norte Informativo TV",
     "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
+      "https://videohd.live:19360/8076/8076.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -301,17 +301,6 @@
     "name": "TDtv",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FY9JMfvI9sWSMw",
-    "name": "TeleBrunca",
-    "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
