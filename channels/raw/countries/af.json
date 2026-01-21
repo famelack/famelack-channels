@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sZwFjK8uOPwgBp",
+    "name": "Shamshad TV",
+    "iptv_urls": [
+      "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pus",
+    "country": "af",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aEHBVjoRvzZifo",
     "name": "Tamadon TV",
     "iptv_urls": [

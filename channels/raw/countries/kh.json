@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "9v7vzS3xsxjDYS",
+    "name": "Apsara TV11",
+    "iptv_urls": [
+      "https://live.ams.com.kh/app/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "khm",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kaw9gAODRE7fwM",
     "name": "CNC",
     "iptv_urls": [
@@ -33,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sFPfedqXXPJW5f",
+    "name": "EAC News TV",
+    "iptv_urls": [
+      "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qpem3hrPjq4VqQ",
     "name": "My TV",
     "iptv_urls": [
@@ -40,6 +62,17 @@
     ],
     "youtube_urls": [],
     "language": "khm",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "22GUfDaUhwRUJ1",
+    "name": "Netlink TV",
+    "iptv_urls": [
+      "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "kh",
     "isGeoBlocked": false
   },

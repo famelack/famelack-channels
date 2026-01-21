@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bZQGzeEyald0Ck",
-    "name": "Bollywood Classic",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3FibakB882ByKy",
     "name": "Classic TV",
     "iptv_urls": [
@@ -191,7 +180,7 @@
     "name": "Shout! Studios: The Little Rascals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/v3O-_LWr7Mc"
+      "https://www.youtube-nocookie.com/embed/t8kZBUaXcD8"
     ],
     "language": "eng",
     "country": "us",

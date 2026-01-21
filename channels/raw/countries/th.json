@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "fgt71QAXBWF0xr",
-    "name": "13 Siam Thai",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/13livetv-th.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BWaFZgSUSFWAMm",
     "name": "Boonniyom TV",
     "iptv_urls": [
@@ -44,10 +33,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZPk578ujZjTXPa",
+    "name": "DLTV 1",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FH7NvrC8IdGbek",
     "name": "DLTV 2",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z2nBboETrkSzIa",
+    "name": "DLTV 3",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "28rjnzXjPjea82",
+    "name": "DLTV 4",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -110,10 +132,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J2tWh2yACsVBKq",
+    "name": "DLTV 10",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1UZOek5lIzCih6",
     "name": "DLTV 11",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9tRf46L4LZNOGa",
+    "name": "DLTV 12",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -154,6 +198,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "229FKBkhihgZiC",
+    "name": "Lanthung TV",
+    "iptv_urls": [
+      "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7Y9OONvhoyZDMD",
     "name": "MCOT HD",
     "iptv_urls": [
@@ -187,12 +242,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3GZ46w4Jr2xtDE",
+    "name": "Rama Channel",
+    "iptv_urls": [
+      "https://ramach.ddns.net/live/ramalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "olJQmVUDZgXj1I",
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Bitnhdy4I_w"
     ],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tvrptnaG6ItFq0",
+    "name": "STOU Channel",
+    "iptv_urls": [
+      "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tha",
     "country": "th",
     "isGeoBlocked": false

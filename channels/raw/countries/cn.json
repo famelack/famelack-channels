@@ -182,6 +182,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f1nxbKF3lgdEIT",
+    "name": "Harbin Comprehensive News Channel",
+    "iptv_urls": [
+      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7Hsc69UuEllEuA",
     "name": "Harbin Movie Channel",
     "iptv_urls": [
@@ -197,6 +208,17 @@
     "name": "Nei Monggol TV 2 Mongolian Culture Channel",
     "iptv_urls": [
       "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G3z1qWfpSyIFVO",
+    "name": "Nei Monggol TV Agriculture & Animal Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -285,6 +307,17 @@
     "name": "QTV-4",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1by9GcHy62iZ4M",
+    "name": "QTV-5",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -540,7 +573,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2Q8oNM_TK7Y"
+      "https://www.youtube-nocookie.com/embed/Fk35-Z4_jak"
     ],
     "language": "zho",
     "country": "cn",
@@ -661,17 +694,6 @@
     "name": "浙江民生",
     "iptv_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bed0qZJ8Xu4Wrw",
-    "name": "浙江经济",
-    "iptv_urls": [
-      "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

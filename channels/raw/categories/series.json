@@ -310,17 +310,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IzIeB6PQT3Mcyn",
-    "name": "HTV3",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FhAFz3eZKzB1Pa",
     "name": "Inside Crime",
     "iptv_urls": [
@@ -390,7 +379,6 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "iptv_urls": [
-      "https://mst3k-roku.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
       "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
@@ -445,17 +433,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GTfEbP4G445UTc",
-    "name": "Pantalla Clásica EC",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EqniGxixO4xx8t",
     "name": "PBS Antiques Roadshow",
     "iptv_urls": [
@@ -488,17 +465,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oZE0gRjI6bynEL",
-    "name": "PNC Drama",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "eg",
     "isGeoBlocked": false
   },
   {
@@ -561,7 +527,7 @@
     "name": "Shout! Studios: Renegade",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RG-TEk9gSBM"
+      "https://www.youtube-nocookie.com/embed/uXC-5FV5MkM"
     ],
     "language": "eng",
     "country": "us",
@@ -772,17 +738,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

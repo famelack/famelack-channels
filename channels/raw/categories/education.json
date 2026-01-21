@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TbETZirFbV6iE6",
+    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
+    "iptv_urls": [
+      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EHP7r0Fg5OJVXF",
     "name": "Create",
     "iptv_urls": [
@@ -264,10 +275,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZPk578ujZjTXPa",
+    "name": "DLTV 1",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FH7NvrC8IdGbek",
     "name": "DLTV 2",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z2nBboETrkSzIa",
+    "name": "DLTV 3",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "28rjnzXjPjea82",
+    "name": "DLTV 4",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -330,10 +374,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J2tWh2yACsVBKq",
+    "name": "DLTV 10",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1UZOek5lIzCih6",
     "name": "DLTV 11",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9tRf46L4LZNOGa",
+    "name": "DLTV 12",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -1026,28 +1092,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VxXPHwWoMl0QhJ",
-    "name": "TV Universidad",
-    "iptv_urls": [
-      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p4obNYU8nK7E4h",
-    "name": "TVE RS",
-    "iptv_urls": [
-      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m3PpQXO8kJ3GQC",
     "name": "TVK 2",
     "iptv_urls": [
@@ -1067,6 +1111,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OlaokC4Os8hK8W",
+    "name": "UEBI TV Online",
+    "iptv_urls": [
+      "https://ventaxtv.com:3575/live/uebilive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -1175,6 +1230,17 @@
     "name": "World Channel",
     "iptv_urls": [
       "https://world.lls.pbs.org/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FqfjVtCq56Tw8t",
+    "name": "WPS TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

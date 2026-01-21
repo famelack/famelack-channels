@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Yd25no3suS2myQ",
+    "name": "Elim TV",
+    "iptv_urls": [
+      "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O3X8SIvmSfoleo",
     "name": "GSG TV",
     "iptv_urls": [

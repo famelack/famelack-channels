@@ -243,7 +243,7 @@
     "country": "Congo",
     "capital": "Brazzaville",
     "timeZone": "Africa/Brazzaville",
-    "hasChannels": false
+    "hasChannels": true
   },
   "CH": {
     "country": "Switzerland",
@@ -825,7 +825,7 @@
     "country": "Mali",
     "capital": "Bamako",
     "timeZone": "Africa/Bamako",
-    "hasChannels": false
+    "hasChannels": true
   },
   "MM": {
     "country": "Myanmar",
@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": false
+    "hasChannels": true
   },
   "MP": {
     "country": "Northern Mariana Islands",
@@ -1011,7 +1011,7 @@
     "country": "Papua New Guinea",
     "capital": "Port Moresby",
     "timeZone": "Pacific/Port_Moresby",
-    "hasChannels": false
+    "hasChannels": true
   },
   "PH": {
     "country": "Philippines",

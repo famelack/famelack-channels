@@ -224,7 +224,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Dq4KN4D4IUA"
+      "https://www.youtube-nocookie.com/embed/fjuFe75Tjnw"
     ],
     "language": "eng",
     "country": "ca",
@@ -463,17 +463,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gcj08gtWTVo"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pApkFb67wcPTJl",
     "name": "Soviet Toons: Ну, погоди!",
     "iptv_urls": [],
@@ -588,7 +577,7 @@
     "name": "Universal Jr: Team Mekbots",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yT0mr_VbktU"
+      "https://www.youtube-nocookie.com/embed/LehiIG2iBkY"
     ],
     "language": "eng",
     "country": "us",
@@ -603,6 +592,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1pTOFnPJCFs4Na",
+    "name": "Yu-Gi-Oh!",
+    "iptv_urls": [
+      "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

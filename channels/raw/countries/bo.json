@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "2TeFmbSu18GnAQ",
-    "name": "Cadena A",
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
     "iptv_urls": [
-      "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -139,17 +139,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GMFO5ANQ5nEa2e",
-    "name": "UPEA TV",
-    "iptv_urls": [
-      "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "bo",
     "isGeoBlocked": false
   },

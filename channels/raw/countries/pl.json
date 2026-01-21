@@ -507,17 +507,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SfhuUEazfjthW",
-    "name": "TV Relax",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Nj20BQj80Ao"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Prd5njCA48tIne",
     "name": "TVC (1080i)",
     "iptv_urls": [

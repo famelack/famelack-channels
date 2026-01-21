@@ -812,6 +812,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HwhpJMBxrNJdLl",
+    "name": "Guada TV",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -1142,6 +1153,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OfgEoWKYhuXnuw",
+    "name": "Rakuten Top Movies UK",
+    "iptv_urls": [
+      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cZ8WdRSawqzh4E",
     "name": "Rakuten TV Action Movies Finland",
     "iptv_urls": [
@@ -1270,17 +1292,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jLlxOKRQAsHJaj",
-    "name": "Rakuten TV Drama Movies Finland",
-    "iptv_urls": [
-      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1417,17 +1428,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EXiybwWxfkY3Zj",
     "name": "Rakuten TV Top Movies Finland",
     "iptv_urls": [
@@ -1457,6 +1457,17 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dGOfxttCQdrVvT",
+    "name": "Rakuten TV Top Movies Spain",
+    "iptv_urls": [
+      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1637,6 +1648,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xRegMZSkKkDbP5",
+    "name": "TeleVigo",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYmpRnITzqWFJm",
     "name": "Televisión Aranda",
     "iptv_urls": [
@@ -1681,17 +1703,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ciqRUeYYlnMbyC",
     "name": "Tuya La Janda Television",
     "iptv_urls": [
@@ -1699,6 +1710,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tJnnR1sDEnmxAh",
+    "name": "TV Almassora",
+    "iptv_urls": [
+      "https://tvalmassora.com/hls/tvalmassora.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1796,17 +1818,6 @@
     "name": "TVM Córdoba",
     "iptv_urls": [
       "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ofMevJFkJJi256",
-    "name": "TVO Jesus",
-    "iptv_urls": [
-      "https://cloud.tvomix.com/TVOJESUS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

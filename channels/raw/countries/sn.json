@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qnZnUMjCzgKR22",
-    "name": "A2i Religion",
-    "iptv_urls": [
-      "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "wol",
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPk3uBpYzL7r88",
     "name": "Al Khadimiyyah TV",
     "iptv_urls": [],

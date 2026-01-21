@@ -15,7 +15,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3PTNqeo_apY"
+      "https://www.youtube-nocookie.com/embed/ul_Qx4n-TVk"
     ],
     "language": "vie",
     "country": "vn",
@@ -66,39 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rttScvWUnetgoy",
-    "name": "HTV Sports",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IzIeB6PQT3Mcyn",
-    "name": "HTV3",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h4MGIwpzx9uuOj",
-    "name": "LA34 Long An TV",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nfUMYUgBEhhJaP",
     "name": "Lao SV TV",
     "iptv_urls": [
@@ -127,17 +94,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9zRVHx4fglE"
     ],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8kdpWxJQ1i1LcH",
-    "name": "SCTV6",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "vie",
     "country": "vn",
     "isGeoBlocked": false
@@ -191,17 +147,6 @@
     "name": "VTV5 Tây Nguyên HD",
     "iptv_urls": [
       "https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PELW8NWV0rEPfd",
-    "name": "VTV7 HD",
-    "iptv_urls": [
-      "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

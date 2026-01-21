@@ -451,6 +451,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1xnRIVzGMzHUgY",
+    "name": "GRP VERATV",
+    "iptv_urls": [
+      "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mve6J37YYbHvvV",
     "name": "Hell's Kitchen Italy",
     "iptv_urls": [
@@ -510,17 +521,6 @@
     "name": "Italia 2",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -751,6 +751,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UFhJvCynS1YxoD",
+    "name": "Nuova TV 2",
+    "iptv_urls": [
+      "https://nuovatv.net:8443/tv2/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "iptv_urls": [
@@ -817,6 +828,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRTNWuXxEeSri7",
+    "name": "Peer TV Südtirol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zsxyrl1EjMDxBi",
     "name": "Prima TV Sicilia",
     "iptv_urls": [
@@ -867,17 +900,6 @@
       "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IB19NO8mheWDOa",
-    "name": "QSVS: Milanow",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VdVK2W56H4I"
-    ],
     "language": "ita",
     "country": "it",
     "isGeoBlocked": false
@@ -1509,6 +1531,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F0gNZYAr0ECEZ9",
+    "name": "Tele Quattro",
+    "iptv_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dao1Lkr9lj7M4V",
     "name": "TeleArena",
     "iptv_urls": [
@@ -1700,6 +1733,17 @@
     "name": "TeleSanDomenico",
     "iptv_urls": [
       "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gB9HTaNXkfEtN",
+    "name": "Telesirio Web TV",
+    "iptv_urls": [
+      "https://www.telesirio.it/live/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

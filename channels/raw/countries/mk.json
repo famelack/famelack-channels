@@ -1,38 +1,5 @@
 [
   {
-    "nanoid": "aqHJks1jEeRohC",
-    "name": "M-Net HD",
-    "iptv_urls": [
-      "https://live.mnet.mk/hls/mnet.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yBKcXwhhC0xgHN",
-    "name": "M-Net Info",
-    "iptv_urls": [
-      "https://live.mnet.mk/hls/mnet-info.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H7YKUTmTDg1xzR",
-    "name": "M-Net Sport",
-    "iptv_urls": [
-      "https://live.mnet.mk/hls/mnet-sport.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EE04NfxFEiLqqH",
     "name": "Naša TV",
     "iptv_urls": [

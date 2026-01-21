@@ -193,7 +193,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N3Ul9tJbYFs"
+      "https://www.youtube-nocookie.com/embed/-PM2V74O9Hw"
     ],
     "language": "por",
     "country": "br",
@@ -226,6 +226,17 @@
     "name": "Conexão TV",
     "iptv_urls": [
       "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7F6GpuknhmHoCf",
+    "name": "CWB TV",
+    "iptv_urls": [
+      "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -424,7 +435,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3U3oMDD84-Q"
+      "https://www.youtube-nocookie.com/embed/Yha-oyPUBdY"
     ],
     "language": "por",
     "country": "br",
@@ -483,7 +494,7 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kUA6MgIrtiw"
+      "https://www.youtube-nocookie.com/embed/M1sz57p-wYc"
     ],
     "language": "por",
     "country": "br",
@@ -523,17 +534,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NWLIfBBcI49xNF",
-    "name": "Rede Novo Tempo de Comunicação",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XFpgzzMz22Q"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "trGjHBEHG2rfsL",
     "name": "Rede SPTV",
     "iptv_urls": [
@@ -562,6 +562,17 @@
       "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/F1QT16AI_gg"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -615,19 +626,19 @@
     "name": "SBT Rio",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tTzcdqAJnZw"
+      "https://www.youtube-nocookie.com/embed/Sq8ESa0-eTw"
     ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RSNMIqz61yHtc6",
-    "name": "SBT RS",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/raDcNI8Vwh4"
+    "nanoid": "wQwzJWldq22ymG",
+    "name": "SIC TV",
+    "iptv_urls": [
+      "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
     ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -661,6 +672,17 @@
       "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ez0ifGwmo3aIjZ",
+    "name": "TV ALERJ",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_csujKrda9g"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -716,8 +738,19 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Zu3ufjKoqM"
+      "https://www.youtube-nocookie.com/embed/gkiFmCRnX50"
     ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0nWmD2VTHq9hJr",
+    "name": "TV Boqueirão",
+    "iptv_urls": [
+      "https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -727,17 +760,6 @@
     "name": "TV Brasil",
     "iptv_urls": [
       "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fKBN1GktoY4Pyo",
-    "name": "TV Brasil Central",
-    "iptv_urls": [
-      "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -899,10 +921,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fve7GyEsUC2ne8",
-    "name": "TV Difusora Leste",
+    "nanoid": "YOZMqrLKiJgY4o",
+    "name": "TV do Povo",
     "iptv_urls": [
-      "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8"
+      "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1141,17 +1163,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOrzbD7QEj8vaf",
-    "name": "TV Sim Cachoeiro",
-    "iptv_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hwtT6piHOJApw7",
     "name": "TV Sim Colatina",
     "iptv_urls": [
@@ -1191,17 +1202,6 @@
       "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Apy4C6DTjAR2zf",
-    "name": "TV Tambaú",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WW5JWjkzrg0"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -1299,17 +1299,6 @@
     "name": "TVCOM Maceió",
     "iptv_urls": [
       "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p4obNYU8nK7E4h",
-    "name": "TVE RS",
-    "iptv_urls": [
-      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",

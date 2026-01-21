@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FgpkNZgYEhe1uz",
-    "name": "Adventure Earth",
-    "iptv_urls": [
-      "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
     "iptv_urls": [
@@ -496,17 +485,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0deWs8tTLyJPRE",
-    "name": "FilmGold Germany",
-    "iptv_urls": [
-      "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "iptv_urls": [
@@ -764,10 +742,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wK7EPJgrVG5gir",
-    "name": "L-TV",
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
     "iptv_urls": [
-      "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1165,6 +1143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rahlDGPnE1FWrR",
+    "name": "Rakuten TV Crime Series Germany",
+    "iptv_urls": [
+      "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SMFkP3zTr5LosF",
     "name": "Rakuten TV German Cinema",
     "iptv_urls": [
@@ -1180,6 +1169,17 @@
     "name": "Rakuten TV Romance Movies Germany",
     "iptv_urls": [
       "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

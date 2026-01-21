@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oZE0gRjI6bynEL",
-    "name": "PNC Drama",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sq4B9IaZBUPu1Y",
     "name": "Watan TV",
     "iptv_urls": [

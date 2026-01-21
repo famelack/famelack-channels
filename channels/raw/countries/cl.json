@@ -110,28 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9jkb1tHOSl1q2X",
-    "name": "Aysen TV",
-    "iptv_urls": [
-      "https://v1.tustreaming.cl/aysentv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lEIrmmraEZiCSk",
-    "name": "Buin Somos Todos",
-    "iptv_urls": [
-      "https://bst.buin.cl/0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ObtiKhy4c7FM1e",
     "name": "Campus TV (Talca)",
     "iptv_urls": [
@@ -191,8 +169,19 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/auhRhsCKekc"
+      "https://www.youtube-nocookie.com/embed/WRrzSfaBa3A"
     ],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -367,7 +356,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Pv5863zvm5o"
+      "https://www.youtube-nocookie.com/embed/ddX-BGqvzZQ"
     ],
     "language": "spa",
     "country": "cl",
@@ -446,7 +435,7 @@
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Nb2kYHIZ3RU"
+      "https://www.youtube-nocookie.com/embed/jp-gf7HNtWA"
     ],
     "language": "spa",
     "country": "cl",
@@ -758,17 +747,6 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pWw7rH2muT8B7p",
-    "name": "Wapp",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

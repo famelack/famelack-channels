@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oMhYmCaf0w71Vh",
+    "name": "Look Thoong TV",
+    "iptv_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "lao",
+    "country": "la",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mVxVh0IAxmzQFX",
     "name": "LS TV",
     "iptv_urls": [

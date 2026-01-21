@@ -79,6 +79,29 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0RyvSnHcZVz1gC",
+    "name": "Duma TV",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EDJsRoJArkwgcL",
+    "name": "Jetix",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5PtLHnSX6Wo"
+    ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gSNslvci5VvEfL",
     "name": "Kino 24",
     "iptv_urls": [
@@ -206,17 +229,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uuwdAM4ggDTLQ4",
-    "name": "SONGTV Russia",
-    "iptv_urls": [
-      "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OoOqpCfI3BbmiH",
     "name": "TaronaMusic",
     "iptv_urls": [],
@@ -228,10 +240,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0hiQdgKd6nMh6h",
-    "name": "TV BRICS Russian",
+    "nanoid": "dQM3no4lJAwuB8",
+    "name": "TNT Music",
     "iptv_urls": [
-      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
+      "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -239,12 +251,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3OOeiozk8ilduN",
-    "name": "Univer TV",
+    "nanoid": "0hiQdgKd6nMh6h",
+    "name": "TV BRICS Russian",
     "iptv_urls": [
-      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
+      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -824,7 +834,6 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
       "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -903,17 +912,6 @@
     "name": "НТВ",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
-    "iptv_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1224,61 +1222,6 @@
     "name": "Своё HD",
     "iptv_urls": [
       "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GEed8MzCeFZpmL",
-    "name": "Сити Эдем АвтоГид",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/47515/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UGkFnAuONipW2e",
-    "name": "Сити Эдем КиноАрт",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38398/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ujlkE2Qc3sujr0",
-    "name": "Сити Эдем КиноДетектив",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/41327/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

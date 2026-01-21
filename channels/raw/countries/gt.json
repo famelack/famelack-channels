@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tkEITU2bEZ7qMi",
-    "name": "Canal 13 Esquipulas",
-    "iptv_urls": [
-      "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HQW2P8evqWenGp",
     "name": "Canal 30 TV Bethel",
     "iptv_urls": [
@@ -70,17 +59,6 @@
     "name": "Canal 100 Chinique",
     "iptv_urls": [
       "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "unnPmpnUmUCfi4",
-    "name": "Espíritu Santo Y Fuego TV",
-    "iptv_urls": [
-      "https://inliveserver.com:1936/8392/8392/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -114,6 +92,17 @@
     "name": "Multivisión Sports",
     "iptv_urls": [
       "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QC2CsLlE51Rphf",
+    "name": "Nuevo Mundo TV",
+    "iptv_urls": [
+      "https://tvlatina.live:1936/8008/8008/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -191,6 +180,17 @@
     "name": "Sol TV",
     "iptv_urls": [
       "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sjT63Yqrczmdqs",
+    "name": "Telecosta",
+    "iptv_urls": [
+      "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

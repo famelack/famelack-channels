@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L2ckl8qUgIXBH9",
     "name": "Anzoátegui TV",
     "iptv_urls": [
@@ -55,65 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EBZkwFw2avmA6X",
-    "name": "Fortuna TV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYaEiBkFdAkiAd",
-    "name": "GlobalTV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gKZyGzv7VMGeI2",
     "name": "Grande TV",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c9vagOs8X6vg6Q",
-    "name": "Guaro TV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gPHlL3FuCScLzN",
-    "name": "interTV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -132,32 +66,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MIcJy2C1jnLtEJ",
-    "name": "KandelaTV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3E5bqWDK2SMWXh",
     "name": "Latina TV",
     "iptv_urls": [
       "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JdxBGAz4N8XmqU",
-    "name": "LGD Television",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -209,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1b6pwDCZHXANgu",
-    "name": "PortuTV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YQGNpYUE3gQTO4",
     "name": "PromarTV",
     "iptv_urls": [
@@ -235,17 +136,6 @@
     "name": "Reforma TV",
     "iptv_urls": [
       "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8UCD3Qx8hCNOEd",
-    "name": "Siembra TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -269,17 +159,6 @@
     "iptv_urls": [
       "https://tv.webtuya.com:3726/hybrid/play.m3u8",
       "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hWg7qzmsLufJ67",
-    "name": "Telecentro",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -412,17 +291,6 @@
     "name": "TV Oasis Monay",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdOMLij5yy08uC",
-    "name": "TVM para ti",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Krnvg7lhNu9QZe",
+    "name": "Diadora TV",
+    "iptv_urls": [
+      "https://diadoratv.stream/live/diadora/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hrv",
+    "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "enIKIkknsZ9r2w",
     "name": "Extra TV",
     "iptv_urls": [

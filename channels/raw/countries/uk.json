@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "zRdDvgf2t6vYGi",
+    "name": "Afghanistan International",
+    "iptv_urls": [
+      "https://hls.afintl.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pus",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ENzrhYlnEqyYie",
     "name": "Afrobeats",
     "iptv_urls": [
@@ -298,17 +309,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PRtN8bBPIvQbK5",
-    "name": "Brit Asia TV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RGisQUNDzBMFhg",
     "name": "Canaf54 TV",
     "iptv_urls": [
@@ -401,7 +401,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/D0DJDB5XuLw"
+      "https://www.youtube-nocookie.com/embed/jerU-qEqm5w"
     ],
     "language": "eng",
     "country": "uk",
@@ -481,6 +481,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J7Le553hw3j1x7",
+    "name": "ENT Family",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -860,6 +871,28 @@
     "name": "More4 HD",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nKepPfPxroGdqa",
+    "name": "MotoGP",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xWtrfLz1Abs"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3VQ70bm6nYhxs7",
+    "name": "Mr Bean Live Action",
+    "iptv_urls": [
+      "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1365,17 +1398,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PTj7LQOzasSv5q",
-    "name": "Trace Hits",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "McADRCgZrX1wEb",
     "name": "True Lives",
     "iptv_urls": [
@@ -1409,17 +1431,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "frcmFcv6OuxfsM",
-    "name": "Vevo Pop",
-    "iptv_urls": [
-      "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zi0G4CpWbSYUlF",
     "name": "Waterbear",
     "iptv_urls": [
@@ -1446,18 +1457,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EXpZZQEbGTc"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "at7QYcug7oV0tu",
-    "name": "WildBrain Max: LEGO",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Hs_rAlvmbWs"
+      "https://www.youtube-nocookie.com/embed/QHoWm5DHoUw"
     ],
     "language": "eng",
     "country": "uk",
@@ -1502,17 +1502,6 @@
     "name": "World War TV",
     "iptv_urls": [
       "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fJaBVCiSq1YhYp",
-    "name": "Yu-Gi-Oh!",
-    "iptv_urls": [
-      "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

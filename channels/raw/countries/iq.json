@@ -253,17 +253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pWcgyQ1N65tvlP",
-    "name": "Marjaeyat TV English",
-    "iptv_urls": [
-      "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NA2Yy8jnyc36WT",
     "name": "Marjaeyat TV Persian",
     "iptv_urls": [

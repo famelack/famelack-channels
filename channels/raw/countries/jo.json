@@ -191,19 +191,8 @@
     "name": "Roya News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fhdGepwiadw"
+      "https://www.youtube-nocookie.com/embed/LbQBWQoLBfQ"
     ],
-    "language": "ara",
-    "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EgkvX9kJOJxMoC",
-    "name": "Roya TV",
-    "iptv_urls": [
-      "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ara",
     "country": "jo",
     "isGeoBlocked": false

@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BsLAke0hXZM"
-    ],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mlTXxUmbTG3Ish",
     "name": "Controversia TV",
     "iptv_urls": [
@@ -136,6 +125,17 @@
     "name": "CR Televisión Moyobamba",
     "iptv_urls": [
       "https://live.obslivestream.com/crtvmux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XzRqOxUzNRtPhH",
+    "name": "ECO Television",
+    "iptv_urls": [
+      "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -467,6 +467,39 @@
     "name": "TV Cosmos",
     "iptv_urls": [
       "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9jlzCfuFrzzmTZ",
+    "name": "TV Peru",
+    "iptv_urls": [
+      "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "aym",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JAu8npSaIqe0rd",
+    "name": "TV Peru Internacional",
+    "iptv_urls": [
+      "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tgMJA8Yrpo64wp",
+    "name": "TV Peru Noticias",
+    "iptv_urls": [
+      "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

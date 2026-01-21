@@ -245,28 +245,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GE37pCdEhOkN7g",
-    "name": "Dubai Racing 2",
-    "iptv_urls": [
-      "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CLmt4qMWKgdRSD",
-    "name": "Dubai Racing 3",
-    "iptv_urls": [
-      "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NCWWidJrVWnWto",
     "name": "Fujairah TV",
     "iptv_urls": [

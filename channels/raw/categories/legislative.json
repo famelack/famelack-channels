@@ -255,17 +255,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BsLAke0hXZM"
-    ],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "znRrzqJhrbBEtp",
     "name": "Coral Gables Television (Coral Gables FL)",
     "iptv_urls": [
@@ -407,6 +396,18 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0RyvSnHcZVz1gC",
+    "name": "Duma TV",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1177,7 +1178,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Zu3ufjKoqM"
+      "https://www.youtube-nocookie.com/embed/gkiFmCRnX50"
     ],
     "language": "por",
     "country": "br",
