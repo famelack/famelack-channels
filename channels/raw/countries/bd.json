@@ -70,7 +70,7 @@
     "name": "Independent Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YZP9WExgyVo"
+      "https://www.youtube-nocookie.com/embed/jSePWb26x40"
     ],
     "language": "ben",
     "country": "bd",
@@ -106,17 +106,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lxKB7P4hAHIaws",
-    "name": "Rtv News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FYbRyEh14Rc"
     ],
     "language": "ben",
     "country": "bd",

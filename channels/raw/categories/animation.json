@@ -92,7 +92,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bohdtOAd12k"
+      "https://www.youtube-nocookie.com/embed/Fu8uTLHbMoY"
     ],
     "language": "eng",
     "country": "ca",
@@ -206,17 +206,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
-    "iptv_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -577,7 +566,7 @@
     "name": "Universal Jr: Team Mekbots",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LehiIG2iBkY"
+      "https://www.youtube-nocookie.com/embed/yYF32pvBSXQ"
     ],
     "language": "eng",
     "country": "us",

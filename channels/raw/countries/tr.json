@@ -168,6 +168,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nMakM6G0sKUXTn",
+    "name": "ATV Avrupa",
+    "iptv_urls": [
+      "https://streamer2.nexgen.bz/ATV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -185,6 +209,17 @@
       "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
     ],
     "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zMmmbAaZGmXuXi",
+    "name": "BENGÜTÜRK TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fji8YN-EKFM"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -326,7 +361,7 @@
     "name": "Çocuklar Duymasın",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/I82zsZWAkpY"
+      "https://www.youtube-nocookie.com/embed/kWAJPqSWW50"
     ],
     "language": "tur",
     "country": "tr",
@@ -457,32 +492,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C1zMWQcgRfpuVK",
-    "name": "ETV Manisa",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "08vFfPl2upbXA4",
     "name": "Euro D",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SSm48TGJZ2ZZyq",
-    "name": "FB TV",
-    "iptv_urls": [
-      "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -952,7 +965,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xkBT06qBzJc"
+      "https://www.youtube-nocookie.com/embed/4k9MUJyaJ_s"
     ],
     "language": "tur",
     "country": "tr",
@@ -963,6 +976,17 @@
     "name": "Life TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1XTuK8yl6RBDGO",
+    "name": "Line TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1535,17 +1559,6 @@
     "name": "TürkHaber",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mkvZ36tOvXYf73",
-    "name": "TV 1",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

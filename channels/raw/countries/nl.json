@@ -899,17 +899,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uijzEdZpPY4boJ",
     "name": "Samen1 TV",
     "iptv_urls": [

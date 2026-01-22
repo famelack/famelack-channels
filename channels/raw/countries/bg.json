@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "aYAhxfge3884Ci",
-    "name": "Agro TV",
-    "iptv_urls": [
-      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "bul",
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YeiuDAKOIv93Jj",
     "name": "BNT 4",
     "iptv_urls": [
@@ -59,6 +48,17 @@
     "name": "Light Channel",
     "iptv_urls": [
       "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "bul",
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rq3OJITyKdZXB9",
+    "name": "Magic TV",
+    "iptv_urls": [
+      "https://bss1.neterra.tv/magictv/magictv.m3u8"
     ],
     "youtube_urls": [],
     "language": "bul",

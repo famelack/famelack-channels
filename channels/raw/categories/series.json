@@ -310,6 +310,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IzIeB6PQT3Mcyn",
+    "name": "HTV3",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FhAFz3eZKzB1Pa",
     "name": "Inside Crime",
     "iptv_urls": [
@@ -399,17 +410,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S3kr4s7IIN5nb2",
-    "name": "MV Mall DD",
-    "iptv_urls": [
-      "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mGAeSdzImL4bga",
     "name": "Mythbusters",
     "iptv_urls": [
@@ -430,6 +430,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GTfEbP4G445UTc",
+    "name": "Pantalla Clásica EC",
+    "iptv_urls": [
+      "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -505,7 +516,7 @@
     "name": "Shout! Studios: Hunter",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i4Q1N5EKVzE"
+      "https://www.youtube-nocookie.com/embed/9vqW8X7hPAs"
     ],
     "language": "eng",
     "country": "us",
@@ -615,7 +626,7 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EOw9Pmj22ew"
+      "https://www.youtube-nocookie.com/embed/ekgvshf6giA"
     ],
     "language": "jpn",
     "country": "us",
@@ -738,6 +749,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

@@ -77,6 +77,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qrd5qBWYEVUZjj",
+    "name": "OTV",
+    "iptv_urls": [
+      "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9T7VpBKdu68"
+    ],
+    "language": "eng",
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BxmKon0ZujiiDI",
     "name": "Resurrection TV",
     "iptv_urls": [

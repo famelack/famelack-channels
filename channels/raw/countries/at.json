@@ -244,6 +244,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xO850u0sWlzEEk",
+    "name": "Salzburg AG",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LNySQz-I630"
+    ],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
     "iptv_urls": [
@@ -270,6 +281,17 @@
     "name": "Steiermark TV",
     "iptv_urls": [
       "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dHIKj0PT3rIpW8",
+    "name": "Stimmungsgarten TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -306,6 +328,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YQPekJKCEusA1c",
+    "name": "Tirol TV",
+    "iptv_urls": [
+      "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "at",
     "isGeoBlocked": false
   },

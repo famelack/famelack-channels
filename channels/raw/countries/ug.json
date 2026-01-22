@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "v6IrEA03D3GlG4",
+    "name": "3ABN TV Uganda",
+    "iptv_urls": [
+      "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uMF9KhS3uVy9FZ",
     "name": "ACW UG TV",
     "iptv_urls": [
@@ -33,6 +44,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BAl5rYC3FH50BY",
+    "name": "BTV",
+    "iptv_urls": [
+      "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
+    ],
+    "language": "eng",
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RgMMgkjkxfK5cI",
     "name": "Bukedde TV 1",
     "iptv_urls": [
@@ -59,17 +83,6 @@
     "name": "Dream TV",
     "iptv_urls": [
       "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ug",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2vE7EJChsrCtLB",
-    "name": "FORT TV",
-    "iptv_urls": [
-      "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

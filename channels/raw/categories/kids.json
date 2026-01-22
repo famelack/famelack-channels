@@ -630,17 +630,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
-    "iptv_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "goLF4ATisubwrx",
     "name": "France 4 HD",
     "iptv_urls": [
@@ -727,6 +716,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/J10pBNCAaVw"
+    ],
+    "language": "urd",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -967,7 +967,7 @@
     "name": "Oddbods",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aeqGWCyn9O8"
+      "https://www.youtube-nocookie.com/embed/FvZjRs8fNaw"
     ],
     "language": "eng",
     "country": "us",
@@ -1099,7 +1099,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Yha-oyPUBdY"
+      "https://www.youtube-nocookie.com/embed/ts5m9pB2QAQ"
     ],
     "language": "por",
     "country": "br",
@@ -1276,7 +1276,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7CNQBh3oIKs"
+      "https://www.youtube-nocookie.com/embed/XalAktI_ABc"
     ],
     "language": "eng",
     "country": "us",
@@ -1732,7 +1732,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Fk35-Z4_jak"
+      "https://www.youtube-nocookie.com/embed/Bk42QhSHSG4"
     ],
     "language": "zho",
     "country": "cn",

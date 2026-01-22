@@ -22,33 +22,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KstfcDMjN0CcgR",
-    "name": "Bendicion Channel",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/bendiciontv7/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qb63KGtBMhm9Xj",
     "name": "BUM Televisión",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/visiondorada.m3u8",
       "https://video.ejeserver.com/live/visiondorada.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z6j8GoKR6XeFrc",
-    "name": "Cali TV",
-    "iptv_urls": [
-      "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -118,6 +96,18 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
       "https://video.ejeserver.com/live/mundovisiontv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QA1x5OQRH7UVPJ",
+    "name": "Canal Nets",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/nets.m3u8",
+      "https://video.ejeserver.com/live/nets.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -196,17 +186,6 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/cncbuga.m3u8",
       "https://video.ejeserver.com/live/cncbuga.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v9elmASfRSOTaE",
-    "name": "CNC HD Online",
-    "iptv_urls": [
-      "https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -507,6 +486,17 @@
     "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -56,28 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OlGSowZnWs82o6",
-    "name": "7S Music",
-    "iptv_urls": [
-      "https://mumt03.tangotv.in/7SMUSIC/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BLp6YyzURYFuAK",
-    "name": "9X Jalwa",
-    "iptv_urls": [
-      "https://mumt03.tangotv.in/9XJALWA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qUEHicobPxUViI",
     "name": "9X Jhakaas",
     "iptv_urls": [
@@ -156,17 +134,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aN8uGsIctN5GGv",
-    "name": "98.1 Pearl FM",
-    "iptv_urls": [
-      "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sx",
     "isGeoBlocked": false
   },
   {
@@ -600,17 +567,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -664,17 +620,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -1450,17 +1395,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PJNGWLztLvRiLZ",
-    "name": "Jawhara TV",
-    "iptv_urls": [
-      "https://streaming.toutech.net/live/jtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "tn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "keDnMBwKoBk3De",
     "name": "JooMusic",
     "iptv_urls": [
@@ -1782,17 +1716,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "84MzFsqan8hkeY",
-    "name": "LiveFM Sri Lanka",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ISeNL4nG2xE"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sGZGN77ULu3I6y",
     "name": "Lobo TV",
     "iptv_urls": [
@@ -1917,6 +1840,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "gp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rq3OJITyKdZXB9",
+    "name": "Magic TV",
+    "iptv_urls": [
+      "https://bss1.neterra.tv/magictv/magictv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "bul",
+    "country": "bg",
     "isGeoBlocked": false
   },
   {
@@ -2130,39 +2064,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wAAXdhWFrvqJmH",
-    "name": "Mooz Dance",
-    "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
-    "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
-    "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0vWRP5qYJXkBiC",
     "name": "Mosaique FM",
     "iptv_urls": [
@@ -2337,6 +2238,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pjEgd6IVJGjdu8",
+    "name": "NRG TV",
+    "iptv_urls": [
+      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
     "isGeoBlocked": false
   },
   {
@@ -2847,6 +2759,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6ljoSjl6uAhfcj",
+    "name": "Radio Alegria 98.5 FM",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3880/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zXlX9cxqgTkhd2",
     "name": "Radio Bonita 106.7",
     "iptv_urls": [
@@ -3137,17 +3060,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9vPSRptx3djmI0",
-    "name": "Raj Musix Malayalam",
-    "iptv_urls": [
-      "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "63hGISr8CwvRME",
     "name": "Raj Musix Telugu",
     "iptv_urls": [
@@ -3355,17 +3267,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -3932,17 +3833,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q3s8mH9XozYPSB",
-    "name": "Tele Dominicana TV",
-    "iptv_urls": [
-      "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MBKYOzxWLTlns1",
     "name": "Tele Zoukla",
     "iptv_urls": [
@@ -4076,6 +3966,61 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pzt1PSqplgKD2y",
+    "name": "Totalmusic",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Rw1P5d6hpRKjY",
+    "name": "Totalmusic 80s",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MG5xhJnyQvgB5s",
+    "name": "Totalmusic 2000s",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l5T7DFgOiQyz89",
+    "name": "Totalmusic Concerts",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qht3DL9A3RRTRh",
+    "name": "Totalmusic Dance",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "URBHUsZAHdGmEN",
     "name": "TRACE Brazuca",
     "iptv_urls": [
@@ -4168,17 +4113,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7pIQLEcGqyCaJZ",
-    "name": "TV Éxitos",
-    "iptv_urls": [
-      "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qfMepn6hwcvIUS",
     "name": "TVCHOSUN JOY",
     "iptv_urls": [],
@@ -4238,7 +4172,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Jnf9ALlMT5Y"
+      "https://www.youtube-nocookie.com/embed/2t5r7TbsJMg"
     ],
     "language": "spa",
     "country": "ar",
@@ -4355,6 +4289,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KTfqjR2nJysy7l",
     "name": "VM Latino",
     "iptv_urls": [
@@ -4451,17 +4396,6 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mGqiGx8PLsFhQa",
-    "name": "Yulduz Usmanova",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b5TdfKIJQCg"
-    ],
-    "language": "uzb",
-    "country": "uz",
     "isGeoBlocked": false
   },
   {

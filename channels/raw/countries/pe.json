@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/p4h1X1666Yk"
+    ],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mlTXxUmbTG3Ish",
     "name": "Controversia TV",
     "iptv_urls": [
@@ -136,6 +147,17 @@
     "name": "ECO Television",
     "iptv_urls": [
       "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M8nsyNmz1k1pVX",
+    "name": "Exitosa TV",
+    "iptv_urls": [
+      "https://luna-3-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -386,17 +408,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbr6x2NZ3c23qF",
-    "name": "Señal Perú TV",
-    "iptv_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NWQzBG1ASDZW7k",
     "name": "Sol Televisión",
     "iptv_urls": [
@@ -423,17 +434,6 @@
     "name": "Teleselva",
     "iptv_urls": [
       "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oOdusKQUCbc5q3",
-    "name": "Top FM TV",
-    "iptv_urls": [
-      "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -588,17 +588,6 @@
     "name": "Viva TV Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

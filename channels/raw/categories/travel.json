@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u0r5JHswrz2Ecq",
+    "name": "OEPM TV",
+    "iptv_urls": [
+      "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HuAgGKfyx6NIKq",
     "name": "Palm Beaches TV",
     "iptv_urls": [
@@ -172,17 +183,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "it",
     "isGeoBlocked": false
   },

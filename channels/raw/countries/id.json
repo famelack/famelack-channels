@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wgCHFkD8F6PNpc",
+    "name": "Astha TV",
+    "iptv_urls": [
+      "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bPm6NTGGs9Aem5",
     "name": "Balikpapan TV",
     "iptv_urls": [
@@ -401,7 +412,7 @@
     "name": "KompasTV Jember",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_1rrJ5XGJjc"
+      "https://www.youtube-nocookie.com/embed/LlA47H_wKjo"
     ],
     "language": "ind",
     "country": "id",
@@ -436,17 +447,6 @@
       "https://lingkartv.my.id/hls/lingkartv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mSpavAreqc56SW",
-    "name": "Liputan6",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AaWaVBTb8qE"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -489,7 +489,7 @@
     "name": "Marhaban TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IZTZVl9NEuw"
+      "https://www.youtube-nocookie.com/embed/O43cqNKdbuk"
     ],
     "language": "ind",
     "country": "id",
@@ -513,17 +513,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nL16LWrrRRTSM1",
-    "name": "MGS TV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -555,7 +544,7 @@
     "name": "MTATV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hio7tigf1E0"
+      "https://www.youtube-nocookie.com/embed/RPj8r8D48Iw"
     ],
     "language": "ind",
     "country": "id",
@@ -694,28 +683,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FbrCzMwlpQjYEF",
-    "name": "Rodja TV",
-    "iptv_urls": [
-      "https://rodjatv.com/rodjatv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4XHmhUHFvR9eAr",
-    "name": "RRI Net",
-    "iptv_urls": [
-      "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "upoBRy2lldcmNK",
     "name": "Sakti TV",
     "iptv_urls": [
@@ -756,6 +723,28 @@
       "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4WttbEI2P66IMh",
+    "name": "Sangaji TV",
+    "iptv_urls": [
+      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iXFLGJe-4tw"
+    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -865,17 +854,6 @@
     "name": "TV Mu",
     "iptv_urls": [
       "https://e.siar.us/live/tvmu.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Q5bB6xe7tPE7vf",
-    "name": "TV Tabalong",
-    "iptv_urls": [
-      "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1316,17 +1294,6 @@
     "name": "VTV",
     "iptv_urls": [
       "https://flv.intechmedia.net/live/ch107.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ZQahFuCJWYmYi",
-    "name": "Wesal TV",
-    "iptv_urls": [
-      "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

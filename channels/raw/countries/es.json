@@ -390,17 +390,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fSeqRheB6IOZIg",
-    "name": "Canal Doñana",
-    "iptv_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTfUhDJ1psN0TH",
     "name": "Canal Extremadura Satelite",
     "iptv_urls": [
@@ -834,17 +823,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9YxHU0Ug32YMW",
-    "name": "HOLA! Play",
-    "iptv_urls": [
-      "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c53RhFBvJqM5zG",
     "name": "Ideas en 5 minutos",
     "iptv_urls": [
@@ -1087,6 +1065,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r4O5xUGbFguCQr",
     "name": "Pequeradio",
     "iptv_urls": [
@@ -1230,17 +1219,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "clglnKNLhH9d22",
-    "name": "Rakuten TV Comedy Movies Finland",
-    "iptv_urls": [
-      "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WZiR0UbRbq9wCY",
     "name": "Rakuten TV Comedy Movies Germany",
     "iptv_urls": [
@@ -1248,17 +1226,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3rUfGzY2t9RJC4",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "iptv_urls": [
-      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1292,6 +1259,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jLlxOKRQAsHJaj",
+    "name": "Rakuten TV Drama Movies Finland",
+    "iptv_urls": [
+      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1421,6 +1399,17 @@
     "name": "Rakuten TV Sci-Fi Spain",
     "iptv_urls": [
       "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1818,6 +1807,17 @@
     "name": "TVM Córdoba",
     "iptv_urls": [
       "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ofMevJFkJJi256",
+    "name": "TVO Jesus",
+    "iptv_urls": [
+      "https://cloud.tvomix.com/TVOJESUS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

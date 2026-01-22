@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "BWaFZgSUSFWAMm",
-    "name": "Boonniyom TV",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/bntv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lf5XxACaHEAHOt",
     "name": "Channel 5",
     "iptv_urls": [
@@ -231,17 +220,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S3kr4s7IIN5nb2",
-    "name": "MV Mall DD",
-    "iptv_urls": [
-      "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3GZ46w4Jr2xtDE",
     "name": "Rama Channel",
     "iptv_urls": [
@@ -301,17 +279,6 @@
     "name": "Thai Parliament TV",
     "iptv_urls": [
       "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SpJ9uMs0SG4rE2",
-    "name": "Thaiban 83",
-    "iptv_urls": [
-      "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",

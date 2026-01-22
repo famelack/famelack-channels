@@ -394,8 +394,7 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -481,6 +480,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "iptv_urls": [
+      "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -735,6 +745,17 @@
     "iptv_urls": [
       "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
       "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wK7EPJgrVG5gir",
+    "name": "L-TV",
+    "iptv_urls": [
+      "https://live2.telvi.de/hls/l-tv_s1.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

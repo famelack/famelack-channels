@@ -5,9 +5,7 @@
     "iptv_urls": [
       "https://fs3.kabelko.sk/9011/index.m3u8?token=btv"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
-    ],
+    "youtube_urls": [],
     "language": "slk",
     "country": "sk",
     "isGeoBlocked": false
@@ -150,7 +148,7 @@
     "name": "TV Nitra",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IznwnDDP9GE"
+      "https://www.youtube-nocookie.com/embed/OGrDl18mzR8"
     ],
     "language": "slk",
     "country": "sk",
@@ -161,17 +159,6 @@
     "name": "TV Nitricka",
     "iptv_urls": [
       "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "slk",
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7ID5AwZcoEU92T",
-    "name": "TV Nové Zámky",
-    "iptv_urls": [
-      "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "slk",

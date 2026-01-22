@@ -242,17 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IVwVAzQdAWOVvy",
-    "name": "DC.gov DKN (Washington DC)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DKN.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "iptv_urls": [
@@ -826,17 +815,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VFD90UpkQ7f9Ss",
-    "name": "Payam Javan TV",
-    "iptv_urls": [
-      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tCMMSwaVSeASoi",
     "name": "PBS KET Louisville KY (WKMJ-TV)",
     "iptv_urls": [
@@ -1092,6 +1070,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VxXPHwWoMl0QhJ",
+    "name": "TV Universidad",
+    "iptv_urls": [
+      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p4obNYU8nK7E4h",
+    "name": "TVE RS",
+    "iptv_urls": [
+      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m3PpQXO8kJ3GQC",
     "name": "TVK 2",
     "iptv_urls": [
@@ -1111,17 +1111,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OlaokC4Os8hK8W",
-    "name": "UEBI TV Online",
-    "iptv_urls": [
-      "https://ventaxtv.com:3575/live/uebilive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
     "isGeoBlocked": false
   },
   {

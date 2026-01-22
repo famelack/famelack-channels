@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8LOmsJ4tSkesGy",
-    "name": "Mishapi Voice TV",
-    "iptv_urls": [
-      "https://tnt-television.com/MISHAPI-STREAM1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XTCS8hBcYSO2yi",
     "name": "Numerica TV",
     "iptv_urls": [

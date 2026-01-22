@@ -123,17 +123,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cuxA3La6G9rkzp",
     "name": "CineLife",
     "iptv_urls": [
@@ -208,17 +197,6 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WNz7K4EFtMb3cU",
-    "name": "Friends of Felines Rescue Center",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b_8Yv6hIbDg"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -505,6 +483,17 @@
     "name": "Открытый мир. Здоровье",
     "iptv_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kmnCkTtdi4cLR8",
+    "name": "Сити Эдем МедЗдрав",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

@@ -121,28 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
-    "iptv_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2oDIGkwBMwsy6",
-    "name": "Extrema TV",
-    "iptv_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WGsDfHy5YE0QGF",
     "name": "GAMTV.cr",
     "iptv_urls": [
@@ -198,10 +176,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L0Xj3EMr6sq9Oz",
-    "name": "Los Santos TV",
+    "nanoid": "RdxKyXaV9qtXPb",
+    "name": "Luz Naciente TV",
     "iptv_urls": [
-      "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+      "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -312,17 +290,6 @@
     "name": "TeleMas",
     "iptv_urls": [
       "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "iptv_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

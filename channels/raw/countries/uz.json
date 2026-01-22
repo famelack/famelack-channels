@@ -42,16 +42,5 @@
     "language": "uzb",
     "country": "uz",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mGqiGx8PLsFhQa",
-    "name": "Yulduz Usmanova",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b5TdfKIJQCg"
-    ],
-    "language": "uzb",
-    "country": "uz",
-    "isGeoBlocked": false
   }
 ]

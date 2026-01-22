@@ -1,20 +1,9 @@
 [
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
+    "nanoid": "2TeFmbSu18GnAQ",
+    "name": "Cadena A",
     "iptv_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hiCZpbwj9latCv",
-    "name": "Coral TV",
-    "iptv_urls": [
-      "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
+      "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -70,6 +59,17 @@
     "name": "Red TV Shop",
     "iptv_urls": [
       "https://master.tucableip.com/redtvshop/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "izfFH8RnAwm70u",
+    "name": "RTP",
+    "iptv_urls": [
+      "https://rtp.noxun.net/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -139,6 +139,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GMFO5ANQ5nEa2e",
+    "name": "UPEA TV",
+    "iptv_urls": [
+      "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "bo",
     "isGeoBlocked": false
   },

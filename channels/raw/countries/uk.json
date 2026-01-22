@@ -397,17 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jerU-qEqm5w"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -481,6 +470,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tvhsp1pTtzQs6W",
+    "name": "ENT Channel",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -873,17 +873,6 @@
       "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nKepPfPxroGdqa",
-    "name": "MotoGP",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xWtrfLz1Abs"
-    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1398,6 +1387,72 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1hiMxQ336UPBoI",
+    "name": "Top Gear Classic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Xw2Xu5wKQVw"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pzt1PSqplgKD2y",
+    "name": "Totalmusic",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Rw1P5d6hpRKjY",
+    "name": "Totalmusic 80s",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MG5xhJnyQvgB5s",
+    "name": "Totalmusic 2000s",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l5T7DFgOiQyz89",
+    "name": "Totalmusic Concerts",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qht3DL9A3RRTRh",
+    "name": "Totalmusic Dance",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "McADRCgZrX1wEb",
     "name": "True Lives",
     "iptv_urls": [
@@ -1480,17 +1535,6 @@
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M9HwvmHmrMZElD",
-    "name": "Wonder",
-    "iptv_urls": [
-      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

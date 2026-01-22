@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -188,17 +199,6 @@
     ],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -774,6 +774,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D7CJtpvcn5aeRw",
+    "name": "Nigbati",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
     "iptv_urls": [
@@ -826,17 +837,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T0s7Y4K2sYggX7",
-    "name": "Orler TV",
-    "iptv_urls": [
-      "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -893,6 +893,17 @@
     "youtube_urls": [],
     "language": "nld",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xO850u0sWlzEEk",
+    "name": "Salzburg AG",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LNySQz-I630"
+    ],
+    "language": "deu",
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -992,6 +1003,17 @@
     "youtube_urls": [],
     "language": "slk",
     "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p4obNYU8nK7E4h",
+    "name": "TVE RS",
+    "iptv_urls": [
+      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {

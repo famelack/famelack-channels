@@ -77,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qdkmra0BcLu5AY",
-    "name": "MV Lao TV",
-    "iptv_urls": [
-      "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "lao",
-    "country": "la",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tWHtH7rPvgGlIk",
     "name": "NAT TV",
     "iptv_urls": [

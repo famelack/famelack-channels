@@ -4,7 +4,7 @@
     "name": "Alikhbaria Syria",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UJG3zr7fLT4"
+      "https://www.youtube-nocookie.com/embed/RL3AuGoqcVM"
     ],
     "language": "ara",
     "country": "sy",
@@ -41,7 +41,7 @@
       "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8"
     ],
     "youtube_urls": [],
-    "language": "kur",
+    "language": "ara",
     "country": "sy",
     "isGeoBlocked": false
   },
@@ -52,7 +52,7 @@
       "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8"
     ],
     "youtube_urls": [],
-    "language": "kur",
+    "language": "ara",
     "country": "sy",
     "isGeoBlocked": false
   },

@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4O4S2AAQP6gIje",
+    "name": "Comedy Central",
+    "iptv_urls": [
+      "https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lwOO3yKfQFwVFA",
     "name": "Comedy Central",
     "iptv_urls": [
@@ -86,17 +97,6 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Lj6dWjhNWYn6fE",
-    "name": "Comedy Central (1080i)",
-    "iptv_urls": [
-      "https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "nj8aLvvoJDsy5b",
@@ -297,17 +297,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F1QT16AI_gg"
-    ],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {

@@ -76,5 +76,27 @@
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1hiMxQ336UPBoI",
+    "name": "Top Gear Classic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Xw2Xu5wKQVw"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GEed8MzCeFZpmL",
+    "name": "Сити Эдем АвтоГид",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
   }
 ]

@@ -253,6 +253,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HW3VPKyt6mpMGb",
+    "name": "iFilm 2",
+    "iptv_urls": [
+      "https://live.presstv.ir/hls/ifilm2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FThMLWk2PqeTHZ",
     "name": "iFilm Arabic",
     "iptv_urls": [
@@ -271,6 +282,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3vaXRs7MKcSOW",
+    "name": "iFilm Persian",
+    "iptv_urls": [
+      "https://live.presstv.ir/hls/ifilmfa.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -393,17 +415,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gm4xqddWtJR9Ev",
-    "name": "Press TV French",
-    "iptv_urls": [
-      "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "ir",
     "isGeoBlocked": false
   },

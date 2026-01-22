@@ -1,38 +1,5 @@
 [
   {
-    "nanoid": "3vSMiEn9fcjoqq",
-    "name": "2GB Sydney",
-    "iptv_urls": [
-      "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IrEG9Wm0DYR6bh",
-    "name": "3AW Melbourne",
-    "iptv_urls": [
-      "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w7tqHUVLOEoOLR",
-    "name": "6PR Perth",
-    "iptv_urls": [
-      "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yHegYqGe8Y9Q5E",
     "name": "10 Bold Adelaide",
     "iptv_urls": [
@@ -345,6 +312,17 @@
     "name": "RCM",
     "iptv_urls": [
       "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rh2TMvjYLEWCNX",
+    "name": "Real Crime",
+    "iptv_urls": [
+      "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

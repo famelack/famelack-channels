@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "aN8uGsIctN5GGv",
-    "name": "98.1 Pearl FM",
-    "iptv_urls": [
-      "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pvP7Er0o72Q8Z2",
     "name": "Nolan Nanton Productions",
     "iptv_urls": [

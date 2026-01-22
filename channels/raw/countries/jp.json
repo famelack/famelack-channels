@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0y6A0PfJfOwnxT",
+    "name": "CGNTV Japan",
+    "iptv_urls": [
+      "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AY9El1RUmBJaPD",
     "name": "Earthquake Alert Channel",
     "iptv_urls": [],
@@ -59,7 +70,7 @@
     "name": "HBC Hokkaido News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X0uYInwXzgE"
+      "https://www.youtube-nocookie.com/embed/zXinxDtgLMk"
     ],
     "language": "jpn",
     "country": "jp",
@@ -250,17 +261,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Fn3IhUAmzUM"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dS0Hi9Oo1lT24W",
-    "name": "RKB News 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d8XojeIOdJ0"
     ],
     "language": "jpn",
     "country": "jp",

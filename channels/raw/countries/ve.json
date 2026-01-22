@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L2ckl8qUgIXBH9",
     "name": "Anzoátegui TV",
     "iptv_urls": [
@@ -22,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OBFGqgcPLTbi6p",
     "name": "Canal 21 Táchira",
     "iptv_urls": [
@@ -44,10 +44,43 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gKZyGzv7VMGeI2",
-    "name": "Grande TV",
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hYaEiBkFdAkiAd",
+    "name": "GlobalTV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gPHlL3FuCScLzN",
+    "name": "interTV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -70,6 +103,17 @@
     "name": "Latina TV",
     "iptv_urls": [
       "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JdxBGAz4N8XmqU",
+    "name": "LGD Television",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -143,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8UCD3Qx8hCNOEd",
+    "name": "Siembra TV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hf8hQXiCJxWSk6",
     "name": "Somos TV",
     "iptv_urls": [
@@ -157,8 +212,18 @@
     "nanoid": "qRZZMGSFXehDnV",
     "name": "TAM TV",
     "iptv_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+      "https://tv.webtuya.com:3726/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWg7qzmsLufJ67",
+    "name": "Telecentro",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -276,32 +341,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z9rhVuP0JaTo3P",
-    "name": "TV FANB",
-    "iptv_urls": [
-      "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b3aSHeBRmQKpi4",
     "name": "TV Oasis Monay",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "plr8p8zjDPs7Ks",
-    "name": "TVS",
-    "iptv_urls": [
-      "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

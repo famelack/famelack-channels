@@ -5,9 +5,7 @@
     "iptv_urls": [
       "https://guineetvdirect.online:3320/live/atvguineelive.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
-    ],
+    "youtube_urls": [],
     "language": "fra",
     "country": "gn",
     "isGeoBlocked": false
@@ -17,17 +15,6 @@
     "name": "Espace TV",
     "iptv_urls": [
       "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "gn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jEz8z7hJnZMiQ7",
-    "name": "Kaback TV",
-    "iptv_urls": [
-      "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

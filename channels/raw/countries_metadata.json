@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MP": {
     "country": "Northern Mariana Islands",
