@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "EgspbzPRaIJYXi",
+    "name": "ADO TV",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1fyxJbeOBe9SyI",
     "name": "Eden TV",
     "iptv_urls": [
@@ -7,6 +18,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oEpR0S4FaSzJGz",
+    "name": "ORTB TV (1080i)",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "bj",
     "isGeoBlocked": false
   },

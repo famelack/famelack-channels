@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7F6GpuknhmHoCf",
-    "name": "CWB TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
     "iptv_urls": [
@@ -219,6 +208,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEFRovhmEVfGx8",
+    "name": "Sevimli TV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
     "isGeoBlocked": false
   },
   {

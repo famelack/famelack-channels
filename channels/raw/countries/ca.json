@@ -67,6 +67,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Cv8dtsVO4KhvRK",
     "name": "Cable 14 Hamilton",
     "iptv_urls": [
@@ -230,6 +241,17 @@
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AtIW8Vn8QSQ"
+    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -495,6 +517,28 @@
     "name": "Legislative Assembly of Ontario (without interpretation)",
     "iptv_urls": [
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uUGOxH0a6eS5ZE",
+    "name": "Legislative Assembly of Ontario Committees (room 1)",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dxr4tHRhpiu8Xi",
+    "name": "Legislative Assembly of Ontario Committees (room 2)",
+    "iptv_urls": [
+      "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1020,6 +1064,17 @@
       "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/APy4NmcLotY"
+    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false

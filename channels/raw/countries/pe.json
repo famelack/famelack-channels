@@ -363,17 +363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fFOp14kqquOvOI",
-    "name": "Red de Comunicación Regional (RCR)",
-    "iptv_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WPq32gb81NkkvQ",
     "name": "RN Televisión",
     "iptv_urls": [
@@ -401,6 +390,17 @@
     "name": "RSelvaTV",
     "iptv_urls": [
       "https://live.obslivestream.com/selvatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wbr6x2NZ3c23qF",
+    "name": "Señal Perú TV",
+    "iptv_urls": [
+      "https://livestream.perucast.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -533,17 +533,6 @@
     "name": "TVUNO",
     "iptv_urls": [
       "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CXQzBhDcjLd9xW",
-    "name": "Unife TV",
-    "iptv_urls": [
-      "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

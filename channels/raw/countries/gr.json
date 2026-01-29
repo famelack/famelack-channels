@@ -343,6 +343,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "iptv_urls": [
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Xstsz3HxvmyGSQ",
     "name": "TV Creta",
     "iptv_urls": [

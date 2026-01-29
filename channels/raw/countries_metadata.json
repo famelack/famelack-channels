@@ -3,7 +3,7 @@
     "country": "Andorra",
     "capital": "Andorra la Vella",
     "timeZone": "Europe/Andorra",
-    "hasChannels": true
+    "hasChannels": false
   },
   "AE": {
     "country": "United Arab Emirates",
@@ -927,7 +927,7 @@
     "country": "Niger",
     "capital": "Niamey",
     "timeZone": "Africa/Niamey",
-    "hasChannels": true
+    "hasChannels": false
   },
   "NF": {
     "country": "Norfolk Island",

@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "rtbi6hxyaPNSIn",
+    "name": "1001 Noites",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SM0FavCZG665bI",
     "name": "Adesso TV",
     "iptv_urls": [
@@ -61,17 +72,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9rGUGiPx8hw"
     ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Gv1yxD6u5vITHV",
-    "name": "Boas Novas",
-    "iptv_urls": [
-      "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -182,7 +182,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xpXVF-IUcZw"
+      "https://www.youtube-nocookie.com/embed/Tnq08786KXo"
     ],
     "language": "por",
     "country": "br",
@@ -215,17 +215,6 @@
     "name": "Conexão TV",
     "iptv_urls": [
       "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7F6GpuknhmHoCf",
-    "name": "CWB TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -365,28 +354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "iptv_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j2PNx5Xg25mTJj",
-    "name": "KpopTV Play",
-    "iptv_urls": [
-      "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NxqeGIVjUY8tcI",
     "name": "Loading",
     "iptv_urls": [
@@ -446,7 +413,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IRJbnhbuFHQ"
+      "https://www.youtube-nocookie.com/embed/eKBsKpu5W1I"
     ],
     "language": "por",
     "country": "br",
@@ -505,8 +472,19 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n2m5WZESNJI"
+      "https://www.youtube-nocookie.com/embed/fis0oVjDdGQ"
     ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G7hfnJjWbtmF49",
+    "name": "Rede Gospel",
+    "iptv_urls": [
+      "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -589,17 +567,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zMInhl6JZJHQnT",
-    "name": "SBT Interior",
-    "iptv_urls": [
-      "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pqj11LkViqg7gn",
     "name": "SBT RIBEIRÃO PRETO",
     "iptv_urls": [],
@@ -633,10 +600,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7omf3emk4fDdL8",
-    "name": "STZ TV",
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
     "iptv_urls": [
-      "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -644,10 +611,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tlMRtrczD2xa0E",
-    "name": "TCM 10 HD",
+    "nanoid": "uFUnpsEwjM0TgY",
+    "name": "TV A Folha",
     "iptv_urls": [
-      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+      "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -727,7 +694,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0uCE3rcuWio"
+      "https://www.youtube-nocookie.com/embed/qHVr4w3Zsyk"
     ],
     "language": "por",
     "country": "br",
@@ -954,6 +921,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g42CLcwYVqsKev",
+    "name": "TV Guará",
+    "iptv_urls": [
+      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "iptv_urls": [],
@@ -1068,7 +1046,7 @@
     "name": "TV Notícia",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xTVKQfP8tDg"
+      "https://www.youtube-nocookie.com/embed/elT_7JFVj6Y"
     ],
     "language": "por",
     "country": "br",
@@ -1211,7 +1189,7 @@
     "name": "TV Tambaú",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o11RuJMwh7M"
+      "https://www.youtube-nocookie.com/embed/v8Wgdx4OW8g"
     ],
     "language": "por",
     "country": "br",

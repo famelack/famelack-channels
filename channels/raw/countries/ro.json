@@ -330,17 +330,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
-    "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CWCTvHjrmevuWH",
     "name": "Muscel TV",
     "iptv_urls": [
@@ -455,7 +444,7 @@
     "name": "TRINITAS TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bFt377daJYE"
+      "https://www.youtube-nocookie.com/embed/d5LnctJulAE"
     ],
     "language": "ron",
     "country": "ro",
@@ -550,10 +539,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtHnKdBTp3Dn99",
-    "name": "TVR Timisoara",
+    "nanoid": "ZDopo4R7djDObF",
+    "name": "TVR Targu-Mures",
     "iptv_urls": [
-      "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8"
+      "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -561,12 +550,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wEoUUNJpcYsZs6",
-    "name": "Z-TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bBXcxc0huIw"
+    "nanoid": "jtHnKdBTp3Dn99",
+    "name": "TVR Timisoara",
+    "iptv_urls": [
+      "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8"
     ],
+    "youtube_urls": [],
     "language": "ron",
     "country": "ro",
     "isGeoBlocked": false

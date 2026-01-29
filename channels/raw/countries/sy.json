@@ -28,7 +28,7 @@
       "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YKf_raINFD4"
+      "https://www.youtube-nocookie.com/embed/dsqAgOm7Y3s"
     ],
     "language": "ara",
     "country": "sy",
@@ -50,6 +50,17 @@
     "name": "Ronahi TV",
     "iptv_urls": [
       "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZUFftFyddSKOYm",
+    "name": "Syria One",
+    "iptv_urls": [
+      "https://live.syriaone.tv/live/syriaone.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",

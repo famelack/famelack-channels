@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "kI0G64o9JI8Am6",
+    "name": "América Estéreo Guayaquil",
+    "iptv_urls": [
+      "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ac84yC8dTLNOrh",
     "name": "América Estéreo Ibarra",
     "iptv_urls": [
@@ -92,17 +103,6 @@
     "name": "Clic TV",
     "iptv_urls": [
       "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvYhuImFYPqlJm",
-    "name": "Curiquingue TV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/pjtv/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -451,6 +451,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PZkl1QNtloGB1B",
+    "name": "Radio Impacto 2",
+    "iptv_urls": [
+      "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QpaipzMOWMjyyR",
     "name": "Radio Monumental TV",
     "iptv_urls": [
@@ -543,6 +554,17 @@
     "name": "Telerama",
     "iptv_urls": [
       "https://play.once.net.ec/telerama/live.tv/538.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CY38SV2i5DFUTV",
+    "name": "TV Cisne",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/tvcisne/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

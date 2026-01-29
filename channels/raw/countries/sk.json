@@ -5,7 +5,20 @@
     "iptv_urls": [
       "https://fs3.kabelko.sk/9011/index.m3u8?token=btv"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
+    ],
+    "language": "slk",
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zO4DDyplOGEqbh",
+    "name": "Česko-Slovenská regionálna televízia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/M3RuL2C3mkY"
+    ],
     "language": "slk",
     "country": "sk",
     "isGeoBlocked": false
@@ -137,7 +150,7 @@
     "name": "TV Nitra",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OGrDl18mzR8"
+      "https://www.youtube-nocookie.com/embed/q8xCorgdQls"
     ],
     "language": "slk",
     "country": "sk",

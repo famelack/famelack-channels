@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PH6tIpFUWHe706",
+    "name": "Cherniveckiy promin",
+    "iptv_urls": [
+      "https://langate.tv/promin/live_720/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OTZ19e4QL89Emf",
     "name": "Espreso",
     "iptv_urls": [],
@@ -85,6 +96,17 @@
       "https://www.youtube-nocookie.com/embed/ooJJSOlJZPQ"
     ],
     "language": "rus",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -144,6 +166,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
+    "iptv_urls": [
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hthUrV2rQO5a6H",
     "name": "Ланет.TV",
     "iptv_urls": [
@@ -151,6 +184,17 @@
     ],
     "youtube_urls": [],
     "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8guglX3waEEweH",
+    "name": "Луганск 24",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },

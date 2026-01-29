@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -132,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tANS8F526JB5KR",
+    "name": "Canal Catorce",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tQVIIfEO1Yp8dW",
     "name": "Canal Educação",
     "iptv_urls": [
@@ -217,6 +217,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BFZswU8rLJZ6jx",
+    "name": "Da Vinci Asia Vietnam",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -573,17 +584,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "iptv_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "iptv_urls": [
@@ -614,17 +614,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dzZhPTRLU6fXlS",
-    "name": "KITE Victers (Kerala)",
-    "iptv_urls": [
-      "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -680,6 +669,17 @@
     ],
     "language": "en",
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xx7eina1wOQhnp",
+    "name": "MCN6 Arts Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -959,17 +959,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zx4QUgECtSYJoe",
-    "name": "SET Televisión Canal 26.2",
-    "iptv_urls": [
-      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PNF9zodERQr3Zm",
     "name": "SQOOL TV",
     "iptv_urls": [],
@@ -1011,6 +1000,28 @@
     "youtube_urls": [],
     "language": "yua",
     "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DCzhAOMfIMF2kt",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g7YtvRUN199O67",
+    "name": "TV UG",
+    "iptv_urls": [
+      "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

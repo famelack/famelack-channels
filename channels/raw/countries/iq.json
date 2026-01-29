@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I677KvGkPDPSil",
-    "name": "Avar TV",
-    "iptv_urls": [
-      "https://avr.host247.net/live/AvarTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RgXZMyE6SkTLbW",
     "name": "Bayyinat TV",
     "iptv_urls": [
@@ -271,6 +260,17 @@
     ],
     "youtube_urls": [],
     "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pWcgyQ1N65tvlP",
+    "name": "Marjaeyat TV English",
+    "iptv_urls": [
+      "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "iq",
     "isGeoBlocked": false
   },

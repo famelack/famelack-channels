@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V2jhlDKprnTsvi",
+    "name": "Aftab",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "N8rJFe0bydU52L",
     "name": "Al Alam",
     "iptv_urls": [
@@ -868,6 +879,17 @@
     ],
     "youtube_urls": [],
     "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hukeqny6nOwPuT",
+    "name": "WiseHumanTv",
+    "iptv_urls": [
+      "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "far",
     "country": "ir",
     "isGeoBlocked": false
   },

@@ -22,11 +22,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t9oYt4NY18iZul",
+    "name": "Anime Vanguard Live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/--e7nOKdF4Y"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7ww4XqjlIRbeax",
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gdn2ah6juP4"
+      "https://www.youtube-nocookie.com/embed/sZgkH8IgveM"
     ],
     "language": "jpn",
     "country": "jp",
@@ -70,7 +81,7 @@
     "name": "HBC Hokkaido News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tZ-7E84cex0"
+      "https://www.youtube-nocookie.com/embed/IzgyqPSPiZs"
     ],
     "language": "jpn",
     "country": "jp",
@@ -271,7 +282,7 @@
     "name": "RKB News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XlfKmntv334"
+      "https://www.youtube-nocookie.com/embed/W-VWujE8fUk"
     ],
     "language": "jpn",
     "country": "jp",

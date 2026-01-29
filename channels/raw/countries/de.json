@@ -244,6 +244,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BFZswU8rLJZ6jx",
+    "name": "Da Vinci Asia Vietnam",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qoUi19GadclN5O",
     "name": "Dark Monkey Music: Dark Minimal Techno",
     "iptv_urls": [],
@@ -296,6 +307,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "iptv_urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1022,7 +1044,8 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1478,6 +1501,17 @@
     "name": "SWR 3 Visual Radio",
     "iptv_urls": [
       "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fcxGwPv42vZBEZ",
+    "name": "SWR Fernsehen Baden-Württemberg",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

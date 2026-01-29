@@ -180,7 +180,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OkLTT3C-JrY"
+      "https://www.youtube-nocookie.com/embed/C7MCFwl0EYM"
     ],
     "language": "spa",
     "country": "cl",
@@ -286,17 +286,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k8mitUmGi9GKFi",
-    "name": "Hiperconectados TV",
-    "iptv_urls": [
-      "https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nG7lFRDfSfbs7Z",
     "name": "Holvoet TV (Copiapó)",
     "iptv_urls": [
@@ -356,19 +345,8 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6TQKAha_mCM"
+      "https://www.youtube-nocookie.com/embed/DI-PBiuNegY"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rFCQYWbNPQlvWE",
-    "name": "MTNA TV",
-    "iptv_urls": [
-      "https://live.mtna.tv/hls/mtna/mtna.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -442,6 +420,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G45spfYKl3BXh4",
+    "name": "Radio Ritmo",
+    "iptv_urls": [
+      "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jjgl7AaKfJq0wX",
     "name": "Santa María Televisión",
     "iptv_urls": [
@@ -502,6 +491,17 @@
     "name": "Teletrak",
     "iptv_urls": [
       "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v7CKSlcO8gjGok",
+    "name": "Televida",
+    "iptv_urls": [
+      "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -642,6 +642,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uiKxEXDS2qwujf",
+    "name": "U Los Lagos TV",
+    "iptv_urls": [
+      "https://tv.ulagos.cl/web/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "iptv_urls": [
@@ -691,6 +702,17 @@
     "name": "V Classic TV",
     "iptv_urls": [
       "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y2Z36ASHb1vcNr",
+    "name": "VC Online",
+    "iptv_urls": [
+      "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -419,10 +419,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CVYe8DrHATgn7K",
-    "name": "MBC Daejeon (대전 MBC)",
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
     "iptv_urls": [
-      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -456,17 +456,6 @@
     "name": "NBS Korea Agricultural Broadcasting",
     "iptv_urls": [
       "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",

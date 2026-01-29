@@ -253,11 +253,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IC0ZQA3k7HadtW",
+    "name": "SBB TV",
+    "iptv_urls": [
+      "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "olJQmVUDZgXj1I",
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uswjIZPVIjg"
+      "https://www.youtube-nocookie.com/embed/aTiBLKBze-Q"
     ],
     "language": "tha",
     "country": "th",

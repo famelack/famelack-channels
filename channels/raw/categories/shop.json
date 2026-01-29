@@ -22,6 +22,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rtbi6hxyaPNSIn",
+    "name": "1001 Noites",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ugGAivxJyE8GHx",
+    "name": "AAC Television",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Gzk4nIsS8lA"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4ekttMMc8433us",
     "name": "Bajo Techo TV",
     "iptv_urls": [
@@ -70,10 +92,21 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d5bd8akfN_U"
+      "https://www.youtube-nocookie.com/embed/p6Vb0PySgfM"
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xmY4LNJLvgs"
+    ],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -499,17 +532,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "iptv_urls": [
@@ -672,17 +694,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2KW40anjWLCRfl",
-    "name": "QVC UK Main",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UYK2TgbryIQ"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "59zGwpG017YKqC",
     "name": "QVC UK Style",
     "iptv_urls": [
@@ -788,7 +799,7 @@
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uswjIZPVIjg"
+      "https://www.youtube-nocookie.com/embed/aTiBLKBze-Q"
     ],
     "language": "tha",
     "country": "th",

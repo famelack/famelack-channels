@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "2tp833lGzFxz2d",
+    "name": "7 Info",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/H0jQ-ZZmcUY"
+    ],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xj2GFZU6zN73OD",
     "name": "A12 TV",
     "iptv_urls": [
@@ -16,6 +27,17 @@
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
       "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -82,6 +104,17 @@
     "name": "Ivoire Channel",
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xwOsuFtBBGFvEi",
+    "name": "Life TV",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

@@ -443,6 +443,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "m1kQrT2eTe8gD4",
+    "name": "Canal J HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EkY9zx4VMcKvJa",
+    "name": "Canal+",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RMbGSeJmY7CCNa",
     "name": "Cannes Lérins TV",
     "iptv_urls": [
@@ -1151,7 +1173,7 @@
     "name": "Mosaïk Cristal",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pYT4cpgxZKQ"
+      "https://www.youtube-nocookie.com/embed/n87X5fIMPa0"
     ],
     "language": "fra",
     "country": "fr",
@@ -1184,6 +1206,17 @@
     "name": "MTV",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1521,6 +1554,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "iptv_urls": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iLva87P8XGqzZK",
     "name": "Rakuten TV Films Romance",
     "iptv_urls": [
@@ -1536,17 +1580,6 @@
     "name": "Rakuten TV Films Thriller",
     "iptv_urls": [
       "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
-    "iptv_urls": [
-      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1668,7 +1701,8 @@
     "nanoid": "bcMCtiQR1EZ7L7",
     "name": "Sony One Hits Action",
     "iptv_urls": [
-      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

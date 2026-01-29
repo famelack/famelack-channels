@@ -22,28 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WAGlEl54HjyWyD",
-    "name": "Géopolis TV",
-    "iptv_urls": [
-      "https://tnt-television.com/Geopolis_tv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UzHYdyET8p8TTx",
-    "name": "La Sentinelle TV",
-    "iptv_urls": [
-      "https://tnt-television.com/LA_SENTINELLE/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6HjiInfkoOCTQt",
     "name": "LBFD RTV",
     "iptv_urls": [

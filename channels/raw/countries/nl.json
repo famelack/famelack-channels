@@ -458,18 +458,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aoSCyrpFifrtBu",
-    "name": "Omroep Tilburg",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bdau2PmcqBuaNs",
     "name": "Omroep Venlo",
     "iptv_urls": [
@@ -881,6 +869,17 @@
     "name": "Salto 2",
     "iptv_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EEWgpub612Jk4L",
+    "name": "Salto Brasa Music",
+    "iptv_urls": [
+      "https://salto-streams.nl/hls/sotv1.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

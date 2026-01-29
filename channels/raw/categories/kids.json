@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EgspbzPRaIJYXi",
+    "name": "ADO TV",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "iptv_urls": [
@@ -188,6 +199,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L2FPG37MOC7Wok",
+    "name": "Bolajon",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1007/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yT2qXVsXTTrUep",
     "name": "Boomerang: Best Cartoons Ever",
     "iptv_urls": [],
@@ -241,6 +263,28 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m1kQrT2eTe8gD4",
+    "name": "Canal J HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics",
+    "iptv_urls": [
+      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -619,6 +663,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AtIW8Vn8QSQ"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OXrSvXG0IZZsyw",
     "name": "Gulli",
     "iptv_urls": [
@@ -842,6 +897,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DdiVuOolojZUS0",
+    "name": "MCN6 Music Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QCmvdu32Qo7gos",
     "name": "momokids親子台: 1",
     "iptv_urls": [],
@@ -905,17 +971,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LZif3PhiUHUfCZ",
-    "name": "Nei Monggol TV Children Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686560464515368.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -1099,7 +1154,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IRJbnhbuFHQ"
+      "https://www.youtube-nocookie.com/embed/eKBsKpu5W1I"
     ],
     "language": "por",
     "country": "br",
@@ -1272,6 +1327,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/APy4NmcLotY"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdyuPfPjDfUi5s",
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
@@ -1313,17 +1379,6 @@
     ],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m5MgU7qKVzOReb",
-    "name": "The Smurfs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xly9gpBIRx8"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1393,6 +1448,17 @@
     ],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bqJWjkuxMfJzes",
+    "name": "Totally Spies!: Season 1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nZ6FH-kySpM"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1721,7 +1787,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7NSAI3fcgNA"
+      "https://www.youtube-nocookie.com/embed/UQwOpO7MKoM"
     ],
     "language": "zho",
     "country": "cn",

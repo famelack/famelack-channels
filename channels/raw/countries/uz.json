@@ -33,10 +33,209 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L2FPG37MOC7Wok",
+    "name": "Bolajon",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1007/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WM8ZbaFb6rajI2",
+    "name": "Dasturxon TV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OSYyq5HUKntW2J",
+    "name": "Dunyo bo'ylab",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Et7cnSonRNZOTr",
+    "name": "FTV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1018/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GwTrM0kpZSwLus",
+    "name": "Kinoteatr",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4KBxiRcgFIxIJ",
+    "name": "Madaniyat va ma'rifat",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hwlcVEv18NkxUy",
+    "name": "Mahalla",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mktyzJuOjzCG0D",
+    "name": "Milliy",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cJnlIEpP8bVOtB",
     "name": "MY5",
     "iptv_urls": [
+      "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
       "https://st.my5.media/hls/hd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zg76XEhs4aE3Qh",
+    "name": "Navo",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3aVcjaCk9E1yIS",
+    "name": "O'zbekiston",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T9ZAEs0iIDmcBM",
+    "name": "O'zbekiston 24",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5dGASmS4TNjspn",
+    "name": "O'zbekiston Tarixi",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OalhiPVroO7djL",
+    "name": "Renessans TV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEFRovhmEVfGx8",
+    "name": "Sevimli TV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w0tjxb3dHX6Fls",
+    "name": "Toshkent",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CrkyvIQRNatExy",
+    "name": "UzReport TV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OUiyKTTPTYttWN",
+    "name": "Yoshlar",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y67heKltErviMJ",
+    "name": "Zo'r TV",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "uzb",

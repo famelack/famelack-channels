@@ -34,6 +34,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EgGzxbZMFfzTB1",
+    "name": "Fun Roads TV",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4Jx43q3AoFe9Yv",
     "name": "Garage TV Latin America",
     "iptv_urls": [

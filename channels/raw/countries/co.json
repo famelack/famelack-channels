@@ -90,6 +90,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
+    "iptv_urls": [
+      "https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JjVGVjzCa9hXFe",
     "name": "Canal Más Televisión",
     "iptv_urls": [
@@ -249,17 +260,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xEQPATgrEtFIdJ",
-    "name": "Cosmovision",
-    "iptv_urls": [
-      "https://videohls2.cosmovision.tv/hls/sd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DwSLx6TiuTvrUw",
     "name": "Cúcuta Retro TV",
     "iptv_urls": [
@@ -393,6 +393,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZBrkRLlKR8dvbe",
+    "name": "NSTV",
+    "iptv_urls": [
+      "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p54OBJMG5m0fdl",
     "name": "Oasis TV",
     "iptv_urls": [
@@ -419,6 +430,17 @@
     "name": "Parranda Vallenata",
     "iptv_urls": [
       "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iEaQZyuCD9tKa4",
+    "name": "Red+",
+    "iptv_urls": [
+      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

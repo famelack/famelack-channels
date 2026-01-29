@@ -187,17 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zDKLyejwE1rn3b",
-    "name": "HBTV TicaVisión",
-    "iptv_urls": [
-      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "iptv_urls": [
@@ -220,12 +209,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fNzNQyxrdQA2dG",
-    "name": "Multimedios Costa Rica",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ycvzWZKw6y8"
+    "nanoid": "RdxKyXaV9qtXPb",
+    "name": "Luz Naciente TV",
+    "iptv_urls": [
+      "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
@@ -257,6 +246,17 @@
     "name": "Radio Turrialba TV Sports",
     "iptv_urls": [
       "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SI3nWhyuVnROLX",
+    "name": "RTV Chirripó",
+    "iptv_urls": [
+      "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -345,6 +345,17 @@
     "name": "TeleSUR Costa Rica",
     "iptv_urls": [
       "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "iptv_urls": [
+      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

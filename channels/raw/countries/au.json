@@ -330,17 +330,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rh2TMvjYLEWCNX",
-    "name": "Real Crime",
-    "iptv_urls": [
-      "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "86AfUT4ix8tXB4",
     "name": "Sky News Extra 1",
     "iptv_urls": [

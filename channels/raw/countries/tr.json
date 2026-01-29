@@ -218,7 +218,7 @@
     "name": "BENGÜTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5xeZ5ELEj2c"
+      "https://www.youtube-nocookie.com/embed/W1eNOa-M8_k"
     ],
     "language": "tur",
     "country": "tr",
@@ -448,17 +448,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aUMgSxs4t83jMD",
-    "name": "Emret Komutanım",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dly2P8wDvzc"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1A2erLQOFNcUDv",
     "name": "Er TV",
     "iptv_urls": [
@@ -608,17 +597,6 @@
       "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I6D9IHQIDu6y7l",
-    "name": "Güldür Güldür Show",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/js9TyS-tojY"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -817,17 +795,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bRsKMoXGrApX11",
-    "name": "Kanal 32",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F2Mb6ARE1l9qx2",
     "name": "Kanal 33",
     "iptv_urls": [
@@ -887,17 +854,6 @@
     "name": "Kanal Z",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A53cM6q7z6k310",
-    "name": "Kardelen TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1064,6 +1020,17 @@
     "name": "Mercan TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lm6hIGSOHhNu9y",
+    "name": "MTürk TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

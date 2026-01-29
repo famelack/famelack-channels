@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pro30kPCL5sW43",
     "name": "7 YOU & ME",
     "iptv_urls": [
@@ -1142,12 +1131,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BrUItO0WZIpStG",
+    "name": "Rai 2 HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gb89vMj4sSblmg",
     "name": "Rai 3",
     "iptv_urls": [
       "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
-      "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+      "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+      "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1166,10 +1167,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uTEmKp38xfCbTX",
+    "name": "Rai News 24 HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OXGlbL1GPOcQMj",
     "name": "Rai Scuola HD",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KUhdhVQJTBGWTa",
+    "name": "Rai Sport HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "prbb4O1Ce2d4FE",
+    "name": "Rai Storia HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1247,17 +1281,6 @@
     "name": "Rete 8",
     "iptv_urls": [
       "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QvdvQfwSEIHtyg",
-    "name": "Rete Biella TV",
-    "iptv_urls": [
-      "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1509,17 +1532,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jHr3gQHmtG7nGu",
-    "name": "T9",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TapdG3gwdyMX3z",
     "name": "Taurianova TV",
     "iptv_urls": [
@@ -1725,17 +1737,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fPi31GojXVdhWd",
-    "name": "TeleRegione 118",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "it",
     "isGeoBlocked": false
   },

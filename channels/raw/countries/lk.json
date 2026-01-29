@@ -44,11 +44,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "84MzFsqan8hkeY",
-    "name": "LiveFM Sri Lanka",
+    "nanoid": "GqCp27T0s0lfCz",
+    "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8Ik4mWvP_2I"
+      "https://www.youtube-nocookie.com/embed/Ojo77geBi1k"
     ],
     "language": "sin",
     "country": "lk",
@@ -62,17 +62,6 @@
     ],
     "youtube_urls": [],
     "language": "tam",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2kFmLsUZ8zPq3c",
-    "name": "Newsfirst Sri Lanka",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BCOIgrrs3eA"
-    ],
-    "language": "sin",
     "country": "lk",
     "isGeoBlocked": false
   },
@@ -147,7 +136,7 @@
     "name": "TV Derana",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TGWPpDHXPQo"
+      "https://www.youtube-nocookie.com/embed/_4R_mNY6AmU"
     ],
     "language": "sin",
     "country": "lk",

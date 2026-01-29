@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Беларусь 5",
     "iptv_urls": [
@@ -30,17 +41,6 @@
       "https://www.youtube-nocookie.com/embed/YA9ukP4k_Fk"
     ],
     "language": "bel",
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3JXXlLC1vPc63n",
-    "name": "ОНТ",
-    "iptv_urls": [
-      "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "by",
     "isGeoBlocked": false
   },

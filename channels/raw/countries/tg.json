@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nN6XpsyJ7rKqSF",
-    "name": "RT JVA",
-    "iptv_urls": [
-      "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9SSAW7tNi1dY8x",
     "name": "Television Espoir 47",
     "iptv_urls": [

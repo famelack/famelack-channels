@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tn94bXCcZQXp4I",
     "name": "Al Arabiya Programs",
     "iptv_urls": [
@@ -26,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gdn2ah6juP4"
+      "https://www.youtube-nocookie.com/embed/sZgkH8IgveM"
     ],
     "language": "jpn",
     "country": "jp",
@@ -369,6 +358,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5dGASmS4TNjspn",
+    "name": "O'zbekiston Tarixi",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
     "isGeoBlocked": false
   },
   {

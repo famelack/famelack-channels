@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z7zMm8Am4tFsxt",
-    "name": "Evrokom",
-    "iptv_urls": [
-      "https://live.ecomservice.bg/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "bul",
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xb56fwuwQyeFpw",
     "name": "Hope Channel Bulgaria",
     "iptv_urls": [

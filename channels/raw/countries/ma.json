@@ -26,8 +26,7 @@
     "name": "Chada TV",
     "iptv_urls": [
       "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
-      "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
-      "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8"
+      "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
