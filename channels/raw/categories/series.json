@@ -211,17 +211,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "iptv_urls": [
@@ -505,7 +494,7 @@
     "name": "Shout! Studios: Renegade",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fqT7P7a0nzQ"
+      "https://www.youtube-nocookie.com/embed/gMHhrzxwSPI"
     ],
     "language": "eng",
     "country": "us",
@@ -604,7 +593,7 @@
     "name": "TokuSHOUTsu: Kyōryū Sentai Zyuranger",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GGddH6epzq4"
+      "https://www.youtube-nocookie.com/embed/_Z3r_kdiuaA"
     ],
     "language": "jpn",
     "country": "us",

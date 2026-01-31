@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KkvzBOfkpT1wPr",
-    "name": "Al Ittihad",
-    "iptv_urls": [
-      "https://live.alittihad.tv:444/ittihad/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RKYxMTuqjzOP53",
     "name": "Al Manar",
     "iptv_urls": [

@@ -22,6 +22,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "iptv_urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OBFGqgcPLTbi6p",
     "name": "Canal 21 Táchira",
     "iptv_urls": [
@@ -66,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gKZyGzv7VMGeI2",
-    "name": "Grande TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
     "iptv_urls": [
@@ -92,6 +103,17 @@
     "name": "interTV",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uShK1SgZwLoTJ4",
+    "name": "Isla TV",
+    "iptv_urls": [
+      "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -136,17 +158,6 @@
     "name": "Más Talk",
     "iptv_urls": [
       "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -202,17 +213,6 @@
     "name": "Reforma TV",
     "iptv_urls": [
       "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8UCD3Qx8hCNOEd",
-    "name": "Siembra TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -342,10 +342,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
+    "nanoid": "MfZl15TXWaHOGI",
+    "name": "TRV",
     "iptv_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -353,10 +353,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MfZl15TXWaHOGI",
-    "name": "TRV",
+    "nanoid": "Z9rhVuP0JaTo3P",
+    "name": "TV FANB",
     "iptv_urls": [
-      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
+      "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -11,21 +11,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3LwrECAb6nB7EL",
-    "name": "1Twente TV",
-    "iptv_urls": [
-      "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VW5KCkVwmL5Q1A",
     "name": "A1 TV",
     "iptv_urls": [
-      "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
       "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
     ],
     "youtube_urls": [],
@@ -82,18 +70,6 @@
     "name": "BVN",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uOcj7SNsYLGnvO",
-    "name": "Dit is Helmond",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
-      "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -178,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vZH696VcUAzk3F",
-    "name": "Ideaal TV",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2ioy8BcEUEsaqv",
     "name": "INFAST",
     "iptv_urls": [
@@ -237,18 +202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaumigPirXIG5i",
-    "name": "KempenTV",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SyIDheQRCSJULV",
     "name": "L1mburg TV",
     "iptv_urls": [
@@ -264,28 +217,6 @@
     "name": "Langstraat TV",
     "iptv_urls": [
       "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "43nlqCsPfKQWwb",
-    "name": "Lansingerland TV",
-    "iptv_urls": [
-      "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gqyZpR9ps80qVG",
-    "name": "LEO Middelsé TV",
-    "iptv_urls": [
-      "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -414,28 +345,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVNirP7LjuoIoN",
-    "name": "Omroep Hulst TV",
-    "iptv_urls": [
-      "https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "iptv_urls": [
@@ -451,18 +360,6 @@
     "name": "Omroep Súdwest",
     "iptv_urls": [
       "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aoSCyrpFifrtBu",
-    "name": "Omroep Tilburg",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -529,28 +426,6 @@
     "name": "OOG TV",
     "iptv_urls": [
       "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v4lxsFawlDWyOD",
-    "name": "Open Rotterdam",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eFozWtc9ctVlJw",
-    "name": "ORTS",
-    "iptv_urls": [
-      "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -635,28 +510,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BpeFMfOm7AkYwU",
-    "name": "Regio90 TV",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bzhuoIIHDSQpOH",
-    "name": "Rotterdam Podium TV",
-    "iptv_urls": [
-      "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wypSVAbA0JFPBr",
     "name": "RPL TV Woerden",
     "iptv_urls": [
@@ -734,17 +587,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C71GWjbjSGWJXa",
-    "name": "RTV Nunspeet",
-    "iptv_urls": [
-      "https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
     "iptv_urls": [
@@ -760,17 +602,6 @@
     "name": "RTV Parkstad",
     "iptv_urls": [
       "https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MOZ6D8VfrxOi60",
-    "name": "RTV Purmerend",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -892,6 +723,17 @@
     "name": "Salto Brasa Music",
     "iptv_urls": [
       "https://salto-streams.nl/hls/sotv1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Arhd6FvJ684mYa",
+    "name": "Salto MaLive",
+    "iptv_urls": [
+      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -1153,17 +995,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i2GpEeoaXxzJ13",
-    "name": "Vechtdal TV",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8x4Pl6hI5XunaS",
     "name": "Waterbear",
     "iptv_urls": [
@@ -1197,19 +1028,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kZctHcNGqGr4Cb",
-    "name": "WOS TV",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zc9qOiJNX7q0Hk",
     "name": "XITE Rock x Metal",
     "iptv_urls": [
@@ -1217,6 +1035,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lVcADaz4AhkZNS",
+    "name": "ZFM Zoetermeer",
+    "iptv_urls": [
+      "https://zfmzoetermeer.nl/live/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
     "country": "nl",
     "isGeoBlocked": false
   },

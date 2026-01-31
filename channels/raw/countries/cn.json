@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "75FbucgZ55jtlf",
-    "name": "Bread TV面包台",
-    "iptv_urls": [
-      "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cmn",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1ygWi2hNNf9GHE",
     "name": "CCTV-4 Europe",
     "iptv_urls": [
@@ -115,17 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "80A3hcdzwaIxat",
-    "name": "CGTN Español",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5O0abVheHGQ"
-    ],
-    "language": "spa",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HWaY4PvApDJTzN",
     "name": "CGTN Europe",
     "iptv_urls": [],
@@ -197,6 +175,17 @@
     "name": "Harbin Comprehensive News Channel",
     "iptv_urls": [
       "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7Hsc69UuEllEuA",
+    "name": "Harbin Movie Channel",
+    "iptv_urls": [
+      "https://stream.hrbtv.net/yspd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -506,7 +495,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fU9t0hIYiYY"
+      "https://www.youtube-nocookie.com/embed/QIHbdTkurDY"
     ],
     "language": "zho",
     "country": "cn",
@@ -627,6 +616,17 @@
     "name": "浙江民生",
     "iptv_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bed0qZJ8Xu4Wrw",
+    "name": "浙江经济",
+    "iptv_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

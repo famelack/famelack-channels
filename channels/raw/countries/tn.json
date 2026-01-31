@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "PJNGWLztLvRiLZ",
+    "name": "Jawhara TV",
+    "iptv_urls": [
+      "https://streaming.toutech.net/live/jtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "tn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0vWRP5qYJXkBiC",
     "name": "Mosaique FM",
     "iptv_urls": [
@@ -15,7 +26,7 @@
     "name": "Watania Replay",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/r10V4ZAbOz8"
+      "https://www.youtube-nocookie.com/embed/8yVqLiQ1VQ4"
     ],
     "language": "ara",
     "country": "tn",
@@ -26,7 +37,7 @@
     "name": "Watania2 Replay",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zpI-P6uQzP4"
+      "https://www.youtube-nocookie.com/embed/cCYXSpZ1bw4"
     ],
     "language": "ara",
     "country": "tn",

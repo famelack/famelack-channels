@@ -15,7 +15,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4fapnqtB5Qw"
+      "https://www.youtube-nocookie.com/embed/y5CsymXNKYs"
     ],
     "language": "vie",
     "country": "vn",
@@ -37,6 +37,17 @@
     "name": "Ha Tinh TV",
     "iptv_urls": [
       "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QnYbafq8SSO9v0",
+    "name": "HanoiTV1",
+    "iptv_urls": [
+      "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -125,17 +136,6 @@
     "name": "VTV5 Tây Nam Bộ HD",
     "iptv_urls": [
       "https://liveh12.vtvprime.vn/hls/VTV5_TNB/04.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LnNxUYwOX2EV41",
-    "name": "VTV5 Tây Nguyên HD",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

@@ -147,17 +147,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tH0PM0L3QcvXyJ",
-    "name": "BBC Lifestyle Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "iptv_urls": [
@@ -551,17 +540,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "iptv_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "iptv_urls": [
@@ -581,17 +559,6 @@
       "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/knMnhRhgGlo"
-    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1297,6 +1264,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "73nv1GppLgBbPp",
+    "name": "Shaun the Sheep & Friends",
+    "iptv_urls": [
+      "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Kfvf3u3DJLtcM5",
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
@@ -1545,7 +1523,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/myzZycqgRvI"
+      "https://www.youtube-nocookie.com/embed/tA9XfjiuGR4"
     ],
     "language": "eng",
     "country": "uk",

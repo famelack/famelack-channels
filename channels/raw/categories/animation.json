@@ -441,6 +441,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "73nv1GppLgBbPp",
+    "name": "Shaun the Sheep & Friends",
+    "iptv_urls": [
+      "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Kfvf3u3DJLtcM5",
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],

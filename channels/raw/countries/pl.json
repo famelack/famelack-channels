@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "lfimm51DMJXDoq",
-    "name": "2x2",
-    "iptv_urls": [
-      "https://liveovh011.cda.pl/enc117/2x2hdraw/2x2hdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eUdFR37xIskeb6",
     "name": "4 Fun Kids (576i) []",
     "iptv_urls": [
@@ -41,17 +30,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5LVlwvpbjbu5ke",
-    "name": "Antena HD",
-    "iptv_urls": [
-      "https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -115,39 +93,6 @@
     "name": "Car City Adventures",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4O4S2AAQP6gIje",
-    "name": "Comedy Central",
-    "iptv_urls": [
-      "https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bJxDHX8fT3Na8R",
-    "name": "Disney Channel",
-    "iptv_urls": [
-      "https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "iptv_urls": [
-      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -221,17 +166,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FxS0TJ1Lw4nfFa",
-    "name": "Junior Music HD",
-    "iptv_urls": [
-      "https://liveovh011.cda.pl/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "iptv_urls": [],
@@ -254,32 +188,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0sTieNHH5vCr72",
-    "name": "Motowizja",
-    "iptv_urls": [
-      "https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lgqzeQFxqCN8jW",
     "name": "NewTV",
     "iptv_urls": [
-      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IPiyON07d4yY0e",
-    "name": "Power TV",
-    "iptv_urls": [
-      "https://liveovh009.cda.pl/enc120/powertvhdraw/powertvhdraw.m3u8"
+      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+      "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -324,6 +237,17 @@
     "name": "Royalworld",
     "iptv_urls": [
       "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "coRLnGknftkVsQ",
+    "name": "Sfera TV",
+    "iptv_urls": [
+      "https://stream.sferatv.pl/sferatvlive/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -403,6 +327,17 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/--xNdUwxDfc"
+    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -562,28 +497,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SfhuUEazfjthW",
-    "name": "TV Relax",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y6e8AolaA9Q"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Prd5njCA48tIne",
-    "name": "TVC (1080i)",
-    "iptv_urls": [
-      "https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aY6u7qwNMI1Wgm",
     "name": "TVK Stella",
     "iptv_urls": [
@@ -632,9 +545,7 @@
     "nanoid": "XOB3inPkwkHuWb",
     "name": "TVP1",
     "iptv_urls": [
-      "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
-      "https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8",
-      "https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8"
+      "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -642,10 +553,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ivWRsXTYxcLPRQ",
-    "name": "TVP2",
+    "nanoid": "4UCysSCkmhRS1I",
+    "name": "TVS",
     "iptv_urls": [
-      "https://liveovh011.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8"
+      "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -682,17 +593,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Xbyv5nbzKrN69d",
-    "name": "WP TV",
-    "iptv_urls": [
-      "https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },

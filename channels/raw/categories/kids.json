@@ -170,7 +170,7 @@
     "name": "Bluey - Español Canal Oficial",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Cyr9vwWrJ74"
+      "https://www.youtube-nocookie.com/embed/ItJSLtn5gT4"
     ],
     "language": "spa",
     "country": "es",
@@ -450,17 +450,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bJxDHX8fT3Na8R",
-    "name": "Disney Channel",
-    "iptv_urls": [
-      "https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -868,7 +857,7 @@
     "name": "Lou!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ITU0x291Vmw"
+      "https://www.youtube-nocookie.com/embed/EH9Nce44Lvo"
     ],
     "language": "fra",
     "country": "fr",
@@ -1132,7 +1121,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GR-F6qX_M0A"
+      "https://www.youtube-nocookie.com/embed/JQSs87JVS1A"
     ],
     "language": "por",
     "country": "br",
@@ -1294,6 +1283,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "73nv1GppLgBbPp",
+    "name": "Shaun the Sheep & Friends",
+    "iptv_urls": [
+      "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "45hCYJB6fNJQh7",
     "name": "SKWAD",
     "iptv_urls": [
@@ -1320,7 +1320,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/h0w0ifzyowU"
+      "https://www.youtube-nocookie.com/embed/F5hgf7UYsl0"
     ],
     "language": "eng",
     "country": "us",
@@ -1379,17 +1379,6 @@
     ],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m5MgU7qKVzOReb",
-    "name": "The Smurfs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QmqtbOO15hI"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1598,7 +1587,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/myzZycqgRvI"
+      "https://www.youtube-nocookie.com/embed/tA9XfjiuGR4"
     ],
     "language": "eng",
     "country": "uk",
@@ -1638,17 +1627,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
-    "iptv_urls": [
-      "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "iptv_urls": [],
@@ -1657,17 +1635,6 @@
     ],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "80O6JyPLhgKHVd",
-    "name": "ZooMoo Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
     "isGeoBlocked": false
   },
   {
@@ -1798,7 +1765,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fU9t0hIYiYY"
+      "https://www.youtube-nocookie.com/embed/QIHbdTkurDY"
     ],
     "language": "zho",
     "country": "cn",

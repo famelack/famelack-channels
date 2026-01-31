@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/knMnhRhgGlo"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "iptv_urls": [
@@ -75,17 +64,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0sTieNHH5vCr72",
-    "name": "Motowizja",
-    "iptv_urls": [
-      "https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
     "isGeoBlocked": false
   },
   {

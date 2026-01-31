@@ -410,6 +410,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0RyvSnHcZVz1gC",
+    "name": "Duma TV",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RHm7b5JVxj4i8h",
     "name": "Escambia County TV ECTV (Escambia County FL)",
     "iptv_urls": [
@@ -656,6 +668,17 @@
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
       "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1155,7 +1178,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cAQdDB6o-6w"
+      "https://www.youtube-nocookie.com/embed/-ceLu7m89So"
     ],
     "language": "por",
     "country": "br",

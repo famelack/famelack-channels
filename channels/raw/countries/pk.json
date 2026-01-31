@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dgH0uCMFPC8"
+      "https://www.youtube-nocookie.com/embed/P3LfA-Fkk3g"
     ],
     "language": "urd",
     "country": "pk",
@@ -48,7 +48,7 @@
     "name": "ARY News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BahBc-d1jCc"
+      "https://www.youtube-nocookie.com/embed/BnlQD5g4qQ8"
     ],
     "language": "urd",
     "country": "pk",
@@ -280,17 +280,6 @@
     "name": "Grace Network",
     "iptv_urls": [
       "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WknJSHyVxUbWNW",
-    "name": "HarPal Geo",
-    "iptv_urls": [
-      "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "urd",

@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ye9TjeZb17m8NT",
+    "name": "RTV AS",
+    "iptv_urls": [
+      "https://srv1.adriatelekom.com/TVAS/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9igTbA8qhtc7eq",
     "name": "TDI Radio TV",
     "iptv_urls": [

@@ -31,16 +31,5 @@
     "language": "mya",
     "country": "mm",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9u1e1mR4BwFrA1",
-    "name": "MRTV 4",
-    "iptv_urls": [
-      "https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
-    "isGeoBlocked": false
   }
 ]

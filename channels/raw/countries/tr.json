@@ -357,17 +357,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5ZXjzA9WC4UY7k",
-    "name": "Çocuklar Duymasın",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mMZXYwQNb1Q"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SNI1pQ3Yqo2qGF",
     "name": "Deniz Postası TV",
     "iptv_urls": [
@@ -540,6 +529,17 @@
     "name": "Finans Turk TV",
     "iptv_urls": [
       "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WDQpCRq4dLb0NU",
+    "name": "Fortuna TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -784,6 +784,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bRsKMoXGrApX11",
+    "name": "Kanal 32",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F2Mb6ARE1l9qx2",
     "name": "Kanal 33",
     "iptv_urls": [
@@ -843,6 +854,17 @@
     "name": "Kanal Z",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A53cM6q7z6k310",
+    "name": "Kardelen TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1233,6 +1255,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
+    "iptv_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false

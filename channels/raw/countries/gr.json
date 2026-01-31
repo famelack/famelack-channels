@@ -143,10 +143,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BBnkN7RuoWZuoo",
-    "name": "Gnomi TV",
+    "nanoid": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
     "iptv_urls": [
-      "https://live.streams.ovh:8081/gnomitv/index.m3u8"
+      "https://s1.cystream.net/live/faros2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

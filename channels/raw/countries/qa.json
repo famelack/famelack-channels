@@ -31,6 +31,7 @@
     "iptv_urls": [
       "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
       "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+      "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
       "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
       "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
       "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8"

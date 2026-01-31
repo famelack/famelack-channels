@@ -495,6 +495,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0Vw6NdTRGURL25",
+    "name": "RTU",
+    "iptv_urls": [
+      "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GMkpwotjB860aV",
+    "name": "RTV Riobamba",
+    "iptv_urls": [
+      "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WCNgs5Fvq7rKOn",
     "name": "Señal Positiva TV",
     "iptv_urls": [

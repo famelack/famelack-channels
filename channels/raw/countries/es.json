@@ -228,7 +228,7 @@
     "name": "Bluey - Español Canal Oficial",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Cyr9vwWrJ74"
+      "https://www.youtube-nocookie.com/embed/ItJSLtn5gT4"
     ],
     "language": "spa",
     "country": "es",
@@ -434,17 +434,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CjjJWwnxdtJ1Na",
-    "name": "Canal San Roque",
-    "iptv_urls": [
-      "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wObfzBEicqKEBD",
     "name": "Canal Sierra de Cádiz",
     "iptv_urls": [
@@ -635,18 +624,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9xUZ9qtOT3ejC",
-    "name": "El 33 Originals",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IgIhtSlDnhWcsL",
     "name": "El Futuro En tu Mano",
     "iptv_urls": [],
@@ -710,6 +687,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mCiVfIGYDaqE2r",
+    "name": "EsTuTele",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -964,6 +952,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m1LaVg3IHystk9",
+    "name": "Love The Planet",
+    "iptv_urls": [
+      "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1298,6 +1297,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jLlxOKRQAsHJaj",
+    "name": "Rakuten TV Drama Movies Finland",
+    "iptv_urls": [
+      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EaeTZ1F3YbDKxk",
     "name": "Rakuten TV Drama Movies Germany",
     "iptv_urls": [
@@ -1397,32 +1407,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d9geI4ATc8cBPs",
-    "name": "Rakuten TV Nordic Films",
-    "iptv_urls": [
-      "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "azCmZT5s8W62Ny",
     "name": "Rakuten TV Romance Movies Spain",
     "iptv_urls": [
       "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
-    "iptv_urls": [
-      "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1437,17 +1425,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EXiybwWxfkY3Zj",
-    "name": "Rakuten TV Top Movies Finland",
-    "iptv_urls": [
-      "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1667,17 +1644,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/d1fgkjW9TP4"
     ],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "iptv_urls": [
-      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -1911,6 +1877,17 @@
     ],
     "youtube_urls": [],
     "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2uGXU96QMW7Acl",
+    "name": "Univers TV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

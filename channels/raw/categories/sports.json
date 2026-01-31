@@ -122,6 +122,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "iptv_urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v8Zzxjpx6SD9DW",
     "name": "ATG Live",
     "iptv_urls": [
@@ -338,7 +349,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4vDM28JVLvo"
+      "https://www.youtube-nocookie.com/embed/qusIaOaZHb0"
     ],
     "language": "eng",
     "country": "us",
@@ -565,17 +576,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -882,14 +882,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VAXyuQmSe3glBx",
-    "name": "Sportdigital FUSSBALL HD",
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
     "iptv_urls": [
-      "https://d162h6qqsk8wvl.cloudfront.net/8c880c40-991d-4253-aae9-754f1ed050ce/manifest.m3u8"
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
+    "language": "tur",
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -1124,17 +1124,6 @@
     "name": "TVS Turbo",
     "iptv_urls": [
       "https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "iptv_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

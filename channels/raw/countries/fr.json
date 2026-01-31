@@ -323,6 +323,7 @@
     "nanoid": "QdwgxpSy3GxyBy",
     "name": "BFM Lyon",
     "iptv_urls": [
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
       "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
     ],
     "youtube_urls": [],
@@ -1115,7 +1116,7 @@
     "name": "Lou!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ITU0x291Vmw"
+      "https://www.youtube-nocookie.com/embed/EH9Nce44Lvo"
     ],
     "language": "fra",
     "country": "fr",
@@ -1474,6 +1475,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6yK7rD2LKikhPv",
+    "name": "Puissance TV",
+    "iptv_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GBee4ruMbEkHYx",
     "name": "Qui Veut Gagner Des Millions La Chaîne",
     "iptv_urls": [
@@ -1577,28 +1589,6 @@
     "name": "Rakuten TV Films Thriller",
     "iptv_urls": [
       "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
-    "iptv_urls": [
-      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
-    "iptv_urls": [
-      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

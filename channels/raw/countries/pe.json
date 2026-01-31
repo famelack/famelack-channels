@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "NiV08xfOfwMHaS",
-    "name": "Antares Televisión",
-    "iptv_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FEKfCiEsgtQUuf",
     "name": "Antena SUR",
     "iptv_urls": [
@@ -154,17 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M8nsyNmz1k1pVX",
-    "name": "Exitosa TV",
-    "iptv_urls": [
-      "https://luna-3-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8STBORDBYmEtNC",
     "name": "Impacto Televisión",
     "iptv_urls": [
@@ -297,6 +275,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EXY3gFnP4pv3FX",
+    "name": "ONDA DIGITAL",
+    "iptv_urls": [
+      "https://tv.ondadigital.pe/ondadigital/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GS1iJoWQ7ta8Q1",
     "name": "Ovación TV",
     "iptv_urls": [
@@ -323,17 +312,6 @@
     "name": "Radio Master",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vy9HTzZfX7NGXL",
-    "name": "Radio Tropical Tarapoto",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -397,17 +375,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbr6x2NZ3c23qF",
-    "name": "Señal Perú TV",
-    "iptv_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NWQzBG1ASDZW7k",
     "name": "Sol Televisión",
     "iptv_urls": [
@@ -456,17 +423,6 @@
     "name": "Trivu",
     "iptv_urls": [
       "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kzdXF1h7tKZGcP",
-    "name": "TV Cosmos",
-    "iptv_urls": [
-      "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

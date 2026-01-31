@@ -78,17 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tH0PM0L3QcvXyJ",
-    "name": "BBC Lifestyle Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hK4d6FyDr9ofcK",
     "name": "Better Health TV",
     "iptv_urls": [
@@ -186,6 +175,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WDQpCRq4dLb0NU",
+    "name": "Fortuna TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -468,32 +468,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "7Qxt6cb3OdvMTv",
-    "name": "Домашний International",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PTb3tdaVEXk3oP",
     "name": "Открытый мир. Здоровье",
     "iptv_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

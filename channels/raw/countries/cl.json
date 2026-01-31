@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "iptv_urls": [
@@ -171,17 +160,6 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CWNq4_d3ZlQ"
-    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -345,7 +323,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yZdP5nBpmq4"
+      "https://www.youtube-nocookie.com/embed/7Qt2emFFfnY"
     ],
     "language": "spa",
     "country": "cl",
@@ -442,33 +420,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jjgl7AaKfJq0wX",
-    "name": "Santa María Televisión",
-    "iptv_urls": [
-      "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0C2d9cgVcqnI9d",
     "name": "SoloBáilalo",
     "iptv_urls": [
       "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
       "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9LYMpZbMSRFBE5",
-    "name": "SUR TV",
-    "iptv_urls": [
-      "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

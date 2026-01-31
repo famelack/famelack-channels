@@ -44,11 +44,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "84MzFsqan8hkeY",
+    "name": "LiveFM Sri Lanka",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/DrIA9VaSfXE"
+    ],
+    "language": "sin",
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GqCp27T0s0lfCz",
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A09TboY9OmE"
+      "https://www.youtube-nocookie.com/embed/GvqUsSDkAro"
     ],
     "language": "sin",
     "country": "lk",
@@ -66,11 +77,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2kFmLsUZ8zPq3c",
-    "name": "Newsfirst Sri Lanka",
+    "nanoid": "iGtWdanOFXXJW6",
+    "name": "Pragna TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xEDtMscetpU"
+      "https://www.youtube-nocookie.com/embed/bKXNmxKn-RM"
     ],
     "language": "sin",
     "country": "lk",
@@ -92,7 +103,7 @@
     "name": "Shraddha TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m0dqMqVBxTQ"
+      "https://www.youtube-nocookie.com/embed/Tp43ABxvo5g"
     ],
     "language": "sin",
     "country": "lk",
@@ -126,17 +137,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i4sBVt8evbI"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOoB2s0AaU3TV6",
-    "name": "TV Derana",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B96TRO3yAZU"
     ],
     "language": "sin",
     "country": "lk",

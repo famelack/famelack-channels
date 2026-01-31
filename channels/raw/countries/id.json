@@ -177,17 +177,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "csTsVz553duuxV",
-    "name": "Caruban TV",
-    "iptv_urls": [
-      "https://stream.carubantv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vd1yZSp74MjEYU",
     "name": "DAAI TV",
     "iptv_urls": [
@@ -225,6 +214,17 @@
     "name": "Dhoho TV",
     "iptv_urls": [
       "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uXrEKCywSeVE7r",
+    "name": "DM TV Malang",
+    "iptv_urls": [
+      "https://e.siar.us/live/dmtv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -302,17 +302,6 @@
     "name": "Huma Betang TV",
     "iptv_urls": [
       "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hae4Rh59QFhZLW",
-    "name": "I Am Channel",
-    "iptv_urls": [
-      "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -617,17 +606,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8EXtfEu6pMI42D",
-    "name": "Radio Kita TV",
-    "iptv_urls": [
-      "https://streaming.yufid.com/hls/radiokitatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VC5E0MneSZlKkr",
     "name": "Rajawali TV",
     "iptv_urls": [
@@ -772,28 +750,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3tK786c3qywsHt",
-    "name": "Stara TV",
-    "iptv_urls": [
-      "https://stream.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ig8Heof5b0HbF8",
-    "name": "Stara TV Bandung",
-    "iptv_urls": [
-      "https://bandung.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wQh13Um5b8b6uA",
     "name": "Stara TV Cianjur",
     "iptv_urls": [
@@ -920,6 +876,17 @@
     "name": "TVRI Aceh",
     "iptv_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F0wNTAcxVnBo4B",
+    "name": "TVRI Bali",
+    "iptv_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1305,17 +1272,6 @@
     "name": "VTV",
     "iptv_urls": [
       "https://flv.intechmedia.net/live/ch107.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ZQahFuCJWYmYi",
-    "name": "Wesal TV",
-    "iptv_urls": [
-      "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

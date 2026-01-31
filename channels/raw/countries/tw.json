@@ -231,17 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wH8uSy4eY6Yjt3",
-    "name": "Taiwan Plus TV",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8pEZrzkEvqMiL8",
     "name": "Taiwan SETNEWS",
     "iptv_urls": [],

@@ -132,6 +132,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HGtPDQoNFPOwzf",
+    "name": "Girasol TV",
+    "iptv_urls": [
+      "https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BMz0mjtStA1271",
+    "name": "Inmaculada TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YShLtvidjqB1kx",
     "name": "Kerusso TV",
     "iptv_urls": [
@@ -297,10 +319,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qWRNlLMLdjrPV7",
-    "name": "TV Centro 27.2 HD",
+    "nanoid": "yH1S0lEj15Dojl",
+    "name": "Television Olanchana",
     "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+      "https://viewhn.com/canal30/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

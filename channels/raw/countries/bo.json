@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "2TeFmbSu18GnAQ",
-    "name": "Cadena A",
-    "iptv_urls": [
-      "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hiCZpbwj9latCv",
     "name": "Coral TV",
     "iptv_urls": [
@@ -150,6 +139,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GMFO5ANQ5nEa2e",
+    "name": "UPEA TV",
+    "iptv_urls": [
+      "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "bo",
     "isGeoBlocked": false
   },

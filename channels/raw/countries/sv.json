@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lZCJ28tnHKpEgP",
+    "name": "El Camino TV",
+    "iptv_urls": [
+      "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Yd25no3suS2myQ",
     "name": "Elim TV",
     "iptv_urls": [
@@ -213,6 +224,17 @@
     "name": "TV León de Judá",
     "iptv_urls": [
       "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b1EAokD2bBiJTE",
+    "name": "TVCa Televisión Católica Arquidiocesana",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

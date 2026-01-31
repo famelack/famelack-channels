@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -235,7 +224,7 @@
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nADygl--Fhk"
+      "https://www.youtube-nocookie.com/embed/3E7VI6gp1FQ"
     ],
     "language": "spa",
     "country": "cr",
@@ -356,17 +345,6 @@
     "name": "TeleMas",
     "iptv_urls": [
       "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "iptv_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
