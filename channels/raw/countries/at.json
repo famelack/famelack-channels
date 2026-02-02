@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LG6Gi17D5ouvwt",
+    "name": "Balkan Radio Salzburg",
+    "iptv_urls": [
+      "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SZKqh8My275jx3",
     "name": "FairON",
     "iptv_urls": [],

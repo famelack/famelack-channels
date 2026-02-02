@@ -91,6 +91,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7COae96uG7VRpK",
+    "name": "Aksu TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3GgXVbdK2cjuBg",
     "name": "Alanya Posta TV",
     "iptv_urls": [
@@ -113,10 +124,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2DmXrOxAFaOLJx",
-    "name": "Altas TV",
+    "nanoid": "yL3s4jwp0ivExp",
+    "name": "Anadolu Net TV",
     "iptv_urls": [
-      "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -203,12 +214,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WjndAfYgzOKuol",
+    "name": "BRTV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CEq81a8k48ENyx",
+    "name": "Bursa AS TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GQqfKimeo58YbK",
     "name": "CAH Medya",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/V7BRVvXZCzs"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pwwbm1gJHFpZMn",
+    "name": "Can TV",
+    "iptv_urls": [
+      "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -247,17 +291,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZsqiYgAagpTuM",
-    "name": "Cay TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u6zpmHPrnF1o3c",
     "name": "CGTN Documentary",
     "iptv_urls": [
@@ -269,10 +302,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DnEqNUdycNeHRJ",
+    "name": "Çiftçi TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vfg8R7uvxXM"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "iptv_urls": [
       "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ZXjzA9WC4UY7k",
+    "name": "Çocuklar Duymasın",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nGpGhvcjolA"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SNI1pQ3Yqo2qGF",
+    "name": "Deniz Postası TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -359,6 +427,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1A2erLQOFNcUDv",
+    "name": "Er TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WHkVQZYPgkweaG",
     "name": "Erzurum Web TV",
     "iptv_urls": [
@@ -385,17 +464,6 @@
     "name": "ETV Kayseri",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C1zMWQcgRfpuVK",
-    "name": "ETV Manisa",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -436,17 +504,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WDQpCRq4dLb0NU",
-    "name": "Fortuna TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fN7GQX8c6GD2uU",
     "name": "GEM Pixel",
     "iptv_urls": [
@@ -480,23 +537,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rk4CX2TtGGZ6cO",
-    "name": "Gülşah Film: Kemal Sunal Filmleri",
+    "nanoid": "I6D9IHQIDu6y7l",
+    "name": "Güldür Güldür Show",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VkB9S_nInbA"
+      "https://www.youtube-nocookie.com/embed/IOPvWmb8YvM"
     ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DuAbdSsAdwmefq",
-    "name": "Guneydogu TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8"
+    "nanoid": "rk4CX2TtGGZ6cO",
+    "name": "Gülşah Film: Kemal Sunal Filmleri",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VkB9S_nInbA"
     ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -584,10 +641,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H0si0IBatHqQh2",
-    "name": "Icel TV",
+    "nanoid": "Mrrxz9lN8Itjkn",
+    "name": "Hunat TV",
     "iptv_urls": [
-      "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fLm0qdcJhJPt7r",
+    "name": "Kanal 3",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+      "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -606,10 +675,110 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ULadG4ZWgyGSE9",
+    "name": "Kanal 12",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SIwD5ylBUAOrIu",
+    "name": "Kanal 15",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XQ5tolf0wDwNTz",
+    "name": "Kanal 23",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y2961fqTVAJ9qU",
+    "name": "Kanal 26",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FgL1HEllG10WJt",
+    "name": "KANAL 58",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LoETX183ZYEwUc",
+    "name": "Kanal Firat",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hGtWqYE7XonF37",
     "name": "Kanal Hayat",
     "iptv_urls": [
       "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JwNiVAH26fmfiw",
+    "name": "Kanal V",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xLWooaXQUxzn32",
+    "name": "Kanal Z",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zbs9DkUTcak0mx",
+    "name": "Kay TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
+      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -634,6 +803,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_pRHXDSK8sA"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "axZRIy6sk182NP",
+    "name": "Konya Olay TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -683,10 +863,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1XTuK8yl6RBDGO",
-    "name": "Line TV",
+    "nanoid": "sIsIH2RBxpGiQq",
+    "name": "Life TV",
     "iptv_urls": [
-      "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kp5C3IJBUdpT9u",
+    "name": "MaviKaradeniz",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -727,17 +918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lm6hIGSOHhNu9y",
-    "name": "MTürk TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WfBeWY1RnvDWYZ",
     "name": "Muhteşem Yüzyıl",
     "iptv_urls": [],
@@ -745,17 +925,6 @@
       "https://www.youtube-nocookie.com/embed/Z02dsrlBMmE"
     ],
     "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ld1ODzjkyBxBmS",
-    "name": "Natural TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -819,17 +988,6 @@
     "name": "On 6",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GhgRziNqEHb8Jk",
-    "name": "On4 TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -907,6 +1065,7 @@
     "nanoid": "AGEdurc99puGj1",
     "name": "Power TV",
     "iptv_urls": [
+      "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
       "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -959,6 +1118,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MDiKVfb3NSPHvZ",
+    "name": "Sun RTV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "96s3O8EKjuvxuK",
+    "name": "Tatlises TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "InVI6XNTBkTyM8",
     "name": "TBMM TV",
     "iptv_urls": [
@@ -981,6 +1162,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rqkOBR323x5UjG",
+    "name": "Tempo TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
     "iptv_urls": [
@@ -994,6 +1186,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J9YegrVG7tK0JA",
+    "name": "Tivi 6",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vtSycR8Kbn52EY",
     "name": "TJK TV",
     "iptv_urls": [
@@ -1002,6 +1205,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/g89RQMJtK6E"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l17N1UMzmQBW55",
+    "name": "Ton TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1177,21 +1391,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0MveHkvnY8sIL7",
-    "name": "TürkHaber",
+    "nanoid": "deH7vlwlXSBCxY",
+    "name": "TV 41",
     "iptv_urls": [
-      "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mkvZ36tOvXYf73",
-    "name": "TV 1",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1271,6 +1474,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/dK96AZbCns0"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TKQbSmFlgXq83c",
+    "name": "Urfa Natik TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false

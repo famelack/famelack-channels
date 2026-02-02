@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kViHud7pJIRjfw",
     "name": "AlKawthar",
     "iptv_urls": [
@@ -202,6 +213,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DnEqNUdycNeHRJ",
+    "name": "Çiftçi TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vfg8R7uvxXM"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "iptv_urls": [
@@ -221,17 +245,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "iptv_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -406,6 +419,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y9tmDdGOMUn9pB",
+    "name": "Garshom TV",
+    "iptv_urls": [
+      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -652,14 +676,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ld1ODzjkyBxBmS",
-    "name": "Natural TV",
+    "nanoid": "1wMsK4nhJMBFCb",
+    "name": "MRTV NRC",
     "iptv_urls": [
-      "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
+      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "tr",
+    "language": "mya",
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -895,17 +919,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WSVwH48J9agVpk",
-    "name": "TBN TV",
-    "iptv_urls": [
-      "https://live.suricloud.com/hls/tbntv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sr",
     "isGeoBlocked": false
   },
   {

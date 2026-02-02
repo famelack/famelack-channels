@@ -36,7 +36,6 @@
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "iptv_urls": [
-      "https://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
     ],
     "youtube_urls": [],

@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n3OYO4UHAtEIt1",
+    "name": "RTK 3",
+    "iptv_urls": [
+      "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "xk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0lQNeuBrNhWBbz",
     "name": "RTV21",
     "iptv_urls": [

@@ -176,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9RdvwjYBwgdvbP",
-    "name": "Kurdistan TV",
-    "iptv_urls": [
-      "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uNdIMJAevPIVAV",
     "name": "Kurdistan24",
     "iptv_urls": [],

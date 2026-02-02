@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V4sGn5fdh6Yqri",
+    "name": "Árbol de Vida TV",
+    "iptv_urls": [
+      "https://yupistream.top:19360/livearbol/livearbol.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YYSyi5o00uvneu",
     "name": "Canal 3 Impresionante",
     "iptv_urls": [
@@ -66,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Yd25no3suS2myQ",
+    "name": "Elim TV",
+    "iptv_urls": [
+      "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O3X8SIvmSfoleo",
     "name": "GSG TV",
     "iptv_urls": [
@@ -88,10 +110,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NLIFoRpmAx5nwO",
-    "name": "Legislative Assembly of El Salvador",
+    "nanoid": "It09WcJXuh2yq1",
+    "name": "Josué TV",
     "iptv_urls": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+      "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -125,6 +147,17 @@
     "name": "RTV Canal 57",
     "iptv_urls": [
       "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lKyeRFXDIPE0r7",
+    "name": "RTV Católica Canal 40",
+    "iptv_urls": [
+      "https://stream.giostreaming.app/canal40/canal40.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -180,17 +213,6 @@
     "name": "TV León de Judá",
     "iptv_urls": [
       "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b1EAokD2bBiJTE",
-    "name": "TVCa Televisión Católica Arquidiocesana",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

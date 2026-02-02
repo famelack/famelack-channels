@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jw5WL1s9nrf85x",
-    "name": "Ani",
-    "iptv_urls": [
-      "https://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
     "iptv_urls": [
@@ -734,10 +723,21 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yl0ztHuQayY"
+      "https://www.youtube-nocookie.com/embed/SrcjtUl-94Y"
     ],
     "language": "urd",
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "iptv_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1121,7 +1121,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DtSCtn2DJGk"
+      "https://www.youtube-nocookie.com/embed/8Hx_EyLYN6U"
     ],
     "language": "por",
     "country": "br",
@@ -1180,17 +1180,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UuqXncNWq6w"
-    ],
-    "language": "kor",
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1671,39 +1660,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lJD1sWMGtgf4S",
-    "name": "Мама",
-    "iptv_urls": [
-      "https://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Kzg54lPW6jIkFl",
-    "name": "Мульт",
-    "iptv_urls": [
-      "https://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L4eVeezqt1TkqW",
-    "name": "Мульт и музыка",
-    "iptv_urls": [
-      "https://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
@@ -1776,7 +1732,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WqUnzSTkewc"
+      "https://www.youtube-nocookie.com/embed/IDVr017GOsE"
     ],
     "language": "zho",
     "country": "cn",

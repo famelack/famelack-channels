@@ -154,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U5Rk6wZ9i45ZXv",
-    "name": "Kecskemeti TV",
-    "iptv_urls": [
-      "https://eurobioinvest.hu:444/live/ktv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tbQMiWlZsrSGBA",
     "name": "Komáromi Televízió",
     "iptv_urls": [
@@ -213,6 +202,17 @@
     "name": "Oroszlányi Városi Televízió",
     "iptv_urls": [
       "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RrsTSYgGNniraQ",
+    "name": "Országgyűlés (Plenáris)",
+    "iptv_urls": [
+      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hun",
@@ -323,17 +323,6 @@
     "name": "Vásárhelyi Televízió",
     "iptv_urls": [
       "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JyxPOf8oRL0K0y",
-    "name": "VTV Mór",
-    "iptv_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hun",

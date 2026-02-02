@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -59,17 +48,6 @@
     "name": "Canal 3 KMK TV",
     "iptv_urls": [
       "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -103,17 +81,6 @@
     "name": "Colosal TV",
     "iptv_urls": [
       "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "iptv_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -209,6 +176,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L0Xj3EMr6sq9Oz",
+    "name": "Los Santos TV",
+    "iptv_urls": [
+      "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RdxKyXaV9qtXPb",
     "name": "Luz Naciente TV",
     "iptv_urls": [
@@ -253,6 +231,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
+    "iptv_urls": [
+      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SI3nWhyuVnROLX",
     "name": "RTV Chirripó",
     "iptv_urls": [
@@ -268,6 +257,17 @@
     "name": "San José TV",
     "iptv_urls": [
       "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RYVkiPv8DNw6UC",
+    "name": "Sarapiqui TV",
+    "iptv_urls": [
+      "https://lstv.duckdns.org:449/hls/stv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

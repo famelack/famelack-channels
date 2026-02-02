@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HiSqdLo7Vz02nV",
+    "name": "Canal 3 Las Heras",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6iBS7M1tfSU4qM",
     "name": "Canal 4 Jujuy",
     "iptv_urls": [
@@ -158,17 +169,6 @@
     "name": "Canal 4 Posadas",
     "iptv_urls": [
       "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j1Mx0NYk5KtzPX",
-    "name": "Canal 4 San Juan",
-    "iptv_urls": [
-      "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -247,7 +247,7 @@
     "name": "Canal 8 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GYPMNGLF_EE"
+      "https://www.youtube-nocookie.com/embed/3jqwa-8vl2Y"
     ],
     "language": "spa",
     "country": "ar",
@@ -291,19 +291,8 @@
     "name": "Canal 13 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ezmbGOD36N0"
+      "https://www.youtube-nocookie.com/embed/MCL0KRiR1N0"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aoSHf7umzvQAal",
-    "name": "Canal 13 San Luis",
-    "iptv_urls": [
-      "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -323,7 +312,8 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/c8Uxc6pwDNA"
@@ -515,7 +505,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b9JmNYmbh5o"
+      "https://www.youtube-nocookie.com/embed/9ckRGZBdwno"
     ],
     "language": "spa",
     "country": "ar",
@@ -578,23 +568,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NYXd2ClRBhOZGJ",
-    "name": "FMVale975",
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x5fbS_4RrFU"
+      "https://www.youtube-nocookie.com/embed/styZce43dU4"
     ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4Jx43q3AoFe9Yv",
-    "name": "Garage TV Latin America",
-    "iptv_urls": [
-      "https://stream1.sersat.com/hls/garagetv.m3u8"
+    "nanoid": "NYXd2ClRBhOZGJ",
+    "name": "FMVale975",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/x5fbS_4RrFU"
     ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -617,17 +607,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/unR6PQyi8TM"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KLWMJ2wTlLOXbG",
-    "name": "Magic Kids",
-    "iptv_urls": [
-      "https://magicstream.ddns.net/magicstream/stream.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -662,6 +641,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nxOuJBvN9WDNwl",
+    "name": "Milennio TV",
+    "iptv_urls": [
+      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -750,6 +740,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vGNglKWqwcQ"
     ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xt24rqtDs7DtGk",
+    "name": "Radio Conexion Web TV",
+    "iptv_urls": [
+      "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -909,6 +910,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xBRLB65ZnFY"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRJ5PYrL3SOh4P",
     "name": "TN Todo Noticias",
     "iptv_urls": [],
@@ -991,7 +1003,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lo1yxfwHRkE"
+      "https://www.youtube-nocookie.com/embed/Oi6C56SLUZc"
     ],
     "language": "spa",
     "country": "ar",

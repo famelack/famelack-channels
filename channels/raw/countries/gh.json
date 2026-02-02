@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tNAEeGMomIGfLw",
+    "name": "Fish TV",
+    "iptv_urls": [
+      "https://tv.localstreamgh.com/fishtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XbqCbMWvgTX2F0",
     "name": "G-eye TV",
     "iptv_urls": [
@@ -60,19 +71,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/n4ThGAoXtyE"
-    ],
-    "language": "eng",
-    "country": "gh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qrd5qBWYEVUZjj",
-    "name": "OTV",
-    "iptv_urls": [
-      "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9T7VpBKdu68"
     ],
     "language": "eng",
     "country": "gh",

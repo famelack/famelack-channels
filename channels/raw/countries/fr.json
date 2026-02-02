@@ -531,9 +531,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -912,17 +914,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NXr5JJCUZWuMub",
-    "name": "Generations TV",
-    "iptv_urls": [
-      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BHktLaXb4NGD72",
     "name": "Gong",
     "iptv_urls": [
@@ -1182,7 +1173,7 @@
     "name": "Mosaïk Cristal",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n87X5fIMPa0"
+      "https://www.youtube-nocookie.com/embed/2NRZffDen0U"
     ],
     "language": "fra",
     "country": "fr",
@@ -1530,6 +1521,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "iptv_urls": [
+      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3UupDDnNXaxwcR",
     "name": "Rakuten TV Films Comédie",
     "iptv_urls": [
@@ -1567,17 +1569,6 @@
     "name": "Rakuten TV Films Romance",
     "iptv_urls": [
       "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AIirayhr6r6kA6",
-    "name": "Rakuten TV Films Thriller",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

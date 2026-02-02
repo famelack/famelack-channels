@@ -209,17 +209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c3zaL7CKyoj6u1",
-    "name": "Gamavisión",
-    "iptv_urls": [
-      "https://stream.esradioecuador.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rzz3epvsT10Pp4",
     "name": "GM7 Digital",
     "iptv_urls": [
@@ -385,6 +374,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRZplckRTbzRYe",
+    "name": "Oromar TV",
+    "iptv_urls": [
+      "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "if95kHJ4URww0a",
     "name": "PJ Digital Radio TV",
     "iptv_urls": [
@@ -484,6 +484,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0Vw6NdTRGURL25",
+    "name": "RTU",
+    "iptv_urls": [
+      "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GMkpwotjB860aV",
     "name": "RTV Riobamba",
     "iptv_urls": [
@@ -554,17 +565,6 @@
     "name": "TV Color Canal 36",
     "iptv_urls": [
       "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LfL7xtgZtyuyhr",
-    "name": "TV Universal Ecuador",
-    "iptv_urls": [
-      "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

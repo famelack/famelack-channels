@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bH0xAdzXSreOQz",
+    "name": "Approval TV",
+    "iptv_urls": [
+      "https://live.approvaltv.com/approvaltv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MP4bBMx7wAtF5b",
     "name": "Arise News",
     "iptv_urls": [],
@@ -181,6 +192,17 @@
     "name": "New Vision TV",
     "iptv_urls": [
       "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HUxeirBEJ9XVlF",
+    "name": "News Central",
+    "iptv_urls": [
+      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -348,28 +370,6 @@
     "name": "Wazobia Max TV Abuja",
     "iptv_urls": [
       "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XBCn7LG1vDEDMn",
-    "name": "Wazobia Max TV Nigeria",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmax.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uu8JpSpXEkB3Wk",
-    "name": "Wazobia Max TV Port Harcourt",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxph.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

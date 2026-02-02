@@ -100,17 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9rhqdMh4MdKhL2",
-    "name": "Familia Visión HD",
-    "iptv_urls": [
-      "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P4mxJMVl2wyiPi",
     "name": "Faro de Santidad TV",
     "iptv_urls": [
@@ -177,6 +166,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dfwJqEOqj4nFiU",
+    "name": "Radio Isla TV",
+    "iptv_urls": [
+      "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UqSpn8zcijzDPL",
     "name": "Salvación TV",
     "iptv_urls": [
@@ -226,6 +226,17 @@
     "name": "WDWL-DT1 (Teleadoración/Enlace PR)",
     "iptv_urls": [
       "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ynSZIn5Rr5lhRI",
+    "name": "WECN (Único TV)",
+    "iptv_urls": [
+      "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

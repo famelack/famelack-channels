@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "75FbucgZ55jtlf",
+    "name": "Bread TV面包台",
+    "iptv_urls": [
+      "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cmn",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1ygWi2hNNf9GHE",
     "name": "CCTV-4 Europe",
     "iptv_urls": [
@@ -171,17 +182,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f1nxbKF3lgdEIT",
-    "name": "Harbin Comprehensive News Channel",
-    "iptv_urls": [
-      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7Hsc69UuEllEuA",
     "name": "Harbin Movie Channel",
     "iptv_urls": [
@@ -193,10 +193,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9nSOZBFhMDXFTD",
+    "name": "QTV-1",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ozrwv5yOFSMLm3",
     "name": "QTV-2",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5Cnt9e5fETRq9",
+    "name": "QTV-3",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -447,11 +469,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ez5NBYjpiihwmc",
+    "name": "宿州科教",
+    "iptv_urls": [
+      "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WqUnzSTkewc"
+      "https://www.youtube-nocookie.com/embed/IDVr017GOsE"
     ],
     "language": "zho",
     "country": "cn",
@@ -462,6 +495,17 @@
     "name": "嵊州综合",
     "iptv_urls": [
       "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fpwejyOguNcChA",
+    "name": "广东 Ⅰ 韶关公共台",
+    "iptv_urls": [
+      "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -480,43 +524,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LWZapZpACANZ13",
-    "name": "新昌休闲影视",
-    "iptv_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4rBoFSFcNpIZxe",
-    "name": "新昌新聞綜合",
-    "iptv_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UKPg4OIuLFiPtH",
     "name": "松原新闻综合",
     "iptv_urls": [
       "https://stream2.jlntv.cn/sytv/sd/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
-    "iptv_urls": [
-      "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

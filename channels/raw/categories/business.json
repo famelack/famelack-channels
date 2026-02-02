@@ -366,7 +366,7 @@
     "name": "Ekhon TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z3-mNP5Gwus"
+      "https://www.youtube-nocookie.com/embed/xVbGmFbKc4U"
     ],
     "language": "ben",
     "country": "bd",
@@ -438,17 +438,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "iptv_urls": [
-      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "tg",
     "isGeoBlocked": false
   },
   {

@@ -299,17 +299,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "iptv_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
     "iptv_urls": [
@@ -354,6 +343,29 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4fRrTYUzIhzCTk",
+    "name": "DC Council Channel",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nf4iMslErjtXta",
+    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/97_12.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rKceCpkpRKp2Z",
     "name": "Denver 8 TV (Denver CO)",
     "iptv_urls": [
@@ -373,6 +385,29 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oleSYlNVNmvs3W",
+    "name": "District of Columbia Network (DCN)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/DCN.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0RyvSnHcZVz1gC",
+    "name": "Duma TV",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -604,17 +639,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NLIFoRpmAx5nwO",
-    "name": "Legislative Assembly of El Salvador",
-    "iptv_urls": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
     "isGeoBlocked": false
   },
   {
@@ -850,6 +874,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RrsTSYgGNniraQ",
+    "name": "Országgyűlés (Plenáris)",
+    "iptv_urls": [
+      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iPhkcC76kYpp0C",
     "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
@@ -858,6 +893,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1132,7 +1178,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1o_gF3WYy0U"
+      "https://www.youtube-nocookie.com/embed/EoEaZ2Mns6w"
     ],
     "language": "por",
     "country": "br",

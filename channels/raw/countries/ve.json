@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0X5lB22f2RPA0r",
+    "name": "Alcance TV",
+    "iptv_urls": [
+      "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L2ckl8qUgIXBH9",
     "name": "Anzoátegui TV",
     "iptv_urls": [
@@ -379,6 +390,17 @@
     "name": "TRV",
     "iptv_urls": [
       "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z9rhVuP0JaTo3P",
+    "name": "TV FANB",
+    "iptv_urls": [
+      "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

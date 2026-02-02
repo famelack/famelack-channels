@@ -111,6 +111,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I6D9IHQIDu6y7l",
+    "name": "Güldür Güldür Show",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IOPvWmb8YvM"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qy6bcbSL050Vab",
     "name": "Humor Mill",
     "iptv_urls": [

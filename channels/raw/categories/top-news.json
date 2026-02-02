@@ -56,6 +56,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+    ],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ekFWl5aVUxSeip",
     "name": "RT News",
     "iptv_urls": [
@@ -102,19 +115,6 @@
     ],
     "language": "eng",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hbdW5jPBuqVJNb",
-    "name": "WION",
-    "iptv_urls": [
-      "https://wion-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"
-    ],
-    "language": "eng",
-    "country": "in",
     "isGeoBlocked": false
   }
 ]

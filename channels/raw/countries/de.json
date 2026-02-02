@@ -517,6 +517,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JUHY7ZFUwE8O9n",
+    "name": "Finest TV",
+    "iptv_urls": [
+      "https://media.finest.tv/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6ftPsR4C1PTDrI",
     "name": "Fluss Monster",
     "iptv_urls": [
@@ -752,17 +763,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "iptv_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "iptv_urls": [
@@ -870,18 +870,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z6guN3S2lbqSQy",
-    "name": "NDR Fernsehen International",
-    "iptv_urls": [
-      "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
-      "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },

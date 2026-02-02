@@ -5,9 +5,7 @@
     "iptv_urls": [
       "https://fs3.kabelko.sk/9011/index.m3u8?token=btv"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
-    ],
+    "youtube_urls": [],
     "language": "slk",
     "country": "sk",
     "isGeoBlocked": false
@@ -105,7 +103,6 @@
     "nanoid": "NePDHatqqYOqTp",
     "name": "TV Central",
     "iptv_urls": [
-      "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
       "https://dash4.antik.sk/live/test_central/playlist.m3u8"
     ],
     "youtube_urls": [],

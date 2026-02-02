@@ -100,6 +100,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JLfNH2O2h1Ue2z",
+    "name": "Biz TV",
+    "iptv_urls": [
+      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dab8WPqdbc06ks",
     "name": "CaTine",
     "iptv_urls": [
@@ -174,17 +186,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDQpCRq4dLb0NU",
-    "name": "Fortuna TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -465,17 +466,6 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "7Qxt6cb3OdvMTv",
-    "name": "Домашний International",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "PTb3tdaVEXk3oP",

@@ -215,17 +215,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xd3CFrHmzj9MdH",
-    "name": "RADIO DISCOunt TV",
-    "iptv_urls": [
-      "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A7YexNkwWBLuDp",
     "name": "RSI La 1",
     "iptv_urls": [

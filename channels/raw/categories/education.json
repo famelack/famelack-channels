@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZQE8Kkj7LLaHHY",
+    "name": "BVG",
+    "iptv_urls": [
+      "https://mumt05.tangotv.in/BVG/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -143,6 +154,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DnEqNUdycNeHRJ",
+    "name": "Çiftçi TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vfg8R7uvxXM"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pXvSXoe4kL9IM4",
     "name": "Classic Arts Showcase",
     "iptv_urls": [
@@ -158,17 +182,6 @@
     "name": "Cloudflare TV",
     "iptv_urls": [
       "https://cloudflare.tv/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TbETZirFbV6iE6",
-    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
-    "iptv_urls": [
-      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -217,6 +230,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "sd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IVwVAzQdAWOVvy",
+    "name": "DC.gov DKN (Washington DC)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/DKN.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -518,17 +542,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M1xHzWMuYZ3C7M",
-    "name": "FGN Channel",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xHbYDcqFBwY"
-    ],
-    "language": "urd",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQBS03fMa9Ffe4",
     "name": "Fresno CMAC 2 Education Channel",
     "iptv_urls": [
@@ -621,17 +634,6 @@
     "name": "Leominster TV Educational",
     "iptv_urls": [
       "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vuBNF2VDfe8MfR",
-    "name": "LETV",
-    "iptv_urls": [
-      "https://livestream.telvue.com/lexmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia2/stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

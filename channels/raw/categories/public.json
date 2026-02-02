@@ -206,6 +206,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JUnDPmTe0OgqcS",
     "name": "ETB 1",
     "iptv_urls": [
@@ -275,19 +287,7 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

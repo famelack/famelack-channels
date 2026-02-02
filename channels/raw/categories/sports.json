@@ -256,6 +256,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BkNvZNcvt4fu9h",
     "name": "F1 Channel",
     "iptv_urls": [
@@ -337,7 +349,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UEBsHqL643c"
+      "https://www.youtube-nocookie.com/embed/CwkG4pSrd0M"
     ],
     "language": "eng",
     "country": "us",
@@ -442,6 +454,17 @@
     ],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rttScvWUnetgoy",
+    "name": "HTV Sports",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -791,6 +814,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
+    "iptv_urls": [
+      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KUhdhVQJTBGWTa",
     "name": "Rai Sport HD",
     "iptv_urls": [
@@ -865,6 +899,7 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1132,6 +1167,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HoPPiJ6zSU8JBV",
+    "name": "W14DK-D 14.5 All Sports Television Network",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "d0G4zB6FBlCOOM",
     "name": "Willow Sports",
     "iptv_urls": [
@@ -1220,6 +1266,17 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
     "isGeoBlocked": false
   }
 ]

@@ -353,17 +353,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KLWMJ2wTlLOXbG",
-    "name": "Magic Kids",
-    "iptv_urls": [
-      "https://magicstream.ddns.net/magicstream/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dValMPk4YLHMz4",
     "name": "Marvel HQ: Marvel's Avengers Assemble",
     "iptv_urls": [],
@@ -456,7 +445,7 @@
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nfQ5J0dk5V8"
+      "https://www.youtube-nocookie.com/embed/cGDTD57-0mE"
     ],
     "language": "eng",
     "country": "uk",

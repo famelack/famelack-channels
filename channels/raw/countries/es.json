@@ -624,6 +624,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hgsplzEIrAMQff",
+    "name": "Durangaldeko Telebista",
+    "iptv_urls": [
+      "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eus",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h9xUZ9qtOT3ejC",
     "name": "El 33 Originals",
     "iptv_urls": [
@@ -662,6 +673,18 @@
     "name": "Empordà TV",
     "iptv_urls": [
       "https://video3.lhdserver.es/empordatv2/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -859,19 +882,7 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1092,6 +1103,17 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1693,17 +1715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xRegMZSkKkDbP5",
-    "name": "TeleVigo",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MYmpRnITzqWFJm",
     "name": "Televisión Aranda",
     "iptv_urls": [
@@ -1744,17 +1755,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1877,17 +1877,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kwKGKTuhcnTGZS",
-    "name": "TVM Córdoba",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

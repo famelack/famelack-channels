@@ -130,5 +130,16 @@
     "language": "est",
     "country": "ee",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KFaKfUjRuHlz4N",
+    "name": "Vantage Music",
+    "iptv_urls": [
+      "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ee",
+    "isGeoBlocked": false
   }
 ]

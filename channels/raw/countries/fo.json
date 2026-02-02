@@ -9,5 +9,16 @@
     "language": "fao",
     "country": "fo",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DsaLWZN5SCtmIY",
+    "name": "KVF Sjonvarp",
+    "iptv_urls": [
+      "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fao",
+    "country": "fo",
+    "isGeoBlocked": false
   }
 ]

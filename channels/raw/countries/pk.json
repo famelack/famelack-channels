@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ysj72uB19BHukq",
-    "name": "8XM",
-    "iptv_urls": [
-      "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NADQVJi1t0O3vZ",
     "name": "24 News HD",
     "iptv_urls": [],
@@ -346,7 +335,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yl0ztHuQayY"
+      "https://www.youtube-nocookie.com/embed/SrcjtUl-94Y"
     ],
     "language": "urd",
     "country": "pk",
@@ -484,17 +473,6 @@
       "https://www.youtube-nocookie.com/embed/ZGefUEUqrC0"
     ],
     "language": "sd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oy323hi3qdqwPY",
-    "name": "Such TV",
-    "iptv_urls": [
-      "https://video.primexsports.com/suchnews/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
   },

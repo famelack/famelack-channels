@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KbaV0qyfK90k60",
+    "name": "Aeolos TV",
+    "iptv_urls": [
+      "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eCehtdFo2W9HPb",
     "name": "Alert",
     "iptv_urls": [
@@ -88,32 +99,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9nOkMHgBurW2UW",
-    "name": "Blue Sky TV",
-    "iptv_urls": [
-      "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0iu8NXGmAws9mO",
     "name": "Corfu Channel",
     "iptv_urls": [
       "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "czhjHEIYdtj7dY",
-    "name": "Ecclesia TV",
-    "iptv_urls": [
-      "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -143,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
+    "iptv_urls": [
+      "https://s1.cystream.net/live/faros2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
     "iptv_urls": [
@@ -158,17 +158,6 @@
     "name": "Ionian Channel",
     "iptv_urls": [
       "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "slRsHngNcym3tq",
-    "name": "Kontra Channel",
-    "iptv_urls": [
-      "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -203,28 +192,6 @@
     "name": "Notioi TV",
     "iptv_urls": [
       "https://srv.streamserver.gr:3451/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pjEgd6IVJGjdu8",
-    "name": "NRG TV",
-    "iptv_urls": [
-      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NRZMBeU73QGtG9",
-    "name": "One Channel",
-    "iptv_urls": [
-      "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -314,6 +281,17 @@
     "name": "Telekriti",
     "iptv_urls": [
       "https://neon.streams.gr:8081/telekriti/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "iptv_urls": [
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

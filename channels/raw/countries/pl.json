@@ -214,7 +214,8 @@
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "iptv_urls": [
-      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
+      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8",
+      "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -229,6 +230,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "iptv_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -327,17 +339,6 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vzdqQhnhCrY"
-    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -570,17 +571,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

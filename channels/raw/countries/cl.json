@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bL20OQOX6GoIrZ",
-    "name": "Canal 1 Nuble",
-    "iptv_urls": [
-      "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C9uUCmX5l4Ryir",
     "name": "Canal 9 Bío Bío Televisión",
     "iptv_urls": [
@@ -160,6 +149,17 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fp0UBKfWvWk"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -227,6 +227,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek Fan",
+    "iptv_urls": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -312,7 +323,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/18ob_bJVWLI"
+      "https://www.youtube-nocookie.com/embed/XR1HCd020Kk"
     ],
     "language": "spa",
     "country": "cl",

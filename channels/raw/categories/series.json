@@ -321,6 +321,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IzIeB6PQT3Mcyn",
+    "name": "HTV3",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FhAFz3eZKzB1Pa",
     "name": "Inside Crime",
     "iptv_urls": [
@@ -717,6 +728,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0XEtBmZuJSvlx",
+    "name": "Сити Эдем ТелеНовелла",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/46209/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

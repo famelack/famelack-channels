@@ -77,28 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z9NmlAa4TNcIbD",
     "name": "BAMOS TV",
     "iptv_urls": [
@@ -365,6 +343,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5lhODGYtGp6nxK",
+    "name": "ImagenTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9RCZc-fXlUs"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hvpyyH4xiS4fE5",
     "name": "IMRyT Morelos TV",
     "iptv_urls": [
@@ -475,12 +464,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qhvttFpZ2QRjRO",
+    "name": "MyTime Movie Network Mexico",
+    "iptv_urls": [
+      "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4i2dbm12cF2ARa",
     "name": "Nayarit Comunica",
     "iptv_urls": [
       "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCFfnKm8W8E1LH",
+    "name": "NMás",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BgXavEz9C2s"
+    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -717,17 +728,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "248WyVmGTSntgh",
-    "name": "Telediario Guadalajara",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_4JK01v4f18"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cuc5N3ddMjH321",
     "name": "Telemax (XEWH-TDT)",
     "iptv_urls": [
@@ -766,7 +766,7 @@
     "name": "Televisa Del Bajio",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LThUYUByYmc"
+      "https://www.youtube-nocookie.com/embed/0m5Q-PnxeOM"
     ],
     "language": "spa",
     "country": "mx",
@@ -806,11 +806,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZvTqK9RkV2bYWz",
-    "name": "Televisa Mexicali",
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qJOJDO144ck"
+      "https://www.youtube-nocookie.com/embed/2kHVMwPQips"
     ],
     "language": "spa",
     "country": "mx",
@@ -821,7 +821,18 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_-BBVhXkcqw"
+      "https://www.youtube-nocookie.com/embed/pAQf5Lx_Qlg"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wD23SQp1LmAaeS",
+    "name": "Televisa Puebla",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FcLnJI5OtU8"
     ],
     "language": "spa",
     "country": "mx",

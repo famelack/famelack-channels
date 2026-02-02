@@ -22,12 +22,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OzdPy3Brp6JZA9",
+    "name": "Alpha Digital",
+    "iptv_urls": [
+      "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t2mBHms7Nuow3E",
     "name": "Ark TV",
     "iptv_urls": [
       "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BAl5rYC3FH50BY",
+    "name": "BTV",
+    "iptv_urls": [
+      "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
+    ],
     "language": "eng",
     "country": "ug",
     "isGeoBlocked": false

@@ -906,17 +906,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QPHo9cwvhZBbgz",
-    "name": "Promovideo TV",
-    "iptv_urls": [
-      "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
@@ -1620,17 +1609,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K8AIJvIPsJ7jPi",
-    "name": "TeleMajg",
-    "iptv_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5SnZ7XUMUV5jdA",
     "name": "Telemantova",
     "iptv_urls": [
@@ -1855,17 +1833,6 @@
     "name": "TV Qui (Modena)",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kVRqkfw56FIDW8",
-    "name": "TV Yes Italia",
-    "iptv_urls": [
-      "https://stream1.aswifi.it/radioyes/live/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "22GUfDaUhwRUJ1",
-    "name": "Netlink TV",
-    "iptv_urls": [
-      "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9crqbJjJGnnzxY",
     "name": "SEATV",
     "iptv_urls": [

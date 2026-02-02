@@ -165,7 +165,8 @@
     "name": "Outside TV",
     "iptv_urls": [
       "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8",
+      "https://outsidetv-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -217,6 +218,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lOEoXHnp8Sj0dx",
+    "name": "UMC TV",
+    "iptv_urls": [
+      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
     "isGeoBlocked": false
   },
   {

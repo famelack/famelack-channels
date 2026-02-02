@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LX1jOBuAPab8Ct",
+    "name": "Nim TV",
+    "iptv_urls": [
+      "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PMsmuyCaipUmLQ",
     "name": "Peniel Kids & Young",
     "iptv_urls": [

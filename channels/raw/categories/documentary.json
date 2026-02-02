@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pP4nt-CYFcw"
+      "https://www.youtube-nocookie.com/embed/LqvWjqEG94o"
     ],
     "language": "jpn",
     "country": "jp",
@@ -391,17 +391,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
     "isGeoBlocked": false
   },
   {
