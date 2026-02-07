@@ -68,6 +68,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZUFftFyddSKOYm",
+    "name": "Syria One",
+    "iptv_urls": [
+      "https://live.syriaone.tv/live/syriaone.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hGJWMD70oUF4Yo",
     "name": "Syria TV",
     "iptv_urls": [
@@ -78,6 +89,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZN0aK3V0ds0"
     ],
+    "language": "ara",
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "juxXjhcoxJLbzK",
+    "name": "Welat TV (1080i)",
+    "iptv_urls": [
+      "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ara",
     "country": "sy",
     "isGeoBlocked": false

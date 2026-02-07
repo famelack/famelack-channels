@@ -122,28 +122,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qeGibjiweoCaEb",
-    "name": "BBC Four/CBeebies",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bxrLpOnIw2cIku",
-    "name": "BBC Three/CBBC",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aDSSb0MXYf6HZV",
     "name": "BeJoy.kids",
     "iptv_urls": [
@@ -252,17 +230,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m1kQrT2eTe8gD4",
-    "name": "Canal J HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -428,17 +395,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nSzgFY1wA728Rf",
-    "name": "Disney Channel",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -608,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "goLF4ATisubwrx",
-    "name": "France 4 HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hTAa42S6ckdNs5",
     "name": "Garfield & Friends",
     "iptv_urls": [],
@@ -627,17 +572,6 @@
     ],
     "language": "eng",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OXrSvXG0IZZsyw",
-    "name": "Gulli",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -719,17 +653,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "iptv_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "iptv_urls": [
@@ -755,8 +678,7 @@
     "nanoid": "OH65zONOdo7fss",
     "name": "KiKA HD",
     "iptv_urls": [
-      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8"
+      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -875,6 +797,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "snUHMUBtSh5kZt",
+    "name": "Memorias TV Toons",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QCmvdu32Qo7gos",
     "name": "momokids親子台: 1",
     "iptv_urls": [],
@@ -941,22 +874,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s3CR0taCvYhOMx",
-    "name": "Nick/Comedy Central +1 HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C0VBj8M1_Fc"
+      "https://www.youtube-nocookie.com/embed/yAbJFNypic8"
     ],
     "language": "eng",
     "country": "us",
@@ -1099,7 +1021,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p8HEUhB-s-s"
+      "https://www.youtube-nocookie.com/embed/zlbPJ99u_BQ"
     ],
     "language": "por",
     "country": "br",
@@ -1197,8 +1119,7 @@
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "iptv_urls": [
-      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8"
+      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1272,33 +1193,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W12MJtCI2qv2s8",
-    "name": "SpongeBob SquarePants Official",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n5GdcvL7M4g"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Rb73PZb9Bq8"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-GNGnsxH1AE"
+      "https://www.youtube-nocookie.com/embed/APQOLUVobsw"
     ],
     "language": "eng",
     "country": "ca",
@@ -1346,17 +1245,6 @@
     ],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mZmbWEboh9MGPf",
-    "name": "The Smurfs: السنافر",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NV1ohLdNTtw"
-    ],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -1501,17 +1389,6 @@
       "https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fg8Ci5rWERRdEL",
-    "name": "Unicorn Academy",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FTkqGMCbwnU"
-    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -1721,7 +1598,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VHbtI3JHQAA"
+      "https://www.youtube-nocookie.com/embed/QSaXAkxyEwY"
     ],
     "language": "zho",
     "country": "cn",

@@ -26,7 +26,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qFq3OOvi96E"
+      "https://www.youtube-nocookie.com/embed/G46MXjQasRg"
     ],
     "language": "jpn",
     "country": "jp",
@@ -192,8 +192,7 @@
     "nanoid": "8ij5TpDrKhgoPs",
     "name": "NHK World-Japan HD",
     "iptv_urls": [
-      "https://nhk.lls.pbs.org/index.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8"
+      "https://nhk.lls.pbs.org/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "jpn",

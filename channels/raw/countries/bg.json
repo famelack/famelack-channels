@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YeiuDAKOIv93Jj",
-    "name": "BNT 4",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "bul",
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S1ZYN7hADGka8A",
     "name": "City TV",
     "iptv_urls": [

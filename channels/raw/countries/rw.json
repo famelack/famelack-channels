@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "gZcCQ1fgg0Mbfg",
+    "name": "Ahupa Visual Radio",
+    "iptv_urls": [
+      "https://tv.btnrwanda.com:3349/live/ahupalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kin",
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FXQtm2S6eQXf1s",
     "name": "B+ TV",
     "iptv_urls": [
@@ -18,50 +29,6 @@
     ],
     "youtube_urls": [],
     "language": "kin",
-    "country": "rw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ImKv4xWjIX02Ek",
-    "name": "Isibo TV",
-    "iptv_urls": [
-      "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kin",
-    "country": "rw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NcglAZxaLZ2Lw7",
-    "name": "KC2",
-    "iptv_urls": [
-      "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "rw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6o8FjUUsDRJiNm",
-    "name": "RTV Rwanda",
-    "iptv_urls": [
-      "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "rw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xlbj1xHjnlV1Js",
-    "name": "TV10",
-    "iptv_urls": [
-      "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "rw",
     "isGeoBlocked": false
   }

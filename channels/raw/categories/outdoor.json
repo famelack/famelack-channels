@@ -142,7 +142,7 @@
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/daqB3i9WYIY"
+      "https://www.youtube-nocookie.com/embed/vBnErz43N1A"
     ],
     "language": "eng",
     "country": "ca",
@@ -170,39 +170,6 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "it",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "LP8ozNzGCQn1Jz",
@@ -283,6 +250,21 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
     "isGeoBlocked": false
   },
   {

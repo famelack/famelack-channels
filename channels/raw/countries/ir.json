@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NnqrAw3M94zunX",
+    "name": "Aflak",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8de166DRNsy84Z",
     "name": "AFN TV",
     "iptv_urls": [
@@ -486,6 +497,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cqVD8AqrGaIB83",
+    "name": "ITV Life",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5Wb2HvhHtCDdaW",
+    "name": "ITV Persian Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6GbNGuNHRfS2Wl",
     "name": "Kerman",
     "iptv_urls": [
@@ -578,6 +611,17 @@
     "name": "Mohabat TV",
     "iptv_urls": [
       "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EpmDyZIa62AE48",
+    "name": "Mostanad",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -711,6 +755,17 @@
     "name": "Quran",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xRGq4FvGDTWgUJ",
+    "name": "RasoulallahTv",
+    "iptv_urls": [
+      "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",

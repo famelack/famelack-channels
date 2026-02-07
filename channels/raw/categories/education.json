@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -33,43 +22,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sqyRj6w6s9a5QQ",
-    "name": "Animaux",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FlKBvuf4AGQ"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "iptv_urls": [
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g8Hv6pDk4jg73i",
-    "name": "ARD-alpha HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -118,17 +74,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bmVfcr31sW64zk",
-    "name": "Cần Thơ TV2",
-    "iptv_urls": [
-      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -274,17 +219,6 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WHJAjSAsw3amvu",
-    "name": "DerryTV 23",
-    "iptv_urls": [
-      "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -652,17 +586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HPKbjRLkFZzXAw",
-    "name": "Leominster TV Educational",
-    "iptv_urls": [
-      "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v5EGekXWA63xCM",
     "name": "Los Angeles Local Television Channel 36",
     "iptv_urls": [
@@ -711,17 +634,6 @@
     "name": "Mobile County Public Schools TV Network (MCPSS)",
     "iptv_urls": [
       "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cHbsSpLERISueK",
-    "name": "Nashua ETV Channel 22 Nashua NH",
-    "iptv_urls": [
-      "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -917,17 +829,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OXGlbL1GPOcQMj",
-    "name": "Rai Scuola HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z68J7dfDGHfqNu",
     "name": "Red Apple 21 (Fairfax County Public Schools)",
     "iptv_urls": [
@@ -947,17 +848,6 @@
     "youtube_urls": [],
     "language": "ind",
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qBUPXe1P7RMhU8",
-    "name": "Santa Maria Community Television Education Channel",
-    "iptv_urls": [
-      "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -994,17 +884,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
-    "iptv_urls": [
-      "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wG03qaF80rSneK",
     "name": "Telepace 3",
     "iptv_urls": [
@@ -1016,14 +895,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t0egfkOjbwVtc1",
-    "name": "TUTV",
+    "nanoid": "r1oGqxJA7bXTXS",
+    "name": "TV Maya",
     "iptv_urls": [
-      "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
+    "language": "yua",
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -1202,6 +1081,21 @@
     "youtube_urls": [],
     "language": "khm",
     "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
     "isGeoBlocked": false
   },
   {

@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rN_7ET2RXNM"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vLJxCfSjAO72Wd",
     "name": "Belmedia TV",
     "iptv_urls": [],
@@ -413,6 +402,72 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x1fcXchYaCM1hE",
+    "name": "iTV Afrobeats Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1R6o1B67WL0Acv",
+    "name": "iTV Arabic Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "arb",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Cuxsd0Rc0Kc0hD",
+    "name": "iTV Indian Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zvcw4AXSfPaJpa",
+    "name": "iTV Latin Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ku0AzO2A8CxFze",
+    "name": "iTV Turkish Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1akViLjdu7MsPD",
+    "name": "iTV Urban Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "iptv_urls": [
@@ -501,6 +556,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5eNJBvozHJiGRG",
     "name": "Love Nature",
     "iptv_urls": [
@@ -509,7 +575,7 @@
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/daqB3i9WYIY"
+      "https://www.youtube-nocookie.com/embed/vBnErz43N1A"
     ],
     "language": "eng",
     "country": "ca",
@@ -616,17 +682,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k51puVCsLkbapL",
-    "name": "Parnian TV",
-    "iptv_urls": [
-      "https://live2.parnian.tv/hls/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GKly7Ww5aXXkJH",
     "name": "Plymouth Rock TV",
     "iptv_urls": [
@@ -689,6 +744,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NYodd4ZllT4qNK",
+    "name": "Sikh Spiritual Centre Rexdale",
+    "iptv_urls": [
+      "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -994,7 +1060,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-GNGnsxH1AE"
+      "https://www.youtube-nocookie.com/embed/APQOLUVobsw"
     ],
     "language": "eng",
     "country": "ca",

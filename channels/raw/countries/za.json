@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EME4N9khfw88cn",
-    "name": "AnewZ",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w-W0a0-uFl4"
-    ],
-    "language": "eng",
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "im3F3X4RVVERe9",
     "name": "BOKTV",
     "iptv_urls": [
@@ -59,7 +48,7 @@
     "name": "CNBC Africa",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1peUOme1Iys"
+      "https://www.youtube-nocookie.com/embed/_-YRXECDNBA"
     ],
     "language": "eng",
     "country": "za",
@@ -191,6 +180,21 @@
     "name": "TV BRICS Africa",
     "iptv_urls": [
       "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

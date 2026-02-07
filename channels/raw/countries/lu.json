@@ -108,16 +108,5 @@
     "language": "eng",
     "country": "lu",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nAnI0b1T3v96EJ",
-    "name": "RTL9",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "lu",
-    "isGeoBlocked": false
   }
 ]

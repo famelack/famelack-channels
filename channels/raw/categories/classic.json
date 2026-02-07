@@ -121,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9WIN5KhtEj3GSs",
     "name": "Shout! Studios: Bonanza",
     "iptv_urls": [],
@@ -143,22 +154,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZUiCxfI2YHTlLz",
-    "name": "Shout! Studios: Elvira's Movie Macabre",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nik0MvD_lqQ"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ckOe6Tf2kvWSZr",
     "name": "Shout! Studios: Godzilla",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_2U3fdkKzTs"
+      "https://www.youtube-nocookie.com/embed/OFPuDVZq-5E"
     ],
     "language": "eng",
     "country": "us",

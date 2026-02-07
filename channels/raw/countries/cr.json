@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0QTowwNml7pc3D",
+    "name": "Costa Rica Channel",
+    "iptv_urls": [
+      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wXST2Lc3NQDzOF",
     "name": "Coto Brus TV",
     "iptv_urls": [
@@ -231,10 +242,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
     "iptv_urls": [
-      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

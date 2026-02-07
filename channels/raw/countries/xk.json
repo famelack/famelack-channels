@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "rQCUYAoMNgWUYP",
-    "name": "RTK 1",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "sqi",
-    "country": "xk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n3OYO4UHAtEIt1",
     "name": "RTK 3",
     "iptv_urls": [

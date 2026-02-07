@@ -149,7 +149,7 @@
     "name": "El Futuro En tu Mano",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DiykGGAN3lg"
+      "https://www.youtube-nocookie.com/embed/WbLPk6YF-rI"
     ],
     "language": "spa",
     "country": "es",
@@ -466,17 +466,6 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "QlPcuBC4i1UOyT",
-    "name": "WappTV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?ads.vf=sP7W-jxtEdq"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "7Qxt6cb3OdvMTv",

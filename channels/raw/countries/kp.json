@@ -1,0 +1,14 @@
+[
+  {
+    "nanoid": "yTeO2ykdo9a746",
+    "name": "Korean Central Television (KCTV) (1080i)",
+    "iptv_urls": [
+      "https://tv.intchoson.com/kctv/index.m3u8",
+      "https://tv.intchoson.com/kctv/main_stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kp",
+    "isGeoBlocked": false
+  }
+]

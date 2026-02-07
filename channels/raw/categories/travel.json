@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0QTowwNml7pc3D",
+    "name": "Costa Rica Channel",
+    "iptv_urls": [
+      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U0CRP1XJWZMip7",
     "name": "Discover Pakistan",
     "iptv_urls": [
@@ -83,6 +94,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HfgIFGbdGJ0"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EgGzxbZMFfzTB1",
+    "name": "Fun Roads TV",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -143,39 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
     "iptv_urls": [
@@ -184,6 +173,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cfBOOiTtczD84z",
+    "name": "Space Live powered by sen",
+    "iptv_urls": [
+      "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {

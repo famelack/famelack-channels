@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "YhrXNZ7yMh3K65",
+    "name": "Canal de Panamá",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/orLd0Zt_tpI"
+    ],
+    "language": "spa",
+    "country": "pa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sk0pXWYPhoUI0U",
     "name": "Hosanna Vision",
     "iptv_urls": [
@@ -22,43 +33,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dNZF0BG3ys3ZI5",
-    "name": "Radio Ancón",
-    "iptv_urls": [
-      "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mfsWJwtwhG3h3c",
-    "name": "Radio Hogar",
-    "iptv_urls": [
-      "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rSxoKzYWbixhad",
     "name": "Súper Q Panamá",
     "iptv_urls": [
       "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SUR27YVxiEVQoo",
-    "name": "Tropi Q 99.7 FM",
-    "iptv_urls": [
-      "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

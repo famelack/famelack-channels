@@ -157,6 +157,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -458,28 +471,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "08vFfPl2upbXA4",
-    "name": "Euro D",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SSm48TGJZ2ZZyq",
-    "name": "FB TV",
-    "iptv_urls": [
-      "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tabafcg5kRDnTr",
     "name": "Film Atölyesi: Şener Şen Filmleri",
     "iptv_urls": [],
@@ -498,6 +489,17 @@
     ],
     "youtube_urls": [],
     "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fN7GQX8c6GD2uU",
+    "name": "GEM Pixel",
+    "iptv_urls": [
+      "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1171,11 +1173,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "brUJhCIZbgC3FC",
+    "nanoid": "d8eKK1FtTF1DmW",
     "name": "TGRT Haber",
-    "iptv_urls": [
-      "https://canli.tgrthaber.com/tgrt.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/TsB0xYOH0AU"
     ],
@@ -1345,8 +1345,7 @@
     "nanoid": "0Rg9Ao8zmETQkR",
     "name": "TRT Türk",
     "iptv_urls": [
-      "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8"
+      "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

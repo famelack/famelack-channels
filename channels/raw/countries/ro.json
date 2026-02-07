@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JSGP3ao4TkoM4K",
-    "name": "Alfa Omega TV",
-    "iptv_urls": [
-      "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XZ0ppzFYNKAs79",
     "name": "Angelus TV",
     "iptv_urls": [
@@ -308,10 +297,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
     "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -319,10 +308,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
+    "nanoid": "HXUJ0Y6Fs5W3Ui",
+    "name": "Mooz Hits",
     "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -531,8 +520,7 @@
     "nanoid": "otbytoTxWQ2OOt",
     "name": "TVR International",
     "iptv_urls": [
-      "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8"
+      "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",

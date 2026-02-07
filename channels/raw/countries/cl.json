@@ -165,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FObi7XPD4d4"
-    ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eoeb9ldORywfM0",
     "name": "CHV Noticias",
     "iptv_urls": [],
@@ -264,17 +253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mboCNwiMaOzg2v",
-    "name": "Girovisual",
-    "iptv_urls": [
-      "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nG7lFRDfSfbs7Z",
     "name": "Holvoet TV (Copiapó)",
     "iptv_urls": [
@@ -308,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LtuGw8CUEvQRPo",
+    "name": "La Popular TV",
+    "iptv_urls": [
+      "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O37bey4UFDgp1Q",
     "name": "Latina Network TV (576i)",
     "iptv_urls": [
@@ -323,7 +312,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V8mbf-g65qI"
+      "https://www.youtube-nocookie.com/embed/I3_SGKnJu0M"
     ],
     "language": "spa",
     "country": "cl",
@@ -402,7 +391,7 @@
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/l77nyBug0ZM"
+      "https://www.youtube-nocookie.com/embed/2TjyVXtmd-w"
     ],
     "language": "spa",
     "country": "cl",
@@ -469,7 +458,7 @@
     "name": "T13",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Q5QxSOYvjLc"
+      "https://www.youtube-nocookie.com/embed/Jqq5oFIEXbo"
     ],
     "language": "spa",
     "country": "cl",
@@ -725,17 +714,6 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QlPcuBC4i1UOyT",
-    "name": "WappTV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?ads.vf=sP7W-jxtEdq"
     ],
     "youtube_urls": [],
     "language": "spa",

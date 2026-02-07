@@ -81,17 +81,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxXQI394Taufv5",
-    "name": "24 Horas Internacional",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0ql8ScPnCzsSJo",
     "name": "28 kanala",
     "iptv_urls": [
@@ -173,17 +162,6 @@
     "name": "Arabí TV",
     "iptv_urls": [
       "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jEbBTOGQdPSByJ",
-    "name": "Aragon TV",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -372,6 +350,17 @@
     "name": "Canal Diocesano",
     "iptv_urls": [
       "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fSeqRheB6IOZIg",
+    "name": "Canal Doñana",
+    "iptv_urls": [
+      "https://secure5.todostreaming.es/live/division-alm.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -629,7 +618,7 @@
     "name": "El Futuro En tu Mano",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DiykGGAN3lg"
+      "https://www.youtube-nocookie.com/embed/WbLPk6YF-rI"
     ],
     "language": "spa",
     "country": "es",
@@ -651,18 +640,6 @@
     "name": "Empordà TV",
     "iptv_urls": [
       "https://video3.lhdserver.es/empordatv2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -692,32 +669,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUnDPmTe0OgqcS",
-    "name": "ETB 1",
+    "nanoid": "mCiVfIGYDaqE2r",
+    "name": "EsTuTele",
     "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eus",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1AeIys0pyWYkPF",
-    "name": "ETB 2",
-    "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jVp1vLlNX4ZofN",
-    "name": "ETB Basque",
-    "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
+      "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -784,6 +739,17 @@
     "name": "Gol Classics",
     "iptv_urls": [
       "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HwhpJMBxrNJdLl",
+    "name": "Guada TV",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -858,17 +824,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GHi6V9VFxBsZxp",
     "name": "Lancelot TV",
     "iptv_urls": [
@@ -920,17 +875,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yZT8JeLEndYnMC",
-    "name": "Los Gipsy Kings",
-    "iptv_urls": [
-      "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1071,17 +1015,6 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "r4O5xUGbFguCQr",
-    "name": "Pequeradio",
-    "iptv_urls": [
-      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1408,17 +1341,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "azCmZT5s8W62Ny",
-    "name": "Rakuten TV Romance Movies Spain",
-    "iptv_urls": [
-      "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6Fk85FNF4cdSWr",
     "name": "Rakuten TV Sci-Fi Spain",
     "iptv_urls": [
@@ -1448,6 +1370,17 @@
     ],
     "youtube_urls": [],
     "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d85uJsQx5ZxBLM",
+    "name": "Rakuten TV Top Movies Germany",
+    "iptv_urls": [
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1566,6 +1499,17 @@
     "name": "Solidaria TV",
     "iptv_urls": [
       "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1694,6 +1638,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mOCMYDYV2t8RPY",
+    "name": "Trece",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tJnnR1sDEnmxAh",
     "name": "TV Almassora",
     "iptv_urls": [
@@ -1754,17 +1709,6 @@
     "name": "TVE Internacional America",
     "iptv_urls": [
       "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3wDWZGffBvsicD",
-    "name": "TVE Internacional Europe-Asia",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

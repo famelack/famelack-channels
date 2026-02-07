@@ -211,6 +211,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "iptv_urls": [
@@ -365,6 +376,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7AdgPJilMkGY8x",
+    "name": "Memorias TV Series",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "iptv_urls": [
@@ -379,7 +401,6 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "iptv_urls": [
-      "https://mst3k-roku.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
       "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
@@ -596,17 +617,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZaqgWhDGReQ"
     ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u8GrJu00tMCHcx",
-    "name": "Titanic TV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8?ads.vf=blzxh-yxdIK"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false

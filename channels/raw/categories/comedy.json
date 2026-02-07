@@ -77,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nj8aLvvoJDsy5b",
-    "name": "Comedy Central HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "iptv_urls": [
@@ -212,17 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s3CR0taCvYhOMx",
-    "name": "Nick/Comedy Central +1 HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tWwmPx6ovJPksa",
     "name": "Novo Comedy",
     "iptv_urls": [
@@ -256,6 +234,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/k8kr4KMwlyw"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "iptv_urls": [
@@ -270,7 +259,8 @@
     "nanoid": "kXXPyaWYEhBzfW",
     "name": "SNL Vault",
     "iptv_urls": [
-      "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8"
+      "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8",
+      "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017"
     ],
     "youtube_urls": [],
     "language": "eng",

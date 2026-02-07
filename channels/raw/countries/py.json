@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1SiTErM3CiKcqk",
-    "name": "Gen",
-    "iptv_urls": [
-      "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KorxP0jgE3cFyZ",
     "name": "GO TV",
     "iptv_urls": [

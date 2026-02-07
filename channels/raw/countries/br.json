@@ -189,6 +189,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UgU49sPYs4BxYb",
+    "name": "ConecTV Brasil",
+    "iptv_urls": [
+      "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LWqvQUVppUUQxW",
     "name": "Conexão TV",
     "iptv_urls": [
@@ -413,7 +424,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p8HEUhB-s-s"
+      "https://www.youtube-nocookie.com/embed/zlbPJ99u_BQ"
     ],
     "language": "por",
     "country": "br",
@@ -456,7 +467,6 @@
     "nanoid": "rt7SLz6glAqm6R",
     "name": "Record",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8",
       "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
     ],
     "youtube_urls": [],
@@ -468,11 +478,10 @@
     "nanoid": "TPTBqvtnc5kyaM",
     "name": "Record News",
     "iptv_urls": [
-      "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
+      "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kXWqfkZSgI8"
+      "https://www.youtube-nocookie.com/embed/GugLr3N2vv0"
     ],
     "language": "por",
     "country": "br",
@@ -545,6 +554,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/k8kr4KMwlyw"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHsfcZXYEPAKKO",
     "name": "Santuário Nacional de Aparecida",
     "iptv_urls": [],
@@ -593,7 +613,7 @@
     "name": "SBT Rio",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/49xKbgDlFNA"
+      "https://www.youtube-nocookie.com/embed/40nv9SBNr-4"
     ],
     "language": "por",
     "country": "br",
@@ -633,10 +653,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
+    "iptv_urls": [
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uFUnpsEwjM0TgY",
     "name": "TV A Folha",
     "iptv_urls": [
       "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WxSrWAmqcJscq8",
+    "name": "TV Aldeia",
+    "iptv_urls": [
+      "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -705,7 +747,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pnFsbDbSweo"
+      "https://www.youtube-nocookie.com/embed/1KhvGhwnyIE"
     ],
     "language": "por",
     "country": "br",
@@ -727,6 +769,17 @@
     "name": "TV Brasil Central",
     "iptv_urls": [
       "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
+    "iptv_urls": [
+      "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -932,17 +985,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g42CLcwYVqsKev",
-    "name": "TV Guará",
-    "iptv_urls": [
-      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "iptv_urls": [],
@@ -1046,8 +1088,19 @@
     "name": "TV Notícia",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Py5mOuri2Fc"
+      "https://www.youtube-nocookie.com/embed/ICjcHQ_hOOQ"
     ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dcIkvJvyHx3mhL",
+    "name": "TV Padre Cicero",
+    "iptv_urls": [
+      "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -1086,10 +1139,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rREG7vaT91drEA",
-    "name": "TV Plan",
+    "nanoid": "CNQ9a4CPIghUm1",
+    "name": "TV Rio Preto",
     "iptv_urls": [
-      "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8"
+      "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1119,10 +1172,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AOrzbD7QEj8vaf",
+    "name": "TV Sim Cachoeiro",
+    "iptv_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hwtT6piHOJApw7",
     "name": "TV Sim Colatina",
     "iptv_urls": [
       "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ypesM2O8mm8qXW",
+    "name": "TV Sim São Mateus",
+    "iptv_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",

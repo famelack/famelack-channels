@@ -79,17 +79,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nm9j1gcFiJ0xm0",
-    "name": "Al Dafrah TV",
-    "iptv_urls": [
-      "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "axtrtUohLCP3GM",
     "name": "Al Mashhad",
     "iptv_urls": [],
@@ -421,17 +410,6 @@
       "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mZmbWEboh9MGPf",
-    "name": "The Smurfs: السنافر",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NV1ohLdNTtw"
-    ],
     "language": "ara",
     "country": "ae",
     "isGeoBlocked": false

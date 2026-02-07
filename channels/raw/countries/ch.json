@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "n71nqqKuDy4zm4",
-    "name": "Blue Zoom F",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BNpZPYk5QD9227",
     "name": "Canal 9 en Français",
     "iptv_urls": [
@@ -47,8 +36,7 @@
     "nanoid": "fjYriRacd46Tsw",
     "name": "Carac 1",
     "iptv_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
+      "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -60,8 +48,7 @@
     "name": "Carac 2",
     "iptv_urls": [
       "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8",
-      "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8"
+      "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -73,8 +60,7 @@
     "name": "Carac 3",
     "iptv_urls": [
       "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8",
-      "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8"
+      "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -85,19 +71,7 @@
     "nanoid": "trjWtKrUtelzEV",
     "name": "Carac 4",
     "iptv_urls": [
-      "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9VPpCwl1z0AmOB",
-    "name": "Carac 5",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8"
+      "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -160,32 +134,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DbxKFUr1LO9Qz6",
-    "name": "Leman Bleu",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2fMXhSxCc6I9OG",
     "name": "MaxTV/Dieu TV",
     "iptv_urls": [
       "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cGyo0PcVp0bodG",
-    "name": "NRTV",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -226,50 +178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A7YexNkwWBLuDp",
-    "name": "RSI La 1",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyEbLZjQWH3qtB",
-    "name": "RSI La 2",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "X40NOmB4EUipXj",
-    "name": "RTS 1",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fXufYTuHgF5qTt",
-    "name": "RTS 2",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EzfREO7iOpkG6H",
     "name": "RTV Islam",
     "iptv_urls": [
@@ -303,72 +211,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ou6nwrt0Eo6evU",
-    "name": "SRF 1",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ZEkAUtpqjKXad",
-    "name": "SRF info HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EojIj9CsWt1oEx",
-    "name": "SRF zwei",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Gl4ZYknUeX07MF",
-    "name": "Star TV",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9inSrRGCyLN9fv",
-    "name": "TeleBarn",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jSUKExZugJJpgn",
-    "name": "TeleBielingue",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OeC5ZVzNRndtBe",
     "name": "TeleTicino",
     "iptv_urls": [
@@ -376,17 +218,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p2FtOD8SiN31rW",
-    "name": "TV 24",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "ch",
     "isGeoBlocked": false
   },

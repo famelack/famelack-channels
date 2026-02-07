@@ -242,17 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JEOHsH5ZsjmOK3",
-    "name": "Milenial TV",
-    "iptv_urls": [
-      "https://www.milenial.news/salida/milenial.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UDdMtzxSFo4KG2",
     "name": "MO Channel",
     "iptv_urls": [
@@ -330,17 +319,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vy9HTzZfX7NGXL",
-    "name": "Radio Tropical Tarapoto",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3Wu9MC7OO3N4Ss",
     "name": "RadioTV Oriente",
     "iptv_urls": [
@@ -379,6 +357,17 @@
     "name": "RSelvaTV",
     "iptv_urls": [
       "https://live.obslivestream.com/selvatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wbr6x2NZ3c23qF",
+    "name": "Señal Perú TV",
+    "iptv_urls": [
+      "https://livestream.perucast.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -480,6 +469,17 @@
       "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XOM9Q1cGWigMXK",
+    "name": "TVLibertad ",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WiF1EhgKOo8"
+    ],
     "language": "spa",
     "country": "pe",
     "isGeoBlocked": false

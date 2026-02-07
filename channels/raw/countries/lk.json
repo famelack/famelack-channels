@@ -48,7 +48,7 @@
     "name": "LiveFM Sri Lanka",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/j4yuaQc3Sjg"
+      "https://www.youtube-nocookie.com/embed/hS9xpzcv3_4"
     ],
     "language": "sin",
     "country": "lk",
@@ -59,7 +59,7 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ij3JV6NAs30"
+      "https://www.youtube-nocookie.com/embed/m45sMIAqdd4"
     ],
     "language": "sin",
     "country": "lk",
@@ -73,17 +73,6 @@
     ],
     "youtube_urls": [],
     "language": "tam",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2kFmLsUZ8zPq3c",
-    "name": "Newsfirst Sri Lanka",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GSPkEXzG7K4"
-    ],
-    "language": "sin",
     "country": "lk",
     "isGeoBlocked": false
   },
@@ -114,6 +103,17 @@
     "name": "Siyatha TV",
     "iptv_urls": [
       "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sin",
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eSMkzAvr1JhXfB",
+    "name": "Swarnavahini",
+    "iptv_urls": [
+      "https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "sin",

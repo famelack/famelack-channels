@@ -298,22 +298,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mQsEQa26uw8XEM",
-    "name": "TrustTV News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1gK226Mp84E"
-    ],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mKY4tfy2nJF9FI",
+    "nanoid": "Iz3l4KLYDLXwEs",
     "name": "TVC News",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Mv14aabg4mA"
     ],
@@ -333,6 +320,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UgWTds4qowCm7J",
+    "name": "Waffi TV",
+    "iptv_urls": [
+      "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3iniHuYhBuCQD",
     "name": "Wap TV",
     "iptv_urls": [
@@ -344,10 +342,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xqNDe2nURDi4zM",
-    "name": "Wazobia Max TV Abuja",
+    "nanoid": "Uu8JpSpXEkB3Wk",
+    "name": "Wazobia Max TV Port Harcourt",
     "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
+      "https://wazobia.live:8333/channel/wmaxph.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

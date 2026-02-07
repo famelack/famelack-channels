@@ -116,8 +116,7 @@
     "nanoid": "D2NSPfcewUnhFP",
     "name": "BFM Business",
     "iptv_urls": [
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
-      "https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8"
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -164,17 +163,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f39oHo6vFLg"
     ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4IwYgpiLrxHlWh",
-    "name": "Bloomberg TV Europe",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -293,17 +281,6 @@
     "youtube_urls": [],
     "language": "guj",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B3ZHYgpHFJUrsy",
-    "name": "CNBC Europe HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -452,17 +429,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KXzUvzITqgSm2L",
-    "name": "Real Vision",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-vision-1/master.m3u8?ads.vf=EXpPh_OXLJK"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MMQB1dfNdiK82n",
     "name": "TD Ameritrade Network",
     "iptv_urls": [
@@ -514,6 +480,7 @@
       "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
       "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
+      "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
       "https://yahoo-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

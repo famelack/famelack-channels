@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UTPQHefSxSVqfS",
-    "name": "AccessVision Channel 17",
-    "iptv_urls": [
-      "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vqFXUAvAcfaAOu",
     "name": "ACTV",
     "iptv_urls": [
@@ -357,6 +346,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -380,17 +370,6 @@
     "name": "Denver 8 TV (Denver CO)",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ApGDxajKB8Y5cQ",
-    "name": "DerryTV 17",
-    "iptv_urls": [
-      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -442,17 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sRtXiK8RAqxlx6",
-    "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JtpMZKlL4SeNOl",
     "name": "Fort Pierce Live Stream (Fort Pierce FL)",
     "iptv_urls": [
@@ -490,17 +458,6 @@
     "name": "Galveston County TV",
     "iptv_urls": [
       "https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jNKciKxgIk0NeD",
-    "name": "Gilroy CMAP TV Channel 17",
-    "iptv_urls": [
-      "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -607,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "30bfOGEz7cdNL8",
-    "name": "LCP",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o3TJTeJqxvVtfC",
     "name": "Legislative Assembly of British Columbia",
     "iptv_urls": [
@@ -662,14 +608,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hXk0VgitqbFza7",
-    "name": "Leominster TV Government",
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
     "iptv_urls": [
-      "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "us",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -677,17 +623,6 @@
     "name": "Lex TV",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JNyo9F9UzYyge3",
-    "name": "LGTV",
-    "iptv_urls": [
-      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -765,17 +700,6 @@
     "name": "Moorpark Government Channel",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XYsmnPfcRc2O6U",
-    "name": "Nashua GTV Channel 16 Nashua NH",
-    "iptv_urls": [
-      "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -861,33 +785,33 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCRvE4DABiQZWc",
-    "name": "Orange Government Access TV (Orange CT)",
-    "iptv_urls": [
-      "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "iptv_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
       "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
       "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZBBFj5GnvGni4T",
+    "name": "Parlamentsfernsehen 2",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eYYqGiBGykkSSs",
+    "name": "Parlamentsfernsehen 3",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1029,17 +953,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lk5z9wCW6biNWj",
-    "name": "Santa Maria Community Television Government Channel",
-    "iptv_urls": [
-      "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zi70FEF1M2coJp",
     "name": "Santa Monica City TV 20 (Santa Monica CA)",
     "iptv_urls": [
@@ -1132,7 +1045,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pnFsbDbSweo"
+      "https://www.youtube-nocookie.com/embed/1KhvGhwnyIE"
     ],
     "language": "por",
     "country": "br",
@@ -1315,17 +1228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "69Uot94MzkniBw",
-    "name": "Vacaville Channel 26 (Vacaville CA)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/vacaville/G0228_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EbzVTLGaQ83k3R",
     "name": "Whittier CityTV (Whittier CA)",
     "iptv_urls": [
@@ -1359,28 +1261,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DL1qevIydJc5vp",
-    "name": "Yuma AZ CH 72",
-    "iptv_urls": [
-      "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6n4fCyYk7H134P",
-    "name": "Yuma AZ CH 73",
-    "iptv_urls": [
-      "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D9a6Bz5bh6RDhY",
     "name": "Βουλή Τηλεόραση",
     "iptv_urls": [
@@ -1389,6 +1269,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

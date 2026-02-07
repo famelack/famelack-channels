@@ -20,5 +20,16 @@
     "language": "nld",
     "country": "cw",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ytgkmKRLzQAL3O",
+    "name": "VAM Vid's & More",
+    "iptv_urls": [
+      "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "cw",
+    "isGeoBlocked": false
   }
 ]

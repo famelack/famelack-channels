@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RgXZMyE6SkTLbW",
-    "name": "Bayyinat TV",
-    "iptv_urls": [
-      "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bBdVVt0cpWEQfg",
     "name": "BeitolAbbas TV Channel",
     "iptv_urls": [
@@ -147,6 +136,17 @@
     "name": "EmanTv",
     "iptv_urls": [
       "https://avr.host247.net/live/emantv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HF0s5qptKRRfON",
+    "name": "FarmodaTV",
+    "iptv_urls": [
+      "https://avr.host247.net/live/FarmodaTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kur",

@@ -64,5 +64,31 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cfBOOiTtczD84z",
+    "name": "Space Live powered by sen",
+    "iptv_urls": [
+      "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
   }
 ]

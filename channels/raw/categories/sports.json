@@ -245,18 +245,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BkNvZNcvt4fu9h",
     "name": "F1 Channel",
     "iptv_urls": [
@@ -287,17 +275,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SSm48TGJZ2ZZyq",
-    "name": "FB TV",
-    "iptv_urls": [
-      "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -537,8 +514,7 @@
     "nanoid": "oETakhtKOAAoma",
     "name": "L'Equipe",
     "iptv_urls": [
-      "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
+      "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -634,6 +610,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nKepPfPxroGdqa",
+    "name": "MotoGP",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ji7MISo6G6g"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "057AuVcfpScIV5",
     "name": "MSG",
     "iptv_urls": [
@@ -665,6 +652,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "mgCBsRrwyHVP1v",
+    "name": "NBC Sports NOW",
+    "iptv_urls": [
+      "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "iqW7NImquoQlAB",
@@ -705,6 +703,7 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
       "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -802,17 +801,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7TX9VjMY1i891b",
-    "name": "QSVS: Top Calcio 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bd4E2Dpa4tI"
-    ],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PgSQJkjlJAZPaq",
     "name": "RACER International",
     "iptv_urls": [
@@ -832,28 +820,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KUhdhVQJTBGWTa",
-    "name": "Rai Sport HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -922,17 +888,6 @@
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3GRhk1olvNhd0M",
-    "name": "Sportskool TV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportskool-tv/master.m3u8?ads.vf=0vV6h8I3vC8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1046,7 +1001,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

@@ -34,17 +34,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FlKBvuf4AGQ"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5fsuYuCG8ydAtN",
     "name": "Bigtime",
     "iptv_urls": [
@@ -223,17 +212,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yVHVo5RwmcKcvS",
-    "name": "Radio Czwórka",
-    "iptv_urls": [
-      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bYyllb5PVIf1uE",
     "name": "Royalworld",
     "iptv_urls": [
@@ -337,7 +315,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KVeey5QKtSQ"
+      "https://www.youtube-nocookie.com/embed/e08Rr6PMrzo"
     ],
     "language": "pol",
     "country": "pl",
@@ -476,6 +454,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zm99zgCQP8EGKf",
+    "name": "Top Movies Polska",
+    "iptv_urls": [
+      "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "viSqDXiMLM8FN0",
     "name": "TV ASTA",
     "iptv_urls": [
@@ -523,8 +512,7 @@
     "nanoid": "fzamcn1eHJ76Mf",
     "name": "TVP Polonia",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8"
+      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -571,6 +559,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

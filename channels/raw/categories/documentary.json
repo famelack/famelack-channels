@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tn94bXCcZQXp4I",
     "name": "Al Arabiya Programs",
     "iptv_urls": [
@@ -26,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qFq3OOvi96E"
+      "https://www.youtube-nocookie.com/embed/G46MXjQasRg"
     ],
     "language": "jpn",
     "country": "jp",
@@ -180,6 +169,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HJhyKYuHh72Bmv",
+    "name": "CNA Originals",
+    "iptv_urls": [
+      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
@@ -207,6 +207,7 @@
     "nanoid": "jAekBDqlLERFF0",
     "name": "Dateline 24/7",
     "iptv_urls": [
+      "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
       "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
       "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
     ],
@@ -219,7 +220,18 @@
     "nanoid": "6gbtius213QaZ4",
     "name": "Documentary+",
     "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8?ads.vf=1tb_53Uj-0K"
+      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2fMuVMErYSbQJN",
+    "name": "Documentary+ International",
+    "iptv_urls": [
+      "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -525,6 +537,21 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
     "isGeoBlocked": false
   },
   {

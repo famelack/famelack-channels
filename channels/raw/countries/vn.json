@@ -34,17 +34,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bmVfcr31sW64zk",
-    "name": "Cần Thơ TV2",
-    "iptv_urls": [
-      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S9KVQ5ABQqb8sk",
     "name": "Cần Thơ TV3",
     "iptv_urls": [
@@ -82,7 +71,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MTp_qYNDXXk"
+      "https://www.youtube-nocookie.com/embed/UYnopcqu2N8"
     ],
     "language": "vie",
     "country": "vn",
@@ -93,18 +82,6 @@
     "name": "Điện Biên TV",
     "iptv_urls": [
       "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WG3l5g8c6zS1AC",
-    "name": "Đồng Tháp TV1",
-    "iptv_urls": [
-      "https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8",
-      "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

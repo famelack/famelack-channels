@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ysj72uB19BHukq",
-    "name": "8XM",
-    "iptv_urls": [
-      "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NADQVJi1t0O3vZ",
     "name": "24 News HD",
     "iptv_urls": [],
@@ -70,7 +59,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EIbrgqFO_AQ"
+      "https://www.youtube-nocookie.com/embed/UrQh4smBdy8"
     ],
     "language": "sd",
     "country": "pk",
@@ -492,7 +481,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A_jyA46tjNc"
+      "https://www.youtube-nocookie.com/embed/XlbySzf_ipk"
     ],
     "language": "sd",
     "country": "pk",
@@ -515,6 +504,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/F6P-BFV6gWM"
+    ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BNoay5RaWWsaq9",
+    "name": "VSH NEWS",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JZp18RwPoaY"
     ],
     "language": "urd",
     "country": "pk",

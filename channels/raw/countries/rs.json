@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "hXfBIFtewHiUsg",
-    "name": "DM Sat",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tGRgOGa9BjpssA",
     "name": "Narodna TV",
     "iptv_urls": [
@@ -88,10 +77,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CGpEK7hW6CDfth",
-    "name": "RTS Svet HD",
+    "nanoid": "ye9TjeZb17m8NT",
+    "name": "RTV AS",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8"
+      "https://srv1.adriatelekom.com/TVAS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "srp",

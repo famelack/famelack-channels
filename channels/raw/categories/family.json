@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bxrLpOnIw2cIku",
-    "name": "BBC Three/CBBC",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7F6GpuknhmHoCf",
     "name": "CWB TV",
     "iptv_urls": [
@@ -213,8 +202,7 @@
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "iptv_urls": [
-      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8"
+      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

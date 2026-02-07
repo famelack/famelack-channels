@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "2TeFmbSu18GnAQ",
-    "name": "Cadena A",
-    "iptv_urls": [
-      "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hiCZpbwj9latCv",
     "name": "Coral TV",
     "iptv_urls": [
@@ -48,6 +37,17 @@
     "name": "FTV",
     "iptv_urls": [
       "https://master.tucableip.com/ftvhd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YIKke4PY7wnkdl",
+    "name": "Palenque TV",
+    "iptv_urls": [
+      "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

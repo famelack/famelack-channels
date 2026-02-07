@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y7vYe1yqK0sxRF",
-    "name": "MERU TV",
-    "iptv_urls": [
-      "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HmimxNpLzs8JkF",
     "name": "Morning Cloud TV",
     "iptv_urls": [
@@ -48,7 +37,7 @@
     "name": "NTV Kenya",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zeJsPv_1Mps"
+      "https://www.youtube-nocookie.com/embed/b16MHtreawM"
     ],
     "language": "eng",
     "country": "ke",
@@ -62,17 +51,6 @@
     ],
     "youtube_urls": [],
     "language": "luo",
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JBCPoH31qjZcU3",
-    "name": "Sayare TV",
-    "iptv_urls": [
-      "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "ke",
     "isGeoBlocked": false
   },

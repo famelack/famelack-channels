@@ -67,10 +67,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WwkDGrZMJxcaPL",
+    "name": "Canal 8 TV+",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/canal8tv.m3u8",
+      "https://video.ejeserver.com/live/canal8tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8056/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIQhSN2tH9x7qG",
+    "name": "Canal 55 Telemorisco TV",
+    "iptv_urls": [
+      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -118,6 +141,17 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/nets.m3u8",
       "https://video.ejeserver.com/live/nets.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6HCQM4gcn0yaGn",
+    "name": "Canal Oración Con Son",
+    "iptv_urls": [
+      "https://canal.mediaserver.com.co/live/oracionconson.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -270,6 +304,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
+    "iptv_urls": [
+      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wzR0TNYEFfuhVq",
     "name": "La Hermandad Salsera",
     "iptv_urls": [
@@ -314,6 +359,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RfchJq1KTGTlOM",
+    "name": "Mas Norte TV",
+    "iptv_urls": [
+      "https://live.arnoproducciones.com/hls/norte.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
@@ -330,6 +386,72 @@
     "name": "MCI Televisión",
     "iptv_urls": [
       "https://video.ejeserver.com/live/mcitelevision.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fT5wViIkqEBjJA",
+    "name": "Memorias del Corazon",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CAgtc7uQTGoAtf",
+    "name": "Memorias TV Classic",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DOhQjr6d6DYcGE",
+    "name": "Memorias TV Film",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7AdgPJilMkGY8x",
+    "name": "Memorias TV Series",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "snUHMUBtSh5kZt",
+    "name": "Memorias TV Toons",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v84rF2TjmPJMTT",
+    "name": "Memorias TV Tropical",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -481,17 +603,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z2Kgz7MRBRZ3FM",
-    "name": "Telepacífico",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BTUtiIKXJH39q3",
     "name": "TeveColombia",
     "iptv_urls": [
@@ -518,17 +629,6 @@
     "name": "TV Peñol",
     "iptv_urls": [
       "https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VcAQv2UIywMiiL",
-    "name": "TV San Jorge",
-    "iptv_urls": [
-      "https://asucap.com/livestream/asucap_envivo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

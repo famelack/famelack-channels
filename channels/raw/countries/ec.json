@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8Bv8hcX2tNuzZb",
+    "name": "Antena Uno RadioVideo",
+    "iptv_urls": [
+      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "iptv_urls": [
@@ -231,17 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2m0gEtXYdWeCIN",
-    "name": "Infinita TV",
-    "iptv_urls": [
-      "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BQiZCJpf4JlMdt",
     "name": "La Nueva Radio TV 97.7",
     "iptv_urls": [
@@ -279,6 +279,17 @@
     "name": "Loreto TV",
     "iptv_urls": [
       "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Sp6sHwr9vDmxjt",
+    "name": "Mágica Tv",
+    "iptv_urls": [
+      "https://magicatv.4pu.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

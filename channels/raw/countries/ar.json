@@ -209,17 +209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZwcB80q6hf9Umn",
-    "name": "Canal 5 Pico Truncado",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qltnj6pxW46J3l",
     "name": "Canal 5 Santa Fe",
     "iptv_urls": [
@@ -367,6 +356,7 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -500,6 +490,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
@@ -559,7 +560,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JTLpjOoMrLc"
+      "https://www.youtube-nocookie.com/embed/ilaO-rD-Ggc"
     ],
     "language": "spa",
     "country": "ar",
@@ -622,17 +623,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rvSLmYJvnwZ691",
-    "name": "El Tres TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OvaSGVVnR7Y"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NYXd2ClRBhOZGJ",
     "name": "FMVale975",
     "iptv_urls": [],
@@ -672,6 +662,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/PDtB9Hc0YJM"
     ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mZmnLqHFT8usTq",
+    "name": "Litus TV",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -979,7 +980,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BFygEchTUMQ"
+      "https://www.youtube-nocookie.com/embed/EB1rP9CnPec"
     ],
     "language": "spa",
     "country": "ar",
@@ -1068,7 +1069,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7CcUPU_C-sw"
+      "https://www.youtube-nocookie.com/embed/c15FHIrjLrc"
     ],
     "language": "spa",
     "country": "ar",
@@ -1079,6 +1080,17 @@
     "name": "VerTV (VTV)",
     "iptv_urls": [
       "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7AOOQRJwDktOpp",
+    "name": "X Level Media",
+    "iptv_urls": [
+      "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

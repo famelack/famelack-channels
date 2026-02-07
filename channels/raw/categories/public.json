@@ -58,28 +58,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxXQI394Taufv5",
-    "name": "24 Horas Internacional",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jEbBTOGQdPSByJ",
-    "name": "Aragon TV",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Fv2fpsvbcUPHP8",
     "name": "Aragon TV Internacional",
     "iptv_urls": [
@@ -206,51 +184,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JUnDPmTe0OgqcS",
-    "name": "ETB 1",
-    "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eus",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1AeIys0pyWYkPF",
-    "name": "ETB 2",
-    "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jVp1vLlNX4ZofN",
-    "name": "ETB Basque",
-    "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ry2G3plOdgjsxG",
     "name": "ETB Events 1",
     "iptv_urls": [
@@ -303,17 +236,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   }

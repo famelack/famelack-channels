@@ -66,32 +66,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UwrO948tolkZzf",
-    "name": "Duna TV",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7lZXVo773nUBKh",
     "name": "ESTV",
     "iptv_urls": [
       "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bJRjHgTM43iRML",
-    "name": "Fehérvár TV",
-    "iptv_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hun",
@@ -341,6 +319,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JyxPOf8oRL0K0y",
+    "name": "VTV Mór",
+    "iptv_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2SBZd0F52NzMui",
     "name": "XV TV",
     "iptv_urls": [
@@ -356,6 +345,17 @@
     "name": "Zalaegerszegi TV",
     "iptv_urls": [
       "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VR6QfXQAolyoFB",
+    "name": "Zuglo TV",
+    "iptv_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hun",

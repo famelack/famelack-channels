@@ -9,16 +9,5 @@
     "language": "fra",
     "country": "ne",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JByucd7ZdeYBy9",
-    "name": "Télé Sahel",
-    "iptv_urls": [
-      "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ne",
-    "isGeoBlocked": false
   }
 ]

@@ -198,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ysSEMiqN72tgpi",
-    "name": "RTP Internacional",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wviT8L1evQdgaR",
     "name": "SIC",
     "iptv_urls": [

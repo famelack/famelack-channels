@@ -132,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "r2gF8oZvggcaZG",
+    "name": "Vantage Dance",
+    "iptv_urls": [
+      "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFaKfUjRuHlz4N",
     "name": "Vantage Music",
     "iptv_urls": [

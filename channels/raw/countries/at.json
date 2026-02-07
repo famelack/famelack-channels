@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6DnB5KJfxGNUSC",
-    "name": "ATV2 HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LG6Gi17D5ouvwt",
     "name": "Balkan Radio Salzburg",
     "iptv_urls": [
@@ -189,43 +178,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MOPKQmSpaUUjoi",
-    "name": "ORF 1 HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3VXM9idgjYPrqY",
     "name": "ORF 2",
     "iptv_urls": [
       "https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EwM9NzIhL3N3PZ",
-    "name": "ORF 2 Tirol HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -259,17 +215,6 @@
     "name": "Schladming-Dachstein TV",
     "iptv_urls": [
       "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H2qb0hwWTVm9bz",
-    "name": "ServusTV HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
