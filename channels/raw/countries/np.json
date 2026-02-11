@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "GidYAgXI85sI6d",
+    "name": "Capital TV",
+    "iptv_urls": [
+      "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nep",
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DfD3tq4WpLgfKH",
     "name": "Divya Darshan TV",
     "iptv_urls": [

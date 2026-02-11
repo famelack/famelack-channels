@@ -4,7 +4,7 @@
     "name": "7 Info",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H4rN6Z-9jxI"
+      "https://www.youtube-nocookie.com/embed/qmrugPVoZgY"
     ],
     "language": "fra",
     "country": "ci",
@@ -148,6 +148,17 @@
     "name": "NCI",
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6vEXsT4SKeWER",
+    "name": "NTV Afrique",
+    "iptv_urls": [
+      "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

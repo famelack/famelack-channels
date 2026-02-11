@@ -297,17 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kNsWM7D3MJH7TB",
-    "name": "Panc TV Peru",
-    "iptv_urls": [
-      "https://panel.host-live.com:19360/20000/20000.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rIUi7QauvvK3mU",
     "name": "Radio Master",
     "iptv_urls": [
@@ -423,6 +412,17 @@
     "name": "Top FM TV",
     "iptv_urls": [
       "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mdiVt9k5G6ApIq",
+    "name": "Trivu",
+    "iptv_urls": [
+      "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -465,7 +465,7 @@
     "country": "French Guiana",
     "capital": "Cayenne",
     "timeZone": "America/Cayenne",
-    "hasChannels": false
+    "hasChannels": true
   },
   "GG": {
     "country": "Guernsey",
@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MP": {
     "country": "Northern Mariana Islands",
@@ -1263,7 +1263,7 @@
     "country": "Tajikistan",
     "capital": "Dushanbe",
     "timeZone": "Asia/Dushanbe",
-    "hasChannels": true
+    "hasChannels": false
   },
   "TK": {
     "country": "Tokelau",

@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XyJbjiw5j7Ws7W",
-    "name": "Ilm va Tabiat",
-    "iptv_urls": [
-      "https://live.teleradiocom.tj/15/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tgk",
-    "country": "tj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mmb6ehRkLI6kQW",
     "name": "INWONDER",
     "iptv_urls": [

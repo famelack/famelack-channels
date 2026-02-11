@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "lUpWeg7HP6jIWK",
+    "name": "Bless TV",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=hNDXxFtFEya"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "jm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UoDD2CPivGLf3H",
     "name": "MTM TV",
     "iptv_urls": [

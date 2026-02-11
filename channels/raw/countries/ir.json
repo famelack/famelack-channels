@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "CvmbQC914eDeza",
-    "name": "Abadan",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rNgc6paK8PR7Gl",
     "name": "Abalfadhl TV",
     "iptv_urls": [
@@ -55,21 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V2jhlDKprnTsvi",
-    "name": "Aftab",
+    "nanoid": "sVMuojFlIFBAT6",
+    "name": "Al Wilayah",
     "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N8rJFe0bydU52L",
-    "name": "Al Alam",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8"
+      "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -84,17 +62,6 @@
     ],
     "youtube_urls": [],
     "language": "ara",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oL7miKW2dj34Wt",
-    "name": "Amouzesh",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -275,6 +242,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "25abRG1DhnkEwo",
+    "name": "Fars",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iWUUKHrNYmm1vc",
     "name": "FX TV 1",
     "iptv_urls": [
@@ -319,43 +297,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HW3VPKyt6mpMGb",
-    "name": "iFilm 2",
-    "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilm2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FThMLWk2PqeTHZ",
-    "name": "iFilm Arabic",
-    "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmar.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ELGjlFyEtfJ19e",
-    "name": "iFilm English",
-    "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmen.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g3vaXRs7MKcSOW",
     "name": "iFilm Persian",
     "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmfa.m3u8"
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -363,10 +308,54 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WqlviZN2uXxQxE",
-    "name": "Iran Press",
+    "nanoid": "KkkufkxTZZv1cF",
+    "name": "IRIB1",
     "iptv_urls": [
-      "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DD2ybQzhzwfj0e",
+    "name": "IRIB2",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DTB26EOMXy8ybv",
+    "name": "IRIB4",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yMXAiUo3mBYbkd",
+    "name": "IRINN",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EN9WnBJE3PpmJm",
+    "name": "IRINN2",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -407,6 +396,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6GbNGuNHRfS2Wl",
+    "name": "Kerman",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MQAy0QKwajqbc5",
+    "name": "Kordestan",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cS5WWc43jjdjbz",
+    "name": "Lenz Animation",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OUbiWieIvnyVm4",
+    "name": "Lenz Film",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r3pcMeCTNiXCm8",
     "name": "Meta Film TV",
     "iptv_urls": [
@@ -440,10 +473,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EpmDyZIa62AE48",
+    "name": "Mostanad",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KIi40oTBRJuXcj",
+    "name": "Nasim",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RYW8cokw1YUAPH",
     "name": "Newflix",
     "iptv_urls": [
       "https://newfhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J5GYuBAaffsbX6",
+    "name": "Ofogh",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sf2UUZ1IfXDGmN",
+    "name": "Omid",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -473,10 +550,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D2Lk5wz1WJGy5f",
+    "name": "Pooya & Nahal",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z0k0qEYEWnFz7F",
     "name": "Press TV",
     "iptv_urls": [
-      "https://live.presstv.ir/hls/presstv.m3u8"
+      "https://live.presstv.ir/hls/presstv.m3u8",
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -495,10 +584,65 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jV4Dn3NufcrpTk",
+    "name": "Qazvin",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o7FVCnp0La0OCQ",
+    "name": "Quran",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRGq4FvGDTWgUJ",
     "name": "RasoulallahTv",
     "iptv_urls": [
       "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "775QxJjRASgGI3",
+    "name": "Sahand",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7SB13Wb4NxEN59",
+    "name": "Salamat",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZCwOTDClBPeQTL",
+    "name": "Sepehr",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -539,10 +683,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pue7HvHax9RYo3",
+    "name": "Tamasha",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "twF2oDz7S9EOtz",
     "name": "TBN Nejat TV",
     "iptv_urls": [
       "https://hls.nejat.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ds5kjE7mChd5a5",
+    "name": "Varzesh TV",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -557,6 +723,17 @@
     ],
     "youtube_urls": [],
     "language": "far",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L6G83gIrSP7kTc",
+    "name": "Yazd",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
     "country": "ir",
     "isGeoBlocked": false
   },

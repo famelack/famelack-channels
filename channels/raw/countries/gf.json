@@ -1,0 +1,13 @@
+[
+  {
+    "nanoid": "cp5txeDXR6vM8L",
+    "name": "Télé Péyi",
+    "iptv_urls": [
+      "https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "gf",
+    "isGeoBlocked": false
+  }
+]

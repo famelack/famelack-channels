@@ -121,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dS38RFG3Xj3JOv",
+    "name": "CONtv: Yu-Gi-Oh! (Deutsch)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xeSXTGhXYGs"
+    ],
+    "language": "deu",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5uaACATXkoGQ0l",
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "iptv_urls": [],
@@ -162,6 +173,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/73I-iZw_8sg"
+    ],
+    "language": "eng",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -262,6 +284,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4Oe8zV0tSqE"
+    ],
+    "language": "pol",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {

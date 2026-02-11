@@ -209,28 +209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xJdfWe2cF6aQkl",
-    "name": "Tanzania Safari Channel",
-    "iptv_urls": [
-      "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "tz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4IxBqGTmogAaSR",
-    "name": "Teletur",
-    "iptv_urls": [
-      "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fwm1YJJu2dW30c",
     "name": "Travel TV",
     "iptv_urls": [
@@ -253,25 +231,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gc9aeOkbQG1vYx",
-    "name": "Turistik TV",
+    "nanoid": "xCDrIWnNgtribb",
+    "name": "Turismo RDTV",
     "iptv_urls": [
-      "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
+      "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1ONog0eu0K0fg5",
-    "name": "TV Sayohi",
-    "iptv_urls": [
-      "https://live.teleradiocom.tj/16/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tgk",
-    "country": "tj",
+    "country": "do",
     "isGeoBlocked": false
   },
   {

@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "fgt71QAXBWF0xr",
+    "name": "13 Siam Thai",
+    "iptv_urls": [
+      "https://live.x2.co.th/live/13livetv-th.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BWaFZgSUSFWAMm",
     "name": "Boonniyom TV",
     "iptv_urls": [
@@ -15,17 +26,6 @@
     "name": "Channel 5",
     "iptv_urls": [
       "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y8LGD9jwVauVkj",
-    "name": "Cool Channel",
-    "iptv_urls": [
-      "https://live-iptv.cool-channel.com/cool/live-720P.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -290,6 +290,17 @@
     "name": "Suwannabhumi Channel",
     "iptv_urls": [
       "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RErWNfh4idOsdr",
+    "name": "Thai Parliament TV",
+    "iptv_urls": [
+      "https://tv-live.tpchannel.org/live/tv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",

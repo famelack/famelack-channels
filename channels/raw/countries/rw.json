@@ -1,5 +1,27 @@
 [
   {
+    "nanoid": "FXQtm2S6eQXf1s",
+    "name": "B+ TV",
+    "iptv_urls": [
+      "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hRgd0Ypxitc2Uq",
+    "name": "BTN TV",
+    "iptv_urls": [
+      "https://tv.btnrwanda.com:3086/live/btnlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kin",
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ImKv4xWjIX02Ek",
     "name": "Isibo TV",
     "iptv_urls": [
@@ -26,6 +48,17 @@
     "name": "RTV Rwanda",
     "iptv_urls": [
       "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xlbj1xHjnlV1Js",
+    "name": "TV10",
+    "iptv_urls": [
+      "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

@@ -293,6 +293,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "12S0shaF2zjsAh",
+    "name": "LOZ (Lokale Omroep Zeewolde)",
+    "iptv_urls": [
+      "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nnzZPCLnvZFXmg",
     "name": "Magic PowerRadio",
     "iptv_urls": [
@@ -403,6 +414,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KVNirP7LjuoIoN",
+    "name": "Omroep Hulst TV",
+    "iptv_urls": [
+      "https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "iptv_urls": [
@@ -414,10 +436,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nVpsvaBycf2VlN",
-    "name": "Omroep Lingewaard",
+    "nanoid": "dRnsytBJsmGO6h",
+    "name": "Omroep Súdwest",
     "iptv_urls": [
-      "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
+      "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -425,10 +447,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dRnsytBJsmGO6h",
-    "name": "Omroep Súdwest",
+    "nanoid": "aoSCyrpFifrtBu",
+    "name": "Omroep Tilburg",
     "iptv_urls": [
-      "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
+      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -495,6 +518,28 @@
     "name": "OOG TV",
     "iptv_urls": [
       "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v4lxsFawlDWyOD",
+    "name": "Open Rotterdam",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eFozWtc9ctVlJw",
+    "name": "ORTS",
+    "iptv_urls": [
+      "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -579,6 +624,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BpeFMfOm7AkYwU",
+    "name": "Regio90 TV",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bzhuoIIHDSQpOH",
+    "name": "Rotterdam Podium TV",
+    "iptv_urls": [
+      "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wypSVAbA0JFPBr",
     "name": "RPL TV Woerden",
     "iptv_urls": [
@@ -656,6 +723,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C71GWjbjSGWJXa",
+    "name": "RTV Nunspeet",
+    "iptv_urls": [
+      "https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
     "iptv_urls": [
@@ -671,6 +749,17 @@
     "name": "RTV Parkstad",
     "iptv_urls": [
       "https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MOZ6D8VfrxOi60",
+    "name": "RTV Purmerend",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -788,6 +877,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EEWgpub612Jk4L",
+    "name": "Salto Brasa Music",
+    "iptv_urls": [
+      "https://salto-streams.nl/hls/sotv1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uijzEdZpPY4boJ",
     "name": "Samen1 TV",
     "iptv_urls": [
@@ -836,17 +936,6 @@
     "name": "Slotstad TV",
     "iptv_urls": [
       "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xhOkE32mWm3czA",
-    "name": "SOL 2",
-    "iptv_urls": [
-      "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

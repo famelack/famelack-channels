@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jIgDetReIEdnsC",
+    "name": "Alau TV",
+    "iptv_urls": [
+      "https://otv.wotom.net/alau/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kaz",
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZGz9EteAP4041i",
     "name": "Balapan TV",
     "iptv_urls": [
@@ -33,6 +44,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FppU7q3IhJObQ8",
+    "name": "Qazaqstan TV",
+    "iptv_urls": [
+      "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kaz",
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RlDh4IHVR4WpZw",
+    "name": "QazSport",
+    "iptv_urls": [
+      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kaz",
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TomqBXbWstBWEq",
     "name": "Silk Way",
     "iptv_urls": [
@@ -40,6 +73,17 @@
     ],
     "youtube_urls": [],
     "language": "kaz",
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QbAo2Ias8xQmzk",
+    "name": "КТК",
+    "iptv_urls": [
+      "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "kz",
     "isGeoBlocked": false
   },

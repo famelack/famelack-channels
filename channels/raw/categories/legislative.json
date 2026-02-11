@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1q3kaCpiJgYIgc",
+    "name": "Assembleia SC: AO VIVO",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kUtedMvT7_Q"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8nqwJcm0Fl92XH",
     "name": "Bolton Community Voice Channel (CVC) Government (Bolton CT)",
     "iptv_urls": [
@@ -907,6 +918,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ncwhfZ9mDVBGeC",
+    "name": "Pasco TV (Pasco County FL)",
+    "iptv_urls": [
+      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Kiug778WYBonYE",
     "name": "PHXTV",
     "iptv_urls": [
@@ -1076,6 +1098,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RErWNfh4idOsdr",
+    "name": "Thai Parliament TV",
+    "iptv_urls": [
+      "https://tv-live.tpchannel.org/live/tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ztNrNzCLndWIQ7",
     "name": "The Parliamentary Channel",
     "iptv_urls": [
@@ -1091,7 +1124,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hVEso9WHMKc"
+      "https://www.youtube-nocookie.com/embed/HGaJBxnjSX8"
     ],
     "language": "por",
     "country": "br",
@@ -1337,6 +1370,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

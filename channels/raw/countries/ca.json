@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "vZR4ChO1sEcIEl",
-    "name": "3ABN Canada",
-    "iptv_urls": [
-      "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u9WnFUyWIFrzh4",
     "name": "Amazing Discoveries TV",
     "iptv_urls": [
@@ -18,6 +7,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4tHkld19ADlLsM",
+    "name": "Apna Punjab TV",
+    "iptv_urls": [
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -146,17 +146,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v0OeMdvjnnVO4J",
-    "name": "Deshi TV",
-    "iptv_urls": [
-      "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QtZoQSlu8071bX",
     "name": "Eawaz TV",
     "iptv_urls": [
@@ -196,6 +185,17 @@
       "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/73I-iZw_8sg"
+    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -883,6 +883,17 @@
     "nanoid": "MTAb38GV9XXOMg",
     "name": "Stingray Naturescape",
     "iptv_urls": [
+      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MTAb38GV9XXOMg",
+    "name": "Stingray Naturescape",
+    "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
     ],
     "youtube_urls": [],
@@ -1162,17 +1173,6 @@
       "https://www.youtube-nocookie.com/embed/TYmoCDVdeb4"
     ],
     "language": "fra",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7MJcYnhqkdKmZp",
-    "name": "Watan-e-Maa TV",
-    "iptv_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "prd",
     "country": "ca",
     "isGeoBlocked": false
   },

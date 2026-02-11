@@ -484,17 +484,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xVqW7TFhiaRWy0",
-    "name": "Red TVE Ventanas",
-    "iptv_urls": [
-      "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SaGLTOGoC0bQPx",
     "name": "RTRTV",
     "iptv_urls": [

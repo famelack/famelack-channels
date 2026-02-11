@@ -26,7 +26,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SaC88Y5AErM"
+      "https://www.youtube-nocookie.com/embed/_zM_P8uxzvw"
     ],
     "language": "ukr",
     "country": "ua",
@@ -148,6 +148,17 @@
     "name": "TIS TV",
     "iptv_urls": [
       "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
+    "iptv_urls": [
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",

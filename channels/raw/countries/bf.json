@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T5lm0gU60aLLYr",
-    "name": "RTB2 Hauts-Basins",
-    "iptv_urls": [
-      "https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1uIhZZ1zUEi8XM",
     "name": "Savane TV",
     "iptv_urls": [

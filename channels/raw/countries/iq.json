@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CM6FuW5WtTCo5H",
-    "name": "Al Rasheed TV",
-    "iptv_urls": [
-      "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gqagHcGI6e4lYf",
     "name": "Al-Jawadain TV",
     "iptv_urls": [

@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "huSXtP1sJfSy98",
+    "name": "Alto Adige TV",
+    "iptv_urls": [
+      "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2d4cOi3xUrRR5k",
     "name": "Antenna 2 TV",
     "iptv_urls": [
@@ -286,17 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "iptv_urls": [
@@ -421,7 +421,6 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "iptv_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -723,17 +722,6 @@
     "name": "Odeon 24",
     "iptv_urls": [
       "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "02hgQBIaeAN9gz",
-    "name": "Onda Novara TV",
-    "iptv_urls": [
-      "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1047,7 +1035,6 @@
     "name": "Rai 3",
     "iptv_urls": [
       "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
-      "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
       "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1067,10 +1054,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NnyzHhJkjsfZ3n",
-    "name": "Rakuten TV Crime Series Italy",
+    "nanoid": "YfU8ScWMpQTPUo",
+    "name": "Rakuten TV Romance Movies Italy",
     "iptv_urls": [
-      "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+      "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1615,17 +1602,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fPi31GojXVdhWd",
-    "name": "TeleRegione 118",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "it",
     "isGeoBlocked": false
   },

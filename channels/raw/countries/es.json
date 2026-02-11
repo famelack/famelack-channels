@@ -55,18 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mIBXDjfzsNrIT3",
-    "name": "12TV Alicante",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
-      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gt9j6xLi0290D1",
     "name": "24 Horas",
     "iptv_urls": [
@@ -77,17 +65,6 @@
       "https://www.youtube-nocookie.com/embed/N-bwYlUQNd0"
     ],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0ql8ScPnCzsSJo",
-    "name": "28 kanala",
-    "iptv_urls": [
-      "https://streaming.28kanala.eus/hls/z.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -647,18 +624,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "iptv_urls": [
@@ -677,17 +642,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mCiVfIGYDaqE2r",
-    "name": "EsTuTele",
-    "iptv_urls": [
-      "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -751,17 +705,6 @@
     "name": "Gol Classics",
     "iptv_urls": [
       "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HwhpJMBxrNJdLl",
-    "name": "Guada TV",
-    "iptv_urls": [
-      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -956,17 +899,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wrgjk0eyRotOl3",
-    "name": "Music TV Granada",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n42kE8bRXdsRab",
     "name": "MyTime movie network Spain",
     "iptv_urls": [
@@ -1121,6 +1053,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cZ8WdRSawqzh4E",
+    "name": "Rakuten TV Action Movies Finland",
+    "iptv_urls": [
+      "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9Te0eCyfaDh09o",
     "name": "Rakuten TV Action Movies Germany",
     "iptv_urls": [
@@ -1194,17 +1137,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3rUfGzY2t9RJC4",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "iptv_urls": [
-      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1378,17 +1310,6 @@
     "name": "Rakuten TV Sci-Fi Spain",
     "iptv_urls": [
       "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1622,17 +1543,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/d1fgkjW9TP4"
     ],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "iptv_urls": [
-      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false

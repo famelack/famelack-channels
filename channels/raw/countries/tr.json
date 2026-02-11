@@ -157,6 +157,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -317,7 +330,7 @@
     "name": "Çocuklar Duymasın",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2xhrC9kZ1VY"
+      "https://www.youtube-nocookie.com/embed/HdKC0sNBzVQ"
     ],
     "language": "tur",
     "country": "tr",
@@ -651,17 +664,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2Cw7nBUx9FOzBJ",
-    "name": "Kanal 7 Avrupa",
-    "iptv_urls": [
-      "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ULadG4ZWgyGSE9",
     "name": "Kanal 12",
     "iptv_urls": [
@@ -761,24 +763,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zbs9DkUTcak0mx",
-    "name": "Kay TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
-      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3wl0iIzYmV2xgp",
     "name": "Kemal Sunal: Filmleri ve Sahneleri",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_pRHXDSK8sA"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Pgb5PyNdyF41a",
+    "name": "Kent Türk TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false

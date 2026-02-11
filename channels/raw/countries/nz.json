@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zkAekWAGGWBgbZ",
-    "name": "Entertainment Hub",
-    "iptv_urls": [
-      "https://amg01447-samsungau-enthubnz-samsungnz-t9rkn.amagi.tv/playlist/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7GsqLCu38zi9PB",
     "name": "Firstlight",
     "iptv_urls": [
@@ -194,17 +183,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yqNEGGubRnfXQA",
-    "name": "Rush NZ",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VTuc_sX4mB0"
-    ],
-    "language": "eng",
     "country": "nz",
     "isGeoBlocked": false
   },

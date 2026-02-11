@@ -48,7 +48,7 @@
     "name": "Ekattor TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zxVBpRl_Egs"
+      "https://www.youtube-nocookie.com/embed/R9ZOaxcX2Uc"
     ],
     "language": "ben",
     "country": "bd",
@@ -94,7 +94,18 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gjeZb0kpZG0"
+      "https://www.youtube-nocookie.com/embed/iV-c4PJWPF0"
+    ],
+    "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uagjQT3i12yFSv",
+    "name": "News24 Daily",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/48hbTU96D8U"
     ],
     "language": "ben",
     "country": "bd",
@@ -112,11 +123,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lxKB7P4hAHIaws",
-    "name": "Rtv News",
+    "nanoid": "NikPw9VKIQ0CfQ",
+    "name": "Somoy TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-L0tk9p32wY"
+      "https://www.youtube-nocookie.com/embed/T-l3aiJd3pI"
     ],
     "language": "ben",
     "country": "bd",

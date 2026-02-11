@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1q3kaCpiJgYIgc",
+    "name": "Assembleia SC: AO VIVO",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kUtedMvT7_Q"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aPpjoxS7Oyu4bM",
     "name": "AWTV",
     "iptv_urls": [
@@ -171,7 +182,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qyatxD6AnVI"
+      "https://www.youtube-nocookie.com/embed/ozmCNUsalRo"
     ],
     "language": "por",
     "country": "br",
@@ -424,7 +435,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zmoG64ebrU8"
+      "https://www.youtube-nocookie.com/embed/bNx6P8zAzZM"
     ],
     "language": "por",
     "country": "br",
@@ -470,7 +481,7 @@
       "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DZrIuXZhshs"
+      "https://www.youtube-nocookie.com/embed/uNJjeXEr32E"
     ],
     "language": "por",
     "country": "br",
@@ -543,6 +554,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/17Qo2KQ932A"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHsfcZXYEPAKKO",
     "name": "Santuário Nacional de Aparecida",
     "iptv_urls": [],
@@ -580,7 +602,7 @@
     "name": "SBT RIBEIRÃO PRETO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jshzqEbfTqY"
+      "https://www.youtube-nocookie.com/embed/88rKqEhI8O0"
     ],
     "language": "por",
     "country": "br",
@@ -725,7 +747,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hVEso9WHMKc"
+      "https://www.youtube-nocookie.com/embed/HGaJBxnjSX8"
     ],
     "language": "por",
     "country": "br",
@@ -1045,6 +1067,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/RSmMhlHcFKI"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Z6UmtBHKa0451",
+    "name": "TV Notícia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/P1f_0pOSiBU"
     ],
     "language": "por",
     "country": "br",

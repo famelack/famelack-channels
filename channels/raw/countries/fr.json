@@ -544,7 +544,7 @@
     "name": "Euronews Română",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9pYQIkXFIY0"
+      "https://www.youtube-nocookie.com/embed/rlAao7pLgeE"
     ],
     "language": "ron",
     "country": "fr",
@@ -821,17 +821,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b021fCKa5QLcMJ",
-    "name": "LCI",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YpQng8lk2pHqeY",
     "name": "Le Figaro IDF",
     "iptv_urls": [
@@ -947,7 +936,7 @@
     "name": "Mosaïk Cristal",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2NRZffDen0U"
+      "https://www.youtube-nocookie.com/embed/jaHfDQZH8yA"
     ],
     "language": "fra",
     "country": "fr",
@@ -1306,6 +1295,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "iptv_urls": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iLva87P8XGqzZK",
     "name": "Rakuten TV Films Romance",
     "iptv_urls": [
@@ -1431,7 +1431,8 @@
     "nanoid": "FLA1VaGF1q2tdh",
     "name": "Sony One Hits Comedie",
     "iptv_urls": [
-      "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8"
+      "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+      "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1547,6 +1548,17 @@
     "name": "TV3V",
     "iptv_urls": [
       "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M2yCMM7v36LjDk",
+    "name": "TV5 Monde Asia (Asie)",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
