@@ -4,7 +4,7 @@
     "name": "7 Info",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qmrugPVoZgY"
+      "https://www.youtube-nocookie.com/embed/YCZoHJHvLSw"
     ],
     "language": "fra",
     "country": "ci",
@@ -82,17 +82,6 @@
     "name": "Ecclesia TV",
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3VXLFsdtTTonDX",
-    "name": "Guide Love TV",
-    "iptv_urls": [
-      "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -214,17 +203,6 @@
     "name": "Serie Max",
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "twgsMNbK1cPcS5",
-    "name": "TV La Capitale",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

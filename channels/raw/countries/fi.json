@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJ0IwCxQ3PFQw5",
+    "name": "MTV3",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z3QTyvg0mqUEif",
     "name": "NärTV",
     "iptv_urls": [
@@ -176,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WJxJB7lKSKz27v",
+    "name": "Rakuten TV Romance Movies Finland",
+    "iptv_urls": [
+      "https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EDWW7TL07yMVj8",
     "name": "STAR Channel (Finland)",
     "iptv_urls": [
@@ -202,17 +224,6 @@
     "name": "Taivas TV7",
     "iptv_urls": [
       "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VwGLdAillsoWR5",
-    "name": "Viaplay TV (Finland)",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
     ],
     "youtube_urls": [],
     "language": "fin",

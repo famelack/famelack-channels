@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O4M3Z3Jo7F6qrX",
-    "name": "Cartago Medios TV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bK2TlT0v8UWAuh",
     "name": "Colosal TV",
     "iptv_urls": [
@@ -92,17 +81,6 @@
     "name": "Costa Rica Channel",
     "iptv_urls": [
       "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wXST2Lc3NQDzOF",
-    "name": "Coto Brus TV",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -143,10 +121,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WGsDfHy5YE0QGF",
-    "name": "GAMTV.cr",
+    "nanoid": "GD6GIT9MV0x6kz",
+    "name": "Garabito TV",
     "iptv_urls": [
-      "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
+      "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -191,8 +169,19 @@
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3E7VI6gp1FQ"
+      "https://www.youtube-nocookie.com/embed/6Kpknxv_zTQ"
     ],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K2jiXD7UiZELMV",
+    "name": "Nicoya TV",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
@@ -202,6 +191,17 @@
     "name": "Norte Informativo TV",
     "iptv_urls": [
       "https://videohd.live:19360/8076/8076.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -246,6 +246,17 @@
     "name": "TDtv",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -301,6 +312,17 @@
     "name": "TV Sur Canal 14",
     "iptv_urls": [
       "https://k20.usastreams.com:8081/tvsur/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

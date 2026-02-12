@@ -169,7 +169,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i21hs5kOOcY"
+      "https://www.youtube-nocookie.com/embed/KU5jmm2m0Oo"
     ],
     "language": "spa",
     "country": "cl",
@@ -334,7 +334,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IgS0mfbIaB0"
+      "https://www.youtube-nocookie.com/embed/4beaCLumkgw"
     ],
     "language": "spa",
     "country": "cl",
@@ -587,17 +587,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hOfMwcYwkqMasz",
-    "name": "TV UCT",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MiDzldTeOOzM8X",
     "name": "TVN3",
     "iptv_urls": [
@@ -635,17 +624,6 @@
     "name": "TVU Concepción",
     "iptv_urls": [
       "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
-    "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

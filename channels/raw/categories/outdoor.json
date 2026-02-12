@@ -67,11 +67,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nOQMyaxMLN1dPp",
-    "name": "DD KISAN HD",
+    "nanoid": "cGi1H67DnO2cou",
+    "name": "DD Kisan HD",
     "iptv_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8",
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+      "https://mumt04.tangotv.in/DDKISAN/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -165,7 +166,8 @@
     "name": "Outside TV",
     "iptv_urls": [
       "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8",
+      "https://fl31.moveonjoy.com/OUTSIDE_TV/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -299,6 +301,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "saGbzTzkv3cltN",
+    "name": "World Fishing Network",
+    "iptv_urls": [
+      "https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

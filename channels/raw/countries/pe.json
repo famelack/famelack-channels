@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nGBdTroCUbAU0I",
-    "name": "CR Televisión Moyobamba",
-    "iptv_urls": [
-      "https://live.obslivestream.com/crtvmux/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XzRqOxUzNRtPhH",
     "name": "ECO Television",
     "iptv_urls": [
@@ -275,17 +264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mi7Zl9xYkTcqpw",
-    "name": "Nativa TV Satipo",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EXY3gFnP4pv3FX",
     "name": "ONDA DIGITAL",
     "iptv_urls": [
@@ -297,10 +275,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIUi7QauvvK3mU",
-    "name": "Radio Master",
+    "nanoid": "kNsWM7D3MJH7TB",
+    "name": "Panc TV Peru",
     "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
+      "https://panel.host-live.com:19360/20000/20000.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -323,17 +301,6 @@
     "name": "RadioTV Oriente",
     "iptv_urls": [
       "https://live.obslivestream.com/tvoriente/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WPq32gb81NkkvQ",
-    "name": "RN Televisión",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -441,6 +408,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kzdXF1h7tKZGcP",
+    "name": "TV Cosmos",
+    "iptv_urls": [
+      "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9jlzCfuFrzzmTZ",
     "name": "TV Peru",
     "iptv_urls": [
@@ -448,17 +426,6 @@
     ],
     "youtube_urls": [],
     "language": "aym",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JAu8npSaIqe0rd",
-    "name": "TV Peru Internacional",
-    "iptv_urls": [
-      "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "pe",
     "isGeoBlocked": false
   },
@@ -507,17 +474,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EfKZO2yd4jlLmt",
-    "name": "Unitel",
-    "iptv_urls": [
-      "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fk1iDtmlMQq6pc",
     "name": "Uranio TV (Yurimaguas)",
     "iptv_urls": [
@@ -544,17 +500,6 @@
     "name": "Vía Televisión (720P)",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dpLqGa5wjsNEE1",
-    "name": "Viva TV Yurimaguas",
-    "iptv_urls": [
-      "https://live.obslivestream.com/vivatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

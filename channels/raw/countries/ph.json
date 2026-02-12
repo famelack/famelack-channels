@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RhkfgHInexT7iQ",
+    "name": "Mindanow Network TV",
+    "iptv_urls": [
+      "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vX2Vm81TXt010f",
     "name": "Premier Sports",
     "iptv_urls": [
@@ -70,7 +81,7 @@
     "name": "Teleradyo Serbisyo",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yLdC7oyyUXA"
+      "https://www.youtube-nocookie.com/embed/cC4_QURj3Xw"
     ],
     "language": "tgl",
     "country": "ph",

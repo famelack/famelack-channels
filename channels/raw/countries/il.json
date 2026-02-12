@@ -44,22 +44,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BE24TaDtAzeVFU",
-    "name": "Musayof (Israel)",
-    "iptv_urls": [
-      "https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9JfMUyW3Js7KeX",
     "name": "Now 14",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tXc_zSgTqfQ"
+      "https://www.youtube-nocookie.com/embed/_CfTazEvpiw"
     ],
     "language": "heb",
     "country": "il",

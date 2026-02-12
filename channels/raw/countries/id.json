@@ -33,12 +33,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RUkWEttz0HVtiP",
-    "name": "Aquarius Musikindo: Waktunya Baladewa",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/R6oCIi_UJAQ"
+    "nanoid": "wgCHFkD8F6PNpc",
+    "name": "Astha TV",
+    "iptv_urls": [
+      "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
     ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -48,17 +48,6 @@
     "name": "Balikpapan TV",
     "iptv_urls": [
       "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KOhwshxakg9PIS",
-    "name": "Banjar TV",
-    "iptv_urls": [
-      "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -161,6 +150,17 @@
     ],
     "youtube_urls": [],
     "language": "zho",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JTbs2lIH8ln5ro",
+    "name": "Davika TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },
@@ -286,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8iA6YqzUKduT8p",
+    "name": "Inspira TV",
+    "iptv_urls": [
+      "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AwWVoTg8nnvs2w",
     "name": "Jambi TV",
     "iptv_urls": [
@@ -308,12 +319,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ekV6A2aydUNj5E",
-    "name": "Khalid Basalamah",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G0HZ-vLYRiI"
+    "nanoid": "Ootv8lcMdtj5Da",
+    "name": "Kilisuci TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -468,6 +479,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/RPj8r8D48Iw"
     ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L5BvWuf8rlqBr4",
+    "name": "Music Information Channel",
+    "iptv_urls": [
+      "https://mic.siar.us/mic/live/mic.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -639,34 +661,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4WttbEI2P66IMh",
-    "name": "Sangaji TV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2XkFMpRoLYu9Ma",
     "name": "Selaparang TV",
     "iptv_urls": [
       "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cohNGidNEkg"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -749,6 +749,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ElMOzKMmZlOwFg",
+    "name": "Surau TV",
+    "iptv_urls": [
+      "https://surautv.siar.us/live/surautv.m3u8",
+      "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RW7rOnO3B5Miyc",
     "name": "Syafiq Riza Basalamah",
     "iptv_urls": [],
@@ -808,6 +820,17 @@
     "name": "TV9 Nusantara",
     "iptv_urls": [
       "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AIvndURhkfCKoa",
+    "name": "TVKU",
+    "iptv_urls": [
+      "https://tvku.tv/hlsstream/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

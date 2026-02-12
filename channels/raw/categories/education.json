@@ -211,11 +211,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nOQMyaxMLN1dPp",
-    "name": "DD KISAN HD",
+    "nanoid": "cGi1H67DnO2cou",
+    "name": "DD Kisan HD",
     "iptv_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8",
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+      "https://mumt04.tangotv.in/DDKISAN/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -1050,14 +1051,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "igJmo5J6YhgXmV",
-    "name": "Unifranz",
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
     "iptv_urls": [
-      "https://live.enhdtv.com:8081/8192/index.m3u8"
+      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "bo",
+    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -1096,6 +1097,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dux8IWjtPNnNTy",
+    "name": "Vyas NIC",
+    "iptv_urls": [
+      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JliijnACP4jH0u",
     "name": "WIKI TV",
     "iptv_urls": [
@@ -1126,6 +1138,17 @@
     "name": "World Channel",
     "iptv_urls": [
       "https://world.lls.pbs.org/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FqfjVtCq56Tw8t",
+    "name": "WPS TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgdcsAoxUBnS3U",
-    "name": "BTB HD",
-    "iptv_urls": [
-      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -234,6 +223,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "iptv_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNpOE0EguTlVfK",
     "name": "Radio RAM",
     "iptv_urls": [
@@ -339,6 +339,17 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mRFyheBmrSRckk",
+    "name": "Telewizja Dami Radom",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_Mc__kFPSeM"
+    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -535,6 +546,7 @@
     "nanoid": "fzamcn1eHJ76Mf",
     "name": "TVP Polonia",
     "iptv_urls": [
+      "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
       "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -546,6 +558,7 @@
     "nanoid": "2NOHQqe5XXGwtZ",
     "name": "TVP World",
     "iptv_urls": [
+      "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
       "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -582,17 +595,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

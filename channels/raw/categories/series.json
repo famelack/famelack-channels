@@ -288,6 +288,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YsiveIhfS1QhlQ",
+    "name": "Hallmark Drama",
+    "iptv_urls": [
+      "https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gjogy39uz7wEPw",
     "name": "Hell's Kitchen",
     "iptv_urls": [
@@ -422,6 +433,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7f3Tjrk6j7jniu",
+    "name": "Paramount Network East",
+    "iptv_urls": [
+      "https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EqniGxixO4xx8t",
     "name": "PBS Antiques Roadshow",
     "iptv_urls": [
@@ -506,6 +528,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/J-gVOlUJiWE"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6B09VgzP1u7pf6",
+    "name": "Shout! Studios: Renegade",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UkvdYkVqAsA"
     ],
     "language": "eng",
     "country": "us",
@@ -666,6 +699,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vHbVFjIfyXMUfI",
+    "name": "We TV East",
+    "iptv_urls": [
+      "https://fl31.moveonjoy.com/WE_TV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IQrnnNNldjOCl4",
     "name": "XPTV US",
     "iptv_urls": [
@@ -716,6 +760,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

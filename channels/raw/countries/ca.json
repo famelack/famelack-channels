@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "vZR4ChO1sEcIEl",
+    "name": "3ABN Canada",
+    "iptv_urls": [
+      "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u9WnFUyWIFrzh4",
     "name": "Amazing Discoveries TV",
     "iptv_urls": [
@@ -146,6 +157,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tEuRdg9vUjFs65",
+    "name": "Crave 1",
+    "iptv_urls": [
+      "https://fl7.moveonjoy.com/CRAVE_1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J0zeNdMcRhoqJZ",
+    "name": "Crave 3",
+    "iptv_urls": [
+      "https://fl7.moveonjoy.com/CRAVE_3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v0OeMdvjnnVO4J",
+    "name": "Deshi TV",
+    "iptv_urls": [
+      "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QtZoQSlu8071bX",
     "name": "Eawaz TV",
     "iptv_urls": [
@@ -185,17 +229,6 @@
       "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/73I-iZw_8sg"
-    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -567,6 +600,17 @@
     ],
     "youtube_urls": [],
     "language": "ell",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IqSPeMbuFHaW9i",
+    "name": "Much",
+    "iptv_urls": [
+      "https://fl7.moveonjoy.com/MUCH/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1078,6 +1122,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CE3h0ZjZw7sSVW",
+    "name": "Tamil Entertainment Television",
+    "iptv_urls": [
+      "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Xrqwoq40lkwai9",
     "name": "The Jack Hannah Channel",
     "iptv_urls": [
@@ -1170,9 +1225,20 @@
     "name": "TV Témis",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TYmoCDVdeb4"
+      "https://www.youtube-nocookie.com/embed/hk9sNu3Mqz8"
     ],
     "language": "fra",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TzJN3tO9bj6uDP",
+    "name": "W Network",
+    "iptv_urls": [
+      "https://fl31.moveonjoy.com/W_NETWORK/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },

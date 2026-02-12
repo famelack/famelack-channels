@@ -1,5 +1,27 @@
 [
   {
+    "nanoid": "zWAnWgBppci4KB",
+    "name": "Moldova 1",
+    "iptv_urls": [
+      "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JI8jIu049ZR6mo",
+    "name": "Moldova 2",
+    "iptv_urls": [
+      "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HSwH6uFzgwd6tN",
     "name": "Privesc.Eu TV",
     "iptv_urls": [

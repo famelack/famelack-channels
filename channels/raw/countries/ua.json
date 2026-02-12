@@ -177,17 +177,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8guglX3waEEweH",
-    "name": "Луганск 24",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "33aYR9EbXeoJbc",
     "name": "Ми - Україна",
     "iptv_urls": [],

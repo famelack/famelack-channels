@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vdR1TD4CQtqIgi",
-    "name": "Adnkronos",
-    "iptv_urls": [
-      "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "huSXtP1sJfSy98",
     "name": "Alto Adige TV",
     "iptv_urls": [
@@ -418,28 +407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uyiyfk5r0UmGtm",
-    "name": "Gold TV",
-    "iptv_urls": [
-      "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1xnRIVzGMzHUgY",
     "name": "GRP VERATV",
     "iptv_urls": [
@@ -499,17 +466,6 @@
     "name": "Italia 2",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -619,17 +575,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ex98n0tFYkUwoo",
-    "name": "Lazio TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QUgozEv0vZrkjK",
     "name": "Lira TV",
     "iptv_urls": [
@@ -718,10 +663,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
+    "nanoid": "02hgQBIaeAN9gz",
+    "name": "Onda Novara TV",
     "iptv_urls": [
-      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
+      "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1054,6 +999,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NnyzHhJkjsfZ3n",
+    "name": "Rakuten TV Crime Series Italy",
+    "iptv_urls": [
+      "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YfU8ScWMpQTPUo",
     "name": "Rakuten TV Romance Movies Italy",
     "iptv_urls": [
@@ -1364,17 +1320,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jHr3gQHmtG7nGu",
-    "name": "T9",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TapdG3gwdyMX3z",
     "name": "Taurianova TV",
     "iptv_urls": [
@@ -1628,17 +1573,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lnJZxc4ZzJzveP",
-    "name": "Telestense",
-    "iptv_urls": [
-      "https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "a1ZGoySJOsRm65",
     "name": "Teletricolore",
     "iptv_urls": [
@@ -1665,17 +1599,6 @@
     "name": "TR Sport",
     "iptv_urls": [
       "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1saY7EvWQOxU7A",
-    "name": "Trentino TV",
-    "iptv_urls": [
-      "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

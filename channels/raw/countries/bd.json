@@ -4,7 +4,7 @@
     "name": "Channel 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AceMEaeFWfk"
+      "https://www.youtube-nocookie.com/embed/ee8EQi_OaZ8"
     ],
     "language": "ben",
     "country": "bd",
@@ -70,7 +70,7 @@
     "name": "Independent Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PZ3wxR4Ha30"
+      "https://www.youtube-nocookie.com/embed/Rxe70lQtNIQ"
     ],
     "language": "ben",
     "country": "bd",
@@ -81,7 +81,7 @@
     "name": "Jamuna TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PsdRIpBDveQ"
+      "https://www.youtube-nocookie.com/embed/HtNr_rp1juA"
     ],
     "language": "ben",
     "country": "bd",
@@ -94,7 +94,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iV-c4PJWPF0"
+      "https://www.youtube-nocookie.com/embed/RuK0d49hG3w"
     ],
     "language": "ben",
     "country": "bd",
@@ -105,7 +105,7 @@
     "name": "News24 Daily",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/48hbTU96D8U"
+      "https://www.youtube-nocookie.com/embed/ZB8NvkZJVso"
     ],
     "language": "ben",
     "country": "bd",
@@ -117,6 +117,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
+    ],
+    "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lxKB7P4hAHIaws",
+    "name": "Rtv News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ebnvcbBzTvM"
     ],
     "language": "ben",
     "country": "bd",

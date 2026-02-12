@@ -181,17 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A9tPf7Rzt5ngpc",
-    "name": "Canica TV",
-    "iptv_urls": [
-      "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e29jn80x7K7M0D",
     "name": "CityTv",
     "iptv_urls": [],
@@ -337,22 +326,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
+    "nanoid": "RfchJq1KTGTlOM",
+    "name": "Mas Norte TV",
     "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/masmusica.m3u8",
-      "https://video.ejeserver.com/live/masmusica.m3u8"
+      "https://live.arnoproducciones.com/hls/norte.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -437,6 +414,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zI3NybQoMP9Xkx",
+    "name": "Noticias Caracol",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6-I_jMfmJ_U"
+    ],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZBrkRLlKR8dvbe",
     "name": "NSTV",
     "iptv_urls": [
@@ -474,17 +462,6 @@
     "name": "Parranda Vallenata",
     "iptv_urls": [
       "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iEaQZyuCD9tKa4",
-    "name": "Red+",
-    "iptv_urls": [
-      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

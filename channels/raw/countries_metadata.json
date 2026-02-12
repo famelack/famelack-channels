@@ -381,7 +381,7 @@
     "country": "Western Sahara",
     "capital": "El Aaiún",
     "timeZone": "Africa/El_Aaiun",
-    "hasChannels": false
+    "hasChannels": true
   },
   "ER": {
     "country": "Eritrea",
@@ -1263,7 +1263,7 @@
     "country": "Tajikistan",
     "capital": "Dushanbe",
     "timeZone": "Asia/Dushanbe",
-    "hasChannels": false
+    "hasChannels": true
   },
   "TK": {
     "country": "Tokelau",

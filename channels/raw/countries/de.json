@@ -507,7 +507,7 @@
     "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CFJw4nKc9E4"
+      "https://www.youtube-nocookie.com/embed/YvCFEDnLyQ0"
     ],
     "language": "deu",
     "country": "de",
@@ -663,7 +663,7 @@
     "name": "Kanal 9 Erzgebirge",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1AHbKxio5N4"
+      "https://www.youtube-nocookie.com/embed/H1DL8b1XgwM"
     ],
     "language": "deu",
     "country": "de",
@@ -708,6 +708,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -788,6 +799,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nSKKagLIpNXooQ",
+    "name": "Naruto Germany",
+    "iptv_urls": [
+      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },

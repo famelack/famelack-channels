@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8Bv8hcX2tNuzZb",
-    "name": "Antena Uno RadioVideo",
-    "iptv_urls": [
-      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "iptv_urls": [
@@ -484,6 +473,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xVqW7TFhiaRWy0",
+    "name": "Red TVE Ventanas",
+    "iptv_urls": [
+      "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SaGLTOGoC0bQPx",
     "name": "RTRTV",
     "iptv_urls": [
@@ -565,6 +565,17 @@
     "name": "TV Universal Ecuador",
     "iptv_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

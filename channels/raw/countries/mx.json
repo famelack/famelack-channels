@@ -66,6 +66,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I6SQhQn74t89lq",
+    "name": "B15 Fresnillo",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9BZEZK4EYJz8lC",
+    "name": "B15 Zacatecas",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z9NmlAa4TNcIbD",
     "name": "BAMOS TV",
     "iptv_urls": [
@@ -211,17 +233,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CrHxjo8TlGVNjG",
-    "name": "Despierta TV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/despiertatv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0v8d7EFpyejD8F",
     "name": "Eclipse TV",
     "iptv_urls": [
@@ -347,7 +358,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NWYuQfCDGAg"
+      "https://www.youtube-nocookie.com/embed/OHhTMk6ahGo"
     ],
     "language": "spa",
     "country": "mx",
@@ -468,7 +479,7 @@
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/coMgy05UgYc"
+      "https://www.youtube-nocookie.com/embed/EMuw37VgSnc"
     ],
     "language": "spa",
     "country": "mx",
@@ -795,6 +806,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IBXAA8CFt3c"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -821,7 +843,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VCoaUYa9cas"
+      "https://www.youtube-nocookie.com/embed/HYV5daGkpvM"
     ],
     "language": "spa",
     "country": "mx",
@@ -832,7 +854,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PPEZu5fg6XI"
+      "https://www.youtube-nocookie.com/embed/nHArwXru2EM"
     ],
     "language": "spa",
     "country": "mx",
@@ -916,17 +938,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t4d8eUUDKhV1q6",
-    "name": "Televisa Victoria",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/44xI-qzz7c0"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvgVlQtD4CwYJb",
     "name": "Televisa Zacatecas",
     "iptv_urls": [],
@@ -949,10 +960,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2H96xaNz6Ph6GF",
-    "name": "Tlaxcala Televisión",
+    "nanoid": "Ypo12G7eK5IDLt",
+    "name": "TRC Televisión",
     "iptv_urls": [
-      "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8"
+      "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -960,10 +971,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ypo12G7eK5IDLt",
-    "name": "TRC Televisión",
+    "nanoid": "gc9aeOkbQG1vYx",
+    "name": "Turistik TV",
     "iptv_urls": [
-      "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8"
+      "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

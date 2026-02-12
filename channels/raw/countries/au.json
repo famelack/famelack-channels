@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sQrkGzOeUBTke0",
-    "name": "Entertainment Hub",
-    "iptv_urls": [
-      "https://amg01447-samsungau-enthub-samsungau-ugr5u.amagi.tv/playlist/amg01447-samsungau-enthub-samsungau/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SDpOmaM8ReQVej",
     "name": "Escape to the Country",
     "iptv_urls": [

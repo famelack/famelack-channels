@@ -349,22 +349,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bLrhTddKmX53C8",
-    "name": "Tarab",
-    "iptv_urls": [
-      "https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gc9Dx83f1hgp7k",
     "name": "العربية إف إم Alarabiya FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KRwgQsxO62M"
+      "https://www.youtube-nocookie.com/embed/fee7b9DKzvg"
     ],
     "language": "ara",
     "country": "sa",

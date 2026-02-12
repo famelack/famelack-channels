@@ -403,17 +403,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KVNirP7LjuoIoN",
     "name": "Omroep Hulst TV",
     "iptv_urls": [
@@ -936,6 +925,17 @@
     "name": "Slotstad TV",
     "iptv_urls": [
       "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xhOkE32mWm3czA",
+    "name": "SOL 2",
+    "iptv_urls": [
+      "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XbqCbMWvgTX2F0",
+    "name": "G-eye TV",
+    "iptv_urls": [
+      "https://online.geyetv.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2D5WXDkOrvxrFu",
     "name": "Joy Prime TV",
     "iptv_urls": [],

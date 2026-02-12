@@ -123,6 +123,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3M1IA8auJmXWcR",
+    "name": "Cleo TV",
+    "iptv_urls": [
+      "https://fl31.moveonjoy.com/Cleo_TV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WNVyhRAYooRBZY",
     "name": "CVR Health",
     "iptv_urls": [
@@ -178,12 +189,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wKjb76m31kcro9",
+    "name": "Food Food",
+    "iptv_urls": [
+      "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WNz7K4EFtMb3cU",
     "name": "Friends of Felines Rescue Center",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vJDvSeOkjYw"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "964SXpkcit3YD5",
+    "name": "FYI East",
+    "iptv_urls": [
+      "https://fl31.moveonjoy.com/FYI/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -197,17 +230,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3VXLFsdtTTonDX",
-    "name": "Guide Love TV",
-    "iptv_urls": [
-      "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
     "isGeoBlocked": false
   },
   {
@@ -472,6 +494,17 @@
     "name": "Открытый мир. Здоровье",
     "iptv_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kmnCkTtdi4cLR8",
+    "name": "Сити Эдем МедЗдрав",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

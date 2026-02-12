@@ -55,6 +55,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mIBXDjfzsNrIT3",
+    "name": "12TV Alicante",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gt9j6xLi0290D1",
     "name": "24 Horas",
     "iptv_urls": [
@@ -65,6 +77,17 @@
       "https://www.youtube-nocookie.com/embed/N-bwYlUQNd0"
     ],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0ql8ScPnCzsSJo",
+    "name": "28 kanala",
+    "iptv_urls": [
+      "https://streaming.28kanala.eus/hls/z.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -624,6 +647,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "iptv_urls": [
@@ -642,6 +677,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mCiVfIGYDaqE2r",
+    "name": "EsTuTele",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -705,6 +751,17 @@
     "name": "Gol Classics",
     "iptv_urls": [
       "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HwhpJMBxrNJdLl",
+    "name": "Guada TV",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -866,17 +923,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LAxDhZqtmdM26R",
-    "name": "Mijas 3.40TV",
-    "iptv_urls": [
-      "https://streaming004.gestec-video.com/hls/MIJAS.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lMIWUh9FjBPLOx",
     "name": "Molahits TV",
     "iptv_urls": [
@@ -895,6 +941,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wrgjk0eyRotOl3",
+    "name": "Music TV Granada",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -969,6 +1026,17 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1317,6 +1385,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EXiybwWxfkY3Zj",
     "name": "Rakuten TV Top Movies Finland",
     "iptv_urls": [
@@ -1559,6 +1638,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYmpRnITzqWFJm",
+    "name": "Televisión Aranda",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RlnmDgh5EEksVR",
     "name": "TELEVISIÓN Canaria",
     "iptv_urls": [],
@@ -1588,17 +1678,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1699,17 +1778,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ofMevJFkJJi256",
-    "name": "TVO Jesus",
-    "iptv_urls": [
-      "https://cloud.tvomix.com/TVOJESUS/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

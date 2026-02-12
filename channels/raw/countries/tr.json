@@ -664,6 +664,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2Cw7nBUx9FOzBJ",
+    "name": "Kanal 7 Avrupa",
+    "iptv_urls": [
+      "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ULadG4ZWgyGSE9",
     "name": "Kanal 12",
     "iptv_urls": [
@@ -756,6 +767,18 @@
     "name": "Kanal Z",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zbs9DkUTcak0mx",
+    "name": "Kay TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
+      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

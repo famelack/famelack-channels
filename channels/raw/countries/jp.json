@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t9oYt4NY18iZul",
+    "name": "Anime Vanguard Live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nAE5QK2Lbhs"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0y6A0PfJfOwnxT",
     "name": "CGNTV Japan",
     "iptv_urls": [
@@ -59,7 +70,7 @@
     "name": "HBC Hokkaido News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vGjNrcw1fOw"
+      "https://www.youtube-nocookie.com/embed/as9sbCNAwUY"
     ],
     "language": "jpn",
     "country": "jp",
@@ -203,7 +214,7 @@
     "name": "Pokémon Kids TV English",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q9kIVPdNwqw"
+      "https://www.youtube-nocookie.com/embed/QHaRmHBwpk4"
     ],
     "language": "eng",
     "country": "jp",
@@ -247,7 +258,7 @@
     "name": "RKB News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FQpbqiOPu1M"
+      "https://www.youtube-nocookie.com/embed/u82CVDjt7Tc"
     ],
     "language": "jpn",
     "country": "jp",

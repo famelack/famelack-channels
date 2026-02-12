@@ -1,0 +1,156 @@
+[
+  {
+    "nanoid": "Ii5lz7MUdFsm2f",
+    "name": "Badakhshon",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/11/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dpWlLcrelGoz5q",
+    "name": "Dushanbe HD",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/7/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "440EBhNILeBYuU",
+    "name": "Futbol",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/8/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XyJbjiw5j7Ws7W",
+    "name": "Ilm va Tabiat",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/15/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RT0JEyafMJmHcV",
+    "name": "Jahonnamo",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/4/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GqXXOFod3ywbyV",
+    "name": "Khatlon",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/10/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eeB4Pbx3T7vgrF",
+    "name": "Tajikistan",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/1/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Quoauiw6uzjDF3",
+    "name": "TMT",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/9/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eJ6LajESBOIbZe",
+    "name": "TV Bahoriston",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/3/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3FpVoaPbSswbhr",
+    "name": "TV Kulob",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/12/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V4jGt9xEkE4lxd",
+    "name": "TV Safina",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/2/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1ONog0eu0K0fg5",
+    "name": "TV Sayohi",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/16/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RAthqT63xOqzQc",
+    "name": "TV Sinamo",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/6/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NShw7xJgxDD1cS",
+    "name": "TV Sugd",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/14/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
+    "isGeoBlocked": false
+  }
+]
