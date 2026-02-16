@@ -100,6 +100,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FsR4OMNuaQ7RDi",
+    "name": "Africa 24 Sport",
+    "iptv_urls": [
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pHGRN6No5y3yuk",
     "name": "Alkass Three",
     "iptv_urls": [
@@ -238,8 +249,7 @@
     "name": "DD Sports SD",
     "iptv_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8",
-      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -324,6 +334,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1jYy0MieRH4RsH",
+    "name": "FOX Sports YT",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RZdRQApaeV4"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4r0QKfGoGD09Z7",
     "name": "FTV",
     "iptv_urls": [
@@ -355,6 +376,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "440EBhNILeBYuU",
+    "name": "Futbol",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/8/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -601,17 +633,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "057AuVcfpScIV5",
-    "name": "MSG",
-    "iptv_urls": [
-      "https://fl2.moveonjoy.com/MSG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Da460ZcoL5SJKT",
     "name": "Multivisión Sports",
     "iptv_urls": [
@@ -810,17 +831,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1131,26 +1141,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VwGLdAillsoWR5",
-    "name": "Viaplay TV (Finland)",
+    "nanoid": "Ds5kjE7mChd5a5",
+    "name": "Varzesh TV",
     "iptv_urls": [
-      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qoUkakDtbgDtaT",
-    "name": "VITAL Drive",
-    "iptv_urls": [
-      "https://autopilot.catcast.tv/content/37909/index.m3u8",
-      "https://tv.a21network.ru/stream/37909/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {

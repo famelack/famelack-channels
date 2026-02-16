@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ObtiKhy4c7FM1e",
+    "name": "Campus TV (Talca)",
+    "iptv_urls": [
+      "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bL20OQOX6GoIrZ",
     "name": "Canal 1 Nuble",
     "iptv_urls": [
@@ -149,6 +160,17 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RaUAvYsUXow"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -301,19 +323,8 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UGMhBO_3u3U"
+      "https://www.youtube-nocookie.com/embed/7Y_0izlfGnQ"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rFCQYWbNPQlvWE",
-    "name": "MTNA TV",
-    "iptv_urls": [
-      "https://live.mtna.tv/hls/mtna/mtna.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -602,6 +613,17 @@
     "name": "UCV TV",
     "iptv_urls": [
       "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hXEWMB7iS10u9K",
+    "name": "UESTV",
+    "iptv_urls": [
+      "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

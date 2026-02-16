@@ -78,6 +78,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8BTaahrpIJaruI",
+    "name": "GipsyTv Wien",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xIL-MFsiS9k"
+    ],
+    "language": "rom",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eGOtWKdGAa7HdL",
     "name": "Hitradio Ö3",
     "iptv_urls": [
@@ -160,6 +171,17 @@
     "name": "Okto TV",
     "iptv_urls": [
       "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RiifWdXjWLsqP4",
+    "name": "ORF III HD",
+    "iptv_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

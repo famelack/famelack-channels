@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "mTBj2wwnkApUNi",
+    "name": "América Estéreo Tulcán",
+    "iptv_urls": [
+      "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "iptv_urls": [
@@ -341,6 +352,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "if95kHJ4URww0a",
+    "name": "PJ Digital Radio TV",
+    "iptv_urls": [
+      "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "iptv_urls": [
@@ -466,17 +488,6 @@
     "name": "Telemar",
     "iptv_urls": [
       "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LX5wXVXTxx5iPK",
-    "name": "Telerama",
-    "iptv_urls": [
-      "https://play.once.net.ec/telerama/live.tv/538.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

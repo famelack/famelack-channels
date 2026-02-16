@@ -833,6 +833,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UyWYSAuGPQ1FRF",
+    "name": "RTV Westerwolde",
+    "iptv_urls": [
+      "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MG8m0vh6HIQQvq",
     "name": "RTV Zulthe",
     "iptv_urls": [

@@ -1,38 +1,5 @@
 [
   {
-    "nanoid": "WDzjIuhXXr63X1",
-    "name": "RTB",
-    "iptv_urls": [
-      "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "iptv_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mos",
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T5lm0gU60aLLYr",
-    "name": "RTB2 Hauts-Basins",
-    "iptv_urls": [
-      "https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1uIhZZ1zUEi8XM",
     "name": "Savane TV",
     "iptv_urls": [

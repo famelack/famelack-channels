@@ -225,6 +225,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CEq81a8k48ENyx",
+    "name": "Bursa AS TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GQqfKimeo58YbK",
     "name": "CAH Medya",
     "iptv_urls": [],
@@ -296,9 +307,7 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vfg8R7uvxXM"
-    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -330,6 +339,17 @@
     "name": "Deniz Postası TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S7A882wnqWEWLJ",
+    "name": "DİM TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -376,7 +396,7 @@
     "name": "EKOTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UbWmeyDLf6s"
+      "https://www.youtube-nocookie.com/embed/PT79TrhnaoI"
     ],
     "language": "tur",
     "country": "tr",
@@ -834,7 +854,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8Zd7rBS0bkI"
+      "https://www.youtube-nocookie.com/embed/WzhszORjz4w"
     ],
     "language": "tur",
     "country": "tr",
@@ -1451,17 +1471,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/dK96AZbCns0"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TKQbSmFlgXq83c",
-    "name": "Urfa Natik TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false

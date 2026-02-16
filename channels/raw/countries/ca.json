@@ -279,17 +279,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pb2kJOQ71503Nc",
-    "name": "Hamdard TV",
-    "iptv_urls": [
-      "https://tv.hamdardtv.com/hamdard/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bhT3j01Nh3aRCQ",
     "name": "Hard Knocks",
     "iptv_urls": [
@@ -589,17 +578,6 @@
     ],
     "youtube_urls": [],
     "language": "ell",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "iptv_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },

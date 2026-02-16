@@ -89,17 +89,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "szNEw4C0KNRO1w",
-    "name": "Radio Albalad TV",
-    "iptv_urls": [
-      "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ps",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yN7j4xBxGOsptK",
     "name": "Rajeen TV",
     "iptv_urls": [
@@ -126,6 +115,17 @@
     "name": "Shabab FM",
     "iptv_urls": [
       "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zJ9zGl534t9s19",
+    "name": "Watar TV",
+    "iptv_urls": [
+      "https://htvint.mada.ps/orient/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",

@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mb81WfTapiI"
+      "https://www.youtube-nocookie.com/embed/El6BsR0I4lQ"
     ],
     "language": "urd",
     "country": "pk",
@@ -161,17 +161,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9mXKvBYgZ_E"
     ],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F6sXz5Gj54UWsc",
-    "name": "Geo Tez (576i)",
-    "iptv_urls": [
-      "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
@@ -335,7 +324,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6KgsQXEXFm8"
+      "https://www.youtube-nocookie.com/embed/qisl82jWEcw"
     ],
     "language": "urd",
     "country": "pk",
@@ -357,7 +346,7 @@
     "name": "KTN NEWS TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Eoo4jtTh9kk"
+      "https://www.youtube-nocookie.com/embed/_fX7hJEQON0"
     ],
     "language": "sd",
     "country": "pk",
@@ -470,7 +459,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Os3oarIDfo"
+      "https://www.youtube-nocookie.com/embed/aqbPR_gOzZI"
     ],
     "language": "sd",
     "country": "pk",

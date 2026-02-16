@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z6j8GoKR6XeFrc",
-    "name": "Cali TV",
-    "iptv_urls": [
-      "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BHoTvgxAWuPUYQ",
     "name": "Canal 2 Alpavisión Neiva",
     "iptv_urls": [
@@ -137,17 +126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SGrb937p9E07DR",
-    "name": "Canal Santa Marta TV",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/santamartalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KjfXoBdjtuGuIn",
     "name": "Canal Telefamilia",
     "iptv_urls": [
@@ -198,17 +176,6 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/cncsantander.m3u8",
       "https://video.ejeserver.com/live/cncsantander.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KBWtBMAwQ1e3Ea",
-    "name": "CNC Tuluá",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/cnctulualive/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -286,17 +253,6 @@
     "name": "La Morada Radio TV",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/lamoradatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -415,6 +371,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZBrkRLlKR8dvbe",
+    "name": "NSTV",
+    "iptv_urls": [
+      "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p54OBJMG5m0fdl",
     "name": "Oasis TV",
     "iptv_urls": [
@@ -470,39 +437,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "r0BHkewVVJfdhL",
-    "name": "Río Televisión",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "neqGyX9Rfbl2Yl",
-    "name": "RTC Televisión Urabá",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -526,32 +460,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "iptv_urls": [
       "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z2Kgz7MRBRZ3FM",
-    "name": "Telepacífico",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -585,17 +497,6 @@
     "name": "TV San Jorge",
     "iptv_urls": [
       "https://asucap.com/livestream/asucap_envivo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mlkKtAdauZwDoc",
-    "name": "TV3 La Plata",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

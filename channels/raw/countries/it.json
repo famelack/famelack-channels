@@ -286,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "iptv_urls": [
@@ -363,6 +374,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3PQ0eIc5ACKlQF",
+    "name": "FM ITALIA",
+    "iptv_urls": [
+      "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bT0DyxeO3Y36es",
     "name": "Giornale Radio TV",
     "iptv_urls": [
@@ -399,7 +421,19 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "iptv_urls": [
+      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kTsDjvuR5SnaAA",
+    "name": "Gold TV Sat",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -575,6 +609,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QUgozEv0vZrkjK",
     "name": "Lira TV",
     "iptv_urls": [
@@ -663,10 +708,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vep0J58HudEoW3",
+    "name": "Odeon 24",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "iptv_urls": [
       "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UtzRJ2DWtCBmbh",
+    "name": "Onda TV",
+    "iptv_urls": [
+      "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -703,6 +770,39 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRTNWuXxEeSri7",
+    "name": "Peer TV Südtirol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -842,6 +942,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1vFqQwnHb55YkM",
+    "name": "Radio Iglesias Sardegna",
+    "iptv_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M9X65jOBIP2jmf",
     "name": "Radio Italia Trend",
     "iptv_urls": [
@@ -887,6 +998,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OUsOGjUiOquYxg",
+    "name": "Radio Taormina Sicilia",
+    "iptv_urls": [
+      "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HrRqzdx9vjI9z6",
     "name": "Radio Zeta TV",
     "iptv_urls": [
@@ -913,7 +1035,6 @@
     "nanoid": "gb89vMj4sSblmg",
     "name": "Rai 3",
     "iptv_urls": [
-      "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -937,6 +1058,17 @@
     "name": "Rakuten TV Crime Series Italy",
     "iptv_urls": [
       "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YfU8ScWMpQTPUo",
+    "name": "Rakuten TV Romance Movies Italy",
+    "iptv_urls": [
+      "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1232,6 +1364,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jHr3gQHmtG7nGu",
+    "name": "T9",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TapdG3gwdyMX3z",
     "name": "Taurianova TV",
     "iptv_urls": [
@@ -1247,17 +1390,6 @@
     "name": "Tele Liguria Sud",
     "iptv_urls": [
       "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GDYOZZhpgVBRgV",
-    "name": "Tele One 16",
-    "iptv_urls": [
-      "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1459,6 +1591,17 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fPi31GojXVdhWd",
+    "name": "TeleRegione 118",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "it",
     "isGeoBlocked": false
   },

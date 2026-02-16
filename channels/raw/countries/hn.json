@@ -165,6 +165,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "26RtUqr5ZSMhUL",
+    "name": "Litoral Atlántico HD",
+    "iptv_urls": [
+      "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "052OEa16dMrwDi",
     "name": "Metro TV",
     "iptv_urls": [
@@ -180,6 +191,17 @@
     "name": "Radio Ideal 104.7 FM (La Esperanza)",
     "iptv_urls": [
       "https://www.idealfm104-7.com/hls/0/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FSgMROZ5OvGSD6",
+    "name": "Radio Imagen 105.1 FM",
+    "iptv_urls": [
+      "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -246,28 +268,6 @@
     "name": "Televisión Metrópolis 19.2",
     "iptv_urls": [
       "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qWRNlLMLdjrPV7",
-    "name": "TV Centro 27.2 HD",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OPNVhQbPeZ6MyD",
-    "name": "TV Centro HD",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

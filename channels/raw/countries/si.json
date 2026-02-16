@@ -1,5 +1,17 @@
 [
   {
+    "nanoid": "EhXSQ0Jhhv1tef",
+    "name": "Exodus TV",
+    "iptv_urls": [
+      "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+      "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "slv",
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9N0REUHRJR4gUt",
     "name": "Nova24TV 2",
     "iptv_urls": [],

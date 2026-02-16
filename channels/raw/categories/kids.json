@@ -410,17 +410,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "agi7qzExsrlahY",
-    "name": "Disney Junior East",
-    "iptv_urls": [
-      "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VKKpehR0qNSoUY",
     "name": "Disney Junior: Bluey",
     "iptv_urls": [],
@@ -647,7 +636,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6KgsQXEXFm8"
+      "https://www.youtube-nocookie.com/embed/qisl82jWEcw"
     ],
     "language": "urd",
     "country": "pk",
@@ -765,17 +754,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EH9Nce44Lvo"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K7IkXUJctZQhM2",
     "name": "Majid",
     "iptv_urls": [
@@ -861,6 +839,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sf2UUZ1IfXDGmN",
+    "name": "Omid",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -989,7 +978,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tzP0dIWAWcw"
+      "https://www.youtube-nocookie.com/embed/7gA_2l5KwOc"
     ],
     "language": "por",
     "country": "br",
@@ -1037,6 +1026,17 @@
     ],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D2Lk5wz1WJGy5f",
+    "name": "Pooya & Nahal",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1239,17 +1239,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1FcDtz6oQnPOL5",
-    "name": "Tom And Jerry",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XVTTuFjxudH7Ir",
     "name": "Toon Goggles",
     "iptv_urls": [
@@ -1406,17 +1395,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S031zk98bWY7Ix",
-    "name": "WildBrain Kids",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LDUsBrb_7tE"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "at7QYcug7oV0tu",
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
@@ -1544,7 +1522,8 @@
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "iptv_urls": [
-      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+      "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "bak",
@@ -1556,7 +1535,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G0GGg5OolRg"
+      "https://www.youtube-nocookie.com/embed/5u6x4FV7JhU"
     ],
     "language": "zho",
     "country": "cn",

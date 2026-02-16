@@ -275,6 +275,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oihBZjU4iojgJW",
+    "name": "Metropola TV",
+    "iptv_urls": [
+      "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "iptv_urls": [

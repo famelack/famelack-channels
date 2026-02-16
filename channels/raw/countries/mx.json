@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1FGdyXp2FzRogD",
-    "name": "Canal 15 ILCE Summa Sabres",
-    "iptv_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v6b78NmVD9WnBy",
     "name": "Canal 23 Televisa Ensenada",
     "iptv_urls": [],
@@ -239,6 +228,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/trlAbCevSi4"
     ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CrHxjo8TlGVNjG",
+    "name": "Despierta TV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/despiertatv/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -347,7 +347,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3ytKPCx9F0c"
+      "https://www.youtube-nocookie.com/embed/JgA0Y6ZO-y8"
     ],
     "language": "spa",
     "country": "mx",
@@ -464,6 +464,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pCFfnKm8W8E1LH",
+    "name": "NMás",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5nxc8MIT8ws"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "58rlKy9eXNIQTh",
     "name": "Notigram TV (XHFGL-TDT)",
     "iptv_urls": [
@@ -559,17 +570,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iQxS2QFaXpg5Nd",
-    "name": "RTG",
-    "iptv_urls": [
-      "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -784,17 +784,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IBXAA8CFt3c"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -821,7 +810,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2NqcGHEuCzc"
+      "https://www.youtube-nocookie.com/embed/EvHSomeh0zA"
     ],
     "language": "spa",
     "country": "mx",
@@ -832,7 +821,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YLnSRk23gaA"
+      "https://www.youtube-nocookie.com/embed/Wno5Bc0Rg3I"
     ],
     "language": "spa",
     "country": "mx",
@@ -1004,17 +993,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "06BfITicbfdcVY",
-    "name": "TV Lobo Durango",
-    "iptv_urls": [
-      "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2eqKKZD9vsVmKP",
     "name": "TV Mar La Paz",
     "iptv_urls": [
@@ -1151,6 +1129,17 @@
     "name": "UMTV",
     "iptv_urls": [
       "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2EyL9brYPFxMTy",
+    "name": "VB Media TV",
+    "iptv_urls": [
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

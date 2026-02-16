@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V8QFLQrHQiMeTN",
-    "name": "RTRS Plus",
-    "iptv_urls": [
-      "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "akWVtaxPSDAixs",
     "name": "RTV Herceg-Bosne",
     "iptv_urls": [

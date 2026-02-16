@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YWNPX9f8P0Trxq",
     "name": "BTA TV",
     "iptv_urls": [
@@ -165,10 +154,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uShK1SgZwLoTJ4",
-    "name": "Isla TV",
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
     "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
+      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -268,18 +257,6 @@
     "name": "Siembra TV",
     "iptv_urls": [
       "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qRZZMGSFXehDnV",
-    "name": "TAM TV",
-    "iptv_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

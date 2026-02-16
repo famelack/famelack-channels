@@ -111,17 +111,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "nLEMk6k0qejaMo",
-    "name": "Hallmark Channel East",
-    "iptv_urls": [
-      "https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fG091FxoA2NCwZ",
     "name": "MCI Televisión",
     "iptv_urls": [
@@ -295,17 +284,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "mq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HZWd4go9om2ldn",
-    "name": "TV Paraense",
-    "iptv_urls": [
-      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {

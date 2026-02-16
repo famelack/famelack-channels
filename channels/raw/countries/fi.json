@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6K6oFgTHq5fj7V",
-    "name": "Hero",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RXkTjTqpb8UDSl",
     "name": "Himlen TV7",
     "iptv_urls": [
@@ -187,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ic6PikdPKAa3mo",
-    "name": "Nelonen",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/nelonen/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "knoFkqODtHFsAU",
     "name": "Onni TV",
     "iptv_urls": [
@@ -249,28 +227,6 @@
     ],
     "youtube_urls": [],
     "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VwGLdAillsoWR5",
-    "name": "Viaplay TV (Finland)",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3kvMeRQNc7yJgV",
-    "name": "World of Love Island",
-    "iptv_urls": [
-      "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "fi",
     "isGeoBlocked": false
   },

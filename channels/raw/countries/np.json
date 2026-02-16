@@ -9,5 +9,27 @@
     "language": "nep",
     "country": "np",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DfD3tq4WpLgfKH",
+    "name": "Divya Darshan TV",
+    "iptv_urls": [
+      "https://live.divyadarshantv.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nep",
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M45VWk5bj5wkys",
+    "name": "Kantipur TV",
+    "iptv_urls": [
+      "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nep",
+    "country": "np",
+    "isGeoBlocked": false
   }
 ]

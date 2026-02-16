@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "czhjHEIYdtj7dY",
-    "name": "Ecclesia TV",
-    "iptv_urls": [
-      "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c5sRTm8qGDYdgm",
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],

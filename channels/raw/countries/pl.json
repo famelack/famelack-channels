@@ -267,17 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "coRLnGknftkVsQ",
-    "name": "Sfera TV",
-    "iptv_urls": [
-      "https://stream.sferatv.pl/sferatvlive/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oaaUd8YKnYqPUc",
     "name": "Shades of Black",
     "iptv_urls": [
@@ -350,17 +339,6 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mRFyheBmrSRckk",
-    "name": "Telewizja Dami Radom",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2IISWfDPb7A"
-    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -618,17 +596,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
