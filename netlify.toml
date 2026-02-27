@@ -1,0 +1,25 @@
+[build]
+  publish = "."
+
+# Rewrite API routes to serve the static JSON data files directly.
+# Status 200 makes these transparent rewrites (not client-visible redirects).
+
+[[redirects]]
+  from = "/api/countries"
+  to = "/channels/raw/countries_metadata.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/channels/country/:code"
+  to = "/channels/raw/countries/:code.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/categories"
+  to = "/.netlify/functions/categories"
+  status = 200
+
+[[redirects]]
+  from = "/api/channels/category/:name"
+  to = "/channels/raw/categories/:name.json"
+  status = 200

@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>cookiestv</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0d0d12;
+      color: #fff;
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* ---- Player Area ---- */
+    .player-area {
+      flex: 1;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      background: linear-gradient(145deg, #12121a 0%, #0d0d12 60%, #10101a 100%);
+    }
+    .video-wrapper {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    video, iframe {
+      width: 80%;
+      height: 80%;
+      max-width: 1280px;
+      max-height: 720px;
+      background: #000;
+      border: none;
+      border-radius: 10px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+    }
+    #placeholder {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+    }
+    #placeholder .placeholder-text {
+      color: #3a3a50;
+      font-size: 0.95rem;
+      letter-spacing: 0.5px;
+    }
+
+    /* ---- Top Controls ---- */
+    .top-controls {
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      display: flex;
+      gap: 8px;
+      z-index: 100;
+    }
+    .icon-btn {
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 17px;
+      transition: transform 0.15s, background 0.2s, box-shadow 0.2s;
+      border: none;
+      user-select: none;
+    }
+    .icon-btn:hover {
+      transform: scale(1.08);
+    }
+    .icon-btn:active {
+      transform: scale(0.95);
+    }
+    .btn-star {
+      background: rgba(255,255,255,0.07);
+      color: #aaa;
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .btn-star:hover {
+      background: rgba(255,200,50,0.15);
+      color: #ffc832;
+      border-color: rgba(255,200,50,0.25);
+    }
+    .btn-star.favorited {
+      background: rgba(255,200,50,0.18);
+      color: #ffc832;
+      border-color: rgba(255,200,50,0.3);
+    }
+    .btn-close {
+      background: rgba(255,255,255,0.07);
+      color: #aaa;
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .btn-close:hover {
+      background: rgba(255,70,70,0.2);
+      color: #ff5050;
+      border-color: rgba(255,70,70,0.3);
+    }
+
+    /* ---- Sidebar ---- */
+    .sidebar {
+      width: 340px;
+      background: #14141b;
+      display: flex;
+      flex-direction: column;
+      border-left: 1px solid rgba(255,255,255,0.06);
+    }
+    .sidebar-header {
+      padding: 20px 20px 16px;
+      position: relative;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .back-btn {
+      position: absolute;
+      left: -18px;
+      top: 20px;
+      width: 36px;
+      height: 36px;
+      background: #3a7bfd;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      cursor: pointer;
+      z-index: 10;
+      font-size: 16px;
+      transition: transform 0.15s, background 0.2s, box-shadow 0.2s;
+      box-shadow: 0 2px 10px rgba(58,123,253,0.3);
+    }
+    .back-btn:hover {
+      transform: scale(1.08);
+      background: #5090ff;
+      box-shadow: 0 4px 16px rgba(58,123,253,0.4);
+    }
+    .back-btn:active {
+      transform: scale(0.95);
+    }
+    .country-info {
+      margin-left: 25px;
+    }
+    .country-name {
+      color: #e8e8f0;
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .country-name .emoji {
+      display: inline-flex;
+      align-items: center;
+    }
+    .country-name .emoji img.emoji {
+      width: 22px;
+      height: 22px;
+    }
+    .capital-name { color: #666680; font-size: 0.85rem; letter-spacing: 0.3px; }
+    .local-time {
+      position: absolute;
+      right: 20px;
+      top: 26px;
+      color: #8888a0;
+      font-size: 0.82rem;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+    }
+
+    /* ---- Search / Filter ---- */
+    .search-container {
+      padding: 12px 16px 10px;
+    }
+    .sidebar-select {
+      width: 100%;
+      background: #1c1c28;
+      border: 1px solid rgba(255,255,255,0.06);
+      color: #ccc;
+      padding: 9px 12px;
+      border-radius: 8px;
+      margin-bottom: 8px;
+      outline: none;
+      font-size: 0.88rem;
+      transition: border-color 0.2s;
+    }
+    .sidebar-select:focus {
+      border-color: rgba(58,123,253,0.4);
+    }
+    .search-input {
+      width: 100%;
+      background: #1c1c28;
+      border: 1px solid rgba(255,255,255,0.06);
+      color: #ddd;
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-input:focus {
+      border-color: rgba(58,123,253,0.4);
+    }
+    .search-input::placeholder {
+      color: #44445a;
+    }
+
+    /* ---- Channel List ---- */
+    .channel-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 6px 8px;
+    }
+    .channel-item {
+      display: flex;
+      align-items: center;
+      padding: 10px 14px;
+      cursor: pointer;
+      transition: background 0.15s;
+      position: relative;
+      border-radius: 8px;
+      margin-bottom: 2px;
+    }
+    .channel-item:hover {
+      background: rgba(255,255,255,0.04);
+    }
+    .channel-item.active {
+      background: #3a7bfd;
+      color: #fff;
+    }
+    .channel-icon {
+      width: 28px;
+      height: 28px;
+      background: rgba(255,255,255,0.06);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 12px;
+      font-size: 10px;
+      flex-shrink: 0;
+      color: #8888a0;
+      transition: background 0.15s, color 0.15s;
+    }
+    .channel-icon img.emoji {
+      width: 18px;
+      height: 18px;
+    }
+    .channel-item:hover .channel-icon {
+      background: rgba(58,123,253,0.15);
+      color: #5090ff;
+    }
+    .active .channel-icon {
+      background: rgba(255,255,255,0.2);
+      color: #fff;
+    }
+    .yt-badge {
+      width: 18px;
+      height: 18px;
+      margin-left: 6px;
+      flex-shrink: 0;
+      opacity: 0.7;
+    }
+    .channel-item:hover .yt-badge { opacity: 1; }
+    .active .yt-badge { opacity: 1; }
+    .channel-name {
+      flex: 1;
+      font-weight: 500;
+      font-size: 0.9rem;
+      color: #ccccd8;
+    }
+    .active .channel-name { color: #fff; }
+    .channel-lang {
+      color: #55556a;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+    }
+    .active .channel-lang { color: rgba(255,255,255,0.65); }
+
+    /* ---- Country Grid ---- */
+    .country-grid-overlay {
+      display: none;
+      position: absolute;
+      inset: 0;
+      z-index: 200;
+      background: #14141b;
+      flex-direction: column;
+    }
+    .country-grid-overlay.visible {
+      display: flex;
+    }
+    .country-grid-header {
+      padding: 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .country-grid-header h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #e8e8f0;
+    }
+    .country-grid-close {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.06);
+      color: #888;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background 0.15s;
+      border: none;
+    }
+    .country-grid-close:hover {
+      background: rgba(255,70,70,0.15);
+      color: #ff5050;
+    }
+    .country-grid-search {
+      padding: 10px 16px;
+    }
+    .country-grid-search input {
+      width: 100%;
+      background: #1c1c28;
+      border: 1px solid rgba(255,255,255,0.06);
+      color: #ddd;
+      padding: 9px 14px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      outline: none;
+    }
+    .country-grid-search input:focus {
+      border-color: rgba(58,123,253,0.4);
+    }
+    .country-grid-search input::placeholder {
+      color: #44445a;
+    }
+    .country-grid-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 6px 8px;
+    }
+    .country-grid-item {
+      display: flex;
+      align-items: center;
+      padding: 10px 14px;
+      cursor: pointer;
+      border-radius: 8px;
+      transition: background 0.15s;
+      margin-bottom: 1px;
+      gap: 10px;
+    }
+    .country-grid-item:hover {
+      background: rgba(58,123,253,0.1);
+    }
+    .country-grid-item .flag-emoji {
+      display: inline-flex;
+      align-items: center;
+    }
+    .country-grid-item .flag-emoji img.emoji {
+      width: 22px;
+      height: 22px;
+    }
+    .country-grid-item .cg-name {
+      flex: 1;
+      font-size: 0.9rem;
+      color: #ccccd8;
+      font-weight: 500;
+    }
+    .country-grid-item .cg-code {
+      font-size: 0.72rem;
+      color: #55556a;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 500;
+    }
+
+    /* ---- Scrollbar ---- */
+    ::-webkit-scrollbar { width: 5px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #2a2a3a; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #3a3a4a; }
+
+    /* ---- Favorite notification ---- */
+    .fav-toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(60px);
+      background: #1c1c28;
+      color: #e8e8f0;
+      padding: 10px 20px;
+      border-radius: 10px;
+      font-size: 0.88rem;
+      opacity: 0;
+      transition: transform 0.3s, opacity 0.3s;
+      z-index: 999;
+      border: 1px solid rgba(255,255,255,0.06);
+      pointer-events: none;
+    }
+    .fav-toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+  </style>
+</head>
+<body>
+  <div class="player-area">
+    <div class="top-controls">
+      <div class="icon-btn btn-star" onclick="toggleFavorite()" title="Favorite channel">☆</div>
+      <div class="icon-btn btn-close" onclick="stopPlayback()" title="Stop playback">✕</div>
+    </div>
+    <div class="video-wrapper">
+      <video id="videoPlayer" controls autoplay playsinline style="display:none;"></video>
+      <iframe id="ytPlayer" allowfullscreen allow="autoplay; encrypted-media" style="display:none;"></iframe>
+      <div id="placeholder">
+        <span class="placeholder-text">Select a channel to play</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <div class="back-btn" onclick="toggleCountryList()" title="Browse countries">←</div>
+      <div class="country-info">
+        <div id="displayCountry" class="country-name">Select Country</div>
+        <div id="displayCapital" class="capital-name">-</div>
+      </div>
+      <div id="displayTime" class="local-time">--:-- --</div>
+    </div>
+
+    <div class="search-container">
+      <select id="countrySelect" class="sidebar-select" onchange="loadCountry(this.value)">
+        <option value="">Choose Country...</option>
+      </select>
+      <input type="text" id="searchInput" class="search-input" placeholder="Search channels..." oninput="filterChannels(this.value)" />
+    </div>
+
+    <div class="channel-list" id="channelList"></div>
+
+    <!-- Country grid overlay (for back button) -->
+    <div class="country-grid-overlay" id="countryGrid">
+      <div class="country-grid-header">
+        <h3>Countries</h3>
+        <div class="country-grid-close" onclick="closeCountryGrid()">✕</div>
+      </div>
+      <div class="country-grid-search">
+        <input type="text" id="countryGridSearch" placeholder="Search countries..." oninput="filterCountryGrid(this.value)" />
+      </div>
+      <div class="country-grid-list" id="countryGridList"></div>
+    </div>
+  </div>
+
+  <div class="fav-toast" id="favToast"></div>
+
+  <script>
+    const video = document.getElementById('videoPlayer');
+    const iframe = document.getElementById('ytPlayer');
+    const placeholder = document.getElementById('placeholder');
+    const hls = new Hls();
+
+    let allCountries = {};
+    let allChannels = [];
+    let currentCountryCode = '';
+    let currentChannel = null;
+    let timeInterval = null;
+    let favorites = JSON.parse(localStorage.getItem('cookiestv_favs') || '[]');
+
+    // Convert country code to flag emoji string
+    function countryCodeToFlag(code) {
+      if (!code || code.length !== 2) return '';
+      return String.fromCodePoint(
+        ...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65)
+      );
+    }
+
+    // Parse Twemoji for an element
+    function parseTwemoji(el) {
+      if (typeof twemoji !== 'undefined') {
+        twemoji.parse(el, {
+          folder: 'svg',
+          ext: '.svg',
+          base: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/'
+        });
+      }
+    }
+
+    async function init() {
+      const res = await fetch('/api/countries');
+      allCountries = await res.json();
+      const select = document.getElementById('countrySelect');
+
+      Object.entries(allCountries)
+        .filter(([_, data]) => data.hasChannels)
+        .sort((a, b) => a[1].country.localeCompare(b[1].country))
+        .forEach(([code, data]) => {
+          const flag = countryCodeToFlag(code);
+          const opt = document.createElement('option');
+          opt.value = code;
+          opt.textContent = `${flag} ${data.country}`;
+          select.appendChild(opt);
+        });
+
+      buildCountryGrid();
+    }
+
+    function buildCountryGrid() {
+      const container = document.getElementById('countryGridList');
+      container.innerHTML = '';
+      const entries = Object.entries(allCountries)
+        .filter(([_, data]) => data.hasChannels)
+        .sort((a, b) => a[1].country.localeCompare(b[1].country));
+
+      entries.forEach(([code, data]) => {
+        const flag = countryCodeToFlag(code);
+        const el = document.createElement('div');
+        el.className = 'country-grid-item';
+        el.dataset.code = code;
+        el.dataset.name = data.country.toLowerCase();
+        el.innerHTML = `
+          <span class="flag-emoji">${flag}</span>
+          <span class="cg-name">${data.country}</span>
+          <span class="cg-code">${code}</span>
+        `;
+        el.onclick = () => {
+          document.getElementById('countrySelect').value = code;
+          loadCountry(code);
+          closeCountryGrid();
+        };
+        container.appendChild(el);
+      });
+      parseTwemoji(container);
+    }
+
+    function filterCountryGrid(q) {
+      const query = q.toLowerCase();
+      document.querySelectorAll('.country-grid-item').forEach(item => {
+        const name = item.dataset.name;
+        const code = item.dataset.code.toLowerCase();
+        item.style.display = (name.includes(query) || code.includes(query)) ? '' : 'none';
+      });
+    }
+
+    function toggleCountryList() {
+      const grid = document.getElementById('countryGrid');
+      grid.classList.toggle('visible');
+      if (grid.classList.contains('visible')) {
+        document.getElementById('countryGridSearch').value = '';
+        filterCountryGrid('');
+        document.getElementById('countryGridSearch').focus();
+      }
+    }
+
+    function closeCountryGrid() {
+      document.getElementById('countryGrid').classList.remove('visible');
+    }
+
+    async function loadCountry(code) {
+      if (!code) return;
+      currentCountryCode = code;
+      const countryData = allCountries[code];
+      const flag = countryCodeToFlag(code);
+
+      const displayEl = document.getElementById('displayCountry');
+      displayEl.innerHTML = `<span class="emoji">${flag}</span> ${countryData.country}`;
+      parseTwemoji(displayEl);
+
+      document.getElementById('displayCapital').textContent = countryData.capital || '';
+
+      updateTime(countryData.timeZone);
+      if (timeInterval) clearInterval(timeInterval);
+      timeInterval = setInterval(() => updateTime(countryData.timeZone), 60000);
+
+      document.getElementById('channelList').innerHTML = '<div style="padding:20px; color:#44445a; font-size:0.9rem;">Loading...</div>';
+      const res = await fetch(`/api/channels/country/${code.toLowerCase()}`);
+      allChannels = await res.json();
+      filterChannels(document.getElementById('searchInput').value);
+    }
+
+    function updateTime(tz) {
+      if (!tz) return;
+      const options = { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: tz };
+      document.getElementById('displayTime').textContent = new Intl.DateTimeFormat('en-US', options).format(new Date());
+    }
+
+    function filterChannels(q) {
+      const query = q.toLowerCase();
+      const filtered = allChannels.filter(c => c.name.toLowerCase().includes(query));
+      renderList(filtered);
+    }
+
+    function renderList(list) {
+      const container = document.getElementById('channelList');
+      container.innerHTML = '';
+      if (list.length === 0) {
+        container.innerHTML = '<div style="padding:20px; color:#44445a; font-size:0.88rem; text-align:center;">No channels found</div>';
+        return;
+      }
+      list.forEach(ch => {
+        const isFav = favorites.includes(ch.nanoid);
+        const el = document.createElement('div');
+        el.className = 'channel-item';
+        if (currentChannel && currentChannel.nanoid === ch.nanoid) {
+          el.classList.add('active');
+        }
+        const flag = countryCodeToFlag(ch.country || currentCountryCode);
+        const hasYT = ch.youtube_urls && ch.youtube_urls.length > 0;
+        const ytIcon = hasYT ? '<svg class="yt-badge" viewBox="0 0 24 24" fill="#FF0000"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>' : '';
+        el.innerHTML = `
+          <div class="channel-icon">${flag}</div>
+          <div class="channel-name">${ch.name}</div>
+          ${ytIcon}
+          <div class="channel-lang">${ch.language || ''}</div>
+        `;
+        el.onclick = () => playChannel(ch, el);
+        container.appendChild(el);
+      });
+      parseTwemoji(container);
+    }
+
+    function playChannel(ch, el) {
+      document.querySelectorAll('.channel-item').forEach(i => i.classList.remove('active'));
+      el.classList.add('active');
+      placeholder.style.display = 'none';
+      currentChannel = ch;
+      updateStarButton();
+
+      const iptvUrl = ch.iptv_urls?.[0];
+      const ytUrl = ch.youtube_urls?.[0];
+
+      if (iptvUrl) {
+        iframe.style.display = 'none';
+        iframe.src = '';
+        video.style.display = 'block';
+        if (Hls.isSupported()) {
+          hls.loadSource(iptvUrl);
+          hls.attachMedia(video);
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = iptvUrl;
+        }
+      } else if (ytUrl) {
+        video.style.display = 'none';
+        video.src = '';
+        hls.stopLoad();
+        iframe.style.display = 'block';
+        let embedUrl = ytUrl;
+        if (ytUrl.includes('youtube.com/watch?v=')) {
+          embedUrl = ytUrl.replace('watch?v=', 'embed/');
+        } else if (ytUrl.includes('youtu.be/')) {
+          embedUrl = ytUrl.replace('youtu.be/', 'youtube.com/embed/');
+        }
+        iframe.src = embedUrl + '?autoplay=1';
+      }
+    }
+
+    function stopPlayback() {
+      video.style.display = 'none';
+      video.src = '';
+      hls.stopLoad();
+      iframe.style.display = 'none';
+      iframe.src = '';
+      placeholder.style.display = 'flex';
+      currentChannel = null;
+      updateStarButton();
+      document.querySelectorAll('.channel-item').forEach(i => i.classList.remove('active'));
+    }
+
+    function toggleFavorite() {
+      if (!currentChannel) {
+        showToast('Play a channel first');
+        return;
+      }
+      const id = currentChannel.nanoid;
+      const idx = favorites.indexOf(id);
+      if (idx >= 0) {
+        favorites.splice(idx, 1);
+        showToast('Removed from favorites');
+      } else {
+        favorites.push(id);
+        showToast('Added to favorites');
+      }
+      localStorage.setItem('cookiestv_favs', JSON.stringify(favorites));
+      updateStarButton();
+    }
+
+    function updateStarButton() {
+      const btn = document.querySelector('.btn-star');
+      if (currentChannel && favorites.includes(currentChannel.nanoid)) {
+        btn.textContent = '★';
+        btn.classList.add('favorited');
+      } else {
+        btn.textContent = '☆';
+        btn.classList.remove('favorited');
+      }
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('favToast');
+      toast.textContent = msg;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    }
+
+    init();
+  </script>
+</body>
+</html>
