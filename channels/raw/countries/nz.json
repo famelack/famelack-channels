@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjpyl5gpoBq63F",
-    "name": "INFAST",
-    "iptv_urls": [
-      "https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dqgwi0HQE4Shzw",
     "name": "Juice TV",
     "iptv_urls": [
@@ -117,17 +106,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NYxRHRurPqD1da",
-    "name": "MovieSphere",
-    "iptv_urls": [
-      "https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "nz",
     "isGeoBlocked": false
   },

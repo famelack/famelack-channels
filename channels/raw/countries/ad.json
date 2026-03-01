@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "GxyZGqryEzd7cZ",
+    "name": "Andorra TV",
+    "iptv_urls": [
+      "https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "ad",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0laAjuD1d9fLmq",
     "name": "Lòria TV",
     "iptv_urls": [],

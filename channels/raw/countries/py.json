@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BZ9ohjnwvpwyuR",
-    "name": "Cosmos TV",
-    "iptv_urls": [
-      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RszKNvM58V3E5m",
     "name": "Dismar Radio TV",
     "iptv_urls": [
@@ -59,17 +48,6 @@
     "name": "LIM TV",
     "iptv_urls": [
       "https://tv.invasivamedia.com/hls/limtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ksZqh8hqVd6zjZ",
-    "name": "MiTV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

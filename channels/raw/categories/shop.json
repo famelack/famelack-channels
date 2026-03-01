@@ -154,6 +154,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k9Z5raN5ubTZep",
+    "name": "Gems TV",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PwiAIPffasG0wh",
     "name": "Gongyoung Shopping",
     "iptv_urls": [
@@ -488,6 +499,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "iptv_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "iptv_urls": [
@@ -736,6 +758,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "iptv_urls": [
+      "https://master.tucableip.com/redtvshop/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

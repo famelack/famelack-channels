@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MTtDWfVcQCQ9Ls",
     "name": "30A Ridiculous TV",
     "iptv_urls": [
@@ -37,6 +48,17 @@
     "name": "alpha Cinema",
     "iptv_urls": [
       "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zDrvFUZTP4zt2k",
+    "name": "alpha Moretime",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -207,6 +229,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/B7qOZraAIlw"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "446xsIHgo8ylMC",
+    "name": "NBC Comedy Vault",
+    "iptv_urls": [
+      "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false

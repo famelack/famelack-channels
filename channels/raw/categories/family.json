@@ -144,17 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oubeKLPS2AIZdf",
-    "name": "Pro100TV",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hfwTzzqbXODdPh",
     "name": "Rakuten TV Family Movies Finland",
     "iptv_urls": [
@@ -284,6 +273,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "mq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HZWd4go9om2ldn",
+    "name": "TV Paraense",
+    "iptv_urls": [
+      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {

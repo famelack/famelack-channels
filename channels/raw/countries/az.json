@@ -11,22 +11,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bHsynA6QNeR48u",
-    "name": "Azstar TV",
-    "iptv_urls": [
-      "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MCEE1okRjYPAEv",
     "name": "Baku TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/j93-IkMqjuE"
+      "https://www.youtube-nocookie.com/embed/u-bOluHGXLs"
     ],
     "language": "aze",
     "country": "az",

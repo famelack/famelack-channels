@@ -1,5 +1,27 @@
 [
   {
+    "nanoid": "vas7f3j5yLZ8xT",
+    "name": "HGPTV",
+    "iptv_urls": [
+      "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "gy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c2HqQBWO0k3xhn",
+    "name": "Ignite Television",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "gy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8T7n8bqVAC0sl8",
     "name": "MTV Guyana",
     "iptv_urls": [

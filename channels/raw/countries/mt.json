@@ -9,16 +9,5 @@
     "language": "mlt",
     "country": "mt",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sU1UtLHoIJ54wV",
-    "name": "Smash TV",
-    "iptv_urls": [
-      "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mlt",
-    "country": "mt",
-    "isGeoBlocked": false
   }
 ]

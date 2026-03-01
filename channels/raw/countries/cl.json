@@ -1,5 +1,71 @@
 [
   {
+    "nanoid": "pxjrbdjAUkD2To",
+    "name": "13 Festival",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "At9xDVwnRJnJwN",
+    "name": "13 Kids",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bl19xd6Od9LNtI",
+    "name": "13 Realities",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sFxGybHHfJgVTf",
+    "name": "13 Teleseries",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qrJk7Z0w2ndHZn",
+    "name": "13C",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TmOaWV1T2skQNx",
     "name": "AE Radio TV",
     "iptv_urls": [
@@ -15,6 +81,17 @@
     "name": "Antofagasta TV (ATV)",
     "iptv_urls": [
       "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kc3HHZPOGrmJWv",
+    "name": "Atacama Noticias",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -99,33 +176,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x2npCt7uqQs"
-    ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eoeb9ldORywfM0",
     "name": "CHV Noticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LEZNra3U8jg"
+      "https://www.youtube-nocookie.com/embed/NusotpyDQGk"
     ],
     "language": "spa",
     "country": "cl",
@@ -193,7 +248,7 @@
       "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -242,17 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LtuGw8CUEvQRPo",
-    "name": "La Popular TV",
-    "iptv_urls": [
-      "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O37bey4UFDgp1Q",
     "name": "Latina Network TV (576i)",
     "iptv_urls": [
@@ -268,7 +312,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KZrViCuiajU"
+      "https://www.youtube-nocookie.com/embed/A-ZT9A8vA38"
     ],
     "language": "spa",
     "country": "cl",
@@ -405,17 +449,6 @@
       "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jngXF7oLunOTve",
-    "name": "T13",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/70CMOIMijvw"
-    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -591,6 +624,17 @@
     "name": "UCV TV",
     "iptv_urls": [
       "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hXEWMB7iS10u9K",
+    "name": "UESTV",
+    "iptv_urls": [
+      "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

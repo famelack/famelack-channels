@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ybVGFNnhwmZ0GU",
-    "name": "Chandel TV",
-    "iptv_urls": [
-      "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nN6XpsyJ7rKqSF",
     "name": "RT JVA",
     "iptv_urls": [

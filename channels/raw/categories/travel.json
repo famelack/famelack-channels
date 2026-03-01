@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "9CUTsrF7PNhBjT",
+    "name": "4K TRAVEL TV",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aNWcalM8ImXSeK",
     "name": "Aruba.TV",
     "iptv_urls": [
@@ -88,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mT4U2yVFNPMK25",
+    "name": "DroneTV",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=hSBeWdMc_Oi"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WEB2GZQJXf5Tv5",
     "name": "earthTV Showcase",
     "iptv_urls": [],
@@ -119,6 +141,18 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "xhShEAoVCAmfV9",
+    "name": "InTravel",
+    "iptv_urls": [
+      "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "nl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "50fISDUbgXCYss",
@@ -165,39 +199,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
     "iptv_urls": [
@@ -217,6 +218,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4IxBqGTmogAaSR",
+    "name": "Teletur",
+    "iptv_urls": [
+      "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {

@@ -66,7 +66,8 @@
     "iptv_urls": [
       "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
       "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
-      "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8"
+      "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+      "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/rvJOGTSQNj8"

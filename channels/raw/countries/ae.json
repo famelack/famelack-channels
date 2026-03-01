@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
+    "iptv_urls": [
+      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kkVzrzXzjFuUCN",
     "name": "Al Arabiya",
     "iptv_urls": [
@@ -83,7 +94,7 @@
     "name": "Al Mashhad",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FTMsxzMdD3U"
+      "https://www.youtube-nocookie.com/embed/LEvLj4g7dw8"
     ],
     "language": "ara",
     "country": "ae",
@@ -195,17 +206,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Koe1Dmep7fI"
-    ],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "URU3r9PZvWBdLZ",
-    "name": "CNBC Arabia",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NQba9l28JSA"
     ],
     "language": "ara",
     "country": "ae",

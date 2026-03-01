@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "At9xDVwnRJnJwN",
+    "name": "13 Kids",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "iptv_urls": [
@@ -536,7 +547,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rPaAcL6MMj8"
+      "https://www.youtube-nocookie.com/embed/CGu3p7gur6E"
     ],
     "language": "eng",
     "country": "uk",
@@ -732,6 +743,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "snUHMUBtSh5kZt",
+    "name": "Memorias TV Toons",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rjzVsnW4PHv8GX",
     "name": "momokids親子台: 2",
     "iptv_urls": [],
@@ -758,6 +780,17 @@
     "name": "Mr Bean Live Action",
     "iptv_urls": [
       "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "R6VpE6L98QcSep",
+    "name": "Mr. Bean Animated",
+    "iptv_urls": [
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -901,7 +934,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3FL_TGBE7ms"
+      "https://www.youtube-nocookie.com/embed/e4HMsnyKUko"
     ],
     "language": "por",
     "country": "br",
@@ -1077,7 +1110,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rD_e_rosbmI"
+      "https://www.youtube-nocookie.com/embed/fcpXvG8cD1Y"
     ],
     "language": "eng",
     "country": "us",
@@ -1088,7 +1121,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yPATStCc62s"
+      "https://www.youtube-nocookie.com/embed/ChFJQbFRjZ8"
     ],
     "language": "eng",
     "country": "ca",
@@ -1099,7 +1132,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o2dbrizLV6s"
+      "https://www.youtube-nocookie.com/embed/jTeUcSCL8RM"
     ],
     "language": "eng",
     "country": "ca",
@@ -1110,7 +1143,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kmwpqq1TrNM"
+      "https://www.youtube-nocookie.com/embed/SF3fFCAUNF8"
     ],
     "language": "eng",
     "country": "ca",
@@ -1183,28 +1216,6 @@
     ],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bqJWjkuxMfJzes",
-    "name": "Totally Spies!: Season 1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_3yrwAOIuDM"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lvFwkInvbE9sJ0",
-    "name": "Totally Spies!: Season 2",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OAXdWSEgwq4"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1329,6 +1340,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "iptv_urls": [],
@@ -1355,7 +1377,8 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1435,7 +1458,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zLMb_XiCb0k"
+      "https://www.youtube-nocookie.com/embed/2YK_gURwZ2U"
     ],
     "language": "zho",
     "country": "cn",

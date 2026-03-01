@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "OjULEJEZVhhZ9N",
-    "name": "ATV",
-    "iptv_urls": [
-      "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lsn2po0NoORfy7",
     "name": "Bel RTL",
     "iptv_urls": [

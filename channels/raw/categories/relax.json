@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mT4U2yVFNPMK25",
+    "name": "DroneTV",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=hSBeWdMc_Oi"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "Myzen TV",
     "iptv_urls": [

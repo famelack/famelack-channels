@@ -124,6 +124,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rmMtzdNASgScoo",
+    "name": "Alqanat9 TV",
+    "iptv_urls": [
+      "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yL3s4jwp0ivExp",
     "name": "Anadolu Net TV",
     "iptv_urls": [
@@ -416,6 +427,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6TzIP2eJ3m8bpX",
+    "name": "Elsharq TV",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1A2erLQOFNcUDv",
     "name": "Er TV",
     "iptv_urls": [
@@ -590,7 +612,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/I5Y29XCN9fA"
+      "https://www.youtube-nocookie.com/embed/VlcLWSzmLac"
     ],
     "language": "tur",
     "country": "tr",
@@ -691,7 +713,7 @@
       "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -821,7 +843,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IKKlRsnTyj8"
+      "https://www.youtube-nocookie.com/embed/aifkeclzWZM"
     ],
     "language": "tur",
     "country": "tr",
@@ -920,17 +942,6 @@
     "name": "Number 1 TV",
     "iptv_urls": [
       "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GXwsRpuPDXxjJu",
-    "name": "Olay Türk TV Kayseri",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1105,17 +1116,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rqkOBR323x5UjG",
-    "name": "Tempo TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
     "iptv_urls": [
@@ -1247,7 +1247,7 @@
       "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },

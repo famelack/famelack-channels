@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZgdcsAoxUBnS3U",
+    "name": "BTB HD",
+    "iptv_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -166,6 +177,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ulzRgEHfvju1VV",
+    "name": "Mazowsze.tv",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IaxDYWaZAHhrQ0",
     "name": "Moconomy",
     "iptv_urls": [
@@ -173,6 +195,17 @@
     ],
     "youtube_urls": [],
     "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eNWb8bLZwMFVpE",
+    "name": "NewsWorld",
+    "iptv_urls": [
+      "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -337,7 +370,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0t6mTUJi2WI"
+      "https://www.youtube-nocookie.com/embed/A9A5tRAgZKQ"
     ],
     "language": "pol",
     "country": "pl",
@@ -531,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aY6u7qwNMI1Wgm",
-    "name": "TVK Stella",
-    "iptv_urls": [
-      "https://stream.tvkstella.pl/stella/stella.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Se7x9HGaZbNY8X",
     "name": "TVP Info",
     "iptv_urls": [
@@ -593,6 +615,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

@@ -66,33 +66,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yqAqfz8NLIipuY",
-    "name": "Banijay Bluelight: Real Life Hospital Documentaries",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hAE-B0afHJM"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDMTpIP2tlNJNl",
     "name": "Banijay Crime: Britain's Biggest Heists",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JVSkBZZIt5U"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oFHtWQgYWs3Y0k",
-    "name": "Banijay Documentaries: Haunted Stories",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cH_un405BNg"
     ],
     "language": "eng",
     "country": "uk",
@@ -495,6 +473,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k9Z5raN5ubTZep",
+    "name": "Gems TV",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aZ7OPQQXDiuZF3",
     "name": "GREAT! movies",
     "iptv_urls": [
@@ -587,7 +576,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rPaAcL6MMj8"
+      "https://www.youtube-nocookie.com/embed/CGu3p7gur6E"
     ],
     "language": "eng",
     "country": "uk",
@@ -624,17 +613,6 @@
       "https://www.youtube-nocookie.com/embed/pNVWQQjMNqQ"
     ],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JzRvMH3bLlMXwc",
-    "name": "INFAST",
-    "iptv_urls": [
-      "https://lifestyle-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -747,6 +725,17 @@
     "name": "Mr Bean Live Action",
     "iptv_urls": [
       "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "R6VpE6L98QcSep",
+    "name": "Mr. Bean Animated",
+    "iptv_urls": [
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -874,7 +863,7 @@
       "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1085,17 +1074,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
-    "iptv_urls": [
-      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6OObHoCz5T6mVt",
     "name": "Rakuten TV Sci-Fi UK",
     "iptv_urls": [
@@ -1168,6 +1146,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "iptv_urls": [
+      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1280,6 +1269,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Zswxn5QW_54"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ibnE8ejnPqbYoZ",
+    "name": "Top Gear",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

@@ -20,16 +20,5 @@
     "language": "ara",
     "country": "ly",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mrp70KU0WrVVjJ",
-    "name": "Tanasuh TV",
-    "iptv_urls": [
-      "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ly",
-    "isGeoBlocked": false
   }
 ]

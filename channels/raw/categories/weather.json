@@ -60,6 +60,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "iptv_urls": [
+      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EHhc90wawtgTuv",
     "name": "Wetter-Panorama",
     "iptv_urls": [],

@@ -99,21 +99,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IfnxbQq9uKgPVF",
-    "name": "CTB Perth",
+    "nanoid": "OPEWNEj55lvj2s",
+    "name": "Cricket Gold",
     "iptv_urls": [
-      "https://live.ctbperth.net.au/hls/0/stream.m3u8"
+      "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/wjKnaEvwlKw"
+    ],
     "language": "eng",
     "country": "au",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5OROd5MAKjXezh",
-    "name": "CTB Perth Movies",
+    "nanoid": "IfnxbQq9uKgPVF",
+    "name": "CTB Perth",
     "iptv_urls": [
-      "https://movies.ctbperth.net.au/hls/stream.m3u8"
+      "https://live.ctbperth.net.au/hls/0/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -209,17 +211,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hseoq3PTdJAqIW",
-    "name": "INFAST",
-    "iptv_urls": [
-      "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pmtAxTGBGTpwKV",
     "name": "Leaderboard Sports News",
     "iptv_urls": [
@@ -231,24 +222,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WkdO8GadOSLajT",
-    "name": "MovieSphere",
+    "nanoid": "Pni7NN9iGNo5rZ",
+    "name": "Mission Asia",
     "iptv_urls": [
-      "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8"
+      "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ULQoyHDFz4lNdZ",
-    "name": "Mr. Bean Animated",
-    "iptv_urls": [
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
+    "language": "eng",
     "country": "au",
     "isGeoBlocked": false
   },

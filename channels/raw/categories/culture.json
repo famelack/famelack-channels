@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "qrJk7Z0w2ndHZn",
+    "name": "13C",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pNO1A2SnOPsV3y",
     "name": "AABC TV",
     "iptv_urls": [
@@ -202,17 +213,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -277,7 +277,6 @@
     "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
     "iptv_urls": [
-      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
     ],
     "youtube_urls": [
@@ -448,6 +447,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -467,6 +477,17 @@
     "youtube_urls": [],
     "language": "urd",
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5lk4jRIz7MHSbE",
+    "name": "Hmong Star TV",
+    "iptv_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hmn",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -855,6 +876,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QP7DyV43LNSLl9",
+    "name": "StoryChannel TV",
+    "iptv_urls": [
+      "https://136044159.r.cdnsun.net/storychannel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ma",
     "isGeoBlocked": false
   },
   {

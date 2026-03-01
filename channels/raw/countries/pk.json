@@ -446,8 +446,7 @@
     "nanoid": "77LBTTq4JvQf4h",
     "name": "Praise TV",
     "iptv_urls": [
-      "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
-      "https://pixelsmedia.live/livepraisetv/index.m3u8"
+      "https://livecdn.live247stream.com/praise/tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -484,6 +483,17 @@
       "https://www.youtube-nocookie.com/embed/Nh_qJClxWec"
     ],
     "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TCN83EFEG11Pdt",
+    "name": "Sindh TV",
+    "iptv_urls": [
+      "https://mumt01.tangotv.in/SINDHTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "pk",
     "isGeoBlocked": false
   },

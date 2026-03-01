@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "9v7vzS3xsxjDYS",
+    "name": "Apsara TV11",
+    "iptv_urls": [
+      "https://live.ams.com.kh/app/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "khm",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kaw9gAODRE7fwM",
     "name": "CNC",
     "iptv_urls": [
@@ -70,6 +81,17 @@
     "name": "SEATV",
     "iptv_urls": [
       "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "khm",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mhke0W0yDC0bio",
+    "name": "TV5 Cambodia",
+    "iptv_urls": [
+      "https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "khm",

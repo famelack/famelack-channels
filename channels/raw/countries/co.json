@@ -79,6 +79,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JjVGVjzCa9hXFe",
+    "name": "Canal Más Televisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "https://video.ejeserver.com/live/teledoradahd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5GEVv3vX7BnAy7",
     "name": "Canal Mundo Visión",
     "iptv_urls": [
@@ -142,18 +154,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/1uklN007Bjw"
     ],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xk2bL1B2O6nqIC",
-    "name": "CNC Bugavisión",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/cncbuga.m3u8",
-      "https://video.ejeserver.com/live/cncbuga.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -315,6 +315,83 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fT5wViIkqEBjJA",
+    "name": "Memorias del Corazon",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B4gERaGxLZYSc7",
+    "name": "Memorias FM Pop Latino",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CAgtc7uQTGoAtf",
+    "name": "Memorias TV Classic",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DOhQjr6d6DYcGE",
+    "name": "Memorias TV Film",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7AdgPJilMkGY8x",
+    "name": "Memorias TV Series",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "snUHMUBtSh5kZt",
+    "name": "Memorias TV Toons",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v84rF2TjmPJMTT",
+    "name": "Memorias TV Tropical",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zI3NybQoMP9Xkx",
     "name": "Noticias Caracol",
     "iptv_urls": [],
@@ -392,6 +469,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -408,6 +496,17 @@
     "iptv_urls": [
       "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
       "https://us.streaminghd.cl/suramtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -443,7 +542,7 @@
       "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "spa",
     "country": "co",
     "isGeoBlocked": false
   },

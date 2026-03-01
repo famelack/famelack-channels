@@ -20,5 +20,16 @@
     "language": "por",
     "country": "ao",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WQ6unWGtm0BnT8",
+    "name": "TV Zimbo",
+    "iptv_urls": [
+      "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "ao",
+    "isGeoBlocked": false
   }
 ]

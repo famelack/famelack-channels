@@ -88,28 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oubeKLPS2AIZdf",
-    "name": "Pro100TV",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9WIN5KhtEj3GSs",
     "name": "Shout! Studios: Bonanza",
     "iptv_urls": [],
@@ -360,6 +338,28 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jznTuWIBt2HrkT",
+    "name": "ZB Cinema",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3FzbK83VWEyWF",
+    "name": "ZillarBarta News",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zillarbarta/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
     "isGeoBlocked": false
   }
 ]

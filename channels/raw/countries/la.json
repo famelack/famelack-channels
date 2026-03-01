@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dQDL6kdDKRmIMz",
-    "name": "Hmong Star TV",
-    "iptv_urls": [
-      "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "la",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GPPVD5irGB7ygk",
     "name": "ISTV",
     "iptv_urls": [
@@ -73,17 +62,6 @@
     ],
     "youtube_urls": [],
     "language": "lao",
-    "country": "la",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tWHtH7rPvgGlIk",
-    "name": "NAT TV",
-    "iptv_urls": [
-      "https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "la",
     "isGeoBlocked": false
   },

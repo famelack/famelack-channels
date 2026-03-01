@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6K6oFgTHq5fj7V",
+    "name": "Hero",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RXkTjTqpb8UDSl",
     "name": "Himlen TV7",
     "iptv_urls": [
@@ -51,17 +62,6 @@
     ],
     "youtube_urls": [],
     "language": "swe",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ll5s2H0UCXnUdm",
-    "name": "InTravel",
-    "iptv_urls": [
-      "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "fi",
     "isGeoBlocked": false
   },

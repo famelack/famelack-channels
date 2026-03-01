@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sFxGybHHfJgVTf",
+    "name": "13 Teleseries",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Am77zbsA4kDJTi",
     "name": "Afra Series",
     "iptv_urls": [
@@ -211,17 +222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "iptv_urls": [
@@ -354,6 +354,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7AdgPJilMkGY8x",
+    "name": "Memorias TV Series",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "iptv_urls": [
@@ -368,7 +379,6 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "iptv_urls": [
-      "https://mst3k-roku.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
       "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
@@ -590,6 +600,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "huqtrN5bBJ3fQO",
+    "name": "True Crime Network+",
+    "iptv_urls": [
+      "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "XqX1P3iuCUKE9s",
     "name": "TV Series 1 As Panteras",
     "iptv_urls": [
@@ -623,6 +644,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "70kNFzzOa9jQON",
+    "name": "TVE Star HD",
+    "iptv_urls": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YLH7tSL9ZYL5tA",
     "name": "TVI Ficção",
     "iptv_urls": [
@@ -642,17 +674,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IQrnnNNldjOCl4",
-    "name": "XPTV US",
-    "iptv_urls": [
-      "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -695,6 +716,28 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0XEtBmZuJSvlx",
+    "name": "Сити Эдем ТелеНовелла",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/46209/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

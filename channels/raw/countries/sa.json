@@ -336,16 +336,5 @@
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gc9Dx83f1hgp7k",
-    "name": "العربية إف إم Alarabiya FM",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_9mGKxVsP_w"
-    ],
-    "language": "ara",
-    "country": "sa",
-    "isGeoBlocked": false
   }
 ]

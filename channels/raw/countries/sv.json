@@ -99,28 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "It09WcJXuh2yq1",
-    "name": "Josué TV",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NLIFoRpmAx5nwO",
-    "name": "Legislative Assembly of El Salvador",
-    "iptv_urls": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jhAGtHDvu4df4q",
     "name": "Megavisión Canal 19",
     "iptv_urls": [
@@ -136,17 +114,6 @@
     "name": "Megavisión Canal 21",
     "iptv_urls": [
       "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IrNZrLk3v8KoJe",
-    "name": "RTV Canal 57",
-    "iptv_urls": [
-      "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

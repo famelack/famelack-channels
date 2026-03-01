@@ -357,7 +357,7 @@
     "country": "Algeria",
     "capital": "Algiers",
     "timeZone": "Africa/Algiers",
-    "hasChannels": true
+    "hasChannels": false
   },
   "EC": {
     "country": "Ecuador",
@@ -381,7 +381,7 @@
     "country": "Western Sahara",
     "capital": "El Aaiún",
     "timeZone": "Africa/El_Aaiun",
-    "hasChannels": true
+    "hasChannels": false
   },
   "ER": {
     "country": "Eritrea",

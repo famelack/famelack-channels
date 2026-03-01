@@ -463,6 +463,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "iptv_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "iptv_urls": [
@@ -511,7 +522,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JQxy6frZMC4"
+      "https://www.youtube-nocookie.com/embed/he8bs14dMow"
     ],
     "language": "kor",
     "country": "kr",

@@ -68,6 +68,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zDrvFUZTP4zt2k",
+    "name": "alpha Moretime",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HHYr8wd1E9ioQk",
     "name": "Cinema",
     "iptv_urls": [
@@ -171,17 +182,6 @@
     "name": "NSC+",
     "iptv_urls": [
       "https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oubeKLPS2AIZdf",
-    "name": "Pro100TV",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -301,6 +301,17 @@
     "iptv_urls": [
       "https://autopilot.catcast.tv/content/37909/index.m3u8",
       "https://tv.a21network.ru/stream/37909/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -517,6 +528,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OI13Nk31lvozG8",
+    "name": "За!ТВ",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0aNqMqNfvYuTeN",
     "name": "Звезда",
     "iptv_urls": [
@@ -567,7 +589,8 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -900,6 +923,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "55k6dnrqaWi7I9",
+    "name": "Новый Русский",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r7CIzrnkl8uDaW",
     "name": "НТВ",
     "iptv_urls": [
@@ -1178,6 +1212,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ERsPAfBsDBEVBj",
+    "name": "Россия-РТР",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AL13wnHi0qOCN5",
     "name": "С1 (Сургут)",
     "iptv_urls": [
@@ -1255,10 +1300,197 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FlqlJmUsw0JBUH",
+    "name": "Сити Эдем Play Христианский Музыкальный",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34100/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GEed8MzCeFZpmL",
+    "name": "Сити Эдем АвтоГид",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EphM4GTVAEHRzh",
+    "name": "Сити Эдем Бирма Play",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OtO4WFOzaNdFUD",
+    "name": "Сити Эдем КиноАзия",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34393/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UGkFnAuONipW2e",
+    "name": "Сити Эдем КиноАрт",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38398/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ujlkE2Qc3sujr0",
+    "name": "Сити Эдем КиноДетектив",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/41327/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jqp4ZHvmJjGFio",
     "name": "Сити Эдем КиноДрама",
     "iptv_urls": [
       "https://cityeden.catcast.tv/content/45269/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LN1hGmRGEKcWz7",
+    "name": "Сити Эдем КиноКомедия",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/41331/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6NRgQX5F3uvhNk",
+    "name": "Сити Эдем КиноМистика",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pqEgU0y3jnIV9h",
+    "name": "Сити Эдем КиноФантастика",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/45268/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ID6NJjfwQAnwkN",
+    "name": "Сити Эдем КиноЭкшен",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/41333/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZPZLZ7wnuOB2Js",
+    "name": "Сити Эдем Классическая Музыка",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kmnCkTtdi4cLR8",
+    "name": "Сити Эдем МедЗдрав",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XZJQPO8c8hmgew",
+    "name": "Сити Эдем Рецепты Гурмана",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47516/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d3MMbYDLvad49A",
+    "name": "Сити Эдем Сиртаки ТВ",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/46421/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z4pv4jzB1XcYuX",
+    "name": "Сити Эдем ТВ Христианский",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34246/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0XEtBmZuJSvlx",
+    "name": "Сити Эдем ТелеНовелла",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/46209/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1388,6 +1620,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g3UeglowU3FQpl",
+    "name": "Таврия",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "iptv_urls": [
@@ -1504,6 +1747,18 @@
     "name": "ТНТ4",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AIHRA4w3vdxLfI",
+    "name": "Толк HD",
+    "iptv_urls": [
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

@@ -114,7 +114,7 @@
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6QmiFALuAzg"
+      "https://www.youtube-nocookie.com/embed/ebL_brNe_wc"
     ],
     "language": "ell",
     "country": "gr",
@@ -180,6 +180,18 @@
     "name": "Lychnos TV",
     "iptv_urls": [
       "https://thor.mental-media.gr:19360/imp/imp.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nOgaKVJqtjFRdy",
+    "name": "Nea TV",
+    "iptv_urls": [
+      "https://live.neatv.gr:8888/hls/neatv.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

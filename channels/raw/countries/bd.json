@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "FjKVg1Xdb8CtFR",
+    "name": "Channel 24",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_UdWf3_N8Ak"
+    ],
+    "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wPKzw9xyYinfk2",
     "name": "DBC NEWS",
     "iptv_urls": [],
@@ -15,7 +26,7 @@
     "name": "Desh TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zzZgHNYG3Es"
+      "https://www.youtube-nocookie.com/embed/7lX_wa99c30"
     ],
     "language": "ben",
     "country": "bd",
@@ -90,33 +101,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CrBo5aavsp4Rc1",
-    "name": "Nexus Television",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/enoF8ghi1bk"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VNY3CPiX9tfekV",
     "name": "NTV Live",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lxKB7P4hAHIaws",
-    "name": "Rtv News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8Lwx2zWLORk"
     ],
     "language": "ben",
     "country": "bd",

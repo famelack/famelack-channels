@@ -347,7 +347,8 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -714,17 +715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "iptv_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "iptv_urls": [
@@ -784,6 +774,17 @@
     "name": "Motorvision",
     "iptv_urls": [
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4A8SDIwNHIzU1U",
+    "name": "Motorvision.tv (French)",
+    "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -898,17 +899,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PQjvxCMQb79j7r",
-    "name": "Nürburgring",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Yp66j5d7CX0"
-    ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1069,32 +1059,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMFkP3zTr5LosF",
-    "name": "Rakuten TV German Cinema",
-    "iptv_urls": [
-      "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gaIbE0ft11ifJV",
     "name": "Rakuten TV Romance Movies Germany",
     "iptv_urls": [
       "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SE1h1zk5kvUylr",
-    "name": "Rakuten TV Thrillers Germany",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

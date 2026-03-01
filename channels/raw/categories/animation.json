@@ -176,6 +176,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek Fan",
+    "iptv_urls": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
     "iptv_urls": [
@@ -353,6 +364,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "R6VpE6L98QcSep",
+    "name": "Mr. Bean Animated",
+    "iptv_urls": [
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "iptv_urls": [],
@@ -383,17 +405,6 @@
     ],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oubeKLPS2AIZdf",
-    "name": "Pro100TV",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   },
   {

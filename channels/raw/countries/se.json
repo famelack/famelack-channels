@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f1FE4Gf8btdGNS",
-    "name": "Mission Asia",
-    "iptv_urls": [
-      "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "se",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LWXmSBrEE8B8bT",
     "name": "Myzen Fit",
     "iptv_urls": [

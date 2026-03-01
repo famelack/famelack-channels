@@ -78,12 +78,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQjvxCMQb79j7r",
-    "name": "Nürburgring",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Yp66j5d7CX0"
+    "nanoid": "4A8SDIwNHIzU1U",
+    "name": "Motorvision.tv (French)",
+    "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
     ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "de",
     "isGeoBlocked": false
@@ -100,6 +100,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ibnE8ejnPqbYoZ",
+    "name": "Top Gear",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1hiMxQ336UPBoI",
     "name": "Top Gear Classic",
     "iptv_urls": [],
@@ -108,6 +119,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GEed8MzCeFZpmL",
+    "name": "Сити Эдем АвтоГид",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

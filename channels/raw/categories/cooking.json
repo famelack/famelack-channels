@@ -222,5 +222,16 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "XZJQPO8c8hmgew",
+    "name": "Сити Эдем Рецепты Гурмана",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47516/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
   }
 ]

@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z55XBR4UrpAo4V",
-    "name": "Canal Sur",
-    "iptv_urls": [
-      "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "iptv_urls": [
@@ -147,17 +136,6 @@
     "name": "FM Mundo",
     "iptv_urls": [
       "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c3zaL7CKyoj6u1",
-    "name": "Gamavisión",
-    "iptv_urls": [
-      "https://stream.esradioecuador.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -444,17 +422,6 @@
     "name": "Red TVE Ventanas",
     "iptv_urls": [
       "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SaGLTOGoC0bQPx",
-    "name": "RTRTV",
-    "iptv_urls": [
-      "https://tv3ecuador.site/hls/stream/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

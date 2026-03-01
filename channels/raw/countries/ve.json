@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0X5lB22f2RPA0r",
     "name": "Alcance TV",
     "iptv_urls": [
@@ -77,10 +66,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qE0b00agYJgMRp",
     "name": "Chivacoa TV Internacional",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -246,18 +257,6 @@
     "name": "Siembra TV",
     "iptv_urls": [
       "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qRZZMGSFXehDnV",
-    "name": "TAM TV",
-    "iptv_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

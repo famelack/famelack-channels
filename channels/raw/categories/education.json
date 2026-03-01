@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bmVfcr31sW64zk",
-    "name": "Cần Thơ TV2",
-    "iptv_urls": [
-      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1FGdyXp2FzRogD",
     "name": "Canal 15 ILCE Summa Sabres",
     "iptv_urls": [
@@ -200,22 +189,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IVwVAzQdAWOVvy",
-    "name": "DC.gov DKN (Washington DC)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DKN.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGi1H67DnO2cou",
     "name": "DD Kisan HD",
     "iptv_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8",
-      "https://mumt04.tangotv.in/DDKISAN/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
@@ -235,164 +212,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZPk578ujZjTXPa",
-    "name": "DLTV 1",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FH7NvrC8IdGbek",
-    "name": "DLTV 2",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z2nBboETrkSzIa",
-    "name": "DLTV 3",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "28rjnzXjPjea82",
-    "name": "DLTV 4",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfFYZpw2B1Tu6O",
-    "name": "DLTV 5",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBNkYWrTHUHlU6",
-    "name": "DLTV 6",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv06.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5n7uTj1v7KJgAK",
-    "name": "DLTV 7",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv07.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AtqNekEK9bqlpP",
-    "name": "DLTV 8",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv08.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ReBKejReML00hL",
-    "name": "DLTV 9",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv09.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J2tWh2yACsVBKq",
-    "name": "DLTV 10",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1UZOek5lIzCih6",
-    "name": "DLTV 11",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv11.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9tRf46L4LZNOGa",
-    "name": "DLTV 12",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPUnfb9kCWJfnO",
     "name": "DLTV 13",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv13.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "i5UXCyXzVkJ6Kf",
-    "name": "DLTV 14",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv14.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sfr4boA9nNaI9M",
-    "name": "DLTV 15",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -511,17 +334,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sb5v19pRAmTp7P",
-    "name": "HTV Key",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
     "iptv_urls": [
@@ -530,6 +342,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "iptv_urls": [
+      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -731,17 +554,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VFD90UpkQ7f9Ss",
-    "name": "Payam Javan TV",
-    "iptv_urls": [
-      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tCMMSwaVSeASoi",
     "name": "PBS KET Louisville KY (WKMJ-TV)",
     "iptv_urls": [
@@ -930,6 +742,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nd6Jk2mSM7BspG",
+    "name": "TRT EBA Ortaokul",
+    "iptv_urls": [
+      "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t0egfkOjbwVtc1",
     "name": "TUTV",
     "iptv_urls": [
@@ -1015,17 +838,6 @@
     "youtube_urls": [],
     "language": "khm",
     "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5q1WUlrrnksdHQ",
-    "name": "UCTV University of California",
-    "iptv_urls": [
-      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {

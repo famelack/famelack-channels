@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "iptv_urls": [
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "btaTHB02v7Y9B8",
     "name": "F10 HD",
     "iptv_urls": [
@@ -37,6 +48,17 @@
     "name": "Palenque TV",
     "iptv_urls": [
       "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "iptv_urls": [
+      "https://master.tucableip.com/redtvshop/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
