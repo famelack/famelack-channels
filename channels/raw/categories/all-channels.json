@@ -5055,7 +5055,7 @@
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "iptv_urls": [
-      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -14103,7 +14103,7 @@
     "nanoid": "iQk3QJ5gPWMEsC",
     "name": "Das Erste HD",
     "iptv_urls": [
-      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
+      "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -29676,6 +29676,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JKjbE5dsghPCNE",
+    "name": "MDR",
+    "iptv_urls": [
+      "https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D9DLpbpBMDweEB",
     "name": "MDR Fernsehen Thuringen",
     "iptv_urls": [
@@ -32621,6 +32632,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EYEbA4RtngT3cv",
+    "name": "NDR Niedersachsen",
+    "iptv_urls": [
+      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z6guN3S2lbqSQy",
     "name": "NDR Fernsehen International",
     "iptv_urls": [
@@ -34907,6 +34929,17 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VC5d-FID9Ed7Td",
+    "name": "ONE (ARD)",
+    "iptv_urls": [
+      "https://mcdn-one.ard.de/ardone/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -59206,6 +59239,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EbXEpPWVG-gARY",
+    "name": "ZDF",
+    "iptv_urls": [
+      "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mMza0TEb0dwUML",
+    "name": "ZDF info",
+    "iptv_urls": [
+      "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X3DkUAJlcy6GB4",
+    "name": "ZDF neo",
+    "iptv_urls": [
+      "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xUqnXZyWFKx10m",
     "name": "Z Nation",
     "iptv_urls": [
@@ -62212,7 +62278,7 @@
     "nanoid": "lLUpxKIejyUiUX",
     "name": "BR Fernsehen",
     "iptv_urls": [
-      "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master_1920p_5000.m3u8"
+      "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
