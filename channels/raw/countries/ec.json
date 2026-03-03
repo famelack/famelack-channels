@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c3zaL7CKyoj6u1",
+    "name": "Gamavisión",
+    "iptv_urls": [
+      "https://stream.esradioecuador.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rzz3epvsT10Pp4",
     "name": "GM7 Digital",
     "iptv_urls": [
@@ -213,17 +224,6 @@
     "name": "Loreto TV",
     "iptv_urls": [
       "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Sp6sHwr9vDmxjt",
-    "name": "Mágica Tv",
-    "iptv_urls": [
-      "https://magicatv.4pu.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -319,17 +319,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRZplckRTbzRYe",
-    "name": "Oromar TV",
-    "iptv_urls": [
-      "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "if95kHJ4URww0a",
     "name": "PJ Digital Radio TV",
     "iptv_urls": [
@@ -418,10 +407,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SaGLTOGoC0bQPx",
+    "name": "RTRTV",
+    "iptv_urls": [
+      "https://tv3ecuador.site/hls/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0Vw6NdTRGURL25",
     "name": "RTU",
     "iptv_urls": [
       "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GMkpwotjB860aV",
+    "name": "RTV Riobamba",
+    "iptv_urls": [
+      "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -244,17 +244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CI4BtTpHkRl4IU",
-    "name": "CityTV San Diego",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xoaAXrl0HaqGHm",
     "name": "Collier Television CTV (Naples FL)",
     "iptv_urls": [
@@ -619,6 +608,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NLIFoRpmAx5nwO",
+    "name": "Legislative Assembly of El Salvador",
+    "iptv_urls": [
+      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
@@ -708,10 +708,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c9GCwVR0qdOyVK",
+    "name": "MBG TV",
+    "iptv_urls": [
+      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BT8ZDrR6sexjCY",
     "name": "Miami Beach Tv (MBTV) (Miami Beach FL)",
     "iptv_urls": [
       "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kjuFcOS4WkdpQs",
+    "name": "Midpen Media Center Government etc Channel 29",
+    "iptv_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -827,28 +849,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "iptv_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1114,7 +1114,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PbgdfY44988"
+      "https://www.youtube-nocookie.com/embed/ZNylKDqbwIU"
     ],
     "language": "por",
     "country": "br",

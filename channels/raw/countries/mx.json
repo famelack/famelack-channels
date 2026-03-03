@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "om7GIuOIZrQShy",
-    "name": "Canal 10 Durango",
-    "iptv_urls": [
-      "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1FGdyXp2FzRogD",
     "name": "Canal 15 ILCE Summa Sabres",
     "iptv_urls": [
@@ -347,8 +336,19 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Aj8wfWI-kt8"
+      "https://www.youtube-nocookie.com/embed/ps5g7lr3ENk"
     ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hvpyyH4xiS4fE5",
+    "name": "IMRyT Morelos TV",
+    "iptv_urls": [
+      "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -431,22 +431,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4i2dbm12cF2ARa",
-    "name": "Nayarit Comunica",
-    "iptv_urls": [
-      "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pCFfnKm8W8E1LH",
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/apuhJrOyD68"
+      "https://www.youtube-nocookie.com/embed/y_w5n1-uILI"
     ],
     "language": "spa",
     "country": "mx",
@@ -663,17 +652,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "arUwONnDyiIo6o",
-    "name": "Tele Yucatan",
-    "iptv_urls": [
-      "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "248WyVmGTSntgh",
     "name": "Telediario Guadalajara",
     "iptv_urls": [],
@@ -730,6 +708,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EDHdYFZTyUWlzE",
+    "name": "Televisa Del Golfo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/79jGVmNqAdw"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MFKuXvwOZbfP2b",
     "name": "Televisa Guadalajara",
     "iptv_urls": [],
@@ -756,7 +745,7 @@
     "name": "Televisa Laguna",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cHeRkmonqeQ"
+      "https://www.youtube-nocookie.com/embed/OoMThVYiHQo"
     ],
     "language": "spa",
     "country": "mx",
@@ -778,7 +767,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lK-Tq8MyC_Y"
+      "https://www.youtube-nocookie.com/embed/e5XExvvEIfU"
     ],
     "language": "spa",
     "country": "mx",
@@ -789,7 +778,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fvErSaDQvbc"
+      "https://www.youtube-nocookie.com/embed/_M9LlDRMsFo"
     ],
     "language": "spa",
     "country": "mx",
@@ -906,17 +895,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2H96xaNz6Ph6GF",
-    "name": "Tlaxcala Televisión",
-    "iptv_urls": [
-      "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ypo12G7eK5IDLt",
     "name": "TRC Televisión",
     "iptv_urls": [
@@ -998,17 +976,6 @@
     "name": "TV Mar Puerto Vallarta",
     "iptv_urls": [
       "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DCzhAOMfIMF2kt",
-    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1141,17 +1108,6 @@
     "name": "Visión Televisión",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HLRdcloMEfvKBn",
-    "name": "ZAZ",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

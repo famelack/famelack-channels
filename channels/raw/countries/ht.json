@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FG2fPV7i5X0IEO",
-    "name": "Radio Tele Full Gospel",
-    "iptv_urls": [
-      "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C6oSzIHCShu5sK",
     "name": "Radio Télé Hit",
     "iptv_urls": [

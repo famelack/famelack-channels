@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KbaV0qyfK90k60",
-    "name": "Aeolos TV",
-    "iptv_urls": [
-      "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iaXW6RecjncP1a",
     "name": "ART TV",
     "iptv_urls": [

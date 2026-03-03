@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tNAEeGMomIGfLw",
-    "name": "Fish TV",
-    "iptv_urls": [
-      "https://tv.localstreamgh.com/fishtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "gh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XbqCbMWvgTX2F0",
     "name": "G-eye TV",
     "iptv_urls": [

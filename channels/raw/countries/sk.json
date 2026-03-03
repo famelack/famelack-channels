@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "zO4DDyplOGEqbh",
+    "name": "Česko-Slovenská regionálna televízia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WXM6ZxR2OJw"
+    ],
+    "language": "slk",
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hgr2Yg9Zm1Cgi3",
     "name": "ducktv",
     "iptv_urls": [

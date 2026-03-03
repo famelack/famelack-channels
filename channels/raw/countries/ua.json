@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tw81DnoVlplmdm",
-    "name": "M2",
-    "iptv_urls": [
-      "https://live.m2.tv/hls3/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZqrDz64QgMJgYB",
     "name": "SONATA TV",
     "iptv_urls": [],

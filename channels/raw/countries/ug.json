@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "t2mBHms7Nuow3E",
-    "name": "Ark TV",
-    "iptv_urls": [
-      "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ug",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BAl5rYC3FH50BY",
     "name": "BTV",
     "iptv_urls": [

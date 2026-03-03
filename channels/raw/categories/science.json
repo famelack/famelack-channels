@@ -37,7 +37,7 @@
     "name": "Force Thirteen Earthquakes",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_PuVWmKDpiA"
+      "https://www.youtube-nocookie.com/embed/JwRbCtdzLIk"
     ],
     "language": "eng",
     "country": "au",
@@ -72,6 +72,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/FV4Q9DryTG8"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Lv6gyQaWTeTvh",
+    "name": "NASA: ISS HD",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zPH5KtjJFaQ"
     ],
     "language": "eng",
     "country": "us",

@@ -9,5 +9,16 @@
     "language": "eng",
     "country": "kn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uotwBii647jkV2",
+    "name": "ZIZ TV",
+    "iptv_urls": [
+      "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "kn",
+    "isGeoBlocked": false
   }
 ]

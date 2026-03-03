@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "nanoid": "2hs4FzDgKk1l2e",
+    "name": "Almagharibia TV: المغاربية",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dsedX3gwwPI"
+    ],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  }
+]

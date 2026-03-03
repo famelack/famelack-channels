@@ -71,7 +71,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JOprT6GOJNQ"
+      "https://www.youtube-nocookie.com/embed/TPRn_mAdXlo"
     ],
     "language": "vie",
     "country": "vn",
@@ -94,17 +94,6 @@
     "iptv_urls": [
       "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8",
       "https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rsd0bqnOCHB5cf",
-    "name": "Đồng Tháp TV2",
-    "iptv_urls": [
-      "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -238,7 +227,6 @@
     "nanoid": "LFPFH6E00LEwDC",
     "name": "QPVN HD",
     "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
       "https://qpvn.vn/live/qpvn/master.m3u8"
     ],
     "youtube_urls": [],
@@ -291,10 +279,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iRf7kly7xqubVy",
+    "name": "Tây Ninh TV",
+    "iptv_urls": [
+      "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P3wFK2is4nhE2c",
     "name": "Tea TV",
     "iptv_urls": [
       "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nZCf2XQjePSDGW",
+    "name": "Thái Nguyên TV",
+    "iptv_urls": [
+      "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

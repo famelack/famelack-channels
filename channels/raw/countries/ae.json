@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "o7f2wdALXEzHZs",
-    "name": "Ajman TV",
-    "iptv_urls": [
-      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kkVzrzXzjFuUCN",
     "name": "Al Arabiya",
     "iptv_urls": [
@@ -138,8 +127,7 @@
     "name": "Cartoon Network",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DafNKGT4CLM",
-      "https://www.youtube-nocookie.com/embed/uZc9VKf9XPQ"
+      "https://www.youtube-nocookie.com/embed/DafNKGT4CLM"
     ],
     "language": "ara",
     "country": "ae",
@@ -151,17 +139,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Koe1Dmep7fI"
-    ],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "URU3r9PZvWBdLZ",
-    "name": "CNBC Arabia",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rLOUuPprGyg"
     ],
     "language": "ara",
     "country": "ae",

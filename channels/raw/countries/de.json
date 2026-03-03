@@ -166,6 +166,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TidiMBUKgHqdwZ",
+    "name": "Bibel TV Impuls",
+    "iptv_urls": [
+      "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yHOMIT6YTjFRD3",
+    "name": "Bibel TV Musik",
+    "iptv_urls": [
+      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QHfB2HaDRgtHoK",
     "name": "Chemnitz Fernsehen",
     "iptv_urls": [
@@ -325,8 +347,7 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -367,6 +388,17 @@
       "https://www.youtube-nocookie.com/embed/gP7872YRFDk"
     ],
     "language": "rus",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VVcQY1hOdMpI1U",
+    "name": "EchtJetzt TV",
+    "iptv_urls": [
+      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },

@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y7vYe1yqK0sxRF",
-    "name": "MERU TV",
-    "iptv_urls": [
-      "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HmimxNpLzs8JkF",
     "name": "Morning Cloud TV",
     "iptv_urls": [

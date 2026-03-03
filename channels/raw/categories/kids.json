@@ -248,8 +248,7 @@
     "name": "Cartoon Network",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DafNKGT4CLM",
-      "https://www.youtube-nocookie.com/embed/uZc9VKf9XPQ"
+      "https://www.youtube-nocookie.com/embed/DafNKGT4CLM"
     ],
     "language": "ara",
     "country": "ae",
@@ -499,17 +498,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i5Wa7HDMyE8EFE",
-    "name": "Duronto TV",
-    "iptv_urls": [
-      "https://tvsen4.aynaott.com/durontotv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mkS2euN6WoaBGB",
     "name": "EBS kids",
     "iptv_urls": [
@@ -610,6 +598,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "iptv_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "iptv_urls": [
@@ -680,7 +679,7 @@
     "name": "L.O.L. Surprise!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/la3Bt8BuD-s",
+      "https://www.youtube-nocookie.com/embed/fDd0Zxbih1E",
       "https://www.youtube-nocookie.com/embed/rc9EyPcU03Y"
     ],
     "language": "deu",
@@ -923,7 +922,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Jsvg3ygANnU"
+      "https://www.youtube-nocookie.com/embed/_Cq3tsGJOoM"
     ],
     "language": "por",
     "country": "br",
@@ -1099,7 +1098,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MLkIlzg2nUM"
+      "https://www.youtube-nocookie.com/embed/as8mMpOWTUM"
     ],
     "language": "eng",
     "country": "us",
@@ -1110,7 +1109,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ChFJQbFRjZ8"
+      "https://www.youtube-nocookie.com/embed/PciB2WvB-Zs"
     ],
     "language": "eng",
     "country": "ca",
@@ -1121,7 +1120,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jTeUcSCL8RM"
+      "https://www.youtube-nocookie.com/embed/fzxEyT0I57s"
     ],
     "language": "eng",
     "country": "ca",
@@ -1132,7 +1131,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SF3fFCAUNF8"
+      "https://www.youtube-nocookie.com/embed/MN1N72_8898"
     ],
     "language": "eng",
     "country": "ca",
@@ -1322,7 +1321,7 @@
     "name": "WildBrain Çocuklar: Twirlywoos",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p_TXL-YxM0E"
+      "https://www.youtube-nocookie.com/embed/goVmLeg1hr4"
     ],
     "language": "tur",
     "country": "tr",
@@ -1469,7 +1468,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FMYhVUq3JCo"
+      "https://www.youtube-nocookie.com/embed/SRoWGLp6ypc"
     ],
     "language": "zho",
     "country": "cn",

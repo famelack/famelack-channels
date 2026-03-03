@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "sJ5NPPXXLzcoh1",
+    "name": "TV Maná Moçambique",
+    "iptv_urls": [
+      "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "mz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TjkNKbnMhRjIfx",
     "name": "TV Vitória",
     "iptv_urls": [

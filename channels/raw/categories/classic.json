@@ -102,7 +102,8 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -121,13 +122,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i3xr0qWNj713tk",
-    "name": "Shout! Studios: Bonanza (Español)",
+    "nanoid": "ZUiCxfI2YHTlLz",
+    "name": "Shout! Studios: Elvira's Movie Macabre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yYPk911P0tE"
+      "https://www.youtube-nocookie.com/embed/4Eu2x6n3cRk"
     ],
-    "language": "spa",
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },

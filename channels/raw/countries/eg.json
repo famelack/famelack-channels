@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9PE4R6NdLx4OF9",
-    "name": "Huda TV",
-    "iptv_urls": [
-      "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7QNwjfAH3tZtOn",
     "name": "Koogi TV",
     "iptv_urls": [

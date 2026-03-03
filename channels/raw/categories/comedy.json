@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K1Rki2QXOUbCd5",
+    "name": "Classic Mr Bean",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "iptv_urls": [
@@ -147,8 +158,6 @@
     "nanoid": "qy6bcbSL050Vab",
     "name": "Humor Mill",
     "iptv_urls": [
-      "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
-      "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8",
       "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8"
     ],
     "youtube_urls": [],
@@ -275,6 +284,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jkSTbSRhO98"
+    ],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {

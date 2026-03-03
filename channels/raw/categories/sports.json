@@ -216,7 +216,8 @@
     "name": "DD Sports SD",
     "iptv_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -327,7 +328,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RZdRQApaeV4"
+      "https://www.youtube-nocookie.com/embed/ywHmvNEF49M"
     ],
     "language": "eng",
     "country": "us",
@@ -650,7 +651,7 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

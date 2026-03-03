@@ -158,6 +158,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WH7adDfFfMrDqi",
+    "name": "Bloomberg Originals",
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CgMsuXc9zVoL0K",
     "name": "Bloomberg Podcasts",
     "iptv_urls": [],
@@ -177,6 +191,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cUUd6iJP5ivAhb",
+    "name": "Business 24 Africa",
+    "iptv_urls": [
+      "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
     "isGeoBlocked": false
   },
   {
@@ -434,7 +459,8 @@
       "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
       "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
-      "https://yahoo-samsung.amagi.tv/playlist.m3u8"
+      "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+      "https://yahoo-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

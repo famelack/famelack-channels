@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2rNqvS3cyFL1gx",
+    "name": "TVCARiB Gospel",
+    "iptv_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "sx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G5MvNhKDTwrAEa",
     "name": "TVCARiB Kids & Teens",
     "iptv_urls": [

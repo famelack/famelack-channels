@@ -159,6 +159,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xk2bL1B2O6nqIC",
+    "name": "CNC Bugavisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/cncbuga.m3u8",
+      "https://video.ejeserver.com/live/cncbuga.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
     "iptv_urls": [
@@ -215,17 +227,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "02mPmZWllvm8GE",
-    "name": "Kalu TV",
-    "iptv_urls": [
-      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GnCb5ceUbTkz25",
     "name": "La Cantina Memorias",
     "iptv_urls": [
@@ -274,17 +275,6 @@
     "name": "Luna Estéreo 106.4 FM",
     "iptv_urls": [
       "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "iptv_urls": [
-      "https://live.arnoproducciones.com/hls/norte.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -473,18 +463,6 @@
     "name": "Supermúsica TV",
     "iptv_urls": [
       "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nBCtUGxdm8WZSP",
-    "name": "Suram TV",
-    "iptv_urls": [
-      "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
-      "https://us.streaminghd.cl/suramtv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

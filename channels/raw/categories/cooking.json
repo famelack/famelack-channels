@@ -56,14 +56,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZlkeMII1Cl5GKN",
-    "name": "Food Network",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZkbU8PUZosE"
+    "nanoid": "wKjb76m31kcro9",
+    "name": "Food Food",
+    "iptv_urls": [
+      "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
     ],
-    "language": "eng",
-    "country": "us",
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -200,5 +200,16 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "XZJQPO8c8hmgew",
+    "name": "Сити Эдем Рецепты Гурмана",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47516/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
   }
 ]

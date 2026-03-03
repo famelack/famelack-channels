@@ -243,6 +243,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mGqiGx8PLsFhQa",
+    "name": "Yulduz Usmanova",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xNCi4Bw6gP8"
+    ],
+    "language": "uzb",
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y67heKltErviMJ",
     "name": "Zo'r TV",
     "iptv_urls": [

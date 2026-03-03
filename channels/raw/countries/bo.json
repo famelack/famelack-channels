@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "igJmo5J6YhgXmV",
-    "name": "Unifranz",
-    "iptv_urls": [
-      "https://live.enhdtv.com:8081/8192/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LFx5rbcyR21noP",
     "name": "Univalle Televisión",
     "iptv_urls": [

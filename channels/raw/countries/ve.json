@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0X5lB22f2RPA0r",
     "name": "Alcance TV",
     "iptv_urls": [
@@ -77,10 +88,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EBZkwFw2avmA6X",
-    "name": "Fortuna TV",
+    "nanoid": "qE0b00agYJgMRp",
+    "name": "Chivacoa TV Internacional",
     "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -88,10 +99,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hYaEiBkFdAkiAd",
-    "name": "GlobalTV",
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
     "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
+      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -353,10 +364,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iQsTa6Z2cWc5Ch",
+    "name": "Torococo TV",
+    "iptv_urls": [
+      "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rO6eV79GxNqt7n",
     "name": "TRT",
     "iptv_urls": [
       "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

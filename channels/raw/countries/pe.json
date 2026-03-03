@@ -386,17 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wmJ1QxQIvPF4LM",
-    "name": "Teleselva",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oOdusKQUCbc5q3",
     "name": "Top FM TV",
     "iptv_urls": [
@@ -467,7 +456,7 @@
     "name": "TVLibertad ",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GFCISxJtPuY"
+      "https://www.youtube-nocookie.com/embed/enC-AS8F6VU"
     ],
     "language": "spa",
     "country": "pe",

@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/geHBfHZpeoQ"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "iptv_urls": [
@@ -63,17 +52,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/BVG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -632,6 +610,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KGiWQ62o6Np82a",
+    "name": "Midpen Media Center Youth Education and Sports Channel 28",
+    "iptv_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a5pCHJNR4Ar34s",
     "name": "Mobile County Public Schools TV Network (MCPSS)",
     "iptv_urls": [
@@ -728,17 +717,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ps",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VFD90UpkQ7f9Ss",
-    "name": "Payam Javan TV",
-    "iptv_urls": [
-      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -963,17 +941,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DCzhAOMfIMF2kt",
-    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g7YtvRUN199O67",
     "name": "TV UG",
     "iptv_urls": [
@@ -1070,17 +1037,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "igJmo5J6YhgXmV",
-    "name": "Unifranz",
-    "iptv_urls": [
-      "https://live.enhdtv.com:8081/8192/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
     "isGeoBlocked": false
   },
   {

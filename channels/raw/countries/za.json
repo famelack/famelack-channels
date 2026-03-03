@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9eVfcO2wEVPW89",
+    "name": "Family Feud Africa",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iAdKBEwfWQU"
+    ],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RnZgNdJPQ7SoXK",
     "name": "Homebase TV",
     "iptv_urls": [

@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PJRmHZv9Fbs"
+      "https://www.youtube-nocookie.com/embed/fw06esRvbog"
     ],
     "language": "jpn",
     "country": "jp",
@@ -90,9 +90,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S7lyJHbl70de7u",
+    "nanoid": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
     ],
@@ -323,7 +326,7 @@
       "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -343,7 +346,7 @@
     "name": "Nat Geo Animals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/THooYCltViI"
+      "https://www.youtube-nocookie.com/embed/MiQe9ob9aDc"
     ],
     "language": "eng",
     "country": "us",
@@ -398,7 +401,8 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
-      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "https://streaming.thestream.cyou/live/554.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

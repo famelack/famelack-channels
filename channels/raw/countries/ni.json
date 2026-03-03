@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ZUjtSf30fvMWOE",
-    "name": "Canal Cvisión",
-    "iptv_urls": [
-      "https://stream.cvision.live/cvision_stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ni",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "54a0zlPJ75YPWI",
     "name": "Escúchame Radio TV",
     "iptv_urls": [

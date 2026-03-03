@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SCCSu7TMHcxg2h",
+    "name": "Akaal Channel",
+    "iptv_urls": [
+      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -322,6 +333,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XfZetbS9084"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K1Rki2QXOUbCd5",
+    "name": "Classic Mr Bean",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
     ],
     "language": "eng",
     "country": "uk",

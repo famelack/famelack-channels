@@ -4,19 +4,8 @@
     "name": "DanmarkC TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1i1NQAxvnIw"
+      "https://www.youtube-nocookie.com/embed/elc78vSDv4A"
     ],
-    "language": "dan",
-    "country": "dk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CU97WLDcdlYM5R",
-    "name": "DR1",
-    "iptv_urls": [
-      "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "dan",
     "country": "dk",
     "isGeoBlocked": false

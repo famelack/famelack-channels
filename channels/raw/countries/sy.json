@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zb4yx0Hhhjqp7h",
-    "name": "Halab Today TV",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "sy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FguzmgQdpg9XFC",
     "name": "Rojava TV",
     "iptv_urls": [

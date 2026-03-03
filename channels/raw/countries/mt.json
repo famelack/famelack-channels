@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "UsJXOMx0kW72JG",
+    "name": "One",
+    "iptv_urls": [
+      "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mlt",
+    "country": "mt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sU1UtLHoIJ54wV",
     "name": "Smash TV",
     "iptv_urls": [

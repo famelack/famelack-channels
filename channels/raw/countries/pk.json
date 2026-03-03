@@ -488,11 +488,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TCN83EFEG11Pdt",
+    "name": "Sindh TV",
+    "iptv_urls": [
+      "https://mumt01.tangotv.in/SINDHTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cY2xwz2R3RaEd2",
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VWWY_3bjQpE"
+      "https://www.youtube-nocookie.com/embed/4PEkiEm1Hbw"
     ],
     "language": "sd",
     "country": "pk",

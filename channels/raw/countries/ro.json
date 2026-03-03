@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JSGP3ao4TkoM4K",
-    "name": "Alfa Omega TV",
-    "iptv_urls": [
-      "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XZ0ppzFYNKAs79",
     "name": "Angelus TV",
     "iptv_urls": [
@@ -330,10 +319,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2U91fowazsObgI",
+    "name": "Mooz Ro!",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CWCTvHjrmevuWH",
     "name": "Muscel TV",
     "iptv_urls": [
       "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GJqoGQwicVaUST",
+    "name": "Nasul TV",
+    "iptv_urls": [
+      "https://live.nasul.tv/live/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",

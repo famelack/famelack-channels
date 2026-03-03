@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I677KvGkPDPSil",
+    "name": "Avar TV",
+    "iptv_urls": [
+      "https://avr.host247.net/live/AvarTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bBdVVt0cpWEQfg",
     "name": "BeitolAbbas TV Channel",
     "iptv_urls": [
@@ -95,6 +106,17 @@
     ],
     "youtube_urls": [],
     "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HF0s5qptKRRfON",
+    "name": "FarmodaTV",
+    "iptv_urls": [
+      "https://avr.host247.net/live/FarmodaTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
     "country": "iq",
     "isGeoBlocked": false
   },
@@ -205,28 +227,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NA2Yy8jnyc36WT",
-    "name": "Marjaeyat TV Persian",
-    "iptv_urls": [
-      "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O7kNo7GEugTsdZ",
-    "name": "Mixkurdy",
-    "iptv_urls": [
-      "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
     "country": "iq",
     "isGeoBlocked": false
   },
