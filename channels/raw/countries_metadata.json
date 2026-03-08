@@ -1169,12 +1169,6 @@
     "timeZone": "Africa/Freetown",
     "hasChannels": false
   },
-  "SM": {
-    "country": "San Marino",
-    "capital": "San Marino",
-    "timeZone": "Europe/San_Marino",
-    "hasChannels": true
-  },
   "SN": {
     "country": "Senegal",
     "capital": "Dakar",
