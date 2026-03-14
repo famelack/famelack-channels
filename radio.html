@@ -653,8 +653,25 @@
       { name: 'hr1', country: 'Germany', code: 'DE', url: 'https://hlshr1.akamaized.net/hls/live/2016533/hr1rheinmain/192/seglist.m3u8', hls: true },
       { name: 'hr3', country: 'Germany', code: 'DE', url: 'https://hlshr3.akamaized.net/hls/live/2016536/hr3rheinmain/192/seglist.m3u8', hls: true },
       { name: 'hr4', country: 'Germany', code: 'DE', url: 'https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seglist.m3u8', hls: true },
-      { name: 'Radio Zwickau', country: 'Germany', code: 'DE', url: 'https://edge85.radio.radiozwickau.de/radiozwickau-live/stream/aacp', hls: false, hasRadioIcon: true }
+      { name: 'Radio Zwickau', country: 'Germany', code: 'DE', url: 'https://edge85.radio.radiozwickau.de/radiozwickau-live/stream/aacp', hls: false, hasRadioIcon: true },
+      { name: 'BBC Arabic', country: 'Arabic', code: 'AR', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio', hls: false },
+      { name: 'BBC World', country: 'United Kingdom', code: 'UK', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service', hls: false },
+      { name: 'Radio Jehona', country: 'Albania', code: 'AL', url: 'https://stream.iradio.pro/proxy/radiojehona?mp=/1', hls: false },
+      { name: 'Radio Lushnja', country: 'Albania', code: 'AL', url: 'https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3', hls: false },
+      { name: 'Alpo Radio', country: 'Albania', code: 'AL', url: 'https://cp1.sednastream.com/proxy/alporadio/stream', hls: false },
+      { name: 'Radio Logos', country: 'Albania', code: 'AL', url: 'https://s2.stationplaylist.com:9280/listen.aac', hls: false },
+      { name: 'hr2 kultur', country: 'Germany', code: 'DE', url: 'https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high', hls: false },
+      { name: 'Radio Offenbach', country: 'Germany', code: 'DE', url: 'https://radio.garden/api/ara/content/listen/75gjP80K/channel.mp3?1773525091324', hls: false },
+      { name: 'San Marino 1 Radio', country: 'San Marino', code: 'SM', url: 'https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist_w462555076.m3u8', hls: true },
+      { name: 'San Marino 2 Radio', country: 'San Marino', code: 'SM', url: 'https://usmaradio.out.airtime.pro:8000/usmaradio_a', hls: false },
+      { name: 'Gbc Radio', country: 'Gibraltar', code: 'GI', url: 'https://s2.myradiostream.com/:32910/listen.mp3', hls: false },
+      { name: 'RTL Gold', country: 'Luxembourg', code: 'LU', url: 'https://sc.rtl.lu/rtlgold', hls: false },
+      { name: 'RTL Letzebuerg Radio', country: 'Luxembourg', code: 'LU', url: 'https://sc.rtl.lu/rtl', hls: false },
+      { name: 'SaintFM Community Radio', country: 'Saint Helena', code: 'SH', url: 'https://orbit.citrus3.com:2020/stream/saintfmcommunityradio/', hls: false },
+      { name: 'Saint Helenia Radio', country: 'Saint Helena', code: 'SH', url: 'https://s2.radio.co/s418cc827e/listen', hls: false },
+      { name: 'Sky News Arabia', country: 'United Arab Emirates', code: 'AE', url: 'https://radio.skynewsarabia.com/stream/radio/skynewsarabia', hls: false }
     ];
+    stations.sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base', numeric: true }));
 
     let currentStationIndex = -1;
     let isPlaying = false;
