@@ -2,6 +2,12 @@
   publish = "."
   edge_functions = "netlify/edge-functions"
 
+# Radio page
+[[redirects]]
+  from = "/radio"
+  to = "/radio.html"
+  status = 200
+
 # Rewrite API routes to serve the static JSON data files directly.
 # Status 200 makes these transparent rewrites (not client-visible redirects).
 

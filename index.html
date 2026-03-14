@@ -455,6 +455,30 @@
       z-index: 100;
     }
 
+    .top-left-controls {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      display: flex;
+      gap: 8px;
+      z-index: 100;
+    }
+
+    .btn-radio {
+      background: var(--glass);
+      color: var(--text-primary);
+      text-decoration: none;
+    }
+    .btn-radio:hover {
+      background: var(--accent);
+      box-shadow: 0 0 20px var(--accent-glow);
+    }
+    .btn-radio svg {
+      width: 20px;
+      height: 20px;
+      fill: currentColor;
+    }
+
     .icon-btn {
       width: 40px;
       height: 40px;
@@ -1011,6 +1035,11 @@
 </head>
 <body>
   <div class="player-area">
+    <div class="top-left-controls">
+      <a href="/radio" class="icon-btn btn-radio" title="Radio">
+        <svg viewBox="0 0 24 24"><path d="M20 6H8.3L20.1 3.4L19.6 1.5L1.5 6H1C0.4 6 0 6.4 0 7V21C0 21.6 0.4 22 1 22H23C23.6 22 24 21.6 24 21V10C24 7.8 22.2 6 20 6ZM22 20H2V8H20C21.1 8 22 8.9 22 10V20ZM13 12.5C13 14.4 11.4 16 9.5 16S6 14.4 6 12.5S7.6 9 9.5 9S13 10.6 13 12.5ZM9.5 11C8.7 11 8 11.7 8 12.5S8.7 14 9.5 14S11 13.3 11 12.5S10.3 11 9.5 11ZM20 12H16V10H20V12Z"/></svg>
+      </a>
+    </div>
     <div class="top-controls">
       <div class="icon-btn btn-star" onclick="toggleFavorite()" title="Favorite channel">☆</div>
       <div class="icon-btn btn-close" onclick="stopPlayback()" title="Stop playback">✕</div>

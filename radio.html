@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>cookiestv - Radio</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-primary: #09090f;
+      --bg-secondary: #111118;
+      --bg-surface: #16161f;
+      --bg-elevated: #1c1c28;
+      --border-subtle: rgba(255,255,255,0.06);
+      --border-medium: rgba(255,255,255,0.1);
+      --text-primary: #eeeef2;
+      --text-secondary: #a0a0b8;
+      --text-muted: #5a5a72;
+      --accent: #6366f1;
+      --accent-glow: rgba(99,102,241,0.3);
+      --accent-hover: #818cf8;
+      --danger: #ef4444;
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --glass: rgba(17,17,24,0.75);
+      --glass-border: rgba(255,255,255,0.08);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --shadow-lg: 0 20px 60px rgba(0,0,0,0.5);
+      --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+      --transition-medium: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* ---- Main Layout ---- */
+    .radio-main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+      overflow-y: auto;
+    }
+
+    .radio-player-card {
+      width: 100%;
+      max-width: 800px;
+      background: var(--bg-secondary);
+      border-radius: var(--radius-xl);
+      border: 1px solid var(--border-subtle);
+      padding: 24px;
+      box-shadow: var(--shadow-lg);
+    }
+
+    /* ---- Visualizer ---- */
+    .visualizer-section {
+      position: relative;
+      background: var(--bg-primary);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-subtle);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+
+    .visualizer-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 16px 0;
+    }
+
+    .visualizer-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--text-muted);
+    }
+
+    .viz-modes {
+      display: flex;
+      gap: 6px;
+    }
+
+    .viz-mode-btn {
+      background: none;
+      border: 1px solid var(--border-medium);
+      color: var(--text-muted);
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      text-transform: uppercase;
+    }
+
+    .viz-mode-btn:hover {
+      color: var(--text-secondary);
+      border-color: var(--text-muted);
+    }
+
+    .viz-mode-btn.active {
+      color: var(--accent);
+      border-color: var(--accent);
+      background: rgba(99,102,241,0.08);
+    }
+
+    .visualizer-canvas {
+      width: 100%;
+      height: 160px;
+      display: block;
+    }
+
+    /* ---- Station Info ---- */
+    .station-info {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+
+    .station-avatar {
+      width: 56px;
+      height: 56px;
+      border-radius: var(--radius-md);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      font-weight: 800;
+      color: var(--text-secondary);
+      flex-shrink: 0;
+      letter-spacing: 0.5px;
+    }
+
+    .station-details {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .station-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .station-meta {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    /* ---- Transport Controls ---- */
+    .transport-controls {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 24px;
+    }
+
+    .transport-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: none;
+      border: none;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+
+    .transport-btn:hover {
+      color: var(--text-primary);
+      background: rgba(255,255,255,0.06);
+    }
+
+    .transport-btn:active { transform: scale(0.92); }
+
+    .transport-btn svg {
+      width: 20px;
+      height: 20px;
+      fill: currentColor;
+    }
+
+    .play-btn {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: none;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      box-shadow: 0 4px 20px var(--accent-glow);
+    }
+
+    .play-btn:hover {
+      background: var(--accent-hover);
+      box-shadow: 0 6px 28px var(--accent-glow);
+      transform: scale(1.06);
+    }
+
+    .play-btn:active { transform: scale(0.95); }
+
+    .play-btn svg {
+      width: 24px;
+      height: 24px;
+      fill: currentColor;
+    }
+
+    /* ---- Volume Control ---- */
+    .volume-control {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 24px;
+      padding: 0 4px;
+    }
+
+    .volume-icon-btn {
+      width: 32px;
+      height: 32px;
+      background: none;
+      border: none;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      border-radius: 6px;
+      transition: all var(--transition-fast);
+      flex-shrink: 0;
+    }
+
+    .volume-icon-btn:hover { color: var(--text-primary); background: rgba(255,255,255,0.06); }
+
+    .volume-icon-btn svg {
+      width: 18px;
+      height: 18px;
+      fill: currentColor;
+    }
+
+    .volume-slider-track {
+      flex: 1;
+      position: relative;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    .volume-slider-bg {
+      width: 100%;
+      height: 4px;
+      background: var(--bg-elevated);
+      border-radius: 2px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .volume-slider-fill {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 100%;
+      background: var(--accent);
+      border-radius: 2px;
+      transition: width 0.05s linear;
+    }
+
+    .volume-slider-handle {
+      position: absolute;
+      top: 50%;
+      width: 14px;
+      height: 14px;
+      background: #fff;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      box-shadow: 0 0 6px rgba(0,0,0,0.4);
+      pointer-events: none;
+      transition: left 0.05s linear;
+    }
+
+    .volume-pct {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      font-variant-numeric: tabular-nums;
+      min-width: 36px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+
+    /* ---- Stats Bar ---- */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+
+    .stat-item {
+      background: var(--bg-primary);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 12px;
+      text-align: center;
+    }
+
+    .stat-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .stat-value {
+      font-size: 1.1rem;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      color: var(--success);
+    }
+
+    .stat-value.accent { color: var(--accent-hover); }
+    .stat-value.warning { color: var(--warning); }
+
+    /* ---- Sidebar ---- */
+    .sidebar {
+      width: 340px;
+      background: var(--bg-secondary);
+      display: flex;
+      flex-direction: column;
+      border-left: 1px solid var(--border-subtle);
+    }
+
+    .sidebar-header {
+      padding: 20px;
+      border-bottom: 1px solid var(--border-subtle);
+      background: linear-gradient(180deg, rgba(255,255,255,0.02) 0%, transparent 100%);
+    }
+
+    .sidebar-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .sidebar-title svg {
+      width: 20px;
+      height: 20px;
+      color: var(--accent);
+      fill: currentColor;
+    }
+
+    .sidebar-subtitle {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+
+    .nav-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 10px;
+      color: var(--accent);
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: color var(--transition-fast);
+    }
+
+    .nav-link:hover { color: var(--accent-hover); }
+
+    .nav-link svg {
+      width: 14px;
+      height: 14px;
+      fill: currentColor;
+    }
+
+    .station-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 6px 8px;
+    }
+
+    .station-item {
+      display: flex;
+      align-items: center;
+      padding: 12px 14px;
+      cursor: pointer;
+      transition: background var(--transition-fast), transform var(--transition-fast);
+      border-radius: var(--radius-sm);
+      margin-bottom: 2px;
+      gap: 12px;
+    }
+
+    .station-item:hover {
+      background: rgba(255,255,255,0.04);
+    }
+
+    .station-item:active { transform: scale(0.99); }
+
+    .station-item.active {
+      background: linear-gradient(135deg, var(--accent), #4f46e5);
+      color: #fff;
+      box-shadow: 0 4px 16px var(--accent-glow);
+    }
+
+    .station-item-icon {
+      width: 36px;
+      height: 36px;
+      background: rgba(255,255,255,0.06);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      font-weight: 800;
+      flex-shrink: 0;
+      color: var(--text-muted);
+      transition: background var(--transition-fast), color var(--transition-fast);
+    }
+
+    .station-item:hover .station-item-icon {
+      background: rgba(99,102,241,0.12);
+      color: var(--accent-hover);
+    }
+
+    .active .station-item-icon {
+      background: rgba(255,255,255,0.2);
+      color: #fff;
+    }
+
+    .station-item-details {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .station-item-name {
+      font-weight: 500;
+      font-size: 0.88rem;
+      color: var(--text-secondary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .active .station-item-name { color: #fff; }
+
+    .station-item-country {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      margin-top: 1px;
+    }
+
+    .active .station-item-country { color: rgba(255,255,255,0.65); }
+
+    .radio-icon-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+
+    .radio-icon-badge svg {
+      width: 14px;
+      height: 14px;
+      fill: var(--accent);
+    }
+
+    .active .radio-icon-badge svg { fill: #fff; }
+
+    .now-playing-indicator {
+      display: none;
+      align-items: center;
+      gap: 3px;
+      flex-shrink: 0;
+    }
+
+    .active .now-playing-indicator { display: flex; }
+
+    .eq-bar {
+      width: 3px;
+      background: #fff;
+      border-radius: 1px;
+      animation: eq-bounce 0.8s ease-in-out infinite alternate;
+    }
+
+    .eq-bar:nth-child(1) { height: 8px; animation-delay: 0s; }
+    .eq-bar:nth-child(2) { height: 14px; animation-delay: 0.2s; }
+    .eq-bar:nth-child(3) { height: 10px; animation-delay: 0.4s; }
+
+    @keyframes eq-bounce {
+      0% { height: 4px; }
+      100% { height: 16px; }
+    }
+
+    /* ---- Scrollbar ---- */
+    ::-webkit-scrollbar { width: 5px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #2a2a3a; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #3a3a4a; }
+
+    /* ---- Responsive ---- */
+    @media (max-width: 768px) {
+      body { flex-direction: column; }
+      .sidebar { width: 100%; height: 40vh; border-left: none; border-top: 1px solid var(--border-subtle); }
+      .radio-main { padding: 16px; }
+      .radio-player-card { padding: 16px; }
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+      .station-info { gap: 12px; }
+      .station-name { font-size: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="radio-main">
+    <div class="radio-player-card">
+      <!-- Visualizer -->
+      <div class="visualizer-section">
+        <div class="visualizer-header">
+          <span class="visualizer-label">Frequency Spectrum</span>
+          <div class="viz-modes">
+            <button class="viz-mode-btn active" data-mode="bars" onclick="setVizMode('bars')">Bars</button>
+            <button class="viz-mode-btn" data-mode="wave" onclick="setVizMode('wave')">Wave</button>
+            <button class="viz-mode-btn" data-mode="circle" onclick="setVizMode('circle')">Circle</button>
+          </div>
+        </div>
+        <canvas class="visualizer-canvas" id="vizCanvas"></canvas>
+      </div>
+
+      <!-- Station Info -->
+      <div class="station-info">
+        <div class="station-avatar" id="stationAvatar">--</div>
+        <div class="station-details">
+          <div class="station-name" id="stationName">Select a station</div>
+          <div class="station-meta" id="stationMeta">Choose a radio station from the sidebar</div>
+        </div>
+      </div>
+
+      <!-- Transport Controls -->
+      <div class="transport-controls">
+        <button class="transport-btn" id="prevBtn" title="Previous station" onclick="prevStation()">
+          <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/></svg>
+        </button>
+        <button class="play-btn" id="mainPlayBtn" title="Play" onclick="togglePlay()">
+          <svg viewBox="0 0 24 24" id="mainPlayIcon"><path d="M8 5v14l11-7z"/></svg>
+          <svg viewBox="0 0 24 24" id="mainPauseIcon" style="display:none;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+        </button>
+        <button class="transport-btn" id="nextBtn" title="Next station" onclick="nextStation()">
+          <svg viewBox="0 0 24 24"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
+        </button>
+      </div>
+
+      <!-- Volume -->
+      <div class="volume-control">
+        <button class="volume-icon-btn" id="volBtn" onclick="toggleMute()">
+          <svg viewBox="0 0 24 24" id="volOnIcon"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+          <svg viewBox="0 0 24 24" id="volOffIcon" style="display:none;"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>
+        </button>
+        <div class="volume-slider-track" id="volumeTrack">
+          <div class="volume-slider-bg">
+            <div class="volume-slider-fill" id="volFill" style="width:75%"></div>
+          </div>
+          <div class="volume-slider-handle" id="volHandle" style="left:75%"></div>
+        </div>
+        <span class="volume-pct" id="volPct">75%</span>
+      </div>
+
+      <!-- Stats -->
+      <div class="stats-bar">
+        <div class="stat-item">
+          <div class="stat-label">Ping</div>
+          <div class="stat-value" id="statPing">--</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Bitrate</div>
+          <div class="stat-value accent" id="statBitrate">--</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Uptime</div>
+          <div class="stat-value accent" id="statUptime">0:00</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Buffer</div>
+          <div class="stat-value warning" id="statBuffer">--</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <div class="sidebar-title">
+        <svg viewBox="0 0 24 24"><path d="M20 6H4V4h16v2zm-4 5H8v2h8v-2zm2-3H6v2h12V8zm4 11.5c0 1.38-1.12 2.5-2.5 2.5S17 20.88 17 19.5V14h3v-2h-5v5.5c0 1.38-1.12 2.5-2.5 2.5S10 18.88 10 17.5V12h3v-2H8v5.5C8 16.88 6.88 18 5.5 18S3 16.88 3 15.5V10h3V8H1v7.5C1 17.43 2.57 19 4.5 19c1.06 0 2-.47 2.66-1.2.65.73 1.6 1.2 2.66 1.2 1.06 0 2-.47 2.65-1.2.66.73 1.6 1.2 2.66 1.2 1.93 0 3.5-1.57 3.5-3.5V10h-3v5.5z"/></svg>
+        FM Radio
+      </div>
+      <div class="sidebar-subtitle">Live radio stations from around the world</div>
+      <a href="/" class="nav-link">
+        <svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+        Back to TV
+      </a>
+    </div>
+    <div class="station-list" id="stationList"></div>
+  </div>
+
+  <audio id="audioEl" crossorigin="anonymous"></audio>
+
+  <script>
+    // ---- Stations ----
+    const stations = [
+      { name: 'Top Albania Radio', country: 'Albania', code: 'AL', url: 'https://live.top-media.al/tar', hls: false },
+      { name: 'Top Gold Radio', country: 'Albania', code: 'AL', url: 'https://live.topgold.al/topgold', hls: false },
+      { name: 'Pyongyang FM', country: 'North Korea', code: 'KP', url: 'https://listen7.myradio24.com/69366', hls: false },
+      { name: 'hr1', country: 'Germany', code: 'DE', url: 'https://hlshr1.akamaized.net/hls/live/2016533/hr1rheinmain/192/seglist.m3u8', hls: true },
+      { name: 'hr3', country: 'Germany', code: 'DE', url: 'https://hlshr3.akamaized.net/hls/live/2016536/hr3rheinmain/192/seglist.m3u8', hls: true },
+      { name: 'hr4', country: 'Germany', code: 'DE', url: 'https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seglist.m3u8', hls: true },
+      { name: 'Radio Zwickau', country: 'Germany', code: 'DE', url: 'https://edge85.radio.radiozwickau.de/radiozwickau-live/stream/aacp', hls: false, hasRadioIcon: true }
+    ];
+
+    let currentStationIndex = -1;
+    let isPlaying = false;
+
+    // ---- Audio Setup ----
+    const audioEl = document.getElementById('audioEl');
+    let audioCtx = null;
+    let analyser = null;
+    let sourceNode = null;
+    let hlsInstance = null;
+    let vizMode = 'bars';
+    let animFrameId = null;
+
+    // Stats
+    let uptimeStart = null;
+    let uptimeInterval = null;
+    let pingInterval = null;
+
+    function initAudioContext() {
+      if (audioCtx) return;
+      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      analyser = audioCtx.createAnalyser();
+      analyser.fftSize = 256;
+      analyser.smoothingTimeConstant = 0.8;
+      sourceNode = audioCtx.createMediaElementSource(audioEl);
+      sourceNode.connect(analyser);
+      analyser.connect(audioCtx.destination);
+    }
+
+    // ---- Render Station List ----
+    function renderStationList() {
+      const container = document.getElementById('stationList');
+      container.innerHTML = '';
+      stations.forEach((st, i) => {
+        const el = document.createElement('div');
+        el.className = 'station-item' + (i === currentStationIndex ? ' active' : '');
+        el.innerHTML = `
+          <div class="station-item-icon">${st.code}</div>
+          <div class="station-item-details">
+            <div class="station-item-name">
+              ${st.name}
+              ${st.hasRadioIcon ? '<span class="radio-icon-badge"><svg viewBox="0 0 24 24"><path d="M3.24 6.15C2.51 6.43 2 7.17 2 8v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8c0-1.1-.9-2-2-2H8.3l8.26-3.34-.37-.92L3.24 6.15zM7 20c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm13-8h-2v-2h-2v2H4V8h16v4z"/></svg></span>' : ''}
+            </div>
+            <div class="station-item-country">${st.country}</div>
+          </div>
+          <div class="now-playing-indicator">
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+          </div>
+        `;
+        el.onclick = () => playStation(i);
+        container.appendChild(el);
+      });
+    }
+
+    // ---- Play Station ----
+    function playStation(index) {
+      if (index < 0 || index >= stations.length) return;
+      currentStationIndex = index;
+      const st = stations[index];
+
+      initAudioContext();
+      if (audioCtx.state === 'suspended') audioCtx.resume();
+
+      // Stop previous
+      if (hlsInstance) {
+        hlsInstance.destroy();
+        hlsInstance = null;
+      }
+      audioEl.pause();
+      audioEl.src = '';
+
+      // Load new
+      if (st.hls && Hls.isSupported()) {
+        hlsInstance = new Hls();
+        hlsInstance.loadSource(st.url);
+        hlsInstance.attachMedia(audioEl);
+        hlsInstance.on(Hls.Events.MANIFEST_PARSED, () => {
+          audioEl.play();
+        });
+        hlsInstance.on(Hls.Events.FRAG_LOADED, (event, data) => {
+          const stats = data.frag.stats || data.stats;
+          if (stats && stats.loading) {
+            const ttfb = stats.loading.first - stats.loading.start;
+            if (ttfb >= 0 && ttfb < 10000) {
+              document.getElementById('statPing').textContent = Math.round(ttfb) + 'ms';
+            }
+          }
+        });
+      } else {
+        audioEl.src = st.url;
+        audioEl.play();
+      }
+
+      isPlaying = true;
+      updatePlayIcon();
+      updateStationInfo(st);
+      renderStationList();
+      startStats();
+      startVisualization();
+      measurePing(st.url);
+    }
+
+    function togglePlay() {
+      if (currentStationIndex < 0) {
+        playStation(0);
+        return;
+      }
+      if (isPlaying) {
+        audioEl.pause();
+        isPlaying = false;
+      } else {
+        if (audioCtx && audioCtx.state === 'suspended') audioCtx.resume();
+        audioEl.play();
+        isPlaying = true;
+      }
+      updatePlayIcon();
+    }
+
+    function updatePlayIcon() {
+      document.getElementById('mainPlayIcon').style.display = isPlaying ? 'none' : '';
+      document.getElementById('mainPauseIcon').style.display = isPlaying ? '' : 'none';
+    }
+
+    function prevStation() {
+      if (stations.length === 0) return;
+      const idx = currentStationIndex <= 0 ? stations.length - 1 : currentStationIndex - 1;
+      playStation(idx);
+    }
+
+    function nextStation() {
+      if (stations.length === 0) return;
+      const idx = currentStationIndex >= stations.length - 1 ? 0 : currentStationIndex + 1;
+      playStation(idx);
+    }
+
+    function updateStationInfo(st) {
+      document.getElementById('stationAvatar').textContent = st.code;
+      document.getElementById('stationName').textContent = st.name;
+      document.getElementById('stationMeta').textContent = st.country + ' \u2022 Live';
+    }
+
+    // ---- Volume ----
+    const volumeTrack = document.getElementById('volumeTrack');
+    const volFill = document.getElementById('volFill');
+    const volHandle = document.getElementById('volHandle');
+    const volPct = document.getElementById('volPct');
+    let isDraggingVol = false;
+    let savedVol = 0.75;
+    audioEl.volume = 0.75;
+
+    function setVolume(v) {
+      v = Math.max(0, Math.min(1, v));
+      audioEl.volume = v;
+      audioEl.muted = false;
+      const pct = Math.round(v * 100);
+      volFill.style.width = pct + '%';
+      volHandle.style.left = pct + '%';
+      volPct.textContent = pct + '%';
+      updateVolIcon();
+    }
+
+    function updateVolIcon() {
+      const muted = audioEl.muted || audioEl.volume === 0;
+      document.getElementById('volOnIcon').style.display = muted ? 'none' : '';
+      document.getElementById('volOffIcon').style.display = muted ? '' : 'none';
+    }
+
+    function toggleMute() {
+      if (audioEl.muted || audioEl.volume === 0) {
+        audioEl.muted = false;
+        setVolume(savedVol || 0.75);
+      } else {
+        savedVol = audioEl.volume;
+        audioEl.muted = true;
+        volFill.style.width = '0%';
+        volHandle.style.left = '0%';
+        volPct.textContent = '0%';
+        updateVolIcon();
+      }
+    }
+
+    function handleVolDrag(e) {
+      const rect = volumeTrack.getBoundingClientRect();
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+      setVolume(pct);
+    }
+
+    volumeTrack.addEventListener('mousedown', (e) => { isDraggingVol = true; handleVolDrag(e); });
+    document.addEventListener('mousemove', (e) => { if (isDraggingVol) handleVolDrag(e); });
+    document.addEventListener('mouseup', () => { isDraggingVol = false; });
+    volumeTrack.addEventListener('touchstart', (e) => { isDraggingVol = true; handleVolDrag(e); }, { passive: true });
+    document.addEventListener('touchmove', (e) => { if (isDraggingVol) handleVolDrag(e); }, { passive: true });
+    document.addEventListener('touchend', () => { isDraggingVol = false; });
+
+    // ---- Stats ----
+    function startStats() {
+      uptimeStart = Date.now();
+      if (uptimeInterval) clearInterval(uptimeInterval);
+      uptimeInterval = setInterval(updateUptime, 1000);
+      updateUptime();
+    }
+
+    function updateUptime() {
+      if (!uptimeStart) return;
+      const sec = Math.floor((Date.now() - uptimeStart) / 1000);
+      const m = Math.floor(sec / 60);
+      const s = sec % 60;
+      document.getElementById('statUptime').textContent = m + ':' + (s < 10 ? '0' : '') + s;
+      updateBufferStat();
+      updateBitrateStat();
+    }
+
+    function updateBufferStat() {
+      if (audioEl.buffered.length > 0) {
+        const end = audioEl.buffered.end(audioEl.buffered.length - 1);
+        const buf = (end - audioEl.currentTime).toFixed(1);
+        document.getElementById('statBuffer').textContent = buf + 's';
+      }
+    }
+
+    function updateBitrateStat() {
+      if (hlsInstance && hlsInstance.levels && hlsInstance.currentLevel >= 0) {
+        const bw = hlsInstance.levels[hlsInstance.currentLevel].bitrate;
+        if (bw) {
+          document.getElementById('statBitrate').textContent = Math.round(bw / 1000) + 'k';
+          return;
+        }
+      }
+      // Fallback: estimate from common audio streams
+      document.getElementById('statBitrate').textContent = '128k';
+    }
+
+    function measurePing(url) {
+      if (pingInterval) clearInterval(pingInterval);
+      const doPing = () => {
+        const start = performance.now();
+        fetch(url, { method: 'HEAD', mode: 'no-cors', cache: 'no-store' })
+          .then(() => {
+            const ms = Math.round(performance.now() - start);
+            document.getElementById('statPing').textContent = ms + 'ms';
+          })
+          .catch(() => {});
+      };
+      doPing();
+      pingInterval = setInterval(doPing, 5000);
+    }
+
+    // ---- Audio Events ----
+    audioEl.addEventListener('play', () => { isPlaying = true; updatePlayIcon(); });
+    audioEl.addEventListener('pause', () => { isPlaying = false; updatePlayIcon(); });
+
+    // ---- Visualizer ----
+    const canvas = document.getElementById('vizCanvas');
+    const ctx = canvas.getContext('2d');
+
+    function resizeCanvas() {
+      const rect = canvas.parentElement.getBoundingClientRect();
+      canvas.width = rect.width;
+      canvas.height = 160;
+    }
+    resizeCanvas();
+    window.addEventListener('resize', resizeCanvas);
+
+    function setVizMode(mode) {
+      vizMode = mode;
+      document.querySelectorAll('.viz-mode-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.mode === mode);
+      });
+    }
+
+    function startVisualization() {
+      if (animFrameId) cancelAnimationFrame(animFrameId);
+      drawViz();
+    }
+
+    function drawViz() {
+      animFrameId = requestAnimationFrame(drawViz);
+      if (!analyser) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        return;
+      }
+
+      const bufferLength = analyser.frequencyBinCount;
+      const dataArray = new Uint8Array(bufferLength);
+
+      if (vizMode === 'wave') {
+        analyser.getByteTimeDomainData(dataArray);
+        drawWave(dataArray, bufferLength);
+      } else if (vizMode === 'circle') {
+        analyser.getByteFrequencyData(dataArray);
+        drawCircle(dataArray, bufferLength);
+      } else {
+        analyser.getByteFrequencyData(dataArray);
+        drawBars(dataArray, bufferLength);
+      }
+    }
+
+    function drawBars(dataArray, bufferLength) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      const barCount = Math.min(bufferLength, 64);
+      const barWidth = (canvas.width / barCount) - 2;
+      const heightScale = canvas.height / 255;
+
+      for (let i = 0; i < barCount; i++) {
+        const barHeight = dataArray[i] * heightScale;
+        const x = i * (barWidth + 2);
+        const y = canvas.height - barHeight;
+
+        const gradient = ctx.createLinearGradient(x, y, x, canvas.height);
+        gradient.addColorStop(0, 'rgba(99, 102, 241, 0.9)');
+        gradient.addColorStop(1, 'rgba(99, 102, 241, 0.2)');
+
+        ctx.fillStyle = gradient;
+        ctx.beginPath();
+        ctx.roundRect(x, y, barWidth, barHeight, [2, 2, 0, 0]);
+        ctx.fill();
+      }
+    }
+
+    function drawWave(dataArray, bufferLength) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.lineWidth = 2;
+      ctx.strokeStyle = 'rgba(99, 102, 241, 0.8)';
+      ctx.beginPath();
+
+      const sliceWidth = canvas.width / bufferLength;
+      let x = 0;
+
+      for (let i = 0; i < bufferLength; i++) {
+        const v = dataArray[i] / 128.0;
+        const y = (v * canvas.height) / 2;
+        if (i === 0) {
+          ctx.moveTo(x, y);
+        } else {
+          ctx.lineTo(x, y);
+        }
+        x += sliceWidth;
+      }
+
+      ctx.lineTo(canvas.width, canvas.height / 2);
+      ctx.stroke();
+
+      // Glow effect
+      ctx.lineWidth = 6;
+      ctx.strokeStyle = 'rgba(99, 102, 241, 0.15)';
+      ctx.beginPath();
+      x = 0;
+      for (let i = 0; i < bufferLength; i++) {
+        const v = dataArray[i] / 128.0;
+        const y = (v * canvas.height) / 2;
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+        x += sliceWidth;
+      }
+      ctx.lineTo(canvas.width, canvas.height / 2);
+      ctx.stroke();
+    }
+
+    function drawCircle(dataArray, bufferLength) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      const cx = canvas.width / 2;
+      const cy = canvas.height / 2;
+      const radius = Math.min(cx, cy) * 0.45;
+      const barCount = Math.min(bufferLength, 64);
+
+      for (let i = 0; i < barCount; i++) {
+        const angle = (i / barCount) * Math.PI * 2 - Math.PI / 2;
+        const barHeight = (dataArray[i] / 255) * radius * 0.9;
+        const x1 = cx + Math.cos(angle) * radius;
+        const y1 = cy + Math.sin(angle) * radius;
+        const x2 = cx + Math.cos(angle) * (radius + barHeight);
+        const y2 = cy + Math.sin(angle) * (radius + barHeight);
+
+        ctx.beginPath();
+        ctx.moveTo(x1, y1);
+        ctx.lineTo(x2, y2);
+        ctx.lineWidth = 2.5;
+        const intensity = dataArray[i] / 255;
+        ctx.strokeStyle = `rgba(99, 102, 241, ${0.3 + intensity * 0.7})`;
+        ctx.stroke();
+      }
+
+      // Center circle
+      ctx.beginPath();
+      ctx.arc(cx, cy, radius * 0.35, 0, Math.PI * 2);
+      ctx.strokeStyle = 'rgba(99, 102, 241, 0.3)';
+      ctx.lineWidth = 1.5;
+      ctx.stroke();
+
+      // Inner ring
+      ctx.beginPath();
+      ctx.arc(cx, cy, radius, 0, Math.PI * 2);
+      ctx.strokeStyle = 'rgba(99, 102, 241, 0.15)';
+      ctx.lineWidth = 1;
+      ctx.stroke();
+    }
+
+    // ---- Keyboard Shortcuts ----
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+      switch (e.key.toLowerCase()) {
+        case ' ':
+        case 'k':
+          e.preventDefault();
+          togglePlay();
+          break;
+        case 'arrowleft':
+          e.preventDefault();
+          prevStation();
+          break;
+        case 'arrowright':
+          e.preventDefault();
+          nextStation();
+          break;
+        case 'arrowup':
+          e.preventDefault();
+          setVolume(audioEl.volume + 0.05);
+          break;
+        case 'arrowdown':
+          e.preventDefault();
+          setVolume(Math.max(0, audioEl.volume - 0.05));
+          break;
+        case 'm':
+          e.preventDefault();
+          toggleMute();
+          break;
+      }
+    });
+
+    // ---- roundRect polyfill ----
+    if (!CanvasRenderingContext2D.prototype.roundRect) {
+      CanvasRenderingContext2D.prototype.roundRect = function(x, y, w, h, radii) {
+        const r = Array.isArray(radii) ? radii[0] || 0 : radii || 0;
+        this.moveTo(x + r, y);
+        this.lineTo(x + w - r, y);
+        this.quadraticCurveTo(x + w, y, x + w, y + r);
+        this.lineTo(x + w, y + h - 0);
+        this.quadraticCurveTo(x + w, y + h, x + w - 0, y + h);
+        this.lineTo(x + 0, y + h);
+        this.quadraticCurveTo(x, y + h, x, y + h - 0);
+        this.lineTo(x, y + r);
+        this.quadraticCurveTo(x, y, x + r, y);
+        this.closePath();
+        return this;
+      };
+    }
+
+    // ---- Init ----
+    renderStationList();
+    startVisualization();
+  </script>
+</body>
+</html>
