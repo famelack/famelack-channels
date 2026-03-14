@@ -1,5 +1,5 @@
-﻿# 📡 CkIPTV Channel Dataset
-This repository contains the official public dataset used by **Famelack**, including IPTV streams and YouTube live channels from around the world.
+﻿# 📡 iptvchannel Channel Dataset
+This repository contains the official public dataset used by **Famelack**, including IPTV streams and YouTube/Twitch live channels from around the world.
 
 Famelack makes discovering working live channels simple, fast, and enjoyable. No accounts, no installs, no hassle.
 
@@ -33,7 +33,7 @@ A significant portion of our discovery workflow is sourced from the excellent **
 - Integration of YouTube live channels  
 - Addition of sources not found upstream  
 
-This repository is **not a mirror** — it is continuously transformed, filtered, and enriched to support the Famelack platform.
+This repository is **not a mirror** — it is continuously transformed, filtered, and enriched to support the iptvchannel platform.
 
 ## 📌 About Famelack as a source
 This repository powers **Famelack.com**, which consumes these channel files as its primary data source.
