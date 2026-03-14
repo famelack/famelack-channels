@@ -13787,5 +13787,29 @@
     "language": "por",
     "country": "ao",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kDw6T7N5m8AFvL",
+    "name": "BB VIP 1",
+    "iptv_urls": [],
+    "youtube_urls": [],
+    "embed_urls": [
+      "https://ok.ru/videoembed/12310660324865"
+    ],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MqkrC1D0OT-GoW",
+    "name": "BB VIP 2",
+    "iptv_urls": [],
+    "youtube_urls": [],
+    "embed_urls": [
+      "https://ok.ru/videoembed/12310673300993"
+    ],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
   }
 ]
