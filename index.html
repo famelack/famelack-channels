@@ -686,30 +686,43 @@
 
     .weather-bar {
       display: none;
-      align-items: center;
-      gap: 10px;
-      padding: 8px 16px;
+      flex-direction: column;
+      gap: 8px;
+      padding: 12px 16px;
       background: var(--bg-surface);
       border-bottom: 1px solid var(--border-subtle);
-      font-size: 0.82rem;
-      font-weight: 500;
       color: var(--text-secondary);
-      min-height: 38px;
+      min-height: 72px;
     }
     .weather-bar.visible { display: flex; }
-    .weather-icon { font-size: 1.1rem; flex-shrink: 0; }
+    .weather-primary {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-height: 30px;
+    }
+    .weather-icon { font-size: 1.35rem; flex-shrink: 0; }
     .weather-temp {
       font-weight: 700;
       color: var(--text-primary);
       font-variant-numeric: tabular-nums;
+      font-size: 0.92rem;
     }
     .weather-condition {
       color: var(--text-muted);
-      font-size: 0.78rem;
+      font-size: 0.84rem;
       flex: 1;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+    }
+    .weather-details {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 4px 12px;
+      font-size: 0.76rem;
+      color: var(--text-muted);
+      line-height: 1.35;
     }
     .weather-loading {
       color: var(--text-muted);
@@ -1023,6 +1036,7 @@
     @media (max-width: 768px) {
       body { flex-direction: column; }
       .sidebar { width: 100%; height: 45vh; border-left: none; border-top: 1px solid var(--border-subtle); }
+      .weather-details { grid-template-columns: 1fr; }
       .video-wrapper { padding: 12px; }
       .custom-player { border-radius: var(--radius-md); }
       iframe { border-radius: var(--radius-md); }
@@ -1127,9 +1141,12 @@
     </div>
 
     <div class="weather-bar" id="weatherBar">
-      <span class="weather-icon" id="weatherIcon"></span>
-      <span class="weather-temp" id="weatherTemp"></span>
-      <span class="weather-condition" id="weatherCondition"></span>
+      <div class="weather-primary">
+        <span class="weather-icon" id="weatherIcon"></span>
+        <span class="weather-temp" id="weatherTemp"></span>
+        <span class="weather-condition" id="weatherCondition"></span>
+      </div>
+      <div class="weather-details" id="weatherDetails"></div>
     </div>
 
     <div class="search-container">
@@ -1958,6 +1975,7 @@
       document.getElementById('weatherIcon').textContent = '';
       document.getElementById('weatherTemp').textContent = '';
       document.getElementById('weatherCondition').innerHTML = '<span class="weather-loading"><span class="loading-spinner"></span> Loading weather...</span>';
+      document.getElementById('weatherDetails').textContent = '';
 
       try {
         const geoRes = await fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(capital)}&count=1&language=en`);
@@ -1968,19 +1986,25 @@
         }
         const { latitude, longitude } = geoData.results[0];
 
-        const weatherRes = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true`);
+        const weatherRes = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current=temperature_2m,apparent_temperature,relative_humidity_2m,precipitation,wind_speed_10m,weather_code`);
         const weatherData = await weatherRes.json();
-        if (!weatherData.current_weather) {
+        if (!weatherData.current || typeof weatherData.current.temperature_2m !== 'number') {
           weatherBar.classList.remove('visible');
           return;
         }
 
         const result = {
-          tempC: Math.round(weatherData.current_weather.temperature),
-          code: weatherData.current_weather.weathercode,
-          windSpeed: Math.round(weatherData.current_weather.windspeed)
+          tempC: Math.round(weatherData.current.temperature_2m),
+          code: weatherData.current.weather_code,
+          windSpeed: typeof weatherData.current.wind_speed_10m === 'number' ? Math.round(weatherData.current.wind_speed_10m) : null,
+          humidity: typeof weatherData.current.relative_humidity_2m === 'number' ? Math.round(weatherData.current.relative_humidity_2m) : null,
+          feelsLikeC: typeof weatherData.current.apparent_temperature === 'number' ? Math.round(weatherData.current.apparent_temperature) : null,
+          precipitationMm: Number(weatherData.current.precipitation || 0)
         };
         result.tempF = Math.round(result.tempC * 9 / 5 + 32);
+        result.feelsLikeF = typeof result.feelsLikeC === 'number'
+          ? Math.round(result.feelsLikeC * 9 / 5 + 32)
+          : null;
 
         weatherCache[cacheKey] = result;
         displayWeather(result);
@@ -1996,6 +2020,12 @@
       document.getElementById('weatherIcon').textContent = condition.icon;
       document.getElementById('weatherTemp').textContent = `${data.tempC}\u00B0C / ${data.tempF}\u00B0F`;
       document.getElementById('weatherCondition').textContent = condition.text;
+      document.getElementById('weatherDetails').innerHTML = `
+        <span>Feels like: ${typeof data.feelsLikeC === 'number' ? `${data.feelsLikeC}\u00B0C / ${data.feelsLikeF}\u00B0F` : '--'}</span>
+        <span>Wind: ${typeof data.windSpeed === 'number' ? `${data.windSpeed} km/h` : '--'}</span>
+        <span>Humidity: ${typeof data.humidity === 'number' ? `${data.humidity}%` : '--'}</span>
+        <span>Precip: ${data.precipitationMm.toFixed(1)} mm</span>
+      `;
       weatherBar.classList.add('visible');
     }
 

@@ -194,30 +194,80 @@
     }
 
     .country-weather {
-      margin-top: 8px;
-      font-size: 0.86rem;
+      margin-top: 10px;
       color: var(--text-secondary);
-      line-height: 1.4;
-      min-height: 2.2em;
-      display: inline-flex;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 6px;
+      background:
+        radial-gradient(circle at top right, rgba(82, 123, 255, 0.2), transparent 58%),
+        rgba(255,255,255,0.04);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 8px 10px;
+      max-width: 100%;
+      min-width: 220px;
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.02);
+    }
+
+    .country-weather-main {
+      display: flex;
       align-items: center;
       justify-content: flex-end;
       gap: 8px;
-      background: rgba(255,255,255,0.04);
-      border: 1px solid var(--border-subtle);
-      border-radius: 10px;
-      padding: 6px 10px;
-      max-width: 100%;
-      white-space: nowrap;
+      font-size: 0.9rem;
+      line-height: 1.25;
+      font-weight: 600;
     }
 
     .country-weather-icon,
     .country-weather-icon img {
-      width: 1.15em;
-      height: 1.15em;
+      width: 1.25em;
+      height: 1.25em;
       display: inline-block;
       vertical-align: middle;
       flex-shrink: 0;
+    }
+
+    .country-weather-temp {
+      font-size: 1rem;
+      color: var(--text-primary);
+      font-weight: 700;
+      letter-spacing: 0.2px;
+    }
+
+    .country-weather-details {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 4px;
+      width: 100%;
+    }
+
+    .country-weather-chip {
+      border-radius: 7px;
+      border: 1px solid rgba(255,255,255,0.09);
+      background: rgba(15, 21, 39, 0.55);
+      padding: 4px 6px;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .country-weather-chip-label {
+      font-size: 0.56rem;
+      text-transform: uppercase;
+      letter-spacing: 0.65px;
+      color: var(--text-muted);
+      font-weight: 700;
+    }
+
+    .country-weather-chip-value {
+      font-size: 0.68rem;
+      color: var(--text-primary);
+      font-weight: 600;
     }
 
     .emoji-flag,
@@ -609,8 +659,24 @@
       .country-time { min-width: 132px; }
       .country-time-value { font-size: 0.9rem; }
       .country-weather {
-        font-size: 0.78rem;
-        padding: 5px 8px;
+        padding: 8px 9px;
+        min-width: 182px;
+      }
+
+      .country-weather-main {
+        font-size: 0.8rem;
+      }
+
+      .country-weather-temp {
+        font-size: 0.9rem;
+      }
+
+      .country-weather-details {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .country-weather-chip-value {
+        font-size: 0.64rem;
       }
     }
   </style>
@@ -641,7 +707,7 @@
         <div class="country-time">
           <div class="country-time-label">Local Time</div>
           <div class="country-time-value" id="countryTimeValue">--:--:--</div>
-          <div class="country-weather" id="countryWeatherValue">Weather unavailable</div>
+          <div class="country-weather" id="countryWeatherValue"><span class="country-weather-main">Weather unavailable</span></div>
         </div>
       </div>
 
@@ -1155,12 +1221,12 @@
       const stationCode = normalizeCountryCode(st.code);
       const coords = weatherCoordsByCode[stationCode];
       if (!coords) {
-        weatherEl.textContent = 'Weather unavailable';
+        weatherEl.innerHTML = '<span class="country-weather-main">Weather unavailable</span>';
         return;
       }
 
       try {
-        const url = `https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current=temperature_2m,weather_code,precipitation`;
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,precipitation,wind_speed_10m,wind_direction_10m`;
         const res = await fetch(url, { cache: 'no-store' });
         if (!res.ok) throw new Error('weather_fetch_failed');
 
@@ -1170,12 +1236,48 @@
 
         const c = current.temperature_2m;
         const f = (c * 9 / 5) + 32;
+        const feelsLikeC = typeof current.apparent_temperature === 'number' ? current.apparent_temperature : null;
+        const feelsLikeF = typeof feelsLikeC === 'number' ? ((feelsLikeC * 9 / 5) + 32) : null;
+        const humidity = typeof current.relative_humidity_2m === 'number' ? Math.round(current.relative_humidity_2m) : null;
+        const windKmh = typeof current.wind_speed_10m === 'number' ? Math.round(current.wind_speed_10m) : null;
+        const windDirection = typeof current.wind_direction_10m === 'number' ? `${Math.round(current.wind_direction_10m)}°` : '--';
+        const precipitation = typeof current.precipitation === 'number' ? current.precipitation : null;
         const condition = weatherCodeToLabel(current.weather_code, current.precipitation);
         const icon = weatherCodeToIcon(current.weather_code, current.precipitation);
-        weatherEl.innerHTML = `<span class="country-weather-icon">${icon}</span><span>${condition} • ${c.toFixed(1)}C / ${f.toFixed(1)}F</span>`;
+        const updatedAt = new Intl.DateTimeFormat('en-GB', {
+          hour: '2-digit',
+          minute: '2-digit',
+          hour12: false
+        }).format(new Date());
+
+        weatherEl.innerHTML = `
+          <div class="country-weather-main">
+            <span class="country-weather-icon">${icon}</span>
+            <span>${condition}</span>
+            <span class="country-weather-temp">${c.toFixed(1)}C / ${f.toFixed(1)}F</span>
+          </div>
+          <div class="country-weather-details">
+            <span class="country-weather-chip">
+              <span class="country-weather-chip-label">Feels Like</span>
+              <span class="country-weather-chip-value">${typeof feelsLikeC === 'number' ? `${feelsLikeC.toFixed(1)}C / ${feelsLikeF.toFixed(1)}F` : '--'}</span>
+            </span>
+            <span class="country-weather-chip">
+              <span class="country-weather-chip-label">Humidity</span>
+              <span class="country-weather-chip-value">${typeof humidity === 'number' ? `${humidity}%` : '--'}</span>
+            </span>
+            <span class="country-weather-chip">
+              <span class="country-weather-chip-label">Wind</span>
+              <span class="country-weather-chip-value">${typeof windKmh === 'number' ? `${windKmh} km/h ${windDirection}` : '--'}</span>
+            </span>
+            <span class="country-weather-chip">
+              <span class="country-weather-chip-label">Rain</span>
+              <span class="country-weather-chip-value">${typeof precipitation === 'number' ? `${precipitation.toFixed(1)} mm` : '--'} • ${updatedAt}</span>
+            </span>
+          </div>
+        `;
         renderTweemoji(weatherEl);
       } catch (_err) {
-        weatherEl.textContent = 'Weather unavailable';
+        weatherEl.innerHTML = '<span class="country-weather-main">Weather unavailable</span>';
       }
     }
 
