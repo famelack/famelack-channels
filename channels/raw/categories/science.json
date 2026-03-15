@@ -37,7 +37,7 @@
     "name": "Force Thirteen Earthquakes",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lLAo5oOwd_8"
+      "https://www.youtube-nocookie.com/embed/xjAJgAWhgIk"
     ],
     "language": "eng",
     "country": "au",
@@ -61,6 +61,17 @@
       "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8",
       "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmb6ehRkLI6kQW",
+    "name": "INWONDER",
+    "iptv_urls": [
+      "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

@@ -50,7 +50,7 @@
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5u5OmV6qqbo"
+      "https://www.youtube-nocookie.com/embed/Q32iSAGp-6A"
     ],
     "language": "spa",
     "country": "es",
@@ -212,28 +212,6 @@
     ],
     "youtube_urls": [],
     "language": "glg",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "254O8QVRoi3Ec6",
-    "name": "La 2",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   }

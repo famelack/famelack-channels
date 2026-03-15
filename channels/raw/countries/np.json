@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "DfD3tq4WpLgfKH",
-    "name": "Divya Darshan TV",
+    "nanoid": "GidYAgXI85sI6d",
+    "name": "Capital TV",
     "iptv_urls": [
-      "https://live.divyadarshantv.com/hls/stream.m3u8"
+      "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
     ],
     "youtube_urls": [],
     "language": "nep",
@@ -11,10 +11,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M45VWk5bj5wkys",
-    "name": "Kantipur TV",
+    "nanoid": "DfD3tq4WpLgfKH",
+    "name": "Divya Darshan TV",
     "iptv_urls": [
-      "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8"
+      "https://live.divyadarshantv.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "nep",

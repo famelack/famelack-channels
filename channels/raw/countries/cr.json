@@ -33,18 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -67,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z3J6UkFFEng975",
     "name": "Canal 17 TV Nosara",
     "iptv_urls": [
@@ -92,7 +69,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -104,17 +81,6 @@
     "name": "Colosal TV",
     "iptv_urls": [
       "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "iptv_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -188,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
-    "iptv_urls": [
-      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L0Xj3EMr6sq9Oz",
     "name": "Los Santos TV",
     "iptv_urls": [
@@ -247,17 +202,6 @@
     "name": "Quince UCR",
     "iptv_urls": [
       "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

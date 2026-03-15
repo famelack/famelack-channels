@@ -243,7 +243,7 @@
     "country": "Congo",
     "capital": "Brazzaville",
     "timeZone": "Africa/Brazzaville",
-    "hasChannels": true
+    "hasChannels": false
   },
   "CH": {
     "country": "Switzerland",
@@ -303,7 +303,7 @@
     "country": "Cape Verde",
     "capital": "Praia",
     "timeZone": "Atlantic/Cape_Verde",
-    "hasChannels": true
+    "hasChannels": false
   },
   "CW": {
     "country": "Curaçao",
@@ -1461,6 +1461,6 @@
     "country": "Zimbabwe",
     "capital": "Harare",
     "timeZone": "Africa/Harare",
-    "hasChannels": false
+    "hasChannels": true
   }
 }

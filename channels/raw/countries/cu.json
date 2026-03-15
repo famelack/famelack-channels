@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kmgZCVMju22EeN",
-    "name": "Canal Educativo",
-    "iptv_urls": [
-      "https://tv.picta.cu/educativo/educativo_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K3el31a2gq3vxi",
     "name": "Canal Educativo 2",
     "iptv_urls": [

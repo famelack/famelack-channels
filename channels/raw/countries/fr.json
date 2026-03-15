@@ -398,17 +398,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x74kBxlCSA3rr8",
-    "name": "Enquetes de Choc",
-    "iptv_urls": [
-      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "iptv_urls": [],
@@ -420,9 +409,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1244,6 +1236,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
+    "iptv_urls": [
+      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dK7Tr0arpe0iTb",
     "name": "Rakuten TV Top Films France",
     "iptv_urls": [
@@ -1314,7 +1317,8 @@
     "nanoid": "bcMCtiQR1EZ7L7",
     "name": "Sony One Hits Action",
     "iptv_urls": [
-      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

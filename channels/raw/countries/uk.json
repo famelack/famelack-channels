@@ -284,6 +284,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RGisQUNDzBMFhg",
+    "name": "Canaf54 TV",
+    "iptv_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fSTT3APiu5GT6P",
     "name": "Cartoonito: Baby Looney Tunes",
     "iptv_urls": [],
@@ -302,17 +313,6 @@
     ],
     "youtube_urls": [],
     "language": "ben",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "upZUS4jnd1EPJG",
-    "name": "Chelsea Football Club",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cGZJ4Ipn-Yo"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -484,6 +484,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k9Z5raN5ubTZep",
+    "name": "Gems TV",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aZ7OPQQXDiuZF3",
     "name": "GREAT! movies",
     "iptv_urls": [
@@ -557,6 +568,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f4STSe9tgyRVf3",
+    "name": "Hobby Maker",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },

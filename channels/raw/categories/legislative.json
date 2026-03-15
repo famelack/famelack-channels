@@ -357,8 +357,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
-      "https://video.oct.dc.gov/out/u/DCC.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -403,6 +402,17 @@
     "name": "District of Columbia Network (DCN)",
     "iptv_urls": [
       "https://video.oct.dc.gov/out/u/DCN.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h1EMXTjJFPCBVy",
+    "name": "Fernandina Beach City Meeting (Fernandina Beach FL)",
+    "iptv_urls": [
+      "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -830,17 +840,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -1103,7 +1102,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PFWAoIj48Ec"
+      "https://www.youtube-nocookie.com/embed/OiSuPiZb0Bc"
     ],
     "language": "por",
     "country": "br",

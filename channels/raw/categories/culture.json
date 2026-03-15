@@ -155,6 +155,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QtyIEE9DZnKUAu",
     "name": "Canal 17 RTVD",
     "iptv_urls": [
@@ -265,17 +276,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "iptv_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -397,6 +397,17 @@
     "youtube_urls": [],
     "language": "cat",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -593,6 +604,7 @@
     "name": "Jewish Life Television JLTV",
     "iptv_urls": [
       "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8",
+      "https://a-cdn.klowdtv.com/live3/jltv_720p/playlist.m3u8",
       "https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8"
     ],
     "youtube_urls": [],
@@ -609,17 +621,6 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -730,17 +731,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1wMsK4nhJMBFCb",
-    "name": "MRTV NRC",
-    "iptv_urls": [
-      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -1081,6 +1071,17 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

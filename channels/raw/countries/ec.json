@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eeAmlC3Q8mXg2D",
+    "name": "Ecuavisa Guayaquil",
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "In4LvC44XoPkwN",
     "name": "Ecuavisa Quito",
     "iptv_urls": [
@@ -297,17 +308,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uyqGhNahms3fZ0",
-    "name": "Multicanal Catamayo",
-    "iptv_urls": [
-      "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CR0jUhLqfPaEmf",
     "name": "Nortvisión",
     "iptv_urls": [
@@ -367,6 +367,17 @@
     "name": "Puruwa TV",
     "iptv_urls": [
       "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6ljoSjl6uAhfcj",
+    "name": "Radio Alegria 98.5 FM",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3880/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

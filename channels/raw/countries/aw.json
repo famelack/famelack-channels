@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ynzFVHU7oaBdM1",
+    "name": "Cool FM 98.9",
+    "iptv_urls": [
+      "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T58f95dx4sdCvQ",
     "name": "Nos Isla TV",
     "iptv_urls": [

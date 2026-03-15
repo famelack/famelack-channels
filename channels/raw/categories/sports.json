@@ -149,7 +149,7 @@
     "nanoid": "Mut1mafEBDelBc",
     "name": "CBS Sports Golazo Network",
     "iptv_urls": [
-      "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+      "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -157,15 +157,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "upZUS4jnd1EPJG",
-    "name": "Chelsea Football Club",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cGZJ4Ipn-Yo"
+    "nanoid": "BVjIUopeFkeF0s",
+    "name": "CBS Sports HQ",
+    "iptv_urls": [
+      "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8"
     ],
+    "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "OPEWNEj55lvj2s",
@@ -259,17 +259,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SSm48TGJZ2ZZyq",
-    "name": "FB TV",
-    "iptv_urls": [
-      "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tmxui0c8hzZyDz",
     "name": "FIFA+",
     "iptv_urls": [
@@ -292,6 +281,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRBUacm9msNRQ8",
+    "name": "Fight Network",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Ji1RIoUGeL46E",
+    "name": "FITE 24/7",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9Ji1RIoUGeL46E",
     "name": "FITE 24/7",
     "iptv_urls": [
@@ -310,6 +321,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KKtmG6U0zua4oT",
+    "name": "FTF Sports",
+    "iptv_urls": [
+      "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -392,17 +414,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VJmOLiNvJOr3DW",
-    "name": "Horse TV",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w6ttDNPMaglKeI",
     "name": "HT Spor",
     "iptv_urls": [],
@@ -418,6 +429,17 @@
     "name": "InTrouble",
     "iptv_urls": [
       "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9TXB0yWxW8SB3W",
+    "name": "INTROUBLE",
+    "iptv_urls": [
+      "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -466,6 +488,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H7YKUTmTDg1xzR",
+    "name": "M-Net Sport",
+    "iptv_urls": [
+      "https://live.mnet.mk/hls/mnet-sport.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mkd",
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
@@ -837,6 +870,7 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"

@@ -618,6 +618,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "moehtnlcI4ChMQ",
     "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
     "iptv_urls": [],
@@ -658,17 +669,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpwyCfxeYK07lR",
-    "name": "ZTV live",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0PokRizaQKo"
-    ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

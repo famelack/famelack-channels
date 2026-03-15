@@ -470,6 +470,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -515,17 +526,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z2Kgz7MRBRZ3FM",
-    "name": "Telepacífico",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BTUtiIKXJH39q3",
     "name": "TeveColombia",
     "iptv_urls": [
@@ -541,6 +541,17 @@
     "name": "Tu Universo TV",
     "iptv_urls": [
       "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VcAQv2UIywMiiL",
+    "name": "TV San Jorge",
+    "iptv_urls": [
+      "https://asucap.com/livestream/asucap_envivo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

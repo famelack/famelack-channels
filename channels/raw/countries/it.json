@@ -410,19 +410,7 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "iptv_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -448,17 +436,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VJmOLiNvJOr3DW",
-    "name": "Horse TV",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -489,17 +466,6 @@
     "name": "Italia 2",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -591,6 +557,17 @@
     "name": "LaC News 24",
     "iptv_urls": [
       "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1463,6 +1440,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5SnZ7XUMUV5jdA",
+    "name": "Telemantova",
+    "iptv_urls": [
+      "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tuzHx8zwNURtxj",
     "name": "TeleMia",
     "iptv_urls": [
@@ -1544,6 +1532,17 @@
     "name": "Telepace 4",
     "iptv_urls": [
       "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3gcHSvUcu5lNpv",
+    "name": "Telepace Trento",
+    "iptv_urls": [
+      "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

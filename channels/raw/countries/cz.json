@@ -100,17 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yMNi2T844C4jgy",
-    "name": "Plzeň TV",
-    "iptv_urls": [
-      "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ces",
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TJaXKOg9obT2nw",
     "name": "Polar TV",
     "iptv_urls": [

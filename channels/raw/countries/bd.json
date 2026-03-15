@@ -132,22 +132,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "29x0D5l70jxbBR",
-    "name": "Green TV",
-    "iptv_urls": [
-      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mp7J62VtY0DqAW",
     "name": "Independent Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/67FhPm-nd5Y"
+      "https://www.youtube-nocookie.com/embed/TgAp8X2j5mI"
     ],
     "language": "ben",
     "country": "bd",
@@ -178,17 +167,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CrBo5aavsp4Rc1",
-    "name": "Nexus Television",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ngnKb4bEcm8"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VNY3CPiX9tfekV",
     "name": "NTV Live",
     "iptv_urls": [],
@@ -204,7 +182,7 @@
     "name": "Somoy TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/j-I5dKuSWQQ"
+      "https://www.youtube-nocookie.com/embed/23gFzkBnNrM"
     ],
     "language": "ben",
     "country": "bd",

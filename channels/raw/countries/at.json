@@ -167,17 +167,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5xY9cw7ypbOud1",
-    "name": "R9",
-    "iptv_urls": [
-      "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jHe1OEHTcksowX",
     "name": "Red Bull TV AU",
     "iptv_urls": [

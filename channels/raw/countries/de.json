@@ -336,7 +336,8 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -487,6 +488,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0GHuM6j8mGs"
+    ],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -642,6 +654,17 @@
       "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HqjK9Pdx8tQ"
+    ],
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
@@ -1319,6 +1342,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUHCgjRUR5TBtm",
+    "name": "Studio 47",
+    "iptv_urls": [
+      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },

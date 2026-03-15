@@ -466,6 +466,17 @@
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
     "iptv_urls": [
+      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Br53BhiHjkS3op",
+    "name": "RetroCrush",
+    "iptv_urls": [
       "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],

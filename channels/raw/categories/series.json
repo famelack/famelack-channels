@@ -766,6 +766,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OusIpey2XcPOf5",
     "name": "Смотрим Честный Детектив",
     "iptv_urls": [

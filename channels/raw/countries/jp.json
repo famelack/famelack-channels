@@ -22,11 +22,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K2Py26x9khAHLi",
+    "name": "ANN News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/EisN9tQHDC0"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7ww4XqjlIRbeax",
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JAQpSHmib0Y"
+      "https://www.youtube-nocookie.com/embed/wJN5zTFYRbc"
     ],
     "language": "jpn",
     "country": "jp",
@@ -215,6 +226,17 @@
       "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
     ],
     "youtube_urls": [],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PjUU6ZmfuLbOka",
+    "name": "RCC News 24",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1tOkej8Aic4"
+    ],
     "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false

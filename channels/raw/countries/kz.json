@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QbAo2Ias8xQmzk",
+    "name": "КТК",
+    "iptv_urls": [
+      "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "APCyUHitJGQfWl",
     "name": "МТРК",
     "iptv_urls": [

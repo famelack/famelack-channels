@@ -180,7 +180,7 @@
     "name": "CHV Noticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dR5sy2ZVK3I"
+      "https://www.youtube-nocookie.com/embed/FsYKRfdTtrs"
     ],
     "language": "spa",
     "country": "cl",
@@ -325,6 +325,17 @@
       "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ubJBXevTlFFMsm",
+    "name": "Meganoticias",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nk4uycMQsPI"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false

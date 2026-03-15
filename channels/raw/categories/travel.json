@@ -77,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "iptv_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U0CRP1XJWZMip7",
     "name": "Discover Pakistan",
     "iptv_urls": [
@@ -136,6 +125,17 @@
     "name": "INTRAVEL",
     "iptv_urls": [
       "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Vl0QVZKyw8Jx7M",
+    "name": "INTRAVEL",
+    "iptv_urls": [
+      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

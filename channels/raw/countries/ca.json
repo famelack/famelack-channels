@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Cv8dtsVO4KhvRK",
     "name": "Cable 14 Hamilton",
     "iptv_urls": [
@@ -227,6 +238,17 @@
     "name": "Fight Network",
     "iptv_urls": [
       "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRBUacm9msNRQ8",
+    "name": "Fight Network",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -693,17 +715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xfRnghclKAVK1r",
     "name": "Stingray CMusic",
     "iptv_urls": [
@@ -719,6 +730,17 @@
     "name": "Stingray Easy Listening",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qLFxbuQRNnGX0",
+    "name": "Stingray Euro Hits",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -748,10 +770,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nnw8JyE6aivi3B",
-    "name": "Stingray Holiday Hits",
+    "nanoid": "bGBVYmklyH3Rjz",
+    "name": "Stingray Holidayscapes",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+      "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JEGxm42oQErOhy",
+    "name": "Stingray Jukebox Oldies",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -825,6 +858,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6EKJRD9db0wXXf",
+    "name": "Stingray Soft Hits",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sNGGurE66w6NWe",
     "name": "Stingray Soul Storm",
     "iptv_urls": [
@@ -880,11 +924,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W8lBjKciGjp1K5",
+    "name": "Stingray ZenLIFE",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SpUuCNyqk8k"
+      "https://www.youtube-nocookie.com/embed/e6NGDFhQYAU"
     ],
     "language": "eng",
     "country": "ca",
@@ -895,7 +950,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/azyJFpPEqqM"
+      "https://www.youtube-nocookie.com/embed/jLdVk_91MNQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -906,7 +961,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-wq7kM3bM-g"
+      "https://www.youtube-nocookie.com/embed/WdhDC7ZrTRo"
     ],
     "language": "eng",
     "country": "ca",

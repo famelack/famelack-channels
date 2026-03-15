@@ -66,22 +66,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7F6GpuknhmHoCf",
-    "name": "CWB TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VgK4rLcvQvwOo5",
     "name": "Dove",
     "iptv_urls": [
       "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
       "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KXpoKCIRUIeAgz",
+    "name": "Dove Channel",
+    "iptv_urls": [
+      "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -112,17 +112,6 @@
     "language": "spa",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "29x0D5l70jxbBR",
-    "name": "Green TV",
-    "iptv_urls": [
-      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "O7kNo7GEugTsdZ",

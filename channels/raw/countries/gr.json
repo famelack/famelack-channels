@@ -165,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5ZeYm0HuWlcYQ2",
-    "name": "Ionian Channel",
-    "iptv_urls": [
-      "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "slRsHngNcym3tq",
     "name": "Kontra Channel",
     "iptv_urls": [
@@ -191,18 +180,6 @@
     "name": "Lychnos TV",
     "iptv_urls": [
       "https://thor.mental-media.gr:19360/imp/imp.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nOgaKVJqtjFRdy",
-    "name": "Nea TV",
-    "iptv_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8",
-      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

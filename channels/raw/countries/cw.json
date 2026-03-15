@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "82MILM604jQBn0",
-    "name": "Bonce TV",
-    "iptv_urls": [
-      "https://seswa.bonce.tv/hls/bonceswa.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "cw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5yCz2cpTabs54O",
     "name": "TV Direct 13",
     "iptv_urls": [

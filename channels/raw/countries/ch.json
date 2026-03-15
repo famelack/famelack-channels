@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDuoxij0nldVBm",
-    "name": "Canal Alpha Neuchatel",
-    "iptv_urls": [
-      "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fjYriRacd46Tsw",
     "name": "Carac 1",
     "iptv_urls": [
@@ -48,7 +37,6 @@
     "nanoid": "uPhFpY546jefo6",
     "name": "Carac 3",
     "iptv_urls": [
-      "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8",
       "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8"
     ],
     "youtube_urls": [],

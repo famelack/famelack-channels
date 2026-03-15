@@ -147,17 +147,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K2pY7DHGd3QmlJ",
-    "name": "Libya Al Ahrar TV",
-    "iptv_urls": [
-      "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sCYZ4Box9Vsqsi",
     "name": "Qatar Television",
     "iptv_urls": [

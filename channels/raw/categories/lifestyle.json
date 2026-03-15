@@ -266,6 +266,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f4STSe9tgyRVf3",
+    "name": "Hobby Maker",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pIJy4qNygbTeDA",
     "name": "InFast",
     "iptv_urls": [

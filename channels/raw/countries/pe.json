@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XzRqOxUzNRtPhH",
-    "name": "ECO Television",
-    "iptv_urls": [
-      "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M8nsyNmz1k1pVX",
     "name": "Exitosa TV",
     "iptv_urls": [
@@ -500,6 +489,17 @@
     "name": "Vía Televisión (720P)",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dpLqGa5wjsNEE1",
+    "name": "Viva TV Yurimaguas",
+    "iptv_urls": [
+      "https://live.obslivestream.com/vivatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

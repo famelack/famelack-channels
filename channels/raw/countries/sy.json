@@ -4,7 +4,7 @@
     "name": "Alikhbaria Syria",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/h57b676emP8"
+      "https://www.youtube-nocookie.com/embed/5lxI4GiHlFg"
     ],
     "language": "ara",
     "country": "sy",
@@ -33,9 +33,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j8DVaCm6ri0nNo",
+    "nanoid": "Zb4yx0Hhhjqp7h",
     "name": "Halab Today TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/GhFyycy-AdM"
     ],

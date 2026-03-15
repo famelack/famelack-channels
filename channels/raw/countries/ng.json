@@ -1,55 +1,11 @@
 [
   {
-    "nanoid": "VpnuhazqcUGfL9",
-    "name": "ACNN",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D6dxjs1hy0YRqm",
-    "name": "Advocate Broadcasting Network",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gZ1nRlS0xe1gmU",
-    "name": "AMusic Channel",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MP4bBMx7wAtF5b",
     "name": "Arise News",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/E8PRZmDUiPw"
     ],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oMYsTXZabJichu",
-    "name": "BCS StarCross TV",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "ng",
     "isGeoBlocked": false
@@ -199,10 +155,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HUxeirBEJ9XVlF",
-    "name": "News Central",
+    "nanoid": "upoMW9Qmuknc8B",
+    "name": "New Vision TV",
     "iptv_urls": [
-      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -232,10 +188,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ieGP7N8F1NST0g",
-    "name": "Rave TV",
+    "nanoid": "eTR6HfJcfuibOg",
+    "name": "Sunna TV",
     "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8"
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -247,6 +203,17 @@
     "name": "Superscreen TV",
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BMyGZ4b2McxkBQ",
+    "name": "Synagogue TV",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -302,17 +269,6 @@
     "name": "Wazobia Max TV Nigeria",
     "iptv_urls": [
       "https://wazobia.live:8333/channel/wmax.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uu8JpSpXEkB3Wk",
-    "name": "Wazobia Max TV Port Harcourt",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxph.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

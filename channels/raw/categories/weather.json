@@ -73,6 +73,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rsgBN1CiczuZvL",
+    "name": "WeatherNation",
+    "iptv_urls": [
+      "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jJDH0xwjNSKT7T",
     "name": "WeatherSpy",
     "iptv_urls": [

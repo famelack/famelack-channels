@@ -292,17 +292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gZ1nRlS0xe1gmU",
-    "name": "AMusic Channel",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iDPxLdUClyuBG1",
     "name": "Anileap: アニリープ公式",
     "iptv_urls": [],
@@ -604,8 +593,8 @@
     "nanoid": "PQQXKouZscaQuL",
     "name": "California Music Channel",
     "iptv_urls": [
-      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
-      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
+      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+      "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -687,6 +676,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ynzFVHU7oaBdM1",
+    "name": "Cool FM 98.9",
+    "iptv_urls": [
+      "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "aw",
     "isGeoBlocked": false
   },
   {
@@ -1330,17 +1330,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
-    "iptv_urls": [
-      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jaYrHvf25vIhgD",
     "name": "Isai Aruvi",
     "iptv_urls": [
@@ -1404,17 +1393,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MIcJy2C1jnLtEJ",
-    "name": "KandelaTV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -1651,17 +1629,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J1ZxKC4hiVQsq4",
-    "name": "Latin Zone TV",
-    "iptv_urls": [
-      "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "iptv_urls": [
@@ -1670,17 +1637,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "iptv_urls": [
-      "https://lingkartv.my.id/hls/lingkartv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1955,17 +1911,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K7cX6Odsj2oB11",
-    "name": "Max Music",
-    "iptv_urls": [
-      "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4GP05gaKgeZLke",
     "name": "MBC America",
     "iptv_urls": [
@@ -2018,6 +1963,17 @@
     ],
     "language": "spa",
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n1NVXrRoMu2hbw",
+    "name": "Melody FM Jordan",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
     "isGeoBlocked": false
   },
   {
@@ -2117,6 +2073,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lMIWUh9FjBPLOx",
+    "name": "Molahits TV",
+    "iptv_urls": [
+      "https://ventdelnord.tv:8080/mola/directe.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -2881,6 +2848,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6ljoSjl6uAhfcj",
+    "name": "Radio Alegria 98.5 FM",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3880/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zXlX9cxqgTkhd2",
     "name": "Radio Bonita 106.7",
     "iptv_urls": [
@@ -3136,17 +3114,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e9kOBIAu1B0cCj",
-    "name": "Radio TV Sal One",
-    "iptv_urls": [
-      "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "cv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FfKKaHEk2MpmA6",
     "name": "Radio Weser TV Bremen",
     "iptv_urls": [
@@ -3370,6 +3337,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EEWgpub612Jk4L",
     "name": "Salto Brasa Music",
     "iptv_urls": [
@@ -3560,6 +3538,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8qLFxbuQRNnGX0",
+    "name": "Stingray Euro Hits",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2HLsVyNyjqsi0C",
     "name": "Stingray Greatest Hits",
     "iptv_urls": [
@@ -3593,10 +3582,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nnw8JyE6aivi3B",
-    "name": "Stingray Holiday Hits",
+    "nanoid": "JEGxm42oQErOhy",
+    "name": "Stingray Jukebox Oldies",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+      "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -3810,6 +3799,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bLrhTddKmX53C8",
+    "name": "Tarab",
+    "iptv_urls": [
+      "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
     "isGeoBlocked": false
   },
   {
@@ -4424,17 +4424,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K5EAZFvuWObb4f",
-    "name": "VIVA Russia",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lyisHWGyNS2hyW",
     "name": "VoiceOver Radio TV",
     "iptv_urls": [
@@ -4590,6 +4579,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UGOn3j007AWKXK",
+    "name": "ZB Music",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zbmusic/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lVcADaz4AhkZNS",
     "name": "ZFM Zoetermeer",
     "iptv_urls": [
@@ -4680,10 +4680,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FlqlJmUsw0JBUH",
+    "name": "Сити Эдем Play Христианский Музыкальный",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34100/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EphM4GTVAEHRzh",
     "name": "Сити Эдем Бирма Play",
     "iptv_urls": [
       "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZPZLZ7wnuOB2Js",
+    "name": "Сити Эдем Классическая Музыка",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d3MMbYDLvad49A",
+    "name": "Сити Эдем Сиртаки ТВ",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/46421/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

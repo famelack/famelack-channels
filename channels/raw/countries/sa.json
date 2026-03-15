@@ -316,6 +316,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bLrhTddKmX53C8",
+    "name": "Tarab",
+    "iptv_urls": [
+      "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gc9Dx83f1hgp7k",
     "name": "العربية إف إم Alarabiya FM",
     "iptv_urls": [],
