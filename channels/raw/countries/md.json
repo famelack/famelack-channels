@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sI0ew6lEh5sEPV",
+    "name": "TV-Nord",
+    "iptv_urls": [
+      "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hNw3JhkAal07LE",
     "name": "TVR Moldova HD",
     "iptv_urls": [

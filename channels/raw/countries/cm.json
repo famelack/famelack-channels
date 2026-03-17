@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vSeAetx7SHaifK",
+    "name": "CAM 10 TV",
+    "iptv_urls": [
+      "https://stream.it-innov.com/cam10tv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qknhY9336tud8v",
     "name": "CEN Télévision",
     "iptv_urls": [
@@ -26,6 +37,17 @@
     "name": "Laura Dave Media TV",
     "iptv_urls": [
       "https://streaming.lauradavemedia.com/ldm/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e5Cesrm1AEWOjC",
+    "name": "TR24",
+    "iptv_urls": [
+      "https://stream.it-innov.com/tr24/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

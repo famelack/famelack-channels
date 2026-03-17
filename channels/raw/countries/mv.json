@@ -20,38 +20,5 @@
     "language": "eng",
     "country": "mv",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tXjtUJ8mVtddPt",
-    "name": "NTV",
-    "iptv_urls": [
-      "https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "div",
-    "country": "mv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9v1BVXf5BOghp",
-    "name": "SSTV",
-    "iptv_urls": [
-      "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "div",
-    "country": "mv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wCtijxLtU3jISy",
-    "name": "VTV",
-    "iptv_urls": [
-      "https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "div",
-    "country": "mv",
-    "isGeoBlocked": false
   }
 ]

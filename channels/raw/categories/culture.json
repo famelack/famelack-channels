@@ -56,17 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -75,17 +64,6 @@
     "youtube_urls": [],
     "language": "ltz",
     "country": "lu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -213,17 +191,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kSRfs1BMa8Y0EH",
-    "name": "Channel S",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h25WUyBe4528fW",
     "name": "Channel S",
     "iptv_urls": [
@@ -232,6 +199,17 @@
     "youtube_urls": [],
     "language": "ben",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -712,17 +690,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XLkNES6kyKfJ4o",
-    "name": "Montreal Greek TV",
-    "iptv_urls": [
-      "https://live.greektv.ca/hls1/greektv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ij5TpDrKhgoPs",
     "name": "NHK World-Japan HD",
     "iptv_urls": [
@@ -852,17 +819,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "iptv_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mos",
-    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1051,17 +1007,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7UeLUueVRqvHR1",
-    "name": "UNISUL TV",
-    "iptv_urls": [
-      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {

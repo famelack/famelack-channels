@@ -231,17 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kjqtB3VJN5k"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ntF6dI5Mg2NTKt",
     "name": "Geekdot",
     "iptv_urls": [
@@ -269,7 +258,7 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/W8a4yXFozs0",
-      "https://www.youtube-nocookie.com/embed/ackE5a43btg"
+      "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
     ],
     "language": "ara",
     "country": "sa",
@@ -430,17 +419,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YQjVrcxLsl4KlI",
-    "name": "Pingvīns",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "lav",
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yzZp6BhMvaS7qt",
     "name": "PJ Masks Brasil",
     "iptv_urls": [],
@@ -493,6 +471,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0Nj__lUuYw8"
+    ],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

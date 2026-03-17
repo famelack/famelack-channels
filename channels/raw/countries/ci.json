@@ -34,17 +34,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cUUd6iJP5ivAhb",
     "name": "Business 24 Africa",
     "iptv_urls": [

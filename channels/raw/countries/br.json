@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "rtbi6hxyaPNSIn",
+    "name": "1001 Noites",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SM0FavCZG665bI",
     "name": "Adesso TV",
     "iptv_urls": [
@@ -77,6 +88,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gv1yxD6u5vITHV",
+    "name": "Boas Novas",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QvOtXswd30JTHP",
+    "name": "Canal 25 Jundiaí",
+    "iptv_urls": [
+      "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rC9liFbpQiV2AH",
     "name": "Canal 38",
     "iptv_urls": [
@@ -138,19 +171,8 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n6d1z-PpQkg"
+      "https://www.youtube-nocookie.com/embed/TetxvQNpleU"
     ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DNa7AQHZDPi0it",
-    "name": "COM Brasil",
-    "iptv_urls": [
-      "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -321,17 +343,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "iptv_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j2PNx5Xg25mTJj",
     "name": "KpopTV Play",
     "iptv_urls": [
@@ -339,17 +350,6 @@
     ],
     "youtube_urls": [],
     "language": "kor",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NxqeGIVjUY8tcI",
-    "name": "Loading",
-    "iptv_urls": [
-      "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -391,7 +391,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/a7ExyfZZR_I"
+      "https://www.youtube-nocookie.com/embed/Ur_2bydUmls"
     ],
     "language": "por",
     "country": "br",
@@ -435,7 +435,7 @@
     "name": "Record News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pZ7PnO8ykCQ"
+      "https://www.youtube-nocookie.com/embed/UNMNTE7FU8A"
     ],
     "language": "por",
     "country": "br",
@@ -479,7 +479,7 @@
     "name": "Rede Novo Tempo de Comunicação",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y_j8xQ2dCv8"
+      "https://www.youtube-nocookie.com/embed/bFcrCfMUdb4"
     ],
     "language": "por",
     "country": "br",
@@ -563,6 +563,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RSNMIqz61yHtc6",
+    "name": "SBT RS",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Tr_0zJ2wuSc"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wQwzJWldq22ymG",
     "name": "SIC TV",
     "iptv_urls": [
@@ -578,6 +589,17 @@
     "name": "STZ TV",
     "iptv_urls": [
       "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
+    "iptv_urls": [
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -668,7 +690,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hhKn-5oFiws"
+      "https://www.youtube-nocookie.com/embed/pbi1LL2pEWQ"
     ],
     "language": "por",
     "country": "br",
@@ -851,17 +873,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g42CLcwYVqsKev",
-    "name": "TV Guará",
-    "iptv_urls": [
-      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "iptv_urls": [],
@@ -943,19 +954,8 @@
     "name": "TV Notícia",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FZ8qP-EQN7Y"
+      "https://www.youtube-nocookie.com/embed/HCsHjLGZZOM"
     ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dcIkvJvyHx3mhL",
-    "name": "TV Padre Cicero",
-    "iptv_urls": [
-      "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -1038,6 +1038,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hwtT6piHOJApw7",
+    "name": "TV Sim Colatina",
+    "iptv_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ypesM2O8mm8qXW",
     "name": "TV Sim São Mateus",
     "iptv_urls": [
@@ -1060,17 +1071,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Apy4C6DTjAR2zf",
-    "name": "TV Tambaú",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2rN-4aAi1KA"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RR1JUgMyYIDOOG",
     "name": "TV Terceiro Anjo",
     "iptv_urls": [
@@ -1086,7 +1086,7 @@
     "name": "TV Thathi SBT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kuC_Q8_lWG0"
+      "https://www.youtube-nocookie.com/embed/mcW7p-lSOiA"
     ],
     "language": "por",
     "country": "br",
@@ -1097,17 +1097,6 @@
     "name": "TV Universal",
     "iptv_urls": [
       "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cq3PWw1jPUEwbQ",
-    "name": "TV Zoom",
-    "iptv_urls": [
-      "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1185,17 +1174,6 @@
     "name": "TVNBN",
     "iptv_urls": [
       "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7UeLUueVRqvHR1",
-    "name": "UNISUL TV",
-    "iptv_urls": [
-      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
     ],
     "youtube_urls": [],
     "language": "por",

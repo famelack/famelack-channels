@@ -46,17 +46,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mDkV0A2XCu8rjT",
-    "name": "Medi1TV Afrique",
-    "iptv_urls": [
-      "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ma",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QP7DyV43LNSLl9",
     "name": "StoryChannel TV",
     "iptv_urls": [

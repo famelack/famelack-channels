@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XUS0HMZ6C3y9v9",
-    "name": "Redemption TV Ministry",
-    "iptv_urls": [
-      "https://live.nixsat.com/play/rtm/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YQ48DJSkmj6ZBT",
     "name": "ROV TV",
     "iptv_urls": [

@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RbybGfd6WxqoEp",
-    "name": "NETALKOLE TV",
-    "iptv_urls": [
-      "https://watch.haitilive.net/naktvhd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j6PYx6KL1bwCxI",
     "name": "Radio Télé 4VEH",
     "iptv_urls": [
@@ -81,17 +70,6 @@
     "name": "Tele Louange",
     "iptv_urls": [
       "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3VL8jO9bsS3y1v",
-    "name": "Tele Variete",
-    "iptv_urls": [
-      "https://acwstream.com/hb/chaine30/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

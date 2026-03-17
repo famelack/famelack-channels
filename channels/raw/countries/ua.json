@@ -132,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
+    "iptv_urls": [
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TSbUr1OhqLkxuT",
     "name": "TVA",
     "iptv_urls": [

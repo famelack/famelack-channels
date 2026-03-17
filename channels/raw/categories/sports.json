@@ -292,17 +292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9Ji1RIoUGeL46E",
     "name": "FITE 24/7",
     "iptv_urls": [
@@ -523,17 +512,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BIe1OnuqGUuA60",
     "name": "MLB Channel",
     "iptv_urls": [
@@ -565,17 +543,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "iptv_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -838,17 +805,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vfExfpKOcJ4kwS",
-    "name": "RTA Sport",
-    "iptv_urls": [
-      "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pus",
-    "country": "af",
     "isGeoBlocked": false
   },
   {

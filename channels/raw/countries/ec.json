@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XNa5AM5I0Mvv8Q",
-    "name": "Capricho TV",
-    "iptv_urls": [
-      "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "iptv_urls": [
@@ -323,17 +312,6 @@
     "name": "Multicanal Catamayo",
     "iptv_urls": [
       "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CR0jUhLqfPaEmf",
-    "name": "Nortvisión",
-    "iptv_urls": [
-      "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

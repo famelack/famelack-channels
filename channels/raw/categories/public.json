@@ -49,7 +49,9 @@
     "iptv_urls": [
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nu775nv_Ppc"
+    ],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false

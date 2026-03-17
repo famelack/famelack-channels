@@ -22,10 +22,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L2ckl8qUgIXBH9",
-    "name": "Anzoátegui TV",
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
     "iptv_urls": [
-      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -33,10 +33,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
     "iptv_urls": [
-      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -176,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1b6pwDCZHXANgu",
     "name": "PortuTV",
     "iptv_urls": [
@@ -265,43 +254,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fs7LDp8LH9En3R",
-    "name": "Telesur",
+    "nanoid": "1M4Le4GYVDf5Ni",
+    "name": "Televisora de Oriente",
     "iptv_urls": [
-      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZmbVMIEhvhggWw",
-    "name": "Telesur English",
-    "iptv_urls": [
-      "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "32vQTd80BxWBEA",
-    "name": "Telesur English HD",
-    "iptv_urls": [
-      "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "up9eDl0uKurexY",
-    "name": "Telesur HD",
-    "iptv_urls": [
-      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -331,17 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "iptv_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b3aSHeBRmQKpi4",
     "name": "TV Oasis Monay",
     "iptv_urls": [
@@ -357,17 +302,6 @@
     "name": "TVM para ti",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "plr8p8zjDPs7Ks",
-    "name": "TVS",
-    "iptv_urls": [
-      "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -401,17 +335,6 @@
     "name": "Vale TV",
     "iptv_urls": [
       "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f9ItkUw0AHFXqZ",
-    "name": "Venevision",
-    "iptv_urls": [
-      "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -160,7 +160,7 @@
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hyX0iu27vk4"
+      "https://www.youtube-nocookie.com/embed/RPsInDL1-b0"
     ],
     "language": "rus",
     "country": "ru",
@@ -268,6 +268,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "iptv_urls": [
+      "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -482,28 +493,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
-    "iptv_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qEiTrcvSLIUuPW",
     "name": "Евразия (Орск)",
     "iptv_urls": [
@@ -646,6 +635,17 @@
     "name": "КРИК-ТВ (Екатеринбург)",
     "iptv_urls": [
       "https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cYDuHiobRRgBu3",
+    "name": "Крым 24",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -870,17 +870,6 @@
     "name": "Новгородское областное телевидение",
     "iptv_urls": [
       "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D1kxUcXu5YSsG7",
-    "name": "Новый Век",
-    "iptv_urls": [
-      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1331,6 +1320,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LN1hGmRGEKcWz7",
     "name": "Сити Эдем КиноКомедия",
     "iptv_urls": [
@@ -1512,6 +1512,17 @@
     "name": "Сургут 24",
     "iptv_urls": [
       "https://sitv.ru/vgtrk/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3UeglowU3FQpl",
+    "name": "Таврия",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

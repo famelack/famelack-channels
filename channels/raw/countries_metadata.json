@@ -117,7 +117,7 @@
     "country": "Burkina Faso",
     "capital": "Ouagadougou",
     "timeZone": "Africa/Ouagadougou",
-    "hasChannels": true
+    "hasChannels": false
   },
   "BG": {
     "country": "Bulgaria",
@@ -825,7 +825,7 @@
     "country": "Mali",
     "capital": "Bamako",
     "timeZone": "Africa/Bamako",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MM": {
     "country": "Myanmar",
@@ -1461,6 +1461,6 @@
     "country": "Zimbabwe",
     "capital": "Harare",
     "timeZone": "Africa/Harare",
-    "hasChannels": true
+    "hasChannels": false
   }
 }

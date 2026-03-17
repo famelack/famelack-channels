@@ -147,7 +147,7 @@
     "name": "Shout! Studios: Elvira's Movie Macabre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4Eu2x6n3cRk"
+      "https://www.youtube-nocookie.com/embed/Qgt-Niv_Zr0"
     ],
     "language": "eng",
     "country": "us",
@@ -159,6 +159,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OFPuDVZq-5E"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7DpQICMHFWq9zR",
+    "name": "Shout! Studios: Pee-wee's Playhouse",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/u_CgfDU03c8"
     ],
     "language": "eng",
     "country": "us",
@@ -393,6 +404,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3FzbK83VWEyWF",
+    "name": "ZillarBarta News",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zillarbarta/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
     "isGeoBlocked": false
   }
 ]

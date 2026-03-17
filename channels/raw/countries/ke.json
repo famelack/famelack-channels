@@ -15,9 +15,20 @@
     "name": "KTN News Kenya",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qmZr0QE8ljQ"
+      "https://www.youtube-nocookie.com/embed/Z4ibbJpRYJM"
     ],
     "language": "swa",
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y7vYe1yqK0sxRF",
+    "name": "MERU TV",
+    "iptv_urls": [
+      "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ke",
     "isGeoBlocked": false
   },

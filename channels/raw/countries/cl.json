@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9jkb1tHOSl1q2X",
-    "name": "Aysen TV",
-    "iptv_urls": [
-      "https://v1.tustreaming.cl/aysentv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ObtiKhy4c7FM1e",
     "name": "Campus TV (Talca)",
     "iptv_urls": [
@@ -180,8 +169,19 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UjenHsWCBJc"
+      "https://www.youtube-nocookie.com/embed/pYmDHvv8v1A"
     ],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -345,7 +345,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k8wdEsjSDho"
+      "https://www.youtube-nocookie.com/embed/tU56h4KK1tU"
     ],
     "language": "spa",
     "country": "cl",
@@ -442,6 +442,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EWWfUf457LGzph",
+    "name": "Retro Plus 2",
+    "iptv_urls": [
+      "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jjgl7AaKfJq0wX",
     "name": "Santa María Televisión",
     "iptv_urls": [
@@ -456,7 +467,8 @@
     "nanoid": "0C2d9cgVcqnI9d",
     "name": "SoloBáilalo",
     "iptv_urls": [
-      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

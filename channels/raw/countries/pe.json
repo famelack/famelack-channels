@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2OfelL9lkYifhd",
     "name": "Auténtica Televisión",
     "iptv_urls": [
@@ -48,6 +37,17 @@
     "name": "BHTV",
     "iptv_urls": [
       "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NcbX3D5e7HA0Yx",
+    "name": "Cadena TV",
+    "iptv_urls": [
+      "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -136,6 +136,17 @@
     "name": "Impacto Televisión",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8VadQ9bvVXyzrj",
+    "name": "Intuitiva TV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/cableperu/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -264,6 +275,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WPq32gb81NkkvQ",
+    "name": "RN Televisión",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3xHIJhktLp5hmp",
     "name": "RPP TV",
     "iptv_urls": [
@@ -280,6 +302,17 @@
     "name": "RSelvaTV",
     "iptv_urls": [
       "https://live.obslivestream.com/selvatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wbr6x2NZ3c23qF",
+    "name": "Señal Perú TV",
+    "iptv_urls": [
+      "https://livestream.perucast.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -456,17 +489,6 @@
     "name": "Viva TV Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

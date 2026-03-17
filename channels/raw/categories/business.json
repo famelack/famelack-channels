@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNpror6ZnqPuws",
-    "name": "Aleph Business",
-    "iptv_urls": [
-      "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sPGmyALtlBkjD3",
     "name": "Ameritrade",
     "iptv_urls": [
@@ -254,8 +243,7 @@
     "nanoid": "G00HUpBKHxckzh",
     "name": "CNBC Asia",
     "iptv_urls": [
-      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
-      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -381,17 +369,6 @@
     ],
     "language": "kor",
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "iptv_urls": [
-      "https://jobtvserver.eu/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
     "isGeoBlocked": false
   },
   {

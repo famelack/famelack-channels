@@ -275,17 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "iptv_urls": [
@@ -410,7 +399,6 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "iptv_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -467,17 +455,6 @@
     "name": "Italia 2",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -569,6 +546,17 @@
     "name": "LaC News 24",
     "iptv_urls": [
       "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -818,17 +806,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o9AwmvAAtGm4TV",
-    "name": "Quarto Canale Flegreo",
-    "iptv_urls": [
-      "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7tvuZiNywlLUlY",
     "name": "QVC Italia",
     "iptv_urls": [
@@ -880,17 +857,6 @@
     "name": "Radio Ibiza TV",
     "iptv_urls": [
       "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1vFqQwnHb55YkM",
-    "name": "Radio Iglesias Sardegna",
-    "iptv_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1091,6 +1057,17 @@
     "name": "Reteveneta",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yr5JBg5lH2xLw3",
+    "name": "RTC Telecalabria",
+    "iptv_urls": [
+      "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1302,6 +1279,17 @@
     "name": "SuperSix Lombardia",
     "iptv_urls": [
       "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jHr3gQHmtG7nGu",
+    "name": "T9",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1536,17 +1524,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fPi31GojXVdhWd",
-    "name": "TeleRegione 118",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "it",
     "isGeoBlocked": false
   },

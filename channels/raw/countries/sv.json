@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YYSyi5o00uvneu",
+    "name": "Canal 3 Impresionante",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vNCLFtuOMVJo2z",
     "name": "Canal 10",
     "iptv_urls": [
@@ -191,6 +202,17 @@
     "name": "TV León de Judá",
     "iptv_urls": [
       "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b1EAokD2bBiJTE",
+    "name": "TVCa Televisión Católica Arquidiocesana",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

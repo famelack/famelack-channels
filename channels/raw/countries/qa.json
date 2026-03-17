@@ -103,17 +103,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HHV5a8cn94GYcS",
-    "name": "Al Maaref TV",
-    "iptv_urls": [
-      "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3oEkfbMs80CkkJ",
     "name": "Al Rayyan",
     "iptv_urls": [

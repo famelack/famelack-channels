@@ -200,6 +200,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wKjb76m31kcro9",
+    "name": "Food Food",
+    "iptv_urls": [
+      "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WNz7K4EFtMb3cU",
     "name": "Friends of Felines Rescue Center",
     "iptv_urls": [],
@@ -280,7 +291,8 @@
     "nanoid": "NTGny7tSfvhncO",
     "name": "Jamie Oliver",
     "iptv_urls": [
-      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8"
+      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
+      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -396,6 +408,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ozrwv5yOFSMLm3",
+    "name": "QTV-2",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {

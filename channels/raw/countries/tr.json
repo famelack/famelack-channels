@@ -599,7 +599,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BHg7y453iTo"
+      "https://www.youtube-nocookie.com/embed/MrL6Gydzo5o"
     ],
     "language": "tur",
     "country": "tr",
@@ -1408,6 +1408,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AHjSt53Rfzi0a8",
+    "name": "TVNET",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0GVtv6xQGZE"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gyPeJZZGGZ1NXS",
     "name": "Ulusal Kanal",
     "iptv_urls": [],
@@ -1469,7 +1480,7 @@
     "name": "WildBrain Çocuklar: Twirlywoos",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/goVmLeg1hr4"
+      "https://www.youtube-nocookie.com/embed/VZOblUFz5fc"
     ],
     "language": "tur",
     "country": "tr",

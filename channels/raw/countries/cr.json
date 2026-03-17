@@ -22,10 +22,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H8TtlIKgrW2bwo",
-    "name": "Antena Seis TV",
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
     "iptv_urls": [
-      "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -37,6 +38,28 @@
     "name": "Canal 1",
     "iptv_urls": [
       "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lhFBUBQYMx1tnO",
+    "name": "Canal 10",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -58,7 +81,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -268,6 +291,17 @@
     "name": "TDtv",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

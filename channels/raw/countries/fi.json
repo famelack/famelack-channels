@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WJxJB7lKSKz27v",
+    "name": "Rakuten TV Romance Movies Finland",
+    "iptv_urls": [
+      "https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EDWW7TL07yMVj8",
     "name": "STAR Channel (Finland)",
     "iptv_urls": [

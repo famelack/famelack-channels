@@ -245,28 +245,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kjqtB3VJN5k"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "iptv_urls": [
@@ -308,17 +286,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pb2kJOQ71503Nc",
-    "name": "Hamdard TV",
-    "iptv_urls": [
-      "https://tv.hamdardtv.com/hamdard/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -445,17 +412,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o3TJTeJqxvVtfC",
-    "name": "Legislative Assembly of British Columbia",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
@@ -560,13 +516,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XLkNES6kyKfJ4o",
-    "name": "Montreal Greek TV",
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
     "iptv_urls": [
-      "https://live.greektv.ca/hls1/greektv.m3u8"
+      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ell",
+    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -928,7 +884,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e6NGDFhQYAU"
+      "https://www.youtube-nocookie.com/embed/xraO_x-XKR8"
     ],
     "language": "eng",
     "country": "ca",
@@ -939,7 +895,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jLdVk_91MNQ"
+      "https://www.youtube-nocookie.com/embed/pYiY_sPPnW8"
     ],
     "language": "eng",
     "country": "ca",
@@ -950,7 +906,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WdhDC7ZrTRo"
+      "https://www.youtube-nocookie.com/embed/LkOEo__5F2M"
     ],
     "language": "eng",
     "country": "ca",

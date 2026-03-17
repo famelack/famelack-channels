@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "YQjVrcxLsl4KlI",
-    "name": "Pingvīns",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "lav",
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LHzrqD9sr7EPlw",
     "name": "Radio SWH TV",
     "iptv_urls": [
@@ -39,19 +28,6 @@
       "https://air.star.lv/TV_Jurmala_multistream/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "lav",
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sgMHs1obQ8lL7A",
-    "name": "TVNET",
-    "iptv_urls": [
-      "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0GVtv6xQGZE"
-    ],
     "language": "lav",
     "country": "lv",
     "isGeoBlocked": false

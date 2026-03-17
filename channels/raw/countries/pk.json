@@ -210,6 +210,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nWhRA7BRbeT6Pd",
+    "name": "God Stands TV",
+    "iptv_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TmKO7eJbzWWIRg",
     "name": "God Stands TV Arabic",
     "iptv_urls": [
@@ -276,6 +287,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5jBZcISN5C325C",
+    "name": "God Stands TV Urdu",
+    "iptv_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y7f5txzCbtS5vm",
     "name": "Grace Network",
     "iptv_urls": [
@@ -338,6 +360,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_4gEJEWeWfA"
+    ],
+    "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
   },

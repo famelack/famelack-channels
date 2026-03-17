@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "WMJjDsAiyYAdS8",
+    "name": "ATN Televisión",
+    "iptv_urls": [
+      "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
     "iptv_urls": [
@@ -282,11 +293,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
+    "nanoid": "Ip9MDCdkimyNqv",
+    "name": "Luna Estéreo 106.4 FM",
     "iptv_urls": [
-      "https://movil.ejeserver.com/live/masmusica.m3u8",
-      "https://video.ejeserver.com/live/masmusica.m3u8"
+      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -459,6 +469,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -504,17 +525,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z2Kgz7MRBRZ3FM",
-    "name": "Telepacífico",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BTUtiIKXJH39q3",
     "name": "TeveColombia",
     "iptv_urls": [
@@ -530,17 +540,6 @@
     "name": "Tu Universo TV",
     "iptv_urls": [
       "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VcAQv2UIywMiiL",
-    "name": "TV San Jorge",
-    "iptv_urls": [
-      "https://asucap.com/livestream/asucap_envivo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

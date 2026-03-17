@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ODGy5xci7GyHGP",
-    "name": "Television Caribbean",
-    "iptv_urls": [
-      "https://live.kingdom-tv.com:3545/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "kn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uotwBii647jkV2",
     "name": "ZIZ TV",
     "iptv_urls": [

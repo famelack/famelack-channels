@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "MC0Hkz9sP3iFPv",
-    "name": "Almaya TV",
-    "iptv_urls": [
-      "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JAreuKNijuO7ug",
     "name": "Bruno Masi TV",
     "iptv_urls": [
@@ -22,32 +11,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "25sR85AzUm40hS",
-    "name": "Canal 5 TV Max",
-    "iptv_urls": [
-      "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iwb8ig6ItKcHS0",
     "name": "Cáritas TV",
     "iptv_urls": [
       "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BZ9ohjnwvpwyuR",
-    "name": "Cosmos TV",
-    "iptv_urls": [
-      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -92,6 +59,17 @@
     "name": "MiTV",
     "iptv_urls": [
       "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mKiiX9v0iS1lOZ",
+    "name": "Next HD",
+    "iptv_urls": [
+      "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

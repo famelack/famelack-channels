@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rtbi6hxyaPNSIn",
+    "name": "1001 Noites",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ugGAivxJyE8GHx",
     "name": "AAC Television",
     "iptv_urls": [],
@@ -81,7 +92,7 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zu3cL3MQWzk"
+      "https://www.youtube-nocookie.com/embed/ojysMy9sJiE"
     ],
     "language": "eng",
     "country": "us",
@@ -507,6 +518,28 @@
     ],
     "language": "zho",
     "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "iptv_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fjuljf7xVUPuM",
+    "name": "NS Shop Plus",
+    "iptv_urls": [
+      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
     "isGeoBlocked": false
   },
   {

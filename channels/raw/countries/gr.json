@@ -125,7 +125,7 @@
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FtxQQFlgye4"
+      "https://www.youtube-nocookie.com/embed/jCO0d9ruFmg"
     ],
     "language": "ell",
     "country": "gr",
@@ -191,6 +191,18 @@
     "name": "Lychnos TV",
     "iptv_urls": [
       "https://thor.mental-media.gr:19360/imp/imp.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nOgaKVJqtjFRdy",
+    "name": "Nea TV",
+    "iptv_urls": [
+      "https://live.neatv.gr:8888/hls/neatv.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -313,6 +325,17 @@
     "name": "Telekriti",
     "iptv_urls": [
       "https://neon.streams.gr:8081/telekriti/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "iptv_urls": [
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

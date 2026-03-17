@@ -1,10 +1,21 @@
 [
   {
+    "nanoid": "tz14elcyNSIFkg",
+    "name": "Alvin Channel TV",
+    "iptv_urls": [
+      "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "aze",
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MCEE1okRjYPAEv",
     "name": "Baku TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fuL9hCXSzUs"
+      "https://www.youtube-nocookie.com/embed/0SAza7wJg78"
     ],
     "language": "aze",
     "country": "az",

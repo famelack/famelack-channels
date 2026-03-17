@@ -710,17 +710,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LbTx61exNziTLe",
-    "name": "Miracle TV",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "iptv_urls": [
@@ -1172,17 +1161,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rhklVhkHgNj5wZ",
-    "name": "Sony Max",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
     "country": "uk",
     "isGeoBlocked": false
   },

@@ -31,16 +31,5 @@
     "language": "",
     "country": "bj",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f5NDk3OJutdPza",
-    "name": "TVC Bénin",
-    "iptv_urls": [
-      "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bj",
-    "isGeoBlocked": false
   }
 ]

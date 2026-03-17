@@ -80,8 +80,7 @@
     "nanoid": "G00HUpBKHxckzh",
     "name": "CNBC Asia",
     "iptv_urls": [
-      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
-      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

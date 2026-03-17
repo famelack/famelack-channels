@@ -136,17 +136,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O7kNo7GEugTsdZ",
-    "name": "Mixkurdy",
-    "iptv_urls": [
-      "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ouwOLF0m6zpspD",
     "name": "Positiv",
     "iptv_urls": [

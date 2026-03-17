@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bvlSaREPWvRbiw",
+    "name": "7 TeleValencia",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
@@ -61,7 +72,9 @@
     "iptv_urls": [
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nu775nv_Ppc"
+    ],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -732,6 +745,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HwhpJMBxrNJdLl",
+    "name": "Guada TV",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -875,6 +899,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mLqk6X9SKEkaE7",
+    "name": "Maestrat TV",
+    "iptv_urls": [
+      "https://stream.maestrat.tv/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LAxDhZqtmdM26R",
     "name": "Mijas 3.40TV",
     "iptv_urls": [
@@ -989,17 +1024,6 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1337,6 +1361,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d9geI4ATc8cBPs",
+    "name": "Rakuten TV Nordic Films",
+    "iptv_urls": [
+      "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "azCmZT5s8W62Ny",
     "name": "Rakuten TV Romance Movies Spain",
     "iptv_urls": [
@@ -1370,6 +1405,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EXiybwWxfkY3Zj",
+    "name": "Rakuten TV Top Movies Finland",
+    "iptv_urls": [
+      "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "d85uJsQx5ZxBLM",
     "name": "Rakuten TV Top Movies Germany",
     "iptv_urls": [
@@ -1388,6 +1434,17 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dGOfxttCQdrVvT",
+    "name": "Rakuten TV Top Movies Spain",
+    "iptv_urls": [
+      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1447,6 +1504,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GITlIKa8D8B8BX",
+    "name": "RTV Marbella",
+    "iptv_urls": [
+      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "69wABBZ5acLQs0",
     "name": "RTV Vida",
     "iptv_urls": [
@@ -1462,7 +1530,7 @@
     "name": "RTVE Noticias 24H",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uk56zwlxVZA"
+      "https://www.youtube-nocookie.com/embed/b4tE5aKhtlg"
     ],
     "language": "spa",
     "country": "es",
@@ -1484,17 +1552,6 @@
     "name": "Solidaria TV",
     "iptv_urls": [
       "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TAur6WI03rCzWr",
-    "name": "SpektraTV",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1568,10 +1625,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1nQKxr4bzoAoiY",
+    "name": "Telemotril",
+    "iptv_urls": [
+      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRegMZSkKkDbP5",
     "name": "TeleVigo",
     "iptv_urls": [
       "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MYmpRnITzqWFJm",
+    "name": "Televisión Aranda",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1608,17 +1687,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1731,6 +1799,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6lhNwfN4k1Lr3T",
+    "name": "Urola Telebista",
+    "iptv_urls": [
+      "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },

@@ -1,42 +1,9 @@
 [
   {
-    "nanoid": "7ynlCad0Y1lkdJ",
-    "name": "Ananda TV",
+    "nanoid": "GPyu3zvadmUURC",
+    "name": "ATN Music",
     "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dE1fjQ342O2mTD",
-    "name": "Asian TV",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IQG6iimHXPlqaN",
-    "name": "Bangla TV",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3KlMVN2PfaaTAH",
-    "name": "Bijoy TV",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8"
+      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ben",
@@ -66,44 +33,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AQg6hhEsD5I2hO",
-    "name": "Channel I",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kSRfs1BMa8Y0EH",
-    "name": "Channel S",
-    "iptv_urls": [
-      "https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wPKzw9xyYinfk2",
     "name": "DBC NEWS",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/RZphrATTkz8"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w8Bp8ozrn2e1YZ",
-    "name": "Desh TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sB6A6u6apGM"
     ],
     "language": "ben",
     "country": "bd",
@@ -132,24 +66,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mp7J62VtY0DqAW",
-    "name": "Independent Television",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4A2f1Nev1LQ"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PO6iQaxkIAJ3jh",
     "name": "Jamuna TV",
     "iptv_urls": [
       "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QQe1aIMtqRs"
+      "https://www.youtube-nocookie.com/embed/mrvC71ftk3k"
     ],
     "language": "ben",
     "country": "bd",

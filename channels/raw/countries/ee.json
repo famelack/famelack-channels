@@ -121,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FP0DHXJTw0LYfi",
+    "name": "Riigikogu",
+    "iptv_urls": [
+      "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "est",
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r2gF8oZvggcaZG",
     "name": "Vantage Dance",
     "iptv_urls": [

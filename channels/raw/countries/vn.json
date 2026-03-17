@@ -23,17 +23,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bmVfcr31sW64zk",
-    "name": "Cần Thơ TV2",
-    "iptv_urls": [
-      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S9KVQ5ABQqb8sk",
     "name": "Cần Thơ TV3",
     "iptv_urls": [
@@ -71,7 +60,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eUrwFsUBALs"
+      "https://www.youtube-nocookie.com/embed/9SgF8KcXmFk"
     ],
     "language": "vie",
     "country": "vn",
@@ -227,7 +216,7 @@
     "name": "Lính Trận Miền Xa - Nhạc Lính Hải Ngoại",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P2VZV8CVX6o"
+      "https://www.youtube-nocookie.com/embed/TU1lt5j_UxA"
     ],
     "language": "vie",
     "country": "vn",
@@ -241,17 +230,6 @@
       "https://qpvn.vn/live/qpvn/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8vEUzLSiPnJXOB",
-    "name": "Quang Lập Official - Song Ca Nhạc Vàng Hay Nhất",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9zRVHx4fglE"
-    ],
     "language": "vie",
     "country": "vn",
     "isGeoBlocked": false
@@ -294,6 +272,17 @@
     "name": "SCTV6",
     "iptv_urls": [
       "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iRf7kly7xqubVy",
+    "name": "Tây Ninh TV",
+    "iptv_urls": [
+      "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -393,6 +382,17 @@
     "name": "VTV5 Tây Nguyên HD",
     "iptv_urls": [
       "https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PELW8NWV0rEPfd",
+    "name": "VTV7 HD",
+    "iptv_urls": [
+      "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

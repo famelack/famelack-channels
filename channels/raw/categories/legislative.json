@@ -299,17 +299,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "iptv_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
     "iptv_urls": [
@@ -575,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o3TJTeJqxvVtfC",
-    "name": "Legislative Assembly of British Columbia",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
@@ -683,6 +661,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c9GCwVR0qdOyVK",
+    "name": "MBG TV",
+    "iptv_urls": [
+      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -816,17 +805,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1103,7 +1081,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hhKn-5oFiws"
+      "https://www.youtube-nocookie.com/embed/pbi1LL2pEWQ"
     ],
     "language": "por",
     "country": "br",
@@ -1338,17 +1316,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]
