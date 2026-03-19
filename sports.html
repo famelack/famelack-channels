@@ -222,10 +222,12 @@
       margin: 0;
       font-size: 0.76rem;
       color: #fecaca;
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 8px;
       grid-column: 1 / -1;
+      width: fit-content;
+      flex-wrap: wrap;
     }
 
     .sports-note::before {
@@ -236,6 +238,37 @@
       background: #ef4444;
       box-shadow: 0 0 0 4px rgba(239,68,68,0.2);
       flex: 0 0 auto;
+    }
+
+    .adguard-link {
+      color: #86efac;
+      text-decoration: none;
+      font-weight: 700;
+      text-shadow:
+        0 0 4px rgba(134,239,172,0.8),
+        0 0 10px rgba(34,197,94,0.75),
+        0 0 18px rgba(34,197,94,0.6);
+      animation: adguard-glow 1.8s ease-in-out infinite alternate;
+    }
+
+    .adguard-link:hover {
+      color: #bbf7d0;
+      text-decoration: underline;
+    }
+
+    @keyframes adguard-glow {
+      from {
+        text-shadow:
+          0 0 3px rgba(134,239,172,0.7),
+          0 0 8px rgba(34,197,94,0.65),
+          0 0 12px rgba(34,197,94,0.45);
+      }
+      to {
+        text-shadow:
+          0 0 6px rgba(134,239,172,0.95),
+          0 0 14px rgba(34,197,94,0.9),
+          0 0 24px rgba(34,197,94,0.75);
+      }
     }
 
     .status-text {
@@ -252,7 +285,9 @@
 
     .watch-surface {
       min-height: 0;
-      height: 100%;
+      width: min(100%, 1060px);
+      height: 465px;
+      margin: 0 auto;
       border: 1px solid var(--border);
       border-radius: 12px;
       overflow: hidden;
@@ -315,6 +350,11 @@
         height: auto;
         aspect-ratio: 1820 / 1090;
       }
+      .watch-surface {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1060 / 465;
+      }
       .player-meta {
         grid-template-columns: 1fr;
         gap: 5px;
@@ -355,7 +395,10 @@
               <h2 class="channel-title" id="metaTitle">Loading channel...</h2>
               <a class="channel-url" id="channelUrl" href="#"></a>
               <p class="status-text" id="statusText"></p>
-              <p class="sports-note">Streams load directly from the provider to improve verification compatibility.</p>
+              <p class="sports-note">
+                Seeing popups, try installing
+                <a class="adguard-link" href="https://adguard.com/de/adguard-browser-extension/overview.html" target="_blank" rel="noreferrer noopener">AdGuard</a>.
+              </p>
               <button class="action-btn" id="reloadPlayer" type="button">Reload Channel</button>
             </div>
           </div>
@@ -369,6 +412,7 @@
       { name: "DAZN 2 Germany", url: "https://viewembed.ru/channel/DAZN2Deutschland%5BGermany%5D" },
       { name: "Player 1 (Many Channel)", url: "https://viewembed.ru/event/sporting_bodoe-glimt_1773769500" },
       { name: "Player 2", url: "https://viewembed.ru/event/fc-barcelona_newcastle_1773855900" },
+      { name: "Player 3", url: "https://viewembed.ru/event/midtjylland_nottingham_1773942300" },
       { name: "TNT Sports 1", url: "https://viewembed.ru/channel/TNTSports1%5BUK%5D" },
       { name: "TNT Sports 2", url: "https://viewembed.ru/channel/TNTSports2%5BUK%5D" },
       { name: "TNT Sports 3", url: "https://viewembed.ru/channel/TNTSports3%5BUK%5D" },
